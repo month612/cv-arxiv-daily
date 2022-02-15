@@ -95,9 +95,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     data = {topic:content}
     data_web = {topic:content_to_web}
+    print("get_daily_papers end")
     return data,data_web 
 
 def update_json_file(filename,data_all):
+    print("update_json_file start")
     with open(filename,"r") as f:
         print("open filename")
         content = f.read()
@@ -120,6 +122,7 @@ def update_json_file(filename,data_all):
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
+    print("update_json_file end")
     
 def json_to_md(filename,md_filename,to_web = False, use_title = True):
     """
