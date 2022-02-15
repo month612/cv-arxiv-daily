@@ -99,3 +99,29 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
+## Deep Learning
+
+- 2022-02-14, **Accelerating the Inference of the Exa.TrkX Pipeline**, Alina Lazar et.al., Paper: [http://arxiv.org/abs/2202.06929v1](http://arxiv.org/abs/2202.06929v1)
+- 2022-02-14, **Do Gradient Inversion Attacks Make Federated Learning Unsafe?**, Ali Hatamizadeh et.al., Paper: [http://arxiv.org/abs/2202.06924v1](http://arxiv.org/abs/2202.06924v1)
+- 2022-02-14, **Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation**, Jannik Kossen et.al., Paper: [http://arxiv.org/abs/2202.06881v1](http://arxiv.org/abs/2202.06881v1), Code: **[https://github.com/jlko/active-surrogate-estimators](https://github.com/jlko/active-surrogate-estimators)**
+- 2022-02-14, **A Graphical Approach For Brain Haemorrhage Segmentation**, Dr. Ninad Mehendale et.al., Paper: [http://arxiv.org/abs/2202.06876v1](http://arxiv.org/abs/2202.06876v1)
+- 2022-02-14, **Physics-Informed Deep Monte Carlo Quantile Regression method for Interval Multilevel Bayesian Network-based Satellite Heat Reliability Analysis**, Xiaohu Zheng et.al., Paper: [http://arxiv.org/abs/2202.06860v1](http://arxiv.org/abs/2202.06860v1)
+- 2022-02-14, **Domain-Adjusted Regression or: ERM May Already Learn Features Sufficient for Out-of-Distribution Generalization**, Elan Rosenfeld et.al., Paper: [http://arxiv.org/abs/2202.06856v1](http://arxiv.org/abs/2202.06856v1)
+- 2022-02-14, **HyLa: Hyperbolic Laplacian Features For Graph Learning**, Tao Yu et.al., Paper: [http://arxiv.org/abs/2202.06854v1](http://arxiv.org/abs/2202.06854v1)
+- 2022-02-14, **HAKE: A Knowledge Engine Foundation for Human Activity Understanding**, Yong-Lu Li et.al., Paper: [http://arxiv.org/abs/2202.06851v1](http://arxiv.org/abs/2202.06851v1)
+- 2022-02-14, **Multi-Task Deep Residual Echo Suppression with Echo-aware Loss**, Shimin Zhang et.al., Paper: [http://arxiv.org/abs/2202.06850v1](http://arxiv.org/abs/2202.06850v1)
+- 2022-02-14, **Enrichment of Jupiter's atmosphere by late planetesimal bombardment**, Sho Shibata et.al., Paper: [http://arxiv.org/abs/2202.06847v1](http://arxiv.org/abs/2202.06847v1)
+
+## Visual Odometry
+
+- 2022-02-05, **DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2202.02556v1](http://arxiv.org/abs/2202.02556v1)
+- 2022-01-05, **Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**, Bing Han et.al., Paper: [http://arxiv.org/abs/2201.01561v1](http://arxiv.org/abs/2201.01561v1)
+- 2021-12-24, **Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**, David Charatan et.al., Paper: [http://arxiv.org/abs/2112.13018v1](http://arxiv.org/abs/2112.13018v1)
+- 2021-12-23, **Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12818v1](http://arxiv.org/abs/2112.12818v1)
+- 2021-12-23, **MDN-VO: Estimating Visual Odometry with Confidence**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12812v1](http://arxiv.org/abs/2112.12812v1)
+- 2021-12-21, **360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**, Bolivar Solarte et.al., Paper: [http://arxiv.org/abs/2112.06180v2](http://arxiv.org/abs/2112.06180v2)
+- 2021-12-08, **GPCO: An Unsupervised Green Point Cloud Odometry Method**, Pranav Kadam et.al., Paper: [http://arxiv.org/abs/2112.04054v1](http://arxiv.org/abs/2112.04054v1)
+- 2021-12-06, **3D Hierarchical Refinement and Augmentation for Unsupervised Learning of Depth and Pose from Monocular Video**, Guangming Wang et.al., Paper: [http://arxiv.org/abs/2112.03045v1](http://arxiv.org/abs/2112.03045v1)
+- 2021-12-03, **Fast Direct Stereo Visual SLAM**, Jiawei Mo et.al., Paper: [http://arxiv.org/abs/2112.01890v1](http://arxiv.org/abs/2112.01890v1), Code: **[https://github.com/irvlab/direct_stereo_slam](https://github.com/irvlab/direct_stereo_slam)**
+- 2021-11-22, **Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment**, Yijun Cao et.al., Paper: [http://arxiv.org/abs/2111.11141v1](http://arxiv.org/abs/2111.11141v1)
+

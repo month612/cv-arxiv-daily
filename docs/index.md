@@ -210,3 +210,33 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
+## Deep Learning
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-14**|**Accelerating the Inference of the Exa.TrkX Pipeline**|Alina Lazar et.al.|[2202.06929v1](http://arxiv.org/abs/2202.06929v1)|null|
+|**2022-02-14**|**Do Gradient Inversion Attacks Make Federated Learning Unsafe?**|Ali Hatamizadeh et.al.|[2202.06924v1](http://arxiv.org/abs/2202.06924v1)|null|
+|**2022-02-14**|**Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation**|Jannik Kossen et.al.|[2202.06881v1](http://arxiv.org/abs/2202.06881v1)|**[link](https://github.com/jlko/active-surrogate-estimators)**|
+|**2022-02-14**|**A Graphical Approach For Brain Haemorrhage Segmentation**|Dr. Ninad Mehendale et.al.|[2202.06876v1](http://arxiv.org/abs/2202.06876v1)|null|
+|**2022-02-14**|**Physics-Informed Deep Monte Carlo Quantile Regression method for Interval Multilevel Bayesian Network-based Satellite Heat Reliability Analysis**|Xiaohu Zheng et.al.|[2202.06860v1](http://arxiv.org/abs/2202.06860v1)|null|
+|**2022-02-14**|**Domain-Adjusted Regression or: ERM May Already Learn Features Sufficient for Out-of-Distribution Generalization**|Elan Rosenfeld et.al.|[2202.06856v1](http://arxiv.org/abs/2202.06856v1)|null|
+|**2022-02-14**|**HyLa: Hyperbolic Laplacian Features For Graph Learning**|Tao Yu et.al.|[2202.06854v1](http://arxiv.org/abs/2202.06854v1)|null|
+|**2022-02-14**|**HAKE: A Knowledge Engine Foundation for Human Activity Understanding**|Yong-Lu Li et.al.|[2202.06851v1](http://arxiv.org/abs/2202.06851v1)|null|
+|**2022-02-14**|**Multi-Task Deep Residual Echo Suppression with Echo-aware Loss**|Shimin Zhang et.al.|[2202.06850v1](http://arxiv.org/abs/2202.06850v1)|null|
+|**2022-02-14**|**Enrichment of Jupiter's atmosphere by late planetesimal bombardment**|Sho Shibata et.al.|[2202.06847v1](http://arxiv.org/abs/2202.06847v1)|null|
+
+## Visual Odometry
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
+|**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
+|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
+|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
+|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
+|**2021-12-21**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
+|**2021-12-08**|**GPCO: An Unsupervised Green Point Cloud Odometry Method**|Pranav Kadam et.al.|[2112.04054v1](http://arxiv.org/abs/2112.04054v1)|null|
+|**2021-12-06**|**3D Hierarchical Refinement and Augmentation for Unsupervised Learning of Depth and Pose from Monocular Video**|Guangming Wang et.al.|[2112.03045v1](http://arxiv.org/abs/2112.03045v1)|null|
+|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|**[link](https://github.com/irvlab/direct_stereo_slam)**|
+|**2021-11-22**|**Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment**|Yijun Cao et.al.|[2111.11141v1](http://arxiv.org/abs/2111.11141v1)|null|
+
