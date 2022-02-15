@@ -64,12 +64,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
               " author = ", paper_first_author)
 
         # eg: 2108.09112v1 -> 2108.09112
+        
         ver_pos = paper_id.find('v')
         if ver_pos == -1:
             paper_key = paper_id
         else:
             paper_key = paper_id[0:ver_pos]    
 
+        print("test try")
+        
         try:
             r = requests.get(code_url).json()
             # source code link
@@ -79,10 +82,13 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
 
+                print("test if")
             else:
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
 
+                print("test else")
+                
             # TODO: select useful comments
             comments = None
             if comments != None:
