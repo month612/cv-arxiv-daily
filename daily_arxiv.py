@@ -104,7 +104,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     return data,data_web 
 
 def update_json_file(filename,data_all):
-      print("update_json_file")
+    print("update_json_file")
     with open(filename,"r") as f:
         content = f.read()
         if not content:
