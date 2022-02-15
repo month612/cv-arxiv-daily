@@ -100,6 +100,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
 def update_json_file(filename,data_all):
     print("update_json_file start")
+    print("filename start"，filename)
     with open(filename,"r") as f:
         print("open filename")
         content = f.read()
@@ -130,7 +131,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
     @param md_filename: str
     @return None
     """
-    print("json_to_md")
+    print("json_to_md start")
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
