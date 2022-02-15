@@ -100,7 +100,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
 def update_json_file(filename,data_all):
     print("update_json_file start")
-    print("filename start"，filename)
+    print("filename start",filename)
     with open(filename,"r") as f:
         print("open filename")
         content = f.read()
