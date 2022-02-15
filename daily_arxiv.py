@@ -82,13 +82,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
 
-                print("test if")
             else:
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
 
-                print("test else")
-                
+                            
             # TODO: select useful comments
             comments = None
             if comments != None:
@@ -104,8 +102,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
     return data,data_web 
 
 def update_json_file(filename,data_all):
-    print("update_json_file")
+   
     with open(filename,"r") as f:
+        print("open filename")
         content = f.read()
         if not content:
             m = {}
@@ -118,7 +117,8 @@ def update_json_file(filename,data_all):
     for data in data_all:
         for keyword in data.keys():
             papers = data[keyword]
-
+            print("update papers in each keywords")
+            
             if keyword in json_data.keys():
                 json_data[keyword].update(papers)
             else:
@@ -133,7 +133,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
     @param md_filename: str
     @return None
     """
-    
+    print("json_to_md")
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
@@ -150,16 +150,18 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
         pass
 
     # write data into README.md
+    print("write data into README.md")
     with open(md_filename,"a+") as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
+            print("if (use_title == True) and (to_web == True)")
 
         if use_title == True:
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
-        
+        print("for keyword in data.keys()")
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
