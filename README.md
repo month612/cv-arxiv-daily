@@ -87,7 +87,7 @@
 |**2022-02-14**|**Domain-Adjusted Regression or: ERM May Already Learn Features Sufficient for Out-of-Distribution Generalization**|Elan Rosenfeld et.al.|[2202.06856v1](http://arxiv.org/abs/2202.06856v1)|null|
 |**2022-02-14**|**HyLa: Hyperbolic Laplacian Features For Graph Learning**|Tao Yu et.al.|[2202.06854v1](http://arxiv.org/abs/2202.06854v1)|null|
 |**2022-02-14**|**HAKE: A Knowledge Engine Foundation for Human Activity Understanding**|Yong-Lu Li et.al.|[2202.06851v1](http://arxiv.org/abs/2202.06851v1)|null|
-|**2022-02-14**|**Multi-Task Deep Residual Echo Suppression with Echo-aware Loss**|Shimin Zhang et.al.|[2202.06850v1](http://arxiv.org/abs/2202.06850v1)|null|
+|**2022-02-15**|**Multi-Task Deep Residual Echo Suppression with Echo-aware Loss**|Shimin Zhang et.al.|[2202.06850v2](http://arxiv.org/abs/2202.06850v2)|null|
 |**2022-02-14**|**Enrichment of Jupiter's atmosphere by late planetesimal bombardment**|Sho Shibata et.al.|[2202.06847v1](http://arxiv.org/abs/2202.06847v1)|null|
 
 ## Visual Odometry
