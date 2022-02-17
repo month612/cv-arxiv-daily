@@ -214,6 +214,7 @@
 
 ## Image Matching
 
+- 2022-02-16, **Cross-view and Cross-domain Underwater Localization based on Optical Aerial and Acoustic Underwater Images**, Matheus M. Dos Santos et.al., Paper: [http://arxiv.org/abs/2202.07817v1](http://arxiv.org/abs/2202.07817v1)
 - 2022-02-14, **CATs++: Boosting Cost Aggregation with Convolutions and Transformers**, Seokju Cho et.al., Paper: [http://arxiv.org/abs/2202.06817v1](http://arxiv.org/abs/2202.06817v1), Code: **[https://github.com/SunghwanHong/Cost-Aggregation-transformers](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**
 - 2022-02-11, **Improving Image-recognition Edge Caches with a Generative Adversarial Network**, Guilherme B. Souza et.al., Paper: [http://arxiv.org/abs/2202.05929v1](http://arxiv.org/abs/2202.05929v1)
 - 2022-02-08, **Learning Optical Flow with Adaptive Graph Reasoning**, Ao Luo et.al., Paper: [http://arxiv.org/abs/2202.03857v1](http://arxiv.org/abs/2202.03857v1), Code: **[https://github.com/la30/agflow](https://github.com/la30/agflow)**
@@ -267,6 +268,56 @@
 
 ## Deep Learning
 
+- 2022-02-16, **A multi-reconstruction study of breast density estimation using Deep Learning**, Vikash Gupta et.al., Paper: [http://arxiv.org/abs/2202.08238v1](http://arxiv.org/abs/2202.08238v1)
+- 2022-02-16, **Data Augmentation for Deep Graph Learning: A Survey**, Kaize Ding et.al., Paper: [http://arxiv.org/abs/2202.08235v1](http://arxiv.org/abs/2202.08235v1)
+- 2022-02-16, **Deep Contextual Bandits for Orchestrating Multi-User MISO Systems with Multiple RISs**, Kyriakos Stylianopoulos et.al., Paper: [http://arxiv.org/abs/2202.08194v1](http://arxiv.org/abs/2202.08194v1)
+- 2022-02-16, **The intra-group baryons in the LEO I pair from the VST Early-type GAlaxy Survey**, Rossella Ragusa et.al., Paper: [http://arxiv.org/abs/2202.08193v1](http://arxiv.org/abs/2202.08193v1)
+- 2022-02-16, **Flexible-Modal Face Anti-Spoofing: A Benchmark**, Zitong Yu et.al., Paper: [http://arxiv.org/abs/2202.08192v1](http://arxiv.org/abs/2202.08192v1), Code: **[https://github.com/zitongyu/flex-modal-fas](https://github.com/zitongyu/flex-modal-fas)**
+- 2022-02-16, **The Adversarial Security Mitigations of mmWave Beamforming Prediction Models using Defensive Distillation and Adversarial Retraining**, Murat Kuzlu et.al., Paper: [http://arxiv.org/abs/2202.08185v1](http://arxiv.org/abs/2202.08185v1)
+- 2022-02-16, **An Intrusion Response System utilizing Deep Q-Networks and System Partitions**, Valeria Cardellini et.al., Paper: [http://arxiv.org/abs/2202.08182v1](http://arxiv.org/abs/2202.08182v1), Code: **[https://github.com/dpanigra/irs-partition](https://github.com/dpanigra/irs-partition)**
+- 2022-02-16, **GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**, Vibhor Agarwal et.al., Paper: [http://arxiv.org/abs/2202.08175v1](http://arxiv.org/abs/2202.08175v1), Code: **[https://github.com/socsys/graphnli](https://github.com/socsys/graphnli)**
+- 2022-02-16, **Towards Battery-Free Machine Learning and Inference in Underwater Environments**, Yuchen Zhao et.al., Paper: [http://arxiv.org/abs/2202.08174v1](http://arxiv.org/abs/2202.08174v1)
+- 2022-02-16, **Classifying Galaxy Morphologies with Few-Shot Learning**, Zhirui Zhang et.al., Paper: [http://arxiv.org/abs/2202.08172v1](http://arxiv.org/abs/2202.08172v1)
+- 2022-02-16, **A Prospective Approach for Human-to-Human Interaction Recognition from Wi-Fi Channel Data using Attention Bidirectional Gated Recurrent Neural Network with GUI Application Implementation**, Md. Mohi Uddin Khan et.al., Paper: [http://arxiv.org/abs/2202.08146v1](http://arxiv.org/abs/2202.08146v1)
+- 2022-02-16, **Processing the structure of documents: Logical Layout Analysis of historical newspapers in French**, Nicolas Gutehrlé et.al., Paper: [http://arxiv.org/abs/2202.08125v1](http://arxiv.org/abs/2202.08125v1)
+- 2022-02-16, **Extended Unconstrained Features Model for Exploring Deep Neural Collapse**, Tom Tirer et.al., Paper: [http://arxiv.org/abs/2202.08087v1](http://arxiv.org/abs/2202.08087v1)
+- 2022-02-16, **On Measuring Excess Capacity in Neural Networks**, Florian Graf et.al., Paper: [http://arxiv.org/abs/2202.08070v1](http://arxiv.org/abs/2202.08070v1)
+- 2022-02-16, **HDC-MiniROCKET: Explicit Time Encoding in Time Series Classification with Hyperdimensional Computing**, Kenny Schlegel et.al., Paper: [http://arxiv.org/abs/2202.08055v1](http://arxiv.org/abs/2202.08055v1)
+- 2022-02-16, **1-Jettiness with Jet axis at $O(α_s)$ in Deep Inelastic Scattering**, Zexuan Chu et.al., Paper: [http://arxiv.org/abs/2202.08040v1](http://arxiv.org/abs/2202.08040v1)
+- 2022-02-16, **Code Search based on Context-aware Code Translation**, Weisong Sun et.al., Paper: [http://arxiv.org/abs/2202.08029v1](http://arxiv.org/abs/2202.08029v1), Code: **[https://github.com/wssun/trancs](https://github.com/wssun/trancs)**
+- 2022-02-16, **APPLADE: Adjustable Plug-and-play Audio Declipper Combining DNN with Sparse Optimization**, Tomoro Tanaka et.al., Paper: [http://arxiv.org/abs/2202.08028v1](http://arxiv.org/abs/2202.08028v1)
+- 2022-02-16, **Diagnosing Batch Normalization in Class Incremental Learning**, Minghao Zhou et.al., Paper: [http://arxiv.org/abs/2202.08025v1](http://arxiv.org/abs/2202.08025v1)
+- 2022-02-16, **Deep Koopman Operator with Control for Nonlinear Systems**, Haojie Shi et.al., Paper: [http://arxiv.org/abs/2202.08004v1](http://arxiv.org/abs/2202.08004v1), Code: **[https://github.com/haojieshi98/deepkoopmanwithcontrol](https://github.com/haojieshi98/deepkoopmanwithcontrol)**
+- 2022-02-16, **DeepTx: Deep Learning Beamforming with Channel Prediction**, Janne M. J. Huttunen et.al., Paper: [http://arxiv.org/abs/2202.07998v1](http://arxiv.org/abs/2202.07998v1)
+- 2022-02-16, **ADAM Challenge: Detecting Age-related Macular Degeneration from Fundus Images**, Huihui Fang et.al., Paper: [http://arxiv.org/abs/2202.07983v1](http://arxiv.org/abs/2202.07983v1)
+- 2022-02-16, **Robust Nonparametric Distribution Forecast with Backtest-based Bootstrap and Adaptive Residual Selection**, Longshaokan Wang et.al., Paper: [http://arxiv.org/abs/2202.07955v1](http://arxiv.org/abs/2202.07955v1)
+- 2022-02-16, **TimeREISE: Time-series Randomized Evolving Input Sample Explanation**, Dominique Mercier et.al., Paper: [http://arxiv.org/abs/2202.07952v1](http://arxiv.org/abs/2202.07952v1)
+- 2022-02-16, **Network Robustness Revisited**, Thilo Gross et.al., Paper: [http://arxiv.org/abs/2202.07911v1](http://arxiv.org/abs/2202.07911v1)
+- 2022-02-16, **Can Deep Learning be Applied to Model-Based Multi-Object Tracking?**, Juliano Pinto et.al., Paper: [http://arxiv.org/abs/2202.07909v1](http://arxiv.org/abs/2202.07909v1)
+- 2022-02-16, **Cross-Modal Common Representation Learning with Triplet Loss Functions**, Felix Ott et.al., Paper: [http://arxiv.org/abs/2202.07901v1](http://arxiv.org/abs/2202.07901v1)
+- 2022-02-16, **Aryl: An Elastic Cluster Scheduler for Deep Learning**, Jiamin Li et.al., Paper: [http://arxiv.org/abs/2202.07896v1](http://arxiv.org/abs/2202.07896v1)
+- 2022-02-16, **Deep-Learning-Assisted Configuration of Reconfigurable Intelligent Surfaces in Dynamic rich-scattering Environments**, Kyriakos Stylianopoulos et.al., Paper: [http://arxiv.org/abs/2202.07884v1](http://arxiv.org/abs/2202.07884v1)
+- 2022-02-16, **Practical Network Acceleration with Tiny Sets**, Guo-Hua Wang et.al., Paper: [http://arxiv.org/abs/2202.07861v1](http://arxiv.org/abs/2202.07861v1)
+- 2022-02-16, **SRP-DNN: Learning Direct-Path Phase Difference for Multiple Moving Sound Source Localization**, Bing Yang et.al., Paper: [http://arxiv.org/abs/2202.07859v1](http://arxiv.org/abs/2202.07859v1)
+- 2022-02-16, **A deep dive into the consistently toxic 1% of Twitter**, Hina Qayyum et.al., Paper: [http://arxiv.org/abs/2202.07853v1](http://arxiv.org/abs/2202.07853v1)
+- 2022-02-16, **Singularity: Planet-Scale, Preemptible, Elastic Scheduling of AI Workloads**, Dharma Shukla et.al., Paper: [http://arxiv.org/abs/2202.07848v1](http://arxiv.org/abs/2202.07848v1)
+- 2022-02-16, **Learning Deep Direct-Path Relative Transfer Function for Binaural Sound Source Localization**, Bing Yang et.al., Paper: [http://arxiv.org/abs/2202.07841v1](http://arxiv.org/abs/2202.07841v1)
+- 2022-02-16, **Heterogeneous Graph Learning for Explainable Recommendation over Academic Networks**, Xiangtai Chen et.al., Paper: [http://arxiv.org/abs/2202.07832v1](http://arxiv.org/abs/2202.07832v1)
+- 2022-02-16, **CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection**, Furkan Luleci et.al., Paper: [http://arxiv.org/abs/2202.07831v1](http://arxiv.org/abs/2202.07831v1)
+- 2022-02-16, **Reducing Overconfidence Predictions for Autonomous Driving Perception**, Gledson Melotti et.al., Paper: [http://arxiv.org/abs/2202.07825v1](http://arxiv.org/abs/2202.07825v1)
+- 2022-02-16, **Measuring Laser Beams with a Neural Network**, Lucas R. Hofer et.al., Paper: [http://arxiv.org/abs/2202.07801v1](http://arxiv.org/abs/2202.07801v1)
+- 2022-02-16, **Low Latency Real-Time Seizure Detection Using Transfer Deep Learning**, Vahid Khalkhali et.al., Paper: [http://arxiv.org/abs/2202.07796v1](http://arxiv.org/abs/2202.07796v1)
+- 2022-02-15, **Efficient Content Delivery in Cache-Enabled VEN with Deadline-Constrained Heterogeneous Demands: A User-Centric Approach**, Md Ferdous Pervej et.al., Paper: [http://arxiv.org/abs/2202.07792v1](http://arxiv.org/abs/2202.07792v1)
+- 2022-02-15, **Predictability and Surprise in Large Generative Models**, Deep Ganguli et.al., Paper: [http://arxiv.org/abs/2202.07785v1](http://arxiv.org/abs/2202.07785v1)
+- 2022-02-15, **The efficacy and generalizability of conditional GANs for posterior inference in physics-based inverse problems**, Deep Ray et.al., Paper: [http://arxiv.org/abs/2202.07773v1](http://arxiv.org/abs/2202.07773v1)
+- 2022-02-15, **An SMP-Based Algorithm for Solving the Constrained Utility Maximization Problem via Deep Learning**, Kristof Wiedermann et.al., Paper: [http://arxiv.org/abs/2202.07771v1](http://arxiv.org/abs/2202.07771v1)
+- 2022-02-15, **Architecture Agnostic Federated Learning for Neural Networks**, Disha Makhija et.al., Paper: [http://arxiv.org/abs/2202.07757v1](http://arxiv.org/abs/2202.07757v1)
+- 2022-02-15, **Deep Learning-Assisted Co-registration of Full-Spectral Autofluorescence Lifetime Microscopic Images with H&E-Stained Histology Images**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2202.07755v1](http://arxiv.org/abs/2202.07755v1)
+- 2022-02-15, **Deep optical study of the mixed-morphology supernova remnant G 132.7+1.3 (HB3)**, P. Boumis et.al., Paper: [http://arxiv.org/abs/2202.07749v1](http://arxiv.org/abs/2202.07749v1)
+- 2022-02-15, **Solving Multi-Period Financial Planning Models: Combining Monte Carlo Tree Search and Neural Networks**, Afşar Onat Aydınhan et.al., Paper: [http://arxiv.org/abs/2202.07734v1](http://arxiv.org/abs/2202.07734v1)
+- 2022-02-15, **Don't Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis**, Thomas Fel et.al., Paper: [http://arxiv.org/abs/2202.07728v1](http://arxiv.org/abs/2202.07728v1)
+- 2022-02-15, **SIRS sequence as frequency filter: A simulation and phantom study of spin-lock preparations among composite signals**, Milena Capiglioni et.al., Paper: [http://arxiv.org/abs/2202.07705v1](http://arxiv.org/abs/2202.07705v1)
+- 2022-02-15, **Taking a Step Back with KCal: Multi-Class Kernel-Based Calibration for Deep Neural Networks**, Zhen Lin et.al., Paper: [http://arxiv.org/abs/2202.07679v1](http://arxiv.org/abs/2202.07679v1)
 - 2022-02-15, **Deep Convolutional Autoencoder for Assessment of Anomalies in Multi-stream Sensor Data**, Anthony Geglio et.al., Paper: [http://arxiv.org/abs/2202.07592v1](http://arxiv.org/abs/2202.07592v1)
 - 2022-02-15, **Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection**, Cristian Challu et.al., Paper: [http://arxiv.org/abs/2202.07586v1](http://arxiv.org/abs/2202.07586v1), Code: **[https://github.com/cchallu/dghl](https://github.com/cchallu/dghl)**
 - 2022-02-15, **Improving the repeatability of deep learning models with Monte Carlo dropout**, Andreanne Lemay et.al., Paper: [http://arxiv.org/abs/2202.07562v1](http://arxiv.org/abs/2202.07562v1), Code: **[https://github.com/andreanne-lemay/gray_zone_assessment](https://github.com/andreanne-lemay/gray_zone_assessment)**
