@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.17
+## Updated on 2022.02.18
 
 ## SLAM
 
@@ -304,7 +304,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-16**|**A multi-reconstruction study of breast density estimation using Deep Learning**|Vikash Gupta et.al.|[2202.08238v1](http://arxiv.org/abs/2202.08238v1)|null|
+|**2022-02-17**|**A multi-reconstruction study of breast density estimation using Deep Learning**|Vikash Gupta et.al.|[2202.08238v2](http://arxiv.org/abs/2202.08238v2)|null|
 |**2022-02-16**|**Data Augmentation for Deep Graph Learning: A Survey**|Kaize Ding et.al.|[2202.08235v1](http://arxiv.org/abs/2202.08235v1)|null|
 |**2022-02-16**|**Deep Contextual Bandits for Orchestrating Multi-User MISO Systems with Multiple RISs**|Kyriakos Stylianopoulos et.al.|[2202.08194v1](http://arxiv.org/abs/2202.08194v1)|null|
 |**2022-02-16**|**The intra-group baryons in the LEO I pair from the VST Early-type GAlaxy Survey**|Rossella Ragusa et.al.|[2202.08193v1](http://arxiv.org/abs/2202.08193v1)|null|
@@ -313,7 +313,7 @@ layout: default
 |**2022-02-16**|**An Intrusion Response System utilizing Deep Q-Networks and System Partitions**|Valeria Cardellini et.al.|[2202.08182v1](http://arxiv.org/abs/2202.08182v1)|**[link](https://github.com/dpanigra/irs-partition)**|
 |**2022-02-16**|**GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**|Vibhor Agarwal et.al.|[2202.08175v1](http://arxiv.org/abs/2202.08175v1)|**[link](https://github.com/socsys/graphnli)**|
 |**2022-02-16**|**Towards Battery-Free Machine Learning and Inference in Underwater Environments**|Yuchen Zhao et.al.|[2202.08174v1](http://arxiv.org/abs/2202.08174v1)|null|
-|**2022-02-16**|**Classifying Galaxy Morphologies with Few-Shot Learning**|Zhirui Zhang et.al.|[2202.08172v1](http://arxiv.org/abs/2202.08172v1)|null|
+|**2022-02-17**|**Classifying Galaxy Morphologies with Few-Shot Learning**|Zhirui Zhang et.al.|[2202.08172v2](http://arxiv.org/abs/2202.08172v2)|null|
 |**2022-02-16**|**A Prospective Approach for Human-to-Human Interaction Recognition from Wi-Fi Channel Data using Attention Bidirectional Gated Recurrent Neural Network with GUI Application Implementation**|Md. Mohi Uddin Khan et.al.|[2202.08146v1](http://arxiv.org/abs/2202.08146v1)|null|
 |**2022-02-16**|**Processing the structure of documents: Logical Layout Analysis of historical newspapers in French**|Nicolas Gutehrlé et.al.|[2202.08125v1](http://arxiv.org/abs/2202.08125v1)|null|
 |**2022-02-16**|**Extended Unconstrained Features Model for Exploring Deep Neural Collapse**|Tom Tirer et.al.|[2202.08087v1](http://arxiv.org/abs/2202.08087v1)|null|
@@ -332,7 +332,7 @@ layout: default
 |**2022-02-16**|**Can Deep Learning be Applied to Model-Based Multi-Object Tracking?**|Juliano Pinto et.al.|[2202.07909v1](http://arxiv.org/abs/2202.07909v1)|null|
 |**2022-02-16**|**Cross-Modal Common Representation Learning with Triplet Loss Functions**|Felix Ott et.al.|[2202.07901v1](http://arxiv.org/abs/2202.07901v1)|null|
 |**2022-02-16**|**Aryl: An Elastic Cluster Scheduler for Deep Learning**|Jiamin Li et.al.|[2202.07896v1](http://arxiv.org/abs/2202.07896v1)|null|
-|**2022-02-16**|**Deep-Learning-Assisted Configuration of Reconfigurable Intelligent Surfaces in Dynamic rich-scattering Environments**|Kyriakos Stylianopoulos et.al.|[2202.07884v1](http://arxiv.org/abs/2202.07884v1)|null|
+|**2022-02-16**|**Deep-Learning-Assisted Configuration of Reconfigurable Intelligent Surfaces in Dynamic rich-scattering Environments**|Kyriakos Stylianopoulos et.al.|[2202.07884v1](http://arxiv.org/abs/2202.07884v1)|**[link](https://github.com/noesyslab/deep_ris_tuning_for_rich_scattering_environments)**|
 |**2022-02-16**|**Practical Network Acceleration with Tiny Sets**|Guo-Hua Wang et.al.|[2202.07861v1](http://arxiv.org/abs/2202.07861v1)|null|
 |**2022-02-16**|**SRP-DNN: Learning Direct-Path Phase Difference for Multiple Moving Sound Source Localization**|Bing Yang et.al.|[2202.07859v1](http://arxiv.org/abs/2202.07859v1)|null|
 |**2022-02-16**|**A deep dive into the consistently toxic 1% of Twitter**|Hina Qayyum et.al.|[2202.07853v1](http://arxiv.org/abs/2202.07853v1)|null|
@@ -341,7 +341,7 @@ layout: default
 |**2022-02-16**|**Heterogeneous Graph Learning for Explainable Recommendation over Academic Networks**|Xiangtai Chen et.al.|[2202.07832v1](http://arxiv.org/abs/2202.07832v1)|null|
 |**2022-02-16**|**CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection**|Furkan Luleci et.al.|[2202.07831v1](http://arxiv.org/abs/2202.07831v1)|null|
 |**2022-02-16**|**Reducing Overconfidence Predictions for Autonomous Driving Perception**|Gledson Melotti et.al.|[2202.07825v1](http://arxiv.org/abs/2202.07825v1)|null|
-|**2022-02-16**|**Measuring Laser Beams with a Neural Network**|Lucas R. Hofer et.al.|[2202.07801v1](http://arxiv.org/abs/2202.07801v1)|null|
+|**2022-02-16**|**Measuring Laser Beams with a Neural Network**|Lucas R. Hofer et.al.|[2202.07801v1](http://arxiv.org/abs/2202.07801v1)|**[link](https://github.com/dipolar-quantum-gases/nn-beam-profiling)**|
 |**2022-02-16**|**Low Latency Real-Time Seizure Detection Using Transfer Deep Learning**|Vahid Khalkhali et.al.|[2202.07796v1](http://arxiv.org/abs/2202.07796v1)|null|
 |**2022-02-15**|**Efficient Content Delivery in Cache-Enabled VEN with Deadline-Constrained Heterogeneous Demands: A User-Centric Approach**|Md Ferdous Pervej et.al.|[2202.07792v1](http://arxiv.org/abs/2202.07792v1)|null|
 |**2022-02-15**|**Predictability and Surprise in Large Generative Models**|Deep Ganguli et.al.|[2202.07785v1](http://arxiv.org/abs/2202.07785v1)|null|
