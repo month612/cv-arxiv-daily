@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger et.al.|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
+|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|null|
+|**2022-02-18**|**An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems**|Qiang Liu et.al.|[2202.08952v1](http://arxiv.org/abs/2202.08952v1)|null|
+|**2022-02-17**|**Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study**|Giovanni Cioffi et.al.|[2202.08894v1](http://arxiv.org/abs/2202.08894v1)|**[link](https://github.com/uzh-rpg/rpg_vision-based_slam)**|
 |**2022-02-17**|**LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**|Jiashi Zhang et.al.|[2202.08487v1](http://arxiv.org/abs/2202.08487v1)|null|
 |**2022-02-16**|**Virtual Maps for Autonomous Exploration of Cluttered Underwater Environments**|Jinkun Wang et.al.|[2202.08359v1](http://arxiv.org/abs/2202.08359v1)|null|
 |**2022-02-11**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell et.al.|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
@@ -84,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|null|
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
 |**2022-01-13**|**Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**|Yunpeng Shi et.al.|[2201.04797v1](http://arxiv.org/abs/2201.04797v1)|**[link](https://github.com/yunpeng-shi/fcc)**|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
@@ -140,6 +145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|null|
 |**2022-02-14**|**Tightly Coupled Learning Strategy for Weakly Supervised Hierarchical Place Recognition**|Y. Shen et.al.|[2202.06470v1](http://arxiv.org/abs/2202.06470v1)|null|
 |**2022-02-11**|**Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**|Yingfeng Cai et.al.|[2202.05738v1](http://arxiv.org/abs/2202.05738v1)|null|
 |**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
@@ -306,6 +312,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
+|**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|null|
+|**2022-02-18**|**Unsupervised Multiple-Object Tracking with a Dynamical Variational Autoencoder**|Xiaoyu Lin et.al.|[2202.09315v1](http://arxiv.org/abs/2202.09315v1)|null|
+|**2022-02-18**|**Exploring Adversarially Robust Training for Unsupervised Domain Adaptation**|Shao-Yuan Lo et.al.|[2202.09300v1](http://arxiv.org/abs/2202.09300v1)|null|
+|**2022-02-18**|**Towards a Numerical Proof of Turbulence Closure**|Giulio Ortali et.al.|[2202.09289v1](http://arxiv.org/abs/2202.09289v1)|null|
+|**2022-02-18**|**FinNet: Solving Time-Independent Differential Equations with Finite Difference Neural Network**|Son N. T. Tu et.al.|[2202.09282v1](http://arxiv.org/abs/2202.09282v1)|null|
+|**2022-02-18**|**Geometric Regularization from Overparameterization explains Double Descent and other findings**|Nicholas J. Teague et.al.|[2202.09276v1](http://arxiv.org/abs/2202.09276v1)|null|
+|**2022-02-18**|**Rethinking Pareto Frontier for Performance Evaluation of Deep Neural Networks**|Vahid Partovi Nia et.al.|[2202.09275v1](http://arxiv.org/abs/2202.09275v1)|null|
+|**2022-02-18**|**Autoencoding Low-Resolution MRI for Semantically Smooth Interpolation of Anisotropic MRI**|Jörg Sander et.al.|[2202.09258v1](http://arxiv.org/abs/2202.09258v1)|null|
+|**2022-02-18**|**Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning**|Mika Mäntylä et.al.|[2202.09214v1](http://arxiv.org/abs/2202.09214v1)|null|
+|**2022-02-18**|**Molecule Generation for Drug Design: a Graph Learning Perspective**|Nianzu Yang et.al.|[2202.09212v1](http://arxiv.org/abs/2202.09212v1)|null|
+|**2022-02-18**|**Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks**|Haebom Lee et.al.|[2202.09206v1](http://arxiv.org/abs/2202.09206v1)|null|
+|**2022-02-18**|**Deep-Learning Architectures for Multi-Pitch Estimation: Towards Reliable Evaluation**|Christof Weiß et.al.|[2202.09198v1](http://arxiv.org/abs/2202.09198v1)|null|
+|**2022-02-18**|**A Review on Methods and Applications in Multimodal Deep Learning**|Jabeen Summaira et.al.|[2202.09195v1](http://arxiv.org/abs/2202.09195v1)|null|
+|**2022-02-18**|**Exploring the deep atmospheres of HD 209458b and WASP-43b using a non-gray GCM**|Aaron David Schneider et.al.|[2202.09183v1](http://arxiv.org/abs/2202.09183v1)|null|
+|**2022-02-18**|**Gaussian Mixture Convolution Networks**|Adam Celarek et.al.|[2202.09153v1](http://arxiv.org/abs/2202.09153v1)|null|
+|**2022-02-18**|**A Graphical Approach for Friedman Test: Moments Approach**|Elsayed A. H. Elamir et.al.|[2202.09131v1](http://arxiv.org/abs/2202.09131v1)|null|
+|**2022-02-18**|**Iterative Learning for Instance Segmentation**|Tuomas Sormunen et.al.|[2202.09110v1](http://arxiv.org/abs/2202.09110v1)|null|
+|**2022-02-18**|**Predicting Sex and Stroke Success -- Computer-aided Player Grunt Analysis in Tennis Matches**|Lukas Stappen et.al.|[2202.09102v1](http://arxiv.org/abs/2202.09102v1)|null|
+|**2022-02-18**|**Toward a Smart Resource Allocation Policy via Artificial Intelligence in 6G Networks: Centralized or Decentralized?**|Ali Nouruzi et.al.|[2202.09093v1](http://arxiv.org/abs/2202.09093v1)|null|
+|**2022-02-18**|**Tackling benign nonconvexity with smoothing and stochastic gradients**|Harsh Vardhan et.al.|[2202.09052v1](http://arxiv.org/abs/2202.09052v1)|null|
+|**2022-02-18**|**Microplankton life histories revealed by holographic microscopy and deep learning**|Harshith Bachimanchi et.al.|[2202.09046v1](http://arxiv.org/abs/2202.09046v1)|null|
+|**2022-02-18**|**Minimax Rate of Distribution Estimation on Unknown Submanifold under Adversarial Losses**|Rong Tang et.al.|[2202.09030v1](http://arxiv.org/abs/2202.09030v1)|null|
+|**2022-02-18**|**A Note on the Implicit Bias Towards Minimal Depth of Deep Neural Networks**|Tomer Galanti et.al.|[2202.09028v1](http://arxiv.org/abs/2202.09028v1)|null|
+|**2022-02-18**|**How Well Do Self-Supervised Methods Perform in Cross-Domain Few-Shot Learning?**|Yiyi Zhang et.al.|[2202.09014v1](http://arxiv.org/abs/2202.09014v1)|null|
+|**2022-02-18**|**LG-LSQ: Learned Gradient Linear Symmetric Quantization**|Shih-Ting Lin et.al.|[2202.09009v1](http://arxiv.org/abs/2202.09009v1)|null|
+|**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v1](http://arxiv.org/abs/2202.08994v1)|null|
+|**2022-02-18**|**R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning**|Guo-Hua Wang et.al.|[2202.08955v1](http://arxiv.org/abs/2202.08955v1)|null|
+|**2022-02-18**|**Machine Learning for Touch Localization on Ultrasonic Wave Touchscreen**|Sahar Bahrami et.al.|[2202.08947v1](http://arxiv.org/abs/2202.08947v1)|null|
+|**2022-02-17**|**Enhanced DeepONet for Modeling Partial Differential Operators Considering Multiple Input Functions**|Lesley Tan et.al.|[2202.08942v1](http://arxiv.org/abs/2202.08942v1)|null|
+|**2022-02-17**|**Prior image-based medical image reconstruction using a style-based generative adversarial network**|Varun A. Kelkar et.al.|[2202.08936v1](http://arxiv.org/abs/2202.08936v1)|null|
+|**2022-02-17**|**Deep Transfer Learning on Satellite Imagery Improves Air Quality Estimates in Developing Nations**|Nishant Yadav et.al.|[2202.08890v1](http://arxiv.org/abs/2202.08890v1)|null|
+|**2022-02-17**|**BADDr: Bayes-Adaptive Deep Dropout RL for POMDPs**|Sammie Katt et.al.|[2202.08884v1](http://arxiv.org/abs/2202.08884v1)|null|
+|**2022-02-17**|**Jet broadening in dense inhomogeneous matter**|João Barata et.al.|[2202.08847v1](http://arxiv.org/abs/2202.08847v1)|null|
 |**2022-02-17**|**Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**|Juntao Tan et.al.|[2202.08816v1](http://arxiv.org/abs/2202.08816v1)|null|
 |**2022-02-17**|**Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting**|Vilde Jensen et.al.|[2202.08756v1](http://arxiv.org/abs/2202.08756v1)|**[link](https://github.com/filippomb/ensemble-conformalized-quantile-regression)**|
 |**2022-02-17**|**Improving Rating and Relevance with Point-of-Interest Recommender System**|Syed Raza Bashir et.al.|[2202.08751v1](http://arxiv.org/abs/2202.08751v1)|null|
