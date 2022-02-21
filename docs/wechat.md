@@ -1,4 +1,4 @@
-> Updated on 2022.02.20
+> Updated on 2022.02.21
 
 ## SLAM
 
@@ -282,7 +282,7 @@
 - 2022-02-17, **Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**, Alexander Isenko et.al., Paper: [http://arxiv.org/abs/2202.08679v1](http://arxiv.org/abs/2202.08679v1)
 - 2022-02-17, **SiGMa-Net: Deep learning network to distinguish binary black hole signals from short-duration noise transients**, Sunil Choudhary et.al., Paper: [http://arxiv.org/abs/2202.08671v1](http://arxiv.org/abs/2202.08671v1)
 - 2022-02-17, **Multimodal interference and bound in the continuum modes in indirectly-patterned hyperbolic cavities**, Hanan Herzig Sheinfux et.al., Paper: [http://arxiv.org/abs/2202.08611v1](http://arxiv.org/abs/2202.08611v1)
-- 2022-02-17, **Two-Stage Architectural Fine-Tuning with Neural Architecture Search using Early-Stopping in Image Classification**, Youngkee Kim et.al., Paper: [http://arxiv.org/abs/2202.08604v1](http://arxiv.org/abs/2202.08604v1)
+- 2022-02-18, **Two-Stage Architectural Fine-Tuning with Neural Architecture Search using Early-Stopping in Image Classification**, Youngkee Kim et.al., Paper: [http://arxiv.org/abs/2202.08604v2](http://arxiv.org/abs/2202.08604v2)
 - 2022-02-17, **Fingerprinting Deep Neural Networks Globally via Universal Adversarial Perturbations**, Zirui Peng et.al., Paper: [http://arxiv.org/abs/2202.08602v1](http://arxiv.org/abs/2202.08602v1)
 - 2022-02-17, **Deep VQA based on a Novel Hybrid Training Methodology**, Chen Feng et.al., Paper: [http://arxiv.org/abs/2202.08595v1](http://arxiv.org/abs/2202.08595v1)
 - 2022-02-17, **CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-based Autonomous Urban Driving**, Yinuo Zhao et.al., Paper: [http://arxiv.org/abs/2202.08557v1](http://arxiv.org/abs/2202.08557v1)
