@@ -1,4 +1,4 @@
-> Updated on 2022.02.21
+> Updated on 2022.02.22
 
 ## SLAM
 
@@ -313,7 +313,7 @@
 - 2022-02-17, **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**, Juntao Tan et.al., Paper: [http://arxiv.org/abs/2202.08816v1](http://arxiv.org/abs/2202.08816v1)
 - 2022-02-17, **Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting**, Vilde Jensen et.al., Paper: [http://arxiv.org/abs/2202.08756v1](http://arxiv.org/abs/2202.08756v1), Code: **[https://github.com/filippomb/ensemble-conformalized-quantile-regression](https://github.com/filippomb/ensemble-conformalized-quantile-regression)**
 - 2022-02-17, **Improving Rating and Relevance with Point-of-Interest Recommender System**, Syed Raza Bashir et.al., Paper: [http://arxiv.org/abs/2202.08751v1](http://arxiv.org/abs/2202.08751v1)
-- 2022-02-17, **A Two-stage U-Net for high-fidelity denoising of historical recordings**, Eloi Moliner et.al., Paper: [http://arxiv.org/abs/2202.08702v1](http://arxiv.org/abs/2202.08702v1)
+- 2022-02-19, **A Two-Stage U-Net for High-Fidelity Denoising of Historical Recordings**, Eloi Moliner et.al., Paper: [http://arxiv.org/abs/2202.08702v2](http://arxiv.org/abs/2202.08702v2)
 - 2022-02-17, **Detecting and Learning the Unknown in Semantic Segmentation**, Robin Chan et.al., Paper: [http://arxiv.org/abs/2202.08700v1](http://arxiv.org/abs/2202.08700v1)
 - 2022-02-17, **A study of deep perceptual metrics for image quality assessment**, Rémi Kazmierczak et.al., Paper: [http://arxiv.org/abs/2202.08692v1](http://arxiv.org/abs/2202.08692v1), Code: **[https://github.com/ensta-u2is/mr_perceptual](https://github.com/ensta-u2is/mr_perceptual)**
 - 2022-02-17, **End-to-end Neuron Instance Segmentation based on Weakly Supervised Efficient UNet and Morphological Post-processing**, Huaqian Wu et.al., Paper: [http://arxiv.org/abs/2202.08682v1](http://arxiv.org/abs/2202.08682v1)
