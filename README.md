@@ -1,4 +1,4 @@
-## Updated on 2022.02.23
+## Updated on 2022.02.24
 
 ## SLAM
 
@@ -290,7 +290,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
-|**2022-02-22**|**A Parkes "Murriyang" Search for Pulsars and Transients in the LMC**|Shinnosuke Hisano et.al.|[2202.11054v1](http://arxiv.org/abs/2202.11054v1)|null|
+|**2022-02-23**|**A Parkes "Murriyang" Search for Pulsars and Transients in the Large Magellanic Cloud**|Shinnosuke Hisano et.al.|[2202.11054v2](http://arxiv.org/abs/2202.11054v2)|null|
 |**2022-02-22**|**Hubble Space Telescope Imaging of Luminous Extragalactic Infrared Transients and Variables from the SPIRITS Survey**|Howard E. Bond et.al.|[2202.11040v1](http://arxiv.org/abs/2202.11040v1)|null|
 |**2022-02-22**|**An Overview on Machine Translation Evaluation**|Lifeng Han et.al.|[2202.11027v1](http://arxiv.org/abs/2202.11027v1)|null|
 |**2022-02-22**|**Computing Multiple Image Reconstructions with a Single Hypernetwork**|Alan Q. Wang et.al.|[2202.11009v1](http://arxiv.org/abs/2202.11009v1)|**[link](https://github.com/alanqrwang/hyperrecon)**|
