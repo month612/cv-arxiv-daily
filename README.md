@@ -1,4 +1,4 @@
-## Updated on 2022.02.24
+## Updated on 2022.02.25
 
 ## SLAM
 
@@ -158,7 +158,7 @@
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari et.al.|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
 |**2021-09-30**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer et.al.|[2109.14916v1](http://arxiv.org/abs/2109.14916v1)|null|
 |**2021-09-28**|**Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments**|Giseop Kim et.al.|[2109.13494v1](http://arxiv.org/abs/2109.13494v1)|null|
-|**2021-09-27**|**CT-ICP: Real-time Elastic LiDAR Odometry with Loop Closure**|Pierre Dellenbach et.al.|[2109.12979v1](http://arxiv.org/abs/2109.12979v1)|**[link](https://github.com/Kitware/pyLiDAR-SLAM)**|
+|**2021-09-27**|**CT-ICP: Real-time Elastic LiDAR Odometry with Loop Closure**|Pierre Dellenbach et.al.|[2109.12979v1](http://arxiv.org/abs/2109.12979v1)|**[link](https://github.com/jedeschaud/ct_icp)**|
 |**2021-09-22**|**A Benchmark Comparison of Visual Place Recognition Techniques for Resource-Constrained Embedded Platforms**|Rose Power et.al.|[2109.11002v1](http://arxiv.org/abs/2109.11002v1)|null|
 |**2021-09-22**|**An Efficient and Scalable Collection of Fly-inspired Voting Units for Visual Place Recognition in Changing Environments**|Bruno Arcanjo et.al.|[2109.10986v1](http://arxiv.org/abs/2109.10986v1)|null|
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang et.al.|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
@@ -292,7 +292,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-23**|**Bayesian Model Selection, the Marginal Likelihood, and Generalization**|Sanae Lotfi et.al.|[2202.11678v1](http://arxiv.org/abs/2202.11678v1)|null|
+|**2022-02-23**|**Bayesian Model Selection, the Marginal Likelihood, and Generalization**|Sanae Lotfi et.al.|[2202.11678v1](http://arxiv.org/abs/2202.11678v1)|**[link](https://github.com/sanaelotfi/bayesian_model_comparison)**|
 |**2022-02-23**|**Photon-ALP oscillations inducing modification on $γ$-ray polarization**|Giorgio Galanti et.al.|[2202.11675v1](http://arxiv.org/abs/2202.11675v1)|null|
 |**2022-02-23**|**Learning Fast and Slow for Online Time Series Forecasting**|Quang Pham et.al.|[2202.11672v1](http://arxiv.org/abs/2202.11672v1)|null|
 |**2022-02-23**|**Wide Mean-Field Bayesian Neural Networks Ignore the Data**|Beau Coker et.al.|[2202.11670v1](http://arxiv.org/abs/2202.11670v1)|**[link](https://github.com/dtak/wide-bnns-public)**|
@@ -330,7 +330,7 @@
 |**2022-02-23**|**ML-Aided Collision Recovery for UHF-RFID Systems**|Talha Akyildiz et.al.|[2202.11257v1](http://arxiv.org/abs/2202.11257v1)|null|
 |**2022-02-23**|**A Bayesian Deep Learning Approach to Near-Term Climate Prediction**|Xihaier Luo et.al.|[2202.11244v1](http://arxiv.org/abs/2202.11244v1)|null|
 |**2022-02-22**|**Enabling Efficient Deep Convolutional Neural Network-based Sensor Fusion for Autonomous Driving**|Xiaoming Zeng et.al.|[2202.11231v1](http://arxiv.org/abs/2202.11231v1)|null|
-|**2022-02-22**|**Model2Detector:Widening the Information Bottleneck for Out-of-Distribution Detection using a Handful of Gradient Steps**|Sumedh A Sontakke et.al.|[2202.11226v1](http://arxiv.org/abs/2202.11226v1)|null|
+|**2022-02-22**|**Model2Detector: Widening the Information Bottleneck for Out-of-Distribution Detection using a Handful of Gradient Steps**|Sumedh A Sontakke et.al.|[2202.11226v1](http://arxiv.org/abs/2202.11226v1)|null|
 |**2022-02-22**|**FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators**|Jaideep Pathak et.al.|[2202.11214v1](http://arxiv.org/abs/2202.11214v1)|null|
 |**2022-02-22**|**Neural Network based Successor Representations of Space and Language**|Paul Stoewer et.al.|[2202.11190v1](http://arxiv.org/abs/2202.11190v1)|null|
 |**2022-02-22**|**SIPOMDPLite-Net: Lightweight, Self-Interested Learning and Planning in POSGs with Sparse Interactions**|Gengyu Zhang et.al.|[2202.11188v1](http://arxiv.org/abs/2202.11188v1)|null|
