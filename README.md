@@ -158,7 +158,7 @@
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari et.al.|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
 |**2021-09-30**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer et.al.|[2109.14916v1](http://arxiv.org/abs/2109.14916v1)|null|
 |**2021-09-28**|**Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments**|Giseop Kim et.al.|[2109.13494v1](http://arxiv.org/abs/2109.13494v1)|null|
-|**2021-09-27**|**CT-ICP: Real-time Elastic LiDAR Odometry with Loop Closure**|Pierre Dellenbach et.al.|[2109.12979v1](http://arxiv.org/abs/2109.12979v1)|**[link](https://github.com/jedeschaud/ct_icp)**|
+|**2022-02-24**|**CT-ICP: Real-time Elastic LiDAR Odometry with Loop Closure**|Pierre Dellenbach et.al.|[2109.12979v2](http://arxiv.org/abs/2109.12979v2)|**[link](https://github.com/jedeschaud/ct_icp)**|
 |**2021-09-22**|**A Benchmark Comparison of Visual Place Recognition Techniques for Resource-Constrained Embedded Platforms**|Rose Power et.al.|[2109.11002v1](http://arxiv.org/abs/2109.11002v1)|null|
 |**2021-09-22**|**An Efficient and Scalable Collection of Fly-inspired Voting Units for Visual Place Recognition in Changing Environments**|Bruno Arcanjo et.al.|[2109.10986v1](http://arxiv.org/abs/2109.10986v1)|null|
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang et.al.|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
@@ -445,7 +445,7 @@
 |**2022-02-18**|**Geometric Regularization from Overparameterization explains Double Descent and other findings**|Nicholas J. Teague et.al.|[2202.09276v1](http://arxiv.org/abs/2202.09276v1)|null|
 |**2022-02-18**|**Rethinking Pareto Frontier for Performance Evaluation of Deep Neural Networks**|Vahid Partovi Nia et.al.|[2202.09275v1](http://arxiv.org/abs/2202.09275v1)|null|
 |**2022-02-18**|**Autoencoding Low-Resolution MRI for Semantically Smooth Interpolation of Anisotropic MRI**|Jörg Sander et.al.|[2202.09258v1](http://arxiv.org/abs/2202.09258v1)|null|
-|**2022-02-18**|**Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning**|Mika Mäntylä et.al.|[2202.09214v1](http://arxiv.org/abs/2202.09214v1)|**[link](https://github.com/m3soulu/next_event_prediction)**|
+|**2022-02-23**|**Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning**|Mika Mäntylä et.al.|[2202.09214v2](http://arxiv.org/abs/2202.09214v2)|**[link](https://github.com/m3soulu/next_event_prediction)**|
 |**2022-02-18**|**Molecule Generation for Drug Design: a Graph Learning Perspective**|Nianzu Yang et.al.|[2202.09212v1](http://arxiv.org/abs/2202.09212v1)|null|
 |**2022-02-18**|**Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks**|Haebom Lee et.al.|[2202.09206v1](http://arxiv.org/abs/2202.09206v1)|null|
 |**2022-02-18**|**Deep-Learning Architectures for Multi-Pitch Estimation: Towards Reliable Evaluation**|Christof Weiß et.al.|[2202.09198v1](http://arxiv.org/abs/2202.09198v1)|null|
@@ -462,7 +462,7 @@
 |**2022-02-18**|**A Note on the Implicit Bias Towards Minimal Depth of Deep Neural Networks**|Tomer Galanti et.al.|[2202.09028v1](http://arxiv.org/abs/2202.09028v1)|null|
 |**2022-02-18**|**How Well Do Self-Supervised Methods Perform in Cross-Domain Few-Shot Learning?**|Yiyi Zhang et.al.|[2202.09014v1](http://arxiv.org/abs/2202.09014v1)|null|
 |**2022-02-18**|**LG-LSQ: Learned Gradient Linear Symmetric Quantization**|Shih-Ting Lin et.al.|[2202.09009v1](http://arxiv.org/abs/2202.09009v1)|null|
-|**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v1](http://arxiv.org/abs/2202.08994v1)|null|
+|**2022-02-24**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v2](http://arxiv.org/abs/2202.08994v2)|null|
 |**2022-02-18**|**R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning**|Guo-Hua Wang et.al.|[2202.08955v1](http://arxiv.org/abs/2202.08955v1)|null|
 |**2022-02-18**|**Machine Learning for Touch Localization on Ultrasonic Wave Touchscreen**|Sahar Bahrami et.al.|[2202.08947v1](http://arxiv.org/abs/2202.08947v1)|null|
 |**2022-02-17**|**Enhanced DeepONet for Modeling Partial Differential Operators Considering Multiple Input Functions**|Lesley Tan et.al.|[2202.08942v1](http://arxiv.org/abs/2202.08942v1)|null|
@@ -479,7 +479,7 @@
 |**2022-02-17**|**End-to-end Neuron Instance Segmentation based on Weakly Supervised Efficient UNet and Morphological Post-processing**|Huaqian Wu et.al.|[2202.08682v1](http://arxiv.org/abs/2202.08682v1)|null|
 |**2022-02-17**|**Dissipative Tunneling Rates through the Incorporation of First-Principles Electronic Friction in Instanton Rate Theory II: Benchmarks and Applications**|Y. Litman et.al.|[2202.08681v1](http://arxiv.org/abs/2202.08681v1)|null|
 |**2022-02-17**|**Synthetic data for unsupervised polyp segmentation**|Enric Moreu et.al.|[2202.08680v1](http://arxiv.org/abs/2202.08680v1)|**[link](https://github.com/enric1994/synth-colon)**|
-|**2022-02-17**|**Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**|Alexander Isenko et.al.|[2202.08679v1](http://arxiv.org/abs/2202.08679v1)|null|
+|**2022-02-17**|**Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**|Alexander Isenko et.al.|[2202.08679v1](http://arxiv.org/abs/2202.08679v1)|**[link](https://github.com/cirquit/presto)**|
 |**2022-02-17**|**SiGMa-Net: Deep learning network to distinguish binary black hole signals from short-duration noise transients**|Sunil Choudhary et.al.|[2202.08671v1](http://arxiv.org/abs/2202.08671v1)|null|
 |**2022-02-17**|**Multimodal interference and bound in the continuum modes in indirectly-patterned hyperbolic cavities**|Hanan Herzig Sheinfux et.al.|[2202.08611v1](http://arxiv.org/abs/2202.08611v1)|null|
 |**2022-02-18**|**Two-Stage Architectural Fine-Tuning with Neural Architecture Search using Early-Stopping in Image Classification**|Youngkee Kim et.al.|[2202.08604v2](http://arxiv.org/abs/2202.08604v2)|null|
