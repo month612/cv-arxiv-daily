@@ -1,4 +1,4 @@
-> Updated on 2022.02.27
+> Updated on 2022.02.28
 
 ## SLAM
 
@@ -18,7 +18,7 @@
 - 2022-02-08, **A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**, Nie Jiwei et.al., Paper: [http://arxiv.org/abs/2202.03677v1](http://arxiv.org/abs/2202.03677v1)
 - 2022-01-25, **Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**, Oussama Saoudi et.al., Paper: [http://arxiv.org/abs/2202.03148v1](http://arxiv.org/abs/2202.03148v1)
 - 2022-02-07, **Temporal Point Cloud Completion with Pose Disturbance**, Jieqi Shi et.al., Paper: [http://arxiv.org/abs/2202.03084v1](http://arxiv.org/abs/2202.03084v1)
-- 2022-02-04, **DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2202.01938v1](http://arxiv.org/abs/2202.01938v1)
+- 2022-02-25, **CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2202.01938v2](http://arxiv.org/abs/2202.01938v2)
 - 2022-02-01, **A Model for Multi-View Residual Covariances based on Perspective Deformation**, Alejandro Fontan et.al., Paper: [http://arxiv.org/abs/2202.00765v1](http://arxiv.org/abs/2202.00765v1)
 - 2022-01-30, **Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**, Xinghe Chu et.al., Paper: [http://arxiv.org/abs/2201.12726v1](http://arxiv.org/abs/2201.12726v1)
 - 2022-01-28, **RGB-D SLAM Using Attention Guided Frame Association**, Ali Caglayan et.al., Paper: [http://arxiv.org/abs/2201.12047v1](http://arxiv.org/abs/2201.12047v1)
@@ -323,7 +323,7 @@
 - 2022-02-23, **RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification**, Moinak Bhattacharya et.al., Paper: [http://arxiv.org/abs/2202.11781v1](http://arxiv.org/abs/2202.11781v1)
 - 2022-02-23, **Art Creation with Multi-Conditional StyleGANs**, Konstantin Dobler et.al., Paper: [http://arxiv.org/abs/2202.11777v1](http://arxiv.org/abs/2202.11777v1)
 - 2022-02-23, **Are All Linear Regions Created Equal?**, Matteo Gamba et.al., Paper: [http://arxiv.org/abs/2202.11749v1](http://arxiv.org/abs/2202.11749v1), Code: **[https://github.com/magamba/linear-regions](https://github.com/magamba/linear-regions)**
-- 2022-02-23, **The Smallest Scale of Hierarchy Survey (SSH). II. Extended star formation and bar-like features in the dwarf galaxy NGC 3741: recent merger or ongoing gas accretion?**, F. Annibali et.al., Paper: [http://arxiv.org/abs/2202.11734v1](http://arxiv.org/abs/2202.11734v1)
+- 2022-02-25, **The Smallest Scale of Hierarchy Survey (SSH). II. Extended star formation and bar-like features in the dwarf galaxy NGC 3741: recent merger or ongoing gas accretion?**, F. Annibali et.al., Paper: [http://arxiv.org/abs/2202.11734v2](http://arxiv.org/abs/2202.11734v2)
 - 2022-02-23, **Using Bayesian Deep Learning to infer Planet Mass from Gaps in Protoplanetary Disks**, Sayantan Auddy et.al., Paper: [http://arxiv.org/abs/2202.11730v1](http://arxiv.org/abs/2202.11730v1)
 - 2022-02-23, **Completely Quantum Neural Networks**, Steve Abel et.al., Paper: [http://arxiv.org/abs/2202.11727v1](http://arxiv.org/abs/2202.11727v1)
 - 2022-02-23, **Bayesian Model Selection, the Marginal Likelihood, and Generalization**, Sanae Lotfi et.al., Paper: [http://arxiv.org/abs/2202.11678v1](http://arxiv.org/abs/2202.11678v1), Code: **[https://github.com/sanaelotfi/bayesian_model_comparison](https://github.com/sanaelotfi/bayesian_model_comparison)**
