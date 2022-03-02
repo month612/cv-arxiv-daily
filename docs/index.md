@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
+|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
 |**2022-02-26**|**RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization**|Nikolaos Kourtzanidis et.al.|[2202.13221v1](http://arxiv.org/abs/2202.13221v1)|null|
 |**2022-02-25**|**Probabilistic Data Association for Semantic SLAM at Scale**|Elad Michael et.al.|[2202.12802v1](http://arxiv.org/abs/2202.12802v1)|null|
 |**2022-02-24**|**TwistSLAM: Constrained SLAM in Dynamic Environment**|Mathieu Gonzalez et.al.|[2202.12384v1](http://arxiv.org/abs/2202.12384v1)|null|
@@ -153,6 +155,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**SwitchHit: A Probabilistic, Complementarity-Based Switching System for Improved Visual Place Recognition in Changing Environments**|Maria Waheed et.al.|[2203.00591v1](http://arxiv.org/abs/2203.00591v1)|null|
+|**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza et.al.|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran et.al.|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
 |**2022-02-24**|**Highly-Efficient Binary Neural Networks for Visual Place Recognition**|Bruno Ferrarini et.al.|[2202.12375v1](http://arxiv.org/abs/2202.12375v1)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
@@ -267,6 +271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**|Zihao Wang et.al.|[2203.00386v1](http://arxiv.org/abs/2203.00386v1)|null|
 |**2022-02-27**|**Time-resolved Imaging of Stochastic Cascade Reactions over a Submillisecond to Second Time Range at the Angstrom Level**|Toshiki Shimizu et.al.|[2202.13332v1](http://arxiv.org/abs/2202.13332v1)|null|
 |**2022-02-16**|**Cross-view and Cross-domain Underwater Localization based on Optical Aerial and Acoustic Underwater Images**|Matheus M. Dos Santos et.al.|[2202.07817v1](http://arxiv.org/abs/2202.07817v1)|null|
 |**2022-02-14**|**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**|Seokju Cho et.al.|[2202.06817v1](http://arxiv.org/abs/2202.06817v1)|**[link](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**|
@@ -324,6 +329,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**Multi-Task Multi-Scale Learning For Outcome Prediction in 3D PET Images**|Amine Amyar et.al.|[2203.00641v1](http://arxiv.org/abs/2203.00641v1)|null|
+|**2022-03-01**|**A Neural Ordinary Differential Equation Model for Visualizing Deep Neural Network Behaviors in Multi-Parametric MRI based Glioma Segmentation**|Zhenyu Yang et.al.|[2203.00628v1](http://arxiv.org/abs/2203.00628v1)|null|
+|**2022-03-01**|**A Method Based on Deep Learning for the Detection and Characterization of Cybersecurity Incidents in Internet of Things Devices**|Jhon Alexánder Parra et.al.|[2203.00608v1](http://arxiv.org/abs/2203.00608v1)|null|
+|**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
+|**2022-03-01**|**Parameter estimation for WMTI-Watson model of white matter using encoder-decoder recurrent neural network**|Yujian Diao et.al.|[2203.00595v1](http://arxiv.org/abs/2203.00595v1)|**[link](https://github.com/mic-map/wmti-watson_dl)**|
+|**2022-03-01**|**Algorithm Design and Integration for a Robotic Apple Harvesting System**|Kaixiang Zhang et.al.|[2203.00582v1](http://arxiv.org/abs/2203.00582v1)|null|
+|**2022-03-01**|**Contrasting random and learned features in deep Bayesian linear regression**|Jacob A. Zavatone-Veth et.al.|[2203.00573v1](http://arxiv.org/abs/2203.00573v1)|null|
+|**2022-03-01**|**Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**|Sébastien Herbreteau et.al.|[2203.00570v1](http://arxiv.org/abs/2203.00570v1)|null|
+|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
+|**2022-03-01**|**DeepNet: Scaling Transformers to 1,000 Layers**|Hongyu Wang et.al.|[2203.00555v1](http://arxiv.org/abs/2203.00555v1)|null|
+|**2022-03-01**|**Global-Local Regularization Via Distributional Robustness**|Hoang Phan et.al.|[2203.00553v1](http://arxiv.org/abs/2203.00553v1)|null|
+|**2022-03-01**|**DynamicRetriever: A Pre-training Model-based IR System with Neither Sparse nor Dense Index**|Yujia Zhou et.al.|[2203.00537v1](http://arxiv.org/abs/2203.00537v1)|null|
+|**2022-03-01**|**Towards deep learning-powered IVF: A large public benchmark for morphokinetic parameter prediction**|Tristan Gomez et.al.|[2203.00531v1](http://arxiv.org/abs/2203.00531v1)|null|
+|**2022-03-01**|**Towards Creativity Characterization of Generative Models via Group-based Subset Scanning**|Celia Cintas et.al.|[2203.00523v1](http://arxiv.org/abs/2203.00523v1)|null|
+|**2022-03-01**|**Particle-based Fast Jet Simulation at the LHC with Variational Autoencoders**|Mary Touranakou et.al.|[2203.00520v1](http://arxiv.org/abs/2203.00520v1)|null|
+|**2022-03-01**|**Render-in-the-loop aerial robotics simulator: Case Study on Yield Estimation in Indoor Agriculture**|Antun Ivanovic et.al.|[2203.00490v1](http://arxiv.org/abs/2203.00490v1)|null|
+|**2022-03-01**|**Attention-based Contextual Multi-View Graph Convolutional Networks for Short-term Population Prediction**|Yuki Kubota et.al.|[2203.00489v1](http://arxiv.org/abs/2203.00489v1)|null|
+|**2022-03-01**|**DMF-Net: A decoupling-style multi-band fusion model for real-time full-band speech enhancement**|Guochen Yu et.al.|[2203.00472v1](http://arxiv.org/abs/2203.00472v1)|null|
+|**2022-03-01**|**Compliance Challenges in Forensic Image Analysis Under the Artificial Intelligence Act**|Benedikt Lorch et.al.|[2203.00469v1](http://arxiv.org/abs/2203.00469v1)|null|
+|**2022-03-01**|**JOINED : Prior Guided Multi-task Learning for Joint Optic Disc/Cup Segmentation and Fovea Detection**|Huaqing He et.al.|[2203.00461v1](http://arxiv.org/abs/2203.00461v1)|null|
+|**2022-03-01**|**Deep learning study on the Dirac eigenvalue spectrum of staggered quarks**|Hwancheol Jeong et.al.|[2203.00454v1](http://arxiv.org/abs/2203.00454v1)|null|
+|**2022-03-01**|**OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint Deep Learning for Robotics**|N. Passalis et.al.|[2203.00403v1](http://arxiv.org/abs/2203.00403v1)|null|
+|**2022-03-01**|**Deep Potentials for Materials Science**|Tongqi Wen et.al.|[2203.00393v1](http://arxiv.org/abs/2203.00393v1)|null|
+|**2022-03-01**|**Data-efficient learning of object-centric grasp preferences**|Yoann Fleytoux et.al.|[2203.00384v1](http://arxiv.org/abs/2203.00384v1)|null|
+|**2022-03-01**|**Addressing Randomness in Evaluation Protocols for Out-of-Distribution Detection**|Konstantin Kirchheim et.al.|[2203.00382v1](http://arxiv.org/abs/2203.00382v1)|null|
+|**2022-03-01**|**K2 and Spitzer phase curves of the rocky ultra-short-period planet K2-141 b hint at a tenuous rock vapor atmosphere**|S. Zieba et.al.|[2203.00370v1](http://arxiv.org/abs/2203.00370v1)|null|
+|**2022-03-01**|**Approximating a deep reinforcement learning docking agent using linear model trees**|Vilde B. Gjærum et.al.|[2203.00369v1](http://arxiv.org/abs/2203.00369v1)|null|
+|**2022-03-01**|**Explaining a Deep Reinforcement Learning Docking Agent Using Linear Model Trees with User Adapted Visualization**|Vilde B. Gjærum et.al.|[2203.00368v1](http://arxiv.org/abs/2203.00368v1)|null|
+|**2022-03-01**|**Scan-specific Self-supervised Bayesian Deep Non-linear Inversion for Undersampled MRI Reconstruction**|Andrew P. Leynes et.al.|[2203.00361v1](http://arxiv.org/abs/2203.00361v1)|null|
+|**2022-03-01**|**Affordance Learning from Play for Sample-Efficient Policy Learning**|Jessica Borja-Diaz et.al.|[2203.00352v1](http://arxiv.org/abs/2203.00352v1)|null|
+|**2022-03-01**|**Results Merging in the Patent Domain**|Vasileios Stamatis et.al.|[2203.00350v1](http://arxiv.org/abs/2203.00350v1)|null|
+|**2022-03-01**|**Enhanced Image Reconstruction From Quarter Sampling Measurements Using An Adapted Very Deep Super Resolution Network**|Simon Grosche et.al.|[2203.00336v1](http://arxiv.org/abs/2203.00336v1)|null|
+|**2022-03-01**|**Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection**|Jing Tan et.al.|[2203.00307v1](http://arxiv.org/abs/2203.00307v1)|null|
+|**2022-03-01**|**Adversarial samples for deep monocular 6D object pose estimation**|Jinlai Zhang et.al.|[2203.00302v1](http://arxiv.org/abs/2203.00302v1)|**[link](https://github.com/cuge1995/u6da)**|
+|**2022-03-01**|**RFI Identification Based On Deep-Learning]{A Robust RFI Identification For Radio Interferometry based on a Convolutional Neural Network**|Haomin Sun et.al.|[2203.00298v1](http://arxiv.org/abs/2203.00298v1)|null|
+|**2022-03-01**|**Comparison to control oscillations in high-order Finite Volume schemes via physical constraint limiters, neural networks and polynomial annihilation**|Dorian Hillebrand et.al.|[2203.00297v1](http://arxiv.org/abs/2203.00297v1)|null|
+|**2022-03-01**|**ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception**|Xiaotong Chen et.al.|[2203.00283v1](http://arxiv.org/abs/2203.00283v1)|null|
+|**2022-03-01**|**When A Conventional Filter Meets Deep Learning: Basis Composition Learning on Image Filters**|Fu Lee Wang et.al.|[2203.00258v1](http://arxiv.org/abs/2203.00258v1)|**[link](https://github.com/dengsgithub/composition-learning)**|
+|**2022-03-01**|**Sample Complexity versus Depth: An Information Theoretic Analysis**|Hong Jun Jeon et.al.|[2203.00246v1](http://arxiv.org/abs/2203.00246v1)|null|
+|**2022-03-01**|**How certain are your uncertainties?**|Luke Whitbread et.al.|[2203.00238v1](http://arxiv.org/abs/2203.00238v1)|null|
+|**2022-03-01**|**Specialized Accelerators and Compiler Flows: Replacing Accelerator APIs with a Formal Software/Hardware Interface**|Bo-Yuan Huang et.al.|[2203.00218v1](http://arxiv.org/abs/2203.00218v1)|null|
+|**2022-03-01**|**Understanding the Challenges When 3D Semantic Segmentation Faces Class Imbalanced and OOD Data**|Yancheng Pan et.al.|[2203.00214v1](http://arxiv.org/abs/2203.00214v1)|null|
+|**2022-03-01**|**Layer Adaptive Deep Neural Networks for Out-of-distribution Detection**|Haoliang Wang et.al.|[2203.00192v1](http://arxiv.org/abs/2203.00192v1)|**[link](https://github.com/haoliangwang86/la-ood)**|
+|**2022-03-01**|**NeuRecover: Regression-Controlled Repair of Deep Neural Networks with Training History**|Shogo Tokui et.al.|[2203.00191v1](http://arxiv.org/abs/2203.00191v1)|null|
+|**2022-03-01**|**Semi-supervised Deep Learning for Image Classification with Distribution Mismatch: A Survey**|Saul Calderon-Ramirez et.al.|[2203.00190v1](http://arxiv.org/abs/2203.00190v1)|null|
+|**2022-03-01**|**Efficient and Robust Entanglement Generation with Deep Reinforcement Learning for Quantum Metrology**|Yuxiang Qiu et.al.|[2203.00189v1](http://arxiv.org/abs/2203.00189v1)|null|
+|**2022-03-01**|**Robots Autonomously Detecting People: A Multimodal Deep Contrastive Learning Method Robust to Intraclass Variations**|Angus Fung et.al.|[2203.00187v1](http://arxiv.org/abs/2203.00187v1)|null|
+|**2022-03-01**|**Deep Extragalactic VIsible Legacy Survey (DEVILS): The emergence of bulges and decline of disk growth since $z = 1$**|Abdolhosein Hashemizadeh et.al.|[2203.00185v1](http://arxiv.org/abs/2203.00185v1)|null|
+|**2022-03-01**|**Exploring the Quark Transversity and the Collins Fragmentation Functions using Polarized $pp$ Collisions at STAR**|Ting Lin et.al.|[2203.00180v1](http://arxiv.org/abs/2203.00180v1)|null|
+|**2022-03-01**|**When AUC meets DRO: Optimizing Partial AUC for Deep Learning with Non-Convex Convergence Guarantee**|Dixian Zhu et.al.|[2203.00176v1](http://arxiv.org/abs/2203.00176v1)|null|
 |**2022-02-28**|**Robust Training under Label Noise by Over-parameterization**|Sheng Liu et.al.|[2202.14026v1](http://arxiv.org/abs/2202.14026v1)|**[link](https://github.com/shengliu66/sop)**|
 |**2022-02-28**|**Deep, Deep Learning with BART**|Moritz Blumenthal et.al.|[2202.14005v1](http://arxiv.org/abs/2202.14005v1)|null|
 |**2022-02-28**|**RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation**|Miquel Ferriol-Galmés et.al.|[2202.13956v1](http://arxiv.org/abs/2202.13956v1)|null|
@@ -847,6 +902,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|**[link](https://github.com/flysoaryun/lf-vio)**|
 |**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
 |**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
