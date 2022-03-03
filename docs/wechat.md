@@ -1,4 +1,4 @@
-> Updated on 2022.03.02
+> Updated on 2022.03.03
 
 ## SLAM
 
@@ -169,7 +169,7 @@
 - 2021-09-22, **Audio-Visual Grounding Referring Expression for Robotic Manipulation**, Yefei Wang et.al., Paper: [http://arxiv.org/abs/2109.10571v1](http://arxiv.org/abs/2109.10571v1)
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2022-02-27, **AirLoop: Lifelong Loop Closure Detection**, Dasong Gao et.al., Paper: [http://arxiv.org/abs/2109.08975v2](http://arxiv.org/abs/2109.08975v2), Code: **[https://github.com/wang-chen/airloop](https://github.com/wang-chen/airloop)**
-- 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
+- 2022-03-01, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v2](http://arxiv.org/abs/2109.07339v2)
 - 2021-09-14, **GPGM-SLAM: a Robust SLAM System for Unstructured Planetary Environments with Gaussian Process Gradient Maps**, Riccardo Giubilato et.al., Paper: [http://arxiv.org/abs/2109.06596v1](http://arxiv.org/abs/2109.06596v1)
 - 2022-02-10, **Spiking Neural Networks for Visual Place Recognition via Weighted Neuronal Assignments**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2109.06452v2](http://arxiv.org/abs/2109.06452v2), Code: **[https://github.com/qvpr/vprsnn](https://github.com/qvpr/vprsnn)**
 - 2021-09-13, **Monocular Camera Localization for Automated Vehicles Using Image Retrieval**, Eunhyek Joa et.al., Paper: [http://arxiv.org/abs/2109.06296v1](http://arxiv.org/abs/2109.06296v1)
@@ -297,12 +297,12 @@
 - 2022-03-01, **A Neural Ordinary Differential Equation Model for Visualizing Deep Neural Network Behaviors in Multi-Parametric MRI based Glioma Segmentation**, Zhenyu Yang et.al., Paper: [http://arxiv.org/abs/2203.00628v1](http://arxiv.org/abs/2203.00628v1)
 - 2022-03-01, **A Method Based on Deep Learning for the Detection and Characterization of Cybersecurity Incidents in Internet of Things Devices**, Jhon Alexánder Parra et.al., Paper: [http://arxiv.org/abs/2203.00608v1](http://arxiv.org/abs/2203.00608v1)
 - 2022-03-01, **Dual Embodied-Symbolic Concept Representations for Deep Learning**, Daniel T. Chang et.al., Paper: [http://arxiv.org/abs/2203.00600v1](http://arxiv.org/abs/2203.00600v1)
-- 2022-03-01, **Parameter estimation for WMTI-Watson model of white matter using encoder-decoder recurrent neural network**, Yujian Diao et.al., Paper: [http://arxiv.org/abs/2203.00595v1](http://arxiv.org/abs/2203.00595v1), Code: **[https://github.com/mic-map/wmti-watson_dl](https://github.com/mic-map/wmti-watson_dl)**
+- 2022-03-02, **Parameter estimation for WMTI-Watson model of white matter using encoder-decoder recurrent neural network**, Yujian Diao et.al., Paper: [http://arxiv.org/abs/2203.00595v2](http://arxiv.org/abs/2203.00595v2), Code: **[https://github.com/mic-map/wmti-watson_dl](https://github.com/mic-map/wmti-watson_dl)**
 - 2022-03-01, **Algorithm Design and Integration for a Robotic Apple Harvesting System**, Kaixiang Zhang et.al., Paper: [http://arxiv.org/abs/2203.00582v1](http://arxiv.org/abs/2203.00582v1)
 - 2022-03-01, **Contrasting random and learned features in deep Bayesian linear regression**, Jacob A. Zavatone-Veth et.al., Paper: [http://arxiv.org/abs/2203.00573v1](http://arxiv.org/abs/2203.00573v1)
-- 2022-03-01, **Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**, Sébastien Herbreteau et.al., Paper: [http://arxiv.org/abs/2203.00570v1](http://arxiv.org/abs/2203.00570v1)
+- 2022-03-01, **Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**, Sébastien Herbreteau et.al., Paper: [http://arxiv.org/abs/2203.00570v1](http://arxiv.org/abs/2203.00570v1), Code: **[https://github.com/sherbret/nl-ridge](https://github.com/sherbret/nl-ridge)**
 - 2022-03-01, **Descriptellation: Deep Learned Constellation Descriptors for SLAM**, Chunwei Xing et.al., Paper: [http://arxiv.org/abs/2203.00567v1](http://arxiv.org/abs/2203.00567v1)
-- 2022-03-01, **DeepNet: Scaling Transformers to 1,000 Layers**, Hongyu Wang et.al., Paper: [http://arxiv.org/abs/2203.00555v1](http://arxiv.org/abs/2203.00555v1)
+- 2022-03-01, **DeepNet: Scaling Transformers to 1,000 Layers**, Hongyu Wang et.al., Paper: [http://arxiv.org/abs/2203.00555v1](http://arxiv.org/abs/2203.00555v1), Code: **[https://github.com/microsoft/unilm](https://github.com/microsoft/unilm)**
 - 2022-03-01, **Global-Local Regularization Via Distributional Robustness**, Hoang Phan et.al., Paper: [http://arxiv.org/abs/2203.00553v1](http://arxiv.org/abs/2203.00553v1)
 - 2022-03-01, **DynamicRetriever: A Pre-training Model-based IR System with Neither Sparse nor Dense Index**, Yujia Zhou et.al., Paper: [http://arxiv.org/abs/2203.00537v1](http://arxiv.org/abs/2203.00537v1)
 - 2022-03-01, **Towards deep learning-powered IVF: A large public benchmark for morphokinetic parameter prediction**, Tristan Gomez et.al., Paper: [http://arxiv.org/abs/2203.00531v1](http://arxiv.org/abs/2203.00531v1)
@@ -310,7 +310,7 @@
 - 2022-03-01, **Particle-based Fast Jet Simulation at the LHC with Variational Autoencoders**, Mary Touranakou et.al., Paper: [http://arxiv.org/abs/2203.00520v1](http://arxiv.org/abs/2203.00520v1)
 - 2022-03-01, **Render-in-the-loop aerial robotics simulator: Case Study on Yield Estimation in Indoor Agriculture**, Antun Ivanovic et.al., Paper: [http://arxiv.org/abs/2203.00490v1](http://arxiv.org/abs/2203.00490v1)
 - 2022-03-01, **Attention-based Contextual Multi-View Graph Convolutional Networks for Short-term Population Prediction**, Yuki Kubota et.al., Paper: [http://arxiv.org/abs/2203.00489v1](http://arxiv.org/abs/2203.00489v1)
-- 2022-03-01, **DMF-Net: A decoupling-style multi-band fusion model for real-time full-band speech enhancement**, Guochen Yu et.al., Paper: [http://arxiv.org/abs/2203.00472v1](http://arxiv.org/abs/2203.00472v1)
+- 2022-03-02, **DMF-Net: A decoupling-style multi-band fusion model for real-time full-band speech enhancement**, Guochen Yu et.al., Paper: [http://arxiv.org/abs/2203.00472v2](http://arxiv.org/abs/2203.00472v2)
 - 2022-03-01, **Compliance Challenges in Forensic Image Analysis Under the Artificial Intelligence Act**, Benedikt Lorch et.al., Paper: [http://arxiv.org/abs/2203.00469v1](http://arxiv.org/abs/2203.00469v1)
 - 2022-03-01, **JOINED : Prior Guided Multi-task Learning for Joint Optic Disc/Cup Segmentation and Fovea Detection**, Huaqing He et.al., Paper: [http://arxiv.org/abs/2203.00461v1](http://arxiv.org/abs/2203.00461v1)
 - 2022-03-01, **Deep learning study on the Dirac eigenvalue spectrum of staggered quarks**, Hwancheol Jeong et.al., Paper: [http://arxiv.org/abs/2203.00454v1](http://arxiv.org/abs/2203.00454v1)
@@ -326,7 +326,7 @@
 - 2022-03-01, **Results Merging in the Patent Domain**, Vasileios Stamatis et.al., Paper: [http://arxiv.org/abs/2203.00350v1](http://arxiv.org/abs/2203.00350v1)
 - 2022-03-01, **Enhanced Image Reconstruction From Quarter Sampling Measurements Using An Adapted Very Deep Super Resolution Network**, Simon Grosche et.al., Paper: [http://arxiv.org/abs/2203.00336v1](http://arxiv.org/abs/2203.00336v1)
 - 2022-03-01, **Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection**, Jing Tan et.al., Paper: [http://arxiv.org/abs/2203.00307v1](http://arxiv.org/abs/2203.00307v1)
-- 2022-03-01, **Adversarial samples for deep monocular 6D object pose estimation**, Jinlai Zhang et.al., Paper: [http://arxiv.org/abs/2203.00302v1](http://arxiv.org/abs/2203.00302v1), Code: **[https://github.com/cuge1995/u6da](https://github.com/cuge1995/u6da)**
+- 2022-03-01, **Adversarial samples for deep monocular 6D object pose estimation**, Jinlai Zhang et.al., Paper: [http://arxiv.org/abs/2203.00302v1](http://arxiv.org/abs/2203.00302v1)
 - 2022-03-01, **RFI Identification Based On Deep-Learning]{A Robust RFI Identification For Radio Interferometry based on a Convolutional Neural Network**, Haomin Sun et.al., Paper: [http://arxiv.org/abs/2203.00298v1](http://arxiv.org/abs/2203.00298v1)
 - 2022-03-01, **Comparison to control oscillations in high-order Finite Volume schemes via physical constraint limiters, neural networks and polynomial annihilation**, Dorian Hillebrand et.al., Paper: [http://arxiv.org/abs/2203.00297v1](http://arxiv.org/abs/2203.00297v1)
 - 2022-03-01, **ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception**, Xiaotong Chen et.al., Paper: [http://arxiv.org/abs/2203.00283v1](http://arxiv.org/abs/2203.00283v1)
@@ -884,7 +884,7 @@
 - 2021-10-21, **Robust Edge-Direct Visual Odometry based on CNN edge detection and Shi-Tomasi corner optimization**, Kengdong Lu et.al., Paper: [http://arxiv.org/abs/2110.11064v1](http://arxiv.org/abs/2110.11064v1)
 - 2021-10-13, **Attentive and Contrastive Learning for Joint Depth and Motion Field Estimation**, Seokju Lee et.al., Paper: [http://arxiv.org/abs/2110.06853v1](http://arxiv.org/abs/2110.06853v1)
 - 2021-09-17, **LOF: Structure-Aware Line Tracking based on Optical Flow**, Meixiang Quan et.al., Paper: [http://arxiv.org/abs/2109.08466v1](http://arxiv.org/abs/2109.08466v1)
-- 2021-09-15, **MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints**, Cong Wang et.al., Paper: [http://arxiv.org/abs/2109.06768v2](http://arxiv.org/abs/2109.06768v2)
+- 2022-03-02, **MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints**, Cong Wang et.al., Paper: [http://arxiv.org/abs/2109.06768v3](http://arxiv.org/abs/2109.06768v3)
 - 2021-09-13, **LiDAR Odometry Methodologies for Autonomous Driving: A Survey**, Nikhil Jonnavithula et.al., Paper: [http://arxiv.org/abs/2109.06120v1](http://arxiv.org/abs/2109.06120v1)
 - 2021-09-12, **Towards Robust Monocular Visual Odometry for Flying Robots on Planetary Missions**, Martin Wudenka et.al., Paper: [http://arxiv.org/abs/2109.05509v1](http://arxiv.org/abs/2109.05509v1), Code: **[https://github.com/dlr-rm/granite](https://github.com/dlr-rm/granite)**
 - 2021-09-10, **Error State Extended Kalman Filter Multi-Sensor Fusion for Unmanned Aerial Vehicle Localization in GPS and Magnetometer Denied Indoor Environments**, Lovro Markovic et.al., Paper: [http://arxiv.org/abs/2109.04908v1](http://arxiv.org/abs/2109.04908v1)
