@@ -1,8 +1,8 @@
-> Updated on 2022.03.03
+> Updated on 2022.03.04
 
 ## SLAM
 
-- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1)
+- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
 - 2022-03-02, **Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2203.00851v1](http://arxiv.org/abs/2203.00851v1)
 - 2022-03-01, **Descriptellation: Deep Learned Constellation Descriptors for SLAM**, Chunwei Xing et.al., Paper: [http://arxiv.org/abs/2203.00567v1](http://arxiv.org/abs/2203.00567v1)
 - 2022-03-01, **Collaborative Robot Mapping using Spectral Graph Analysis**, Lukas Bernreiter et.al., Paper: [http://arxiv.org/abs/2203.00308v1](http://arxiv.org/abs/2203.00308v1)
@@ -148,7 +148,7 @@
 - 2022-01-15, **A Critical Analysis of Image-based Camera Pose Estimation Techniques**, Meng Xu et.al., Paper: [http://arxiv.org/abs/2201.05816v1](http://arxiv.org/abs/2201.05816v1)
 - 2022-01-14, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v1](http://arxiv.org/abs/2201.05386v1), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
 - 2022-01-10, **Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**, M. Usman Maqbool Bhutta et.al., Paper: [http://arxiv.org/abs/2201.03212v1](http://arxiv.org/abs/2201.03212v1)
-- 2022-01-06, **TransVPR: Transformer-based place recognition with multi-level attention aggregation**, Ruotong Wang et.al., Paper: [http://arxiv.org/abs/2201.02001v1](http://arxiv.org/abs/2201.02001v1)
+- 2022-03-03, **TransVPR: Transformer-based place recognition with multi-level attention aggregation**, Ruotong Wang et.al., Paper: [http://arxiv.org/abs/2201.02001v2](http://arxiv.org/abs/2201.02001v2)
 - 2021-12-23, **NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**, Tony Ng et.al., Paper: [http://arxiv.org/abs/2112.12785v1](http://arxiv.org/abs/2112.12785v1)
 - 2021-12-22, **Ghost-dil-NetVLAD: A Lightweight Neural Network for Visual Place Recognition**, Qingyuan Gong et.al., Paper: [http://arxiv.org/abs/2112.11679v1](http://arxiv.org/abs/2112.11679v1)
 - 2021-12-16, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v1](http://arxiv.org/abs/2112.09081v1), Code: **[https://github.com/topo-epfl/crossloc](https://github.com/topo-epfl/crossloc)**
@@ -313,9 +313,9 @@
 - 2022-03-02, **Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings**, Hengyi Wang et.al., Paper: [http://arxiv.org/abs/2203.01192v1](http://arxiv.org/abs/2203.01192v1)
 - 2022-03-02, **Model-free Neural Lyapunov Control for Safe Robot Navigation**, Zikang Xiong et.al., Paper: [http://arxiv.org/abs/2203.01190v1](http://arxiv.org/abs/2203.01190v1)
 - 2022-03-02, **Deep-SWIM: A few-shot learning approach to classify Solar WInd Magnetic field structures**, Hala Lamdouar et.al., Paper: [http://arxiv.org/abs/2203.01184v1](http://arxiv.org/abs/2203.01184v1)
-- 2022-03-02, **DCT-Former: Efficient Self-Attention withDiscrete Cosine Transform**, Carmelo Scribano et.al., Paper: [http://arxiv.org/abs/2203.01178v1](http://arxiv.org/abs/2203.01178v1)
+- 2022-03-03, **DCT-Former: Efficient Self-Attention with Discrete Cosine Transform**, Carmelo Scribano et.al., Paper: [http://arxiv.org/abs/2203.01178v2](http://arxiv.org/abs/2203.01178v2)
 - 2022-03-02, **Detecting Adversarial Perturbations in Multi-Task Perception**, Marvin Klingner et.al., Paper: [http://arxiv.org/abs/2203.01177v1](http://arxiv.org/abs/2203.01177v1)
-- 2022-03-02, **Rethinking Pretraining as a Bridge from ANNs to SNNs**, Yihan Lin et.al., Paper: [http://arxiv.org/abs/2203.01158v1](http://arxiv.org/abs/2203.01158v1)
+- 2022-03-03, **Rethinking Pretraining as a Bridge from ANNs to SNNs**, Yihan Lin et.al., Paper: [http://arxiv.org/abs/2203.01158v2](http://arxiv.org/abs/2203.01158v2)
 - 2022-03-02, **Engineering the Neural Automatic Passenger Counter**, Nico Jahn et.al., Paper: [http://arxiv.org/abs/2203.01156v1](http://arxiv.org/abs/2203.01156v1)
 - 2022-03-02, **Improving Lidar-Based Semantic Segmentation of Top-View Grid Maps by Learning Features in Complementary Representations**, Frank Bieder et.al., Paper: [http://arxiv.org/abs/2203.01151v1](http://arxiv.org/abs/2203.01151v1)
 - 2022-03-02, **Machine-learning interatomic potential for molecular dynamics simulation of ferroelectric KNbO3 perovskite**, Hao-Cheng Thong et.al., Paper: [http://arxiv.org/abs/2203.01117v1](http://arxiv.org/abs/2203.01117v1)
@@ -339,7 +339,7 @@
 - 2022-03-02, **TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration**, Kunyu Peng et.al., Paper: [http://arxiv.org/abs/2203.00927v1](http://arxiv.org/abs/2203.00927v1)
 - 2022-03-02, **Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence**, Zhihong Pan et.al., Paper: [http://arxiv.org/abs/2203.00911v1](http://arxiv.org/abs/2203.00911v1)
 - 2022-03-02, **Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem**, Yong Liang Goh et.al., Paper: [http://arxiv.org/abs/2203.00903v1](http://arxiv.org/abs/2203.00903v1)
-- 2022-03-02, **Machine learning based lens-free imaging technique for field-portable cytometry**, Rajkumar Vaghashiya et.al., Paper: [http://arxiv.org/abs/2203.00899v1](http://arxiv.org/abs/2203.00899v1)
+- 2022-03-03, **Machine learning based lens-free imaging technique for field-portable cytometry**, Rajkumar Vaghashiya et.al., Paper: [http://arxiv.org/abs/2203.00899v2](http://arxiv.org/abs/2203.00899v2)
 - 2022-03-02, **A Learning Based Framework for Handling Uncertain Lead Times in Multi-Product Inventory Management**, Hardik Meisheri et.al., Paper: [http://arxiv.org/abs/2203.00885v1](http://arxiv.org/abs/2203.00885v1)
 - 2022-03-02, **Hybrid Optimized Deep Convolution Neural Network based Learning Model for Object Detection**, Venkata Beri et.al., Paper: [http://arxiv.org/abs/2203.00869v1](http://arxiv.org/abs/2203.00869v1)
 - 2022-03-02, **Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild**, Xingshuo Han et.al., Paper: [http://arxiv.org/abs/2203.00858v1](http://arxiv.org/abs/2203.00858v1)
@@ -920,7 +920,7 @@
 
 - 2022-03-02, **Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**, Qing Cheng et.al., Paper: [http://arxiv.org/abs/2203.01087v1](http://arxiv.org/abs/2203.01087v1)
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
-- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1)
+- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
 - 2022-03-01, **Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**, Ling Gao et.al., Paper: [http://arxiv.org/abs/2203.00291v1](http://arxiv.org/abs/2203.00291v1)
 - 2022-02-25, **LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2202.12613v1](http://arxiv.org/abs/2202.12613v1), Code: **[https://github.com/flysoaryun/lf-vio](https://github.com/flysoaryun/lf-vio)**
 - 2022-02-05, **DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2202.02556v1](http://arxiv.org/abs/2202.02556v1)
