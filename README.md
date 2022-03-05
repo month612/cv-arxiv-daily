@@ -323,7 +323,7 @@
 |**2022-03-03**|**A study on the distribution of social biases in self-supervised learning visual models**|Kirill Sirotkin et.al.|[2203.01854v1](http://arxiv.org/abs/2203.01854v1)|null|
 |**2022-03-03**|**T-Cal: An optimal test for the calibration of predictive models**|Donghwan Lee et.al.|[2203.01850v1](http://arxiv.org/abs/2203.01850v1)|**[link](https://github.com/dh7401/t-cal)**|
 |**2022-03-03**|**LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network**|Zhigang Jiang et.al.|[2203.01824v1](http://arxiv.org/abs/2203.01824v1)|**[link](https://github.com/zhigangjiang/LGT-Net)**|
-|**2022-03-03**|**Coupling Deep Learning with Full Waveform Inversion**|Wen Ding et.al.|[2203.01799v1](http://arxiv.org/abs/2203.01799v1)|null|
+|**2022-03-03**|**Coupling Deep Learning with Full Waveform Inversion**|Wen Ding et.al.|[2203.01799v1](http://arxiv.org/abs/2203.01799v1)|**[link](https://github.com/wending1/fwi_deep_learning)**|
 |**2022-03-03**|**Force density functional theory in- and out-of-equilibrium**|S. M. Tschopp et.al.|[2203.01795v1](http://arxiv.org/abs/2203.01795v1)|null|
 |**2022-03-03**|**Deep Learning-Based Joint Control of Acoustic Echo Cancellation, Beamforming and Postfiltering**|Thomas Haubner et.al.|[2203.01793v1](http://arxiv.org/abs/2203.01793v1)|null|
 |**2022-03-03**|**On Learning Contrastive Representations for Learning with Noisy Labels**|Li Yi et.al.|[2203.01785v1](http://arxiv.org/abs/2203.01785v1)|null|
@@ -351,7 +351,7 @@
 |**2022-03-03**|**A Characterization of Multiclass Learnability**|Nataly Brukhim et.al.|[2203.01550v1](http://arxiv.org/abs/2203.01550v1)|null|
 |**2022-03-03**|**Rethinking the role of normalization and residual blocks for spiking neural networks**|Shin-ichi Ikegawa et.al.|[2203.01544v1](http://arxiv.org/abs/2203.01544v1)|null|
 |**2022-03-03**|**Semi-supervised Learning using Robust Loss**|Wenhui Cui et.al.|[2203.01524v1](http://arxiv.org/abs/2203.01524v1)|null|
-|**2022-03-03**|**BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning**|Zhi Hou et.al.|[2203.01522v1](http://arxiv.org/abs/2203.01522v1)|null|
+|**2022-03-03**|**BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning**|Zhi Hou et.al.|[2203.01522v1](http://arxiv.org/abs/2203.01522v1)|**[link](https://github.com/zhihou7/batchformer)**|
 |**2022-03-03**|**Physics-informed neural network solution of thermo-hydro-mechanical (THM) processes in porous media**|Danial Amini et.al.|[2203.01514v1](http://arxiv.org/abs/2203.01514v1)|null|
 |**2022-03-03**|**Large-scale Optimization of Partial AUC in a Range of False Positive Rates**|Yao Yao et.al.|[2203.01505v1](http://arxiv.org/abs/2203.01505v1)|null|
 |**2022-03-03**|**Phased array beamforming methods for powering biomedical ultrasonic implants**|Braeden C. Benedict et.al.|[2203.01493v1](http://arxiv.org/abs/2203.01493v1)|null|
