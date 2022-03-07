@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai et.al.|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|**[link](https://github.com/ramdrop/stun)**|
-|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|null|
+|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
 |**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
 |**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
@@ -159,7 +159,7 @@
 |**2022-03-03**|**TransVPR: Transformer-based place recognition with multi-level attention aggregation**|Ruotong Wang et.al.|[2201.02001v2](http://arxiv.org/abs/2201.02001v2)|null|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
 |**2021-12-22**|**Ghost-dil-NetVLAD: A Lightweight Neural Network for Visual Place Recognition**|Qingyuan Gong et.al.|[2112.11679v1](http://arxiv.org/abs/2112.11679v1)|null|
-|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|**[link](https://github.com/topo-epfl/crossloc)**|
+|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
 |**2021-12-09**|**Unsupervised Complementary-aware Multi-process Fusion for Visual Place Recognition**|Stephen Hausler et.al.|[2112.04701v1](http://arxiv.org/abs/2112.04701v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang et.al.|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-11-29**|**MIXER: A Principled Framework for Multimodal, Multiway Data Association**|Parker C. Lusk et.al.|[2111.14990v1](http://arxiv.org/abs/2111.14990v1)|null|
@@ -179,7 +179,7 @@
 |**2021-09-22**|**A Benchmark Comparison of Visual Place Recognition Techniques for Resource-Constrained Embedded Platforms**|Rose Power et.al.|[2109.11002v1](http://arxiv.org/abs/2109.11002v1)|null|
 |**2021-09-22**|**An Efficient and Scalable Collection of Fly-inspired Voting Units for Visual Place Recognition in Changing Environments**|Bruno Arcanjo et.al.|[2109.10986v1](http://arxiv.org/abs/2109.10986v1)|null|
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang et.al.|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
-|**2021-09-20**|**Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v1](http://arxiv.org/abs/2109.09884v1)|null|
+|**2022-03-04**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v2](http://arxiv.org/abs/2109.09884v2)|null|
 |**2022-02-27**|**AirLoop: Lifelong Loop Closure Detection**|Dasong Gao et.al.|[2109.08975v2](http://arxiv.org/abs/2109.08975v2)|**[link](https://github.com/wang-chen/airloop)**|
 |**2022-03-01**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez et.al.|[2109.07339v2](http://arxiv.org/abs/2109.07339v2)|null|
 |**2021-09-14**|**GPGM-SLAM: a Robust SLAM System for Unstructured Planetary Environments with Gaussian Process Gradient Maps**|Riccardo Giubilato et.al.|[2109.06596v1](http://arxiv.org/abs/2109.06596v1)|null|
@@ -311,6 +311,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**Learning from Label Proportions by Learning with Label Noise**|Jianxin Zhang et.al.|[2203.02496v1](http://arxiv.org/abs/2203.02496v1)|null|
+|**2022-03-04**|**The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods**|Thomas G. Dietterich et.al.|[2203.02486v1](http://arxiv.org/abs/2203.02486v1)|null|
+|**2022-03-04**|**Evaluation of Portable Programming Models to Accelerate LArTPC Detector Simulations**|Zhihua Dong et.al.|[2203.02479v1](http://arxiv.org/abs/2203.02479v1)|null|
+|**2022-03-04**|**What is a random surface?**|Scott Sheffield et.al.|[2203.02470v1](http://arxiv.org/abs/2203.02470v1)|null|
+|**2022-03-04**|**AutoMap: Automatic Medical Code Mapping for Clinical Prediction Model Deployment**|Zhenbang Wu et.al.|[2203.02446v1](http://arxiv.org/abs/2203.02446v1)|null|
+|**2022-03-04**|**Sparse InSAR Data 3D Inpainting for Ground Deformation Detection Along the Rail Corridor**|Odysseas Pappas et.al.|[2203.02407v1](http://arxiv.org/abs/2203.02407v1)|null|
+|**2022-03-04**|**On the Convergence Analysis of Aggregated Heavy-Ball Method**|Marina Danilova et.al.|[2203.02396v1](http://arxiv.org/abs/2203.02396v1)|null|
+|**2022-03-04**|**Simultaneous Alignment and Surface Regression Using Hybrid 2D-3D Networks for 3D Coherent Layer Segmentation of Retina OCT Images**|Hong Liu et.al.|[2203.02390v1](http://arxiv.org/abs/2203.02390v1)|**[link](https://github.com/ccarliu/Retinal-OCT-LayerSeg)**|
+|**2022-03-04**|**Learning Goal-Oriented Non-Prehensile Pushing in Cluttered Scenes**|Nils Dengler et.al.|[2203.02389v1](http://arxiv.org/abs/2203.02389v1)|null|
+|**2022-03-04**|**AutoMO-Mixer: An automated multi-objective Mixer model for balanced, safe and robust prediction in medicine**|Xi Chen et.al.|[2203.02384v1](http://arxiv.org/abs/2203.02384v1)|null|
+|**2022-03-04**|**Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory Planning**|Max Lodel et.al.|[2203.02381v1](http://arxiv.org/abs/2203.02381v1)|null|
+|**2022-03-04**|**String modes, propagators and loops on fuzzy spaces**|Harold C. Steinacker et.al.|[2203.02376v1](http://arxiv.org/abs/2203.02376v1)|null|
+|**2022-03-04**|**Uncertainty Estimation for Heatmap-based Landmark Localization**|Lawrence Schobs et.al.|[2203.02351v1](http://arxiv.org/abs/2203.02351v1)|**[link](https://github.com/pykale/pykale)**|
+|**2022-03-04**|**Multifunctional acoustic holography based on compact acoustic geometric-phase meta-array**|Bingyi Liu et.al.|[2203.02313v1](http://arxiv.org/abs/2203.02313v1)|null|
+|**2022-03-04**|**PercepNet+: A Phase and SNR Aware PercepNet for Real-Time Speech Enhancement**|Xiaofeng Ge et.al.|[2203.02263v1](http://arxiv.org/abs/2203.02263v1)|null|
+|**2022-03-04**|**Detecting GAN-generated Images by Orthogonal Training of Multiple CNNs**|Sara Mandelli et.al.|[2203.02246v1](http://arxiv.org/abs/2203.02246v1)|**[link](https://github.com/polimi-ispl/gan-image-detection)**|
+|**2022-03-04**|**IISERB Brains at SemEval 2022 Task 6: A Deep-learning Framework to Identify Intended Sarcasm in English**|Tanuj Singh Shekhawat et.al.|[2203.02244v1](http://arxiv.org/abs/2203.02244v1)|**[link](https://github.com/manojmahan/isarcasmeval-intended-sarcasm-detection-in-english-main)**|
+|**2022-03-04**|**Empirical Structure Models of Uranus and Neptune**|Benno A. Neuenschwander et.al.|[2203.02233v1](http://arxiv.org/abs/2203.02233v1)|null|
+|**2022-03-04**|**Cloud-Edge Training Architecture for Sim-to-Real Deep Reinforcement Learning**|Hongpeng Cao et.al.|[2203.02230v1](http://arxiv.org/abs/2203.02230v1)|null|
+|**2022-03-04**|**Planetary Genealogy**|Christoph Burkhardt et.al.|[2203.02203v1](http://arxiv.org/abs/2203.02203v1)|null|
+|**2022-03-04**|**Carbon Footprint of Selecting and Training Deep Learning Models for Medical Image Analysis**|Raghavendra Selvan et.al.|[2203.02202v1](http://arxiv.org/abs/2203.02202v1)|null|
+|**2022-03-04**|**Data Augmentation Empowered Neural Precoding for Multiuser MIMO with MMSE Model**|Shaoqing Zhang et.al.|[2203.02196v1](http://arxiv.org/abs/2203.02196v1)|null|
+|**2022-03-04**|**Time-to-Label: Temporal Consistency for Self-Supervised Monocular 3D Object Detection**|Issa Mouawad et.al.|[2203.02193v1](http://arxiv.org/abs/2203.02193v1)|null|
+|**2022-03-04**|**A Practical Guide to the Partition Function of Atoms and Ions**|P. Alimohamadi et.al.|[2203.02188v1](http://arxiv.org/abs/2203.02188v1)|null|
+|**2022-03-04**|**HV-Net: Hypervolume Approximation based on DeepSets**|Ke Shang et.al.|[2203.02185v1](http://arxiv.org/abs/2203.02185v1)|null|
+|**2022-03-04**|**Passive and Active Learning of Driver Behavior from Electric Vehicles**|Federica Comuni et.al.|[2203.02179v1](http://arxiv.org/abs/2203.02179v1)|null|
+|**2022-03-04**|**MF-Hovernet: An Extension of Hovernet for Colon Nuclei Identification and Counting (CoNiC) Challenge**|Vi Thi-Tuong Vo et.al.|[2203.02161v1](http://arxiv.org/abs/2203.02161v1)|null|
+|**2022-03-04**|**HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging**|Xiaowan Hu et.al.|[2203.02149v1](http://arxiv.org/abs/2203.02149v1)|null|
+|**2022-03-04**|**On Uses of Van der Waerden Test: A Graphical Approach**|Elsayed Elamir et.al.|[2203.02148v1](http://arxiv.org/abs/2203.02148v1)|null|
+|**2022-03-04**|**Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning**|Soheil Esmaeilzadeh et.al.|[2203.02124v1](http://arxiv.org/abs/2203.02124v1)|null|
+|**2022-03-04**|**Adversarial Patterns: Building Robust Android Malware Classifiers**|Dipkamal Bhusal et.al.|[2203.02121v1](http://arxiv.org/abs/2203.02121v1)|null|
+|**2022-03-04**|**FairPrune: Achieving Fairness Through Pruning for Dermatological Disease Diagnosis**|Yawen Wu et.al.|[2203.02110v1](http://arxiv.org/abs/2203.02110v1)|null|
+|**2022-03-04**|**Contrastive Graph Convolutional Networks for Hardware Trojan Detection in Third Party IP Cores**|Nikhil Muralidhar et.al.|[2203.02095v1](http://arxiv.org/abs/2203.02095v1)|null|
+|**2022-03-04**|**Deep Lexical Hypothesis: Identifying personality structure in natural language**|Andrew Cutler et.al.|[2203.02092v1](http://arxiv.org/abs/2203.02092v1)|null|
+|**2022-03-04**|**TransMUSE: Transferable Traffic Prediction in MUlti-Service EdgeNetworks**|Luyang Xu et.al.|[2203.02083v1](http://arxiv.org/abs/2203.02083v1)|null|
+|**2022-03-04**|**An Efficient Subpopulation-based Membership Inference Attack**|Shahbaz Rezaei et.al.|[2203.02080v1](http://arxiv.org/abs/2203.02080v1)|null|
+|**2022-03-03**|**Interpretable Latent Variables in Deep State Space Models**|Haoxuan Wu et.al.|[2203.02057v1](http://arxiv.org/abs/2203.02057v1)|null|
+|**2022-03-03**|**Deep Latent-Variable Models for Text Generation**|Xiaoyu Shen et.al.|[2203.02055v1](http://arxiv.org/abs/2203.02055v1)|null|
+|**2022-03-03**|**Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning**|Weixin Liang et.al.|[2203.02053v1](http://arxiv.org/abs/2203.02053v1)|null|
+|**2022-03-03**|**Post-Error Correction for Quantum Annealing Processor using Reinforcement Learning**|Tomasz Śmierzchalski et.al.|[2203.02030v1](http://arxiv.org/abs/2203.02030v1)|null|
+|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v1](http://arxiv.org/abs/2203.01993v1)|null|
+|**2022-03-03**|**Enhanced physics-constrained deep neural networks for modeling vanadium redox flow battery**|QiZhi He et.al.|[2203.01985v1](http://arxiv.org/abs/2203.01985v1)|null|
+|**2022-03-03**|**Implicit Kinematic Policies: Unifying Joint and Cartesian Action Spaces in End-to-End Robot Learning**|Aditya Ganapathi et.al.|[2203.01983v1](http://arxiv.org/abs/2203.01983v1)|null|
+|**2022-03-03**|**Exploiting a future galactic supernova to probe neutrino magnetic moments**|Sudip Jana et.al.|[2203.01950v1](http://arxiv.org/abs/2203.01950v1)|null|
 |**2022-03-03**|**Label-Only Model Inversion Attacks via Boundary Repulsion**|Mostafa Kahla et.al.|[2203.01925v1](http://arxiv.org/abs/2203.01925v1)|null|
 |**2022-03-03**|**Recovering 3D Human Mesh from Monocular Images: A Survey**|Yating Tian et.al.|[2203.01923v1](http://arxiv.org/abs/2203.01923v1)|**[link](https://github.com/tinatiansjz/hmr-survey)**|
 |**2022-03-03**|**Investigating the limited performance of a deep-learning-based SPECT denoising approach: An observer-study-based characterization**|Zitong Yu et.al.|[2203.01918v1](http://arxiv.org/abs/2203.01918v1)|null|
@@ -984,7 +1028,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|null|
+|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
