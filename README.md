@@ -1,4 +1,4 @@
-## Updated on 2022.03.07
+## Updated on 2022.03.08
 
 ## SLAM
 
@@ -179,7 +179,7 @@
 |**2021-09-22**|**A Benchmark Comparison of Visual Place Recognition Techniques for Resource-Constrained Embedded Platforms**|Rose Power et.al.|[2109.11002v1](http://arxiv.org/abs/2109.11002v1)|null|
 |**2021-09-22**|**An Efficient and Scalable Collection of Fly-inspired Voting Units for Visual Place Recognition in Changing Environments**|Bruno Arcanjo et.al.|[2109.10986v1](http://arxiv.org/abs/2109.10986v1)|null|
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang et.al.|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
-|**2022-03-04**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v2](http://arxiv.org/abs/2109.09884v2)|null|
+|**2022-03-04**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v2](http://arxiv.org/abs/2109.09884v2)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
 |**2022-02-27**|**AirLoop: Lifelong Loop Closure Detection**|Dasong Gao et.al.|[2109.08975v2](http://arxiv.org/abs/2109.08975v2)|**[link](https://github.com/wang-chen/airloop)**|
 |**2022-03-01**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez et.al.|[2109.07339v2](http://arxiv.org/abs/2109.07339v2)|null|
 |**2021-09-14**|**GPGM-SLAM: a Robust SLAM System for Unstructured Planetary Environments with Gaussian Process Gradient Maps**|Riccardo Giubilato et.al.|[2109.06596v1](http://arxiv.org/abs/2109.06596v1)|null|
@@ -360,7 +360,7 @@
 |**2022-03-03**|**Investigating the limited performance of a deep-learning-based SPECT denoising approach: An observer-study-based characterization**|Zitong Yu et.al.|[2203.01918v1](http://arxiv.org/abs/2203.01918v1)|null|
 |**2022-03-03**|**Bayesian Spillover Graphs for Dynamic Networks**|Grace Deng et.al.|[2203.01912v1](http://arxiv.org/abs/2203.01912v1)|null|
 |**2022-03-03**|**ROCT-Net: A new ensemble deep convolutional model with improved spatial resolution learning for detecting common diseases from retinal OCT images**|Mohammad Rahimzadeh et.al.|[2203.01883v1](http://arxiv.org/abs/2203.01883v1)|**[link](https://github.com/mr7495/oct-classification)**|
-|**2022-03-03**|**DenseUNets with feedback non-local attention for the segmentation of specular microscopy images of the corneal endothelium with Fuchs dystrophy**|Juan P. Vigueras-Guillén et.al.|[2203.01882v1](http://arxiv.org/abs/2203.01882v1)|**[link](https://github.com/jpviguerasguillen/feedback-non-local-attention_fNLA)**|
+|**2022-03-05**|**DenseUNets with feedback non-local attention for the segmentation of specular microscopy images of the corneal endothelium with Fuchs dystrophy**|Juan P. Vigueras-Guillén et.al.|[2203.01882v2](http://arxiv.org/abs/2203.01882v2)|**[link](https://github.com/jpviguerasguillen/feedback-non-local-attention_fNLA)**|
 |**2022-03-03**|**Thermodynamics-informed graph neural networks**|Quercus Hernández et.al.|[2203.01874v1](http://arxiv.org/abs/2203.01874v1)|null|
 |**2022-03-04**|**KamNet: An Integrated Spatiotemporal Deep Neural Network for Rare Event Search in KamLAND-Zen**|A. Li et.al.|[2203.01870v2](http://arxiv.org/abs/2203.01870v2)|null|
 |**2022-03-03**|**Jupiter's inhomogeneous envelope**|Y. Miguel et.al.|[2203.01866v1](http://arxiv.org/abs/2203.01866v1)|null|
