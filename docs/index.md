@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
 |**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma et.al.|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
 |**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba et.al.|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
@@ -344,6 +345,51 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**|Vincent Lim et.al.|[2203.04272v1](http://arxiv.org/abs/2203.04272v1)|null|
+|**2022-03-08**|**The action of HRT-areas as operators in semiclassical gravity**|Molly Kaplan et.al.|[2203.04270v1](http://arxiv.org/abs/2203.04270v1)|null|
+|**2022-03-08**|**$^{139}$La NMR investigation of the interplay between the lattice, charge, and spin dynamics in charge ordered high $T_c$ cuprate La$_{1.875}$Ba$_{0.125}$CuO$_{4}$**|P. M. Singer et.al.|[2203.04265v1](http://arxiv.org/abs/2203.04265v1)|null|
+|**2022-03-08**|**Fast and selective super-resolution ultrasound in vivo with sono-switchable nanodroplets**|Kai Riemer et.al.|[2203.04263v1](http://arxiv.org/abs/2203.04263v1)|null|
+|**2022-03-08**|**Learning based Age of Information Minimization in UAV-relayed IoT Networks**|Biplav Choudhury et.al.|[2203.04227v1](http://arxiv.org/abs/2203.04227v1)|null|
+|**2022-03-08**|**Trustable Co-label Learning from Multiple Noisy Annotators**|Shikun Li et.al.|[2203.04199v1](http://arxiv.org/abs/2203.04199v1)|**[link](https://github.com/shikunli/tcl)**|
+|**2022-03-08**|**Selective-Supervised Contrastive Learning with Noisy Labels**|Shikun Li et.al.|[2203.04181v1](http://arxiv.org/abs/2203.04181v1)|**[link](https://github.com/shikunli/sel-cl)**|
+|**2022-03-08**|**Occupancy Map Prediction for Improved Indoor Robot Navigation**|Vishnu Dutt Sharma et.al.|[2203.04177v1](http://arxiv.org/abs/2203.04177v1)|null|
+|**2022-03-08**|**Easy Ensemble: Simple Deep Ensemble Learning for Sensor-Based Human Activity Recognition**|Tatsuhito Hasegawa et.al.|[2203.04153v1](http://arxiv.org/abs/2203.04153v1)|**[link](https://github.com/t-hasegawa-fu/easy-ensemble)**|
+|**2022-03-08**|**YouTube-GDD: A challenging gun detection dataset with rich contextual information**|Yongxiang Gu et.al.|[2203.04129v1](http://arxiv.org/abs/2203.04129v1)|**[link](https://github.com/ucas-gyx/youtube-gdd)**|
+|**2022-03-08**|**An Efficient Polyp Segmentation Network**|Tugberk Erol et.al.|[2203.04118v1](http://arxiv.org/abs/2203.04118v1)|null|
+|**2022-03-08**|**Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework**|Mehwish Ghafoor et.al.|[2203.04113v1](http://arxiv.org/abs/2203.04113v1)|null|
+|**2022-03-08**|**Plumeria at SemEval-2022 Task 6: Robust Approaches for Sarcasm Detection for English and Arabic Using Transformers and Data Augmentation**|Shubham Kumar Nigam et.al.|[2203.04111v1](http://arxiv.org/abs/2203.04111v1)|null|
+|**2022-03-08**|**Status of deep subbarrier $\mathbf{{}^{12}{\rm C}+{}^{12}{\rm C}}$ fusion and advancing the Trojan horse method**|A. M. Mukhamedzhanov et.al.|[2203.04094v1](http://arxiv.org/abs/2203.04094v1)|null|
+|**2022-03-08**|**Analyzing General-Purpose Deep-Learning Detection and Segmentation Models with Images from a Lidar as a Camera Sensor**|Yu Xianjia et.al.|[2203.04064v1](http://arxiv.org/abs/2203.04064v1)|null|
+|**2022-03-08**|**Learning to Erase the Bayer-Filter to See in the Dark**|Xingbo Dong et.al.|[2203.04042v1](http://arxiv.org/abs/2203.04042v1)|null|
+|**2022-03-08**|**Deep Multi-Branch Aggregation Network for Real-Time Semantic Segmentation in Street Scenes**|Xi Weng et.al.|[2203.04037v1](http://arxiv.org/abs/2203.04037v1)|null|
+|**2022-03-08**|**Stage-Aware Feature Alignment Network for Real-Time Semantic Segmentation of Street Scenes**|Xi Weng et.al.|[2203.04031v1](http://arxiv.org/abs/2203.04031v1)|null|
+|**2022-03-08**|**Toward Understanding Deep Learning Framework Bugs**|Junjie Chen et.al.|[2203.04026v1](http://arxiv.org/abs/2203.04026v1)|null|
+|**2022-03-08**|**DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction**|Jiajun Fei et.al.|[2203.04007v1](http://arxiv.org/abs/2203.04007v1)|**[link](https://github.com/jaronthu/dumlp-pin)**|
+|**2022-03-08**|**End-to-end Multiple Instance Learning with Gradient Accumulation**|Axel Andersson et.al.|[2203.03981v1](http://arxiv.org/abs/2203.03981v1)|**[link](https://github.com/axanderssonuu/abmil_with_accumulating_gradients)**|
+|**2022-03-08**|**Human Biometric Signals Monitoring based on WiFi Channel State Information using Deep Learning**|Moyu Liu et.al.|[2203.03980v1](http://arxiv.org/abs/2203.03980v1)|null|
+|**2022-03-08**|**Characterization of Low Surface Brightness structures in annotated deep images**|Elisabeth Sola et.al.|[2203.03973v1](http://arxiv.org/abs/2203.03973v1)|null|
+|**2022-03-08**|**On Generalizing Beyond Domains in Cross-Domain Continual Learning**|Christian Simon et.al.|[2203.03970v1](http://arxiv.org/abs/2203.03970v1)|null|
+|**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|null|
+|**2022-03-08**|**Enhancing Door Detection for Autonomous Mobile Robots with Environment-Specific Data Collection**|Michele Antonazzi et.al.|[2203.03959v1](http://arxiv.org/abs/2203.03959v1)|null|
+|**2022-03-08**|**Efficient and Accurate Hyperspectral Pansharpening Using 3D VolumeNet and 2.5D Texture Transfer**|Yinao Li et.al.|[2203.03951v1](http://arxiv.org/abs/2203.03951v1)|null|
+|**2022-03-08**|**Graph Reinforcement Learning for Predictive Power Allocation to Mobile Users**|Jianyu Zhao et.al.|[2203.03906v1](http://arxiv.org/abs/2203.03906v1)|null|
+|**2022-03-08**|**ClearPose: Large-scale Transparent Object Dataset and Benchmark**|Xiaotong Chen et.al.|[2203.03890v1](http://arxiv.org/abs/2203.03890v1)|null|
+|**2022-03-08**|**ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation**|Robin Wang et.al.|[2203.03888v1](http://arxiv.org/abs/2203.03888v1)|**[link](https://github.com/robinwang1/art-point)**|
+|**2022-03-08**|**Occupancy Flow Fields for Motion Forecasting in Autonomous Driving**|Reza Mahjourian et.al.|[2203.03875v1](http://arxiv.org/abs/2203.03875v1)|null|
+|**2022-03-08**|**Discriminability-Transferability Trade-Off: An Information-Theoretic Perspective**|Quan Cui et.al.|[2203.03871v1](http://arxiv.org/abs/2203.03871v1)|null|
+|**2022-03-08**|**Deep Rectangling for Image Stitching: A Learning Baseline**|Lang Nie et.al.|[2203.03831v1](http://arxiv.org/abs/2203.03831v1)|**[link](https://github.com/nie-lang/deeprectangling)**|
+|**2022-03-08**|**A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text**|Enwei Zhu et.al.|[2203.03823v1](http://arxiv.org/abs/2203.03823v1)|**[link](https://github.com/syuoni/eznlp)**|
+|**2022-03-08**|**Image Search with Text Feedback by Additive Attention Compositional Learning**|Yuxin Tian et.al.|[2203.03809v1](http://arxiv.org/abs/2203.03809v1)|null|
+|**2022-03-08**|**YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers**|Young D. Kwon et.al.|[2203.03794v1](http://arxiv.org/abs/2203.03794v1)|null|
+|**2022-03-07**|**Predicting 2D Normal Grain Growth using a Physics-Regularized Interpretable Machine Learning Model**|Weishi Yan et.al.|[2203.03735v1](http://arxiv.org/abs/2203.03735v1)|null|
+|**2022-03-07**|**Detection of AI Synthesized Hindi Speech**|Karan Bhatia et.al.|[2203.03706v1](http://arxiv.org/abs/2203.03706v1)|null|
+|**2022-03-07**|**Learning to Bound: A Generative Cramér-Rao Bound**|Hai Victor Habi et.al.|[2203.03695v1](http://arxiv.org/abs/2203.03695v1)|null|
+|**2022-03-07**|**Quasar photometric redshifts from incomplete data using Deep Learning**|S. J. Curran et.al.|[2203.03679v1](http://arxiv.org/abs/2203.03679v1)|null|
+|**2022-03-07**|**AgraSSt: Approximate Graph Stein Statistics for Interpretable Assessment of Implicit Graph Generators**|Wenkai Xu et.al.|[2203.03673v1](http://arxiv.org/abs/2203.03673v1)|**[link](https://github.com/wenkaixl/agrasst)**|
+|**2022-03-07**|**Unsupervised Domain Adaptation with Contrastive Learning for OCT Segmentation**|Alvaro Gomariz et.al.|[2203.03664v1](http://arxiv.org/abs/2203.03664v1)|null|
+|**2022-03-07**|**Reconstruction of Missing Resonances Combining Nearest Neighbors Regressors and Neural Network Classifiers**|Alexandre Alves et.al.|[2203.03662v1](http://arxiv.org/abs/2203.03662v1)|null|
+|**2022-03-07**|**A gap in the double white dwarf separation distribution caused by the common-envelope evolution: astrometric evidence from Gaia**|Valeriya Korol et.al.|[2203.03659v1](http://arxiv.org/abs/2203.03659v1)|null|
+|**2022-03-07**|**Deep learning and Bayesian inference of gravitational-wave populations: hierarchical black-hole mergers**|Matthew Mould et.al.|[2203.03651v1](http://arxiv.org/abs/2203.03651v1)|null|
 |**2022-03-07**|**Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets**|Martin Magris et.al.|[2203.03613v1](http://arxiv.org/abs/2203.03613v1)|null|
 |**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
 |**2022-03-07**|**Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language**|Otniel-Bogdan Mercea et.al.|[2203.03598v1](http://arxiv.org/abs/2203.03598v1)|**[link](https://github.com/explainableml/avca-gzsl)**|
