@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.10
+## Updated on 2022.03.11
 
 ## SLAM
 
@@ -215,7 +215,7 @@ layout: default
 |**2021-09-22**|**A Benchmark Comparison of Visual Place Recognition Techniques for Resource-Constrained Embedded Platforms**|Rose Power et.al.|[2109.11002v1](http://arxiv.org/abs/2109.11002v1)|null|
 |**2021-09-22**|**An Efficient and Scalable Collection of Fly-inspired Voting Units for Visual Place Recognition in Changing Environments**|Bruno Arcanjo et.al.|[2109.10986v1](http://arxiv.org/abs/2109.10986v1)|null|
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang et.al.|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
-|**2022-03-04**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v2](http://arxiv.org/abs/2109.09884v2)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
+|**2022-03-10**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v3](http://arxiv.org/abs/2109.09884v3)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
 |**2022-03-09**|**AirLoop: Lifelong Loop Closure Detection**|Dasong Gao et.al.|[2109.08975v3](http://arxiv.org/abs/2109.08975v3)|**[link](https://github.com/wang-chen/airloop)**|
 |**2022-03-01**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez et.al.|[2109.07339v2](http://arxiv.org/abs/2109.07339v2)|null|
 |**2021-09-14**|**GPGM-SLAM: a Robust SLAM System for Unstructured Planetary Environments with Gaussian Process Gradient Maps**|Riccardo Giubilato et.al.|[2109.06596v1](http://arxiv.org/abs/2109.06596v1)|null|
@@ -352,7 +352,7 @@ layout: default
 |**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
 |**2022-03-09**|**Deep Generative Models for Downlink Channel Estimation in FDD Massive MIMO Systems**|Javad Mirzaei et.al.|[2203.04935v1](http://arxiv.org/abs/2203.04935v1)|null|
 |**2022-03-09**|**The environmental dependence of the stellar and gas-phase mass-metallicity relation at 2 < z < 4**|A. Calabro et.al.|[2203.04934v1](http://arxiv.org/abs/2203.04934v1)|null|
-|**2022-03-09**|**Investigation of Factorized Optical Flows as Mid-Level Representations**|Hsuan-Kung Yang et.al.|[2203.04927v1](http://arxiv.org/abs/2203.04927v1)|null|
+|**2022-03-10**|**Investigation of Factorized Optical Flows as Mid-Level Representations**|Hsuan-Kung Yang et.al.|[2203.04927v2](http://arxiv.org/abs/2203.04927v2)|null|
 |**2022-03-09**|**Monitoring Time Series With Missing Values: a Deep Probabilistic Approach**|Oshri Barazani et.al.|[2203.04916v1](http://arxiv.org/abs/2203.04916v1)|null|
 |**2022-03-09**|**Leveling Down in Computer Vision: Pareto Inefficiencies in Fair Deep Classifiers**|Dominik Zietlow et.al.|[2203.04913v1](http://arxiv.org/abs/2203.04913v1)|null|
 |**2022-03-09**|**What Matters For Meta-Learning Vision Regression Tasks?**|Ning Gao et.al.|[2203.04905v1](http://arxiv.org/abs/2203.04905v1)|null|
@@ -381,7 +381,7 @@ layout: default
 |**2022-03-09**|**Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification**|Zhiyuan Cai et.al.|[2203.04614v1](http://arxiv.org/abs/2203.04614v1)|null|
 |**2022-03-09**|**Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**|Matthieu Zins et.al.|[2203.04613v1](http://arxiv.org/abs/2203.04613v1)|null|
 |**2022-03-09**|**Practical No-box Adversarial Attacks with Training-free Hybrid Image Transformation**|Qilong Zhang et.al.|[2203.04607v1](http://arxiv.org/abs/2203.04607v1)|null|
-|**2022-03-09**|**Data-driven detector signal characterization with constrained bottleneck autoencoders**|César Jesús Valls et.al.|[2203.04604v1](http://arxiv.org/abs/2203.04604v1)|null|
+|**2022-03-10**|**Data-driven detector signal characterization with constrained bottleneck autoencoders**|César Jesús-Valls et.al.|[2203.04604v2](http://arxiv.org/abs/2203.04604v2)|null|
 |**2022-03-09**|**Unsupervised Domain Adaptation across FMCW Radar Configurations Using Margin Disparity Discrepancy**|Rodrigo Hernangomez et.al.|[2203.04588v1](http://arxiv.org/abs/2203.04588v1)|null|
 |**2022-03-09**|**Multi-Objective reward generalization: Improving performance of Deep Reinforcement Learning for selected applications in stock and cryptocurrency trading**|Federico Cornalba et.al.|[2203.04579v1](http://arxiv.org/abs/2203.04579v1)|null|
 |**2022-03-09**|**A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices**|Michael Hersche et.al.|[2203.04571v1](http://arxiv.org/abs/2203.04571v1)|null|
