@@ -1,4 +1,4 @@
-## Updated on 2022.03.13
+## Updated on 2022.03.14
 
 ## SLAM
 
@@ -340,7 +340,7 @@
 |**2022-03-10**|**A Note on A Priori Forecasting and Simplicity Bias in Time Series**|Kamaludin Dingle et.al.|[2203.05391v1](http://arxiv.org/abs/2203.05391v1)|null|
 |**2022-03-10**|**Filamentary Baryons and Where to Find Them: A forecast of synchrotron radiation from merger and accretion shocks in the local Cosmic Web**|Martijn S. S. L. Oei et.al.|[2203.05365v1](http://arxiv.org/abs/2203.05365v1)|null|
 |**2022-03-10**|**Deep Residual Reinforcement Learning based Autonomous Blimp Control**|Yu Tang Liu et.al.|[2203.05360v1](http://arxiv.org/abs/2203.05360v1)|**[link](https://github.com/robot-perception-group/autonomousblimpdrl)**|
-|**2022-03-10**|**TrueType Transformer: Character and Font Style Recognition in Outline Format**|Yusuke Nagata et.al.|[2203.05338v1](http://arxiv.org/abs/2203.05338v1)|null|
+|**2022-03-11**|**TrueType Transformer: Character and Font Style Recognition in Outline Format**|Yusuke Nagata et.al.|[2203.05338v2](http://arxiv.org/abs/2203.05338v2)|null|
 |**2022-03-10**|**Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects**|Manuel Stoiber et.al.|[2203.05334v1](http://arxiv.org/abs/2203.05334v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2022-03-10**|**Exploiting the Potential of Datasets: A Data-Centric Approach for Model Robustness**|Yiqi Zhong et.al.|[2203.05323v1](http://arxiv.org/abs/2203.05323v1)|**[link](https://github.com/hncszyq/tianchi_challenge)**|
 |**2022-03-10**|**Stable Parametrization of Continuous and Piecewise-Linear Functions**|Alexis Goujon et.al.|[2203.05261v1](http://arxiv.org/abs/2203.05261v1)|null|
