@@ -1,4 +1,4 @@
-## Updated on 2022.03.14
+## Updated on 2022.03.15
 
 ## SLAM
 
@@ -359,7 +359,7 @@
 |**2022-03-11**|**Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework**|Yiming Liu et.al.|[2203.05756v1](http://arxiv.org/abs/2203.05756v1)|null|
 |**2022-03-11**|**A Survey of Surface Defect Detection of Industrial Products Based on A Small Number of Labeled Data**|Qifan Jin et.al.|[2203.05733v1](http://arxiv.org/abs/2203.05733v1)|null|
 |**2022-03-11**|**Snowmass2021 CMB-HD White Paper**|The CMB-HD Collaboration et.al.|[2203.05728v1](http://arxiv.org/abs/2203.05728v1)|null|
-|**2022-03-11**|**Dual-Domain Reconstruction Networks with V-Net and K-Net for fast MRI**|Xiaohan Liu et.al.|[2203.05725v1](http://arxiv.org/abs/2203.05725v1)|null|
+|**2022-03-14**|**Dual-Domain Reconstruction Networks with V-Net and K-Net for fast MRI**|Xiaohan Liu et.al.|[2203.05725v2](http://arxiv.org/abs/2203.05725v2)|null|
 |**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
 |**2022-03-11**|**Evaluating U-net Brain Extraction for Multi-site and Longitudinal Preclinical Stroke Imaging**|Erendiz Tarakci et.al.|[2203.05716v1](http://arxiv.org/abs/2203.05716v1)|**[link](https://github.com/cabeen/neu-net)**|
 |**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
@@ -376,10 +376,10 @@
 |**2022-03-10**|**A hidden population of massive black holes in simulated dwarf galaxies**|Ray S. Sharma et.al.|[2203.05580v1](http://arxiv.org/abs/2203.05580v1)|null|
 |**2022-03-10**|**On-the-Fly Test-time Adaptation for Medical Image Segmentation**|Jeya Maria Jose Valanarasu et.al.|[2203.05574v1](http://arxiv.org/abs/2203.05574v1)|**[link](https://github.com/jeya-maria-jose/on-the-fly-adaptation)**|
 |**2022-03-10**|**On Embeddings for Numerical Features in Tabular Deep Learning**|Yura Gorishniy et.al.|[2203.05556v1](http://arxiv.org/abs/2203.05556v1)|**[link](https://github.com/yura52/rtdl)**|
-|**2022-03-10**|**An Empirical Investigation of 3D Anomaly Detection and Segmentation**|Eliahu Horwitz et.al.|[2203.05550v1](http://arxiv.org/abs/2203.05550v1)|null|
+|**2022-03-14**|**An Empirical Investigation of 3D Anomaly Detection and Segmentation**|Eliahu Horwitz et.al.|[2203.05550v2](http://arxiv.org/abs/2203.05550v2)|null|
 |**2022-03-10**|**Towards Less Constrained Macro-Neural Architecture Search**|Vasco Lopes et.al.|[2203.05508v1](http://arxiv.org/abs/2203.05508v1)|**[link](https://github.com/vascolopes/lcmnas)**|
-|**2022-03-10**|**Geometric and Topological Inference for Deep Representations of Complex Networks**|Baihan Lin et.al.|[2203.05488v1](http://arxiv.org/abs/2203.05488v1)|null|
-|**2022-03-10**|**projUNN: efficient method for training deep networks with unitary matrices**|Bobak Kiani et.al.|[2203.05483v1](http://arxiv.org/abs/2203.05483v1)|null|
+|**2022-03-12**|**Geometric and Topological Inference for Deep Representations of Complex Networks**|Baihan Lin et.al.|[2203.05488v2](http://arxiv.org/abs/2203.05488v2)|null|
+|**2022-03-11**|**projUNN: efficient method for training deep networks with unitary matrices**|Bobak Kiani et.al.|[2203.05483v2](http://arxiv.org/abs/2203.05483v2)|null|
 |**2022-03-10**|**Wavelength Multiplexed Ultralow-Power Photonic Edge Computing**|Alexander Sludds et.al.|[2203.05466v1](http://arxiv.org/abs/2203.05466v1)|null|
 |**2022-03-10**|**Near-optimal Deep Reinforcement Learning Policies from Data for Zone Temperature Control**|Loris Di Natale et.al.|[2203.05434v1](http://arxiv.org/abs/2203.05434v1)|null|
 |**2022-03-10**|**Estimates for the largest critical value of $T_n^{(k)}$**|Nikola Naidenov et.al.|[2203.05432v1](http://arxiv.org/abs/2203.05432v1)|null|
