@@ -1,4 +1,4 @@
-## Updated on 2022.03.15
+## Updated on 2022.03.16
 
 ## SLAM
 
@@ -263,7 +263,7 @@
 |**2021-07-27**|**Is Object Detection Necessary for Human-Object Interaction Recognition?**|Ying Jin et.al.|[2107.13083v1](http://arxiv.org/abs/2107.13083v1)|null|
 |**2021-07-27**|**Real-time Keypoints Detection for Autonomous Recovery of the Unmanned Ground Vehicle**|Jie Li et.al.|[2107.12852v1](http://arxiv.org/abs/2107.12852v1)|null|
 |**2021-07-23**|**Resource Efficient Mountainous Skyline Extraction using Shallow Learning**|Touqeer Ahmad et.al.|[2107.10997v1](http://arxiv.org/abs/2107.10997v1)|**[link](https://github.com/TouqeerAhmad/skyline_detection)**|
-|**2021-07-19**|**Exploring Set Similarity for Dense Self-supervised Representation Learning**|Zhaoqing Wang et.al.|[2107.08712v1](http://arxiv.org/abs/2107.08712v1)|null|
+|**2022-03-14**|**Exploring Set Similarity for Dense Self-supervised Representation Learning**|Zhaoqing Wang et.al.|[2107.08712v2](http://arxiv.org/abs/2107.08712v2)|null|
 |**2021-07-12**|**Beyond Farthest Point Sampling in Point-Wise Analysis**|Yiqun Lin et.al.|[2107.04291v2](http://arxiv.org/abs/2107.04291v2)|null|
 |**2021-10-19**|**Can Super Resolution be used to improve Human Pose Estimation in Low Resolution Scenarios?**|Peter Hardy et.al.|[2107.02108v2](http://arxiv.org/abs/2107.02108v2)|null|
 |**2021-06-30**|**SimNet: Enabling Robust Unknown Object Manipulation from Pure Synthetic Data via Stereo**|Thomas Kollar et.al.|[2106.16118v1](http://arxiv.org/abs/2106.16118v1)|**[link](https://github.com/ToyotaResearchInstitute/simnet)**|
@@ -338,7 +338,7 @@
 |**2022-03-14**|**Nuclear effects in the deuteron and global QCD analyses**|S. I. Alekhin et.al.|[2203.07333v1](http://arxiv.org/abs/2203.07333v1)|null|
 |**2022-03-14**|**Efficient Model-based Multi-agent Reinforcement Learning via Optimistic Equilibrium Computation**|Pier Giuseppe Sessa et.al.|[2203.07322v1](http://arxiv.org/abs/2203.07322v1)|null|
 |**2022-03-14**|**Do DNNs trained on Natural Images acquire Gestalt Properties?**|Valerio Biscione et.al.|[2203.07302v1](http://arxiv.org/abs/2203.07302v1)|null|
-|**2022-03-14**|**TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation**|Ruiwen Li et.al.|[2203.07239v1](http://arxiv.org/abs/2203.07239v1)|null|
+|**2022-03-14**|**TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation**|Ruiwen Li et.al.|[2203.07239v1](http://arxiv.org/abs/2203.07239v1)|**[link](https://github.com/liruiwen/transcam)**|
 |**2022-03-14**|**Detection and characterization of microseismic events from fiber-optic DAS data using deep learning**|Fantine Huot et.al.|[2203.07217v1](http://arxiv.org/abs/2203.07217v1)|null|
 |**2022-03-14**|**A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification**|Dairui Liu et.al.|[2203.07216v1](http://arxiv.org/abs/2203.07216v1)|null|
 |**2022-03-14**|**MDNet: Learning Monaural Speech Enhancement from Deep Prior Gradient**|Andong Li et.al.|[2203.07179v1](http://arxiv.org/abs/2203.07179v1)|null|
@@ -347,13 +347,13 @@
 |**2022-03-14**|**Experimental Searches for Muon to Electron Conversion in a Nucleus: COMET, DeeMe, and Mu2e. A Contributed paper for Snowmass 21**|Sophie Middleton et.al.|[2203.07089v1](http://arxiv.org/abs/2203.07089v1)|null|
 |**2022-03-14**|**MotionSC: Data Set and Network for Real-Time Semantic Mapping in Dynamic Environments**|Joey Wilson et.al.|[2203.07060v1](http://arxiv.org/abs/2203.07060v1)|**[link](https://github.com/umich-curly/3dmapping)**|
 |**2022-03-14**|**Real-Robot Deep Reinforcement Learning: Improving Trajectory Tracking of Flexible-Joint Manipulator with Reference Correction**|Dmytro Pavlichenko et.al.|[2203.07051v1](http://arxiv.org/abs/2203.07051v1)|null|
-|**2022-03-14**|**Extracting associations and meanings of objects depicted in artworks through bi-modal deep networks**|Gregory Kell et.al.|[2203.07026v1](http://arxiv.org/abs/2203.07026v1)|null|
+|**2022-03-14**|**Extracting associations and meanings of objects depicted in artworks through bi-modal deep networks**|Gregory Kell et.al.|[2203.07026v1](http://arxiv.org/abs/2203.07026v1)|**[link](https://github.com/gck25/fine_art_asssociations_meanings)**|
 |**2022-03-14**|**Precise atom manipulation through deep reinforcement learning**|I-Ju Chen et.al.|[2203.06975v1](http://arxiv.org/abs/2203.06975v1)|null|
 |**2022-03-14**|**Solving parametric partial differential equations with deep rectified quadratic unit neural networks**|Zhen Lei et.al.|[2203.06973v1](http://arxiv.org/abs/2203.06973v1)|null|
-|**2022-03-14**|**Speeding up deep neural network-based planning of local car maneuvers via efficient B-spline path construction**|Piotr Kicki et.al.|[2203.06963v1](http://arxiv.org/abs/2203.06963v1)|null|
-|**2022-03-14**|**Deep Learning for Underwater Fish-Habitat Monitoring: A Survey**|Alzayat Saleh et.al.|[2203.06951v1](http://arxiv.org/abs/2203.06951v1)|null|
+|**2022-03-14**|**Speeding up deep neural network-based planning of local car maneuvers via efficient B-spline path construction**|Piotr Kicki et.al.|[2203.06963v1](http://arxiv.org/abs/2203.06963v1)|**[link](https://github.com/pkicki/neural_path_planning)**|
+|**2022-03-15**|**Computer Vision and Deep Learning for Fish Classification in Underwater Habitats: A Survey**|Alzayat Saleh et.al.|[2203.06951v2](http://arxiv.org/abs/2203.06951v2)|null|
 |**2022-03-14**|**Towards Neural Sparse Linear Solvers**|Luca Grementieri et.al.|[2203.06944v1](http://arxiv.org/abs/2203.06944v1)|null|
-|**2022-03-14**|**Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models**|Ning Ding et.al.|[2203.06904v1](http://arxiv.org/abs/2203.06904v1)|null|
+|**2022-03-15**|**Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models**|Ning Ding et.al.|[2203.06904v2](http://arxiv.org/abs/2203.06904v2)|null|
 |**2022-03-14**|**Communication-Efficient Federated Distillation with Active Data Sampling**|Lumin Liu et.al.|[2203.06900v1](http://arxiv.org/abs/2203.06900v1)|null|
 |**2022-03-14**|**Efficient universal shuffle attack for visual object tracking**|Siao Liu et.al.|[2203.06898v1](http://arxiv.org/abs/2203.06898v1)|null|
 |**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama et.al.|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
