@@ -1,4 +1,4 @@
-> Updated on 2022.03.16
+> Updated on 2022.03.17
 
 ## SLAM
 
@@ -327,7 +327,7 @@
 - 2022-03-15, **A Noise-level-aware Framework for PET Image Denoising**, Ye Li et.al., Paper: [http://arxiv.org/abs/2203.08034v1](http://arxiv.org/abs/2203.08034v1)
 - 2022-03-15, **Data-Efficient Graph Grammar Learning for Molecular Generation**, Minghao Guo et.al., Paper: [http://arxiv.org/abs/2203.08031v1](http://arxiv.org/abs/2203.08031v1), Code: **[https://github.com/gmh14/data_efficient_grammar](https://github.com/gmh14/data_efficient_grammar)**
 - 2022-03-15, **Shallow Transits - Deep Learning II: Identify Individual Exoplanetary Transits in Red Noise using Deep Learning**, Elad Dvash et.al., Paper: [http://arxiv.org/abs/2203.08017v1](http://arxiv.org/abs/2203.08017v1)
-- 2022-03-15, **Object Detection as Probabilistic Set Prediction**, Georg Hess et.al., Paper: [http://arxiv.org/abs/2203.07980v1](http://arxiv.org/abs/2203.07980v1)
+- 2022-03-16, **Object Detection as Probabilistic Set Prediction**, Georg Hess et.al., Paper: [http://arxiv.org/abs/2203.07980v2](http://arxiv.org/abs/2203.07980v2)
 - 2022-03-15, **Intrinsic Neural Fields: Learning Functions on Manifolds**, Lukas Koestler et.al., Paper: [http://arxiv.org/abs/2203.07967v1](http://arxiv.org/abs/2203.07967v1)
 - 2022-03-15, **Generating Privacy-Preserving Process Data with Deep Generative Models**, Keyi Li et.al., Paper: [http://arxiv.org/abs/2203.07949v1](http://arxiv.org/abs/2203.07949v1), Code: **[https://github.com/raaachli/processgan](https://github.com/raaachli/processgan)**
 - 2022-03-15, **NINNs: Nudging Induced Neural Networks**, Harbir Antil et.al., Paper: [http://arxiv.org/abs/2203.07947v1](http://arxiv.org/abs/2203.07947v1)
@@ -364,7 +364,7 @@
 - 2022-03-14, **Learning for Robot Decision Making under Distribution Shift: A Survey**, Abhishek Paudel et.al., Paper: [http://arxiv.org/abs/2203.07558v1](http://arxiv.org/abs/2203.07558v1)
 - 2022-03-14, **Physical Neural Cellular Automata for 2D Shape Classification**, Kathryn Walker et.al., Paper: [http://arxiv.org/abs/2203.07548v1](http://arxiv.org/abs/2203.07548v1)
 - 2022-03-14, **Permutation Invariant Representations with Applications to Graph Deep Learning**, Radu Balan et.al., Paper: [http://arxiv.org/abs/2203.07546v1](http://arxiv.org/abs/2203.07546v1)
-- 2022-03-14, **Don't fear the unlabelled: safe deep semi-supervised learning via simple debiaising**, Hugo Schmutz et.al., Paper: [http://arxiv.org/abs/2203.07512v1](http://arxiv.org/abs/2203.07512v1)
+- 2022-03-16, **Don't fear the unlabelled: safe deep semi-supervised learning via simple debiasing**, Hugo Schmutz et.al., Paper: [http://arxiv.org/abs/2203.07512v2](http://arxiv.org/abs/2203.07512v2)
 - 2022-03-14, **Closing the Loop: A Framework for Trustworthy Machine Learning in Power Systems**, Jochen Stiasny et.al., Paper: [http://arxiv.org/abs/2203.07505v1](http://arxiv.org/abs/2203.07505v1), Code: **[https://github.com/jbesty/irep_2022_closing_the_loop](https://github.com/jbesty/irep_2022_closing_the_loop)**
 - 2022-03-14, **A deep learning pipeline for breast cancer ki-67 proliferation index scoring**, Khaled Benaggoune et.al., Paper: [http://arxiv.org/abs/2203.07452v1](http://arxiv.org/abs/2203.07452v1)
 - 2022-03-14, **Unsupervised Clustering of Roman Potsherds via Variational Autoencoders**, Simone Parisotto et.al., Paper: [http://arxiv.org/abs/2203.07437v1](http://arxiv.org/abs/2203.07437v1)
