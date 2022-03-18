@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.17
+## Updated on 2022.03.18
 
 ## SLAM
 
@@ -202,7 +202,7 @@ layout: default
 |**2022-03-03**|**TransVPR: Transformer-based place recognition with multi-level attention aggregation**|Ruotong Wang et.al.|[2201.02001v2](http://arxiv.org/abs/2201.02001v2)|null|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
 |**2021-12-22**|**Ghost-dil-NetVLAD: A Lightweight Neural Network for Visual Place Recognition**|Qingyuan Gong et.al.|[2112.11679v1](http://arxiv.org/abs/2112.11679v1)|null|
-|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
+|**2022-03-17**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v2](http://arxiv.org/abs/2112.09081v2)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
 |**2021-12-09**|**Unsupervised Complementary-aware Multi-process Fusion for Visual Place Recognition**|Stephen Hausler et.al.|[2112.04701v1](http://arxiv.org/abs/2112.04701v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang et.al.|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-11-29**|**MIXER: A Principled Framework for Multimodal, Multiway Data Association**|Parker C. Lusk et.al.|[2111.14990v1](http://arxiv.org/abs/2111.14990v1)|null|
@@ -365,9 +365,9 @@ layout: default
 |**2022-03-16**|**Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey**|Giorgos Armeniakos et.al.|[2203.08737v1](http://arxiv.org/abs/2203.08737v1)|null|
 |**2022-03-16**|**Attacking deep networks with surrogate-based adversarial black-box methods is easy**|Nicholas A. Lord et.al.|[2203.08725v1](http://arxiv.org/abs/2203.08725v1)|**[link](https://github.com/fiveai/gfcs)**|
 |**2022-03-16**|**Multiscale Sensor Fusion and Continuous Control with Neural CDEs**|Sumeet Singh et.al.|[2203.08715v1](http://arxiv.org/abs/2203.08715v1)|null|
-|**2022-03-16**|**Learning video retrieval models with relevance-aware online mining**|Alex Falcon et.al.|[2203.08688v1](http://arxiv.org/abs/2203.08688v1)|null|
+|**2022-03-16**|**Learning video retrieval models with relevance-aware online mining**|Alex Falcon et.al.|[2203.08688v1](http://arxiv.org/abs/2203.08688v1)|**[link](https://github.com/aranciokov/ranp)**|
 |**2022-03-16**|**Decoupled Knowledge Distillation**|Borui Zhao et.al.|[2203.08679v1](http://arxiv.org/abs/2203.08679v1)|null|
-|**2022-03-16**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v1](http://arxiv.org/abs/2203.08667v1)|null|
+|**2022-03-17**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v2](http://arxiv.org/abs/2203.08667v2)|null|
 |**2022-03-16**|**Learning Representation for Bayesian Optimization with Collision-free Regularization**|Fengxue Zhang et.al.|[2203.08656v1](http://arxiv.org/abs/2203.08656v1)|null|
 |**2022-03-16**|**Unraveled Multilevel Transformation Networks for Predicting Sparsely-Observed Spatiotemporal Dynamics**|Priyabrata Saha et.al.|[2203.08655v1](http://arxiv.org/abs/2203.08655v1)|null|
 |**2022-03-16**|**Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow**|Shanlin Sun et.al.|[2203.08652v1](http://arxiv.org/abs/2203.08652v1)|null|
@@ -387,8 +387,8 @@ layout: default
 |**2022-03-16**|**PointAttN: You Only Need Attention for Point Cloud Completion**|Jun Wang et.al.|[2203.08485v1](http://arxiv.org/abs/2203.08485v1)|**[link](https://github.com/ohhhyeahhh/pointattn)**|
 |**2022-03-16**|**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding**|Haojun Jiang et.al.|[2203.08481v1](http://arxiv.org/abs/2203.08481v1)|**[link](https://github.com/leaplabthu/pseudo-q)**|
 |**2022-03-16**|**Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects**|Chen Zhao et.al.|[2203.08472v1](http://arxiv.org/abs/2203.08472v1)|null|
-|**2022-03-16**|**Playing with blocks: Toward re-usable deep learning models for side-channel profiled attacks**|Servio Paguada et.al.|[2203.08448v1](http://arxiv.org/abs/2203.08448v1)|null|
-|**2022-03-16**|**Open Set Recognition using Vision Transformer with an Additional Detection Head**|Feiyang Cai et.al.|[2203.08441v1](http://arxiv.org/abs/2203.08441v1)|null|
+|**2022-03-17**|**Playing with blocks: Toward re-usable deep learning models for side-channel profiled attacks**|Servio Paguada et.al.|[2203.08448v2](http://arxiv.org/abs/2203.08448v2)|null|
+|**2022-03-16**|**Open Set Recognition using Vision Transformer with an Additional Detection Head**|Feiyang Cai et.al.|[2203.08441v1](http://arxiv.org/abs/2203.08441v1)|**[link](https://github.com/feiyang-cai/osr_vit)**|
 |**2022-03-16**|**Deep Residual Error and Bag-of-Tricks Learning for Gravitational Wave Surrogate Modeling**|Styliani-Christina Fragkouli et.al.|[2203.08434v1](http://arxiv.org/abs/2203.08434v1)|null|
 |**2022-03-16**|**Twist-3 Gluon Fragmentation Contribution to Hyperon Polarization in Semi-Inclusive Deep Inelastic Scattering**|Riku Ikarashi et.al.|[2203.08431v1](http://arxiv.org/abs/2203.08431v1)|null|
 |**2022-03-16**|**A Survey of Machine Learning Algorithms for 6G Wireless Networks**|Anita Patil et.al.|[2203.08429v1](http://arxiv.org/abs/2203.08429v1)|null|
