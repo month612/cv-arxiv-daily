@@ -1,4 +1,4 @@
-## Updated on 2022.03.18
+## Updated on 2022.03.19
 
 ## SLAM
 
@@ -336,7 +336,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-17**|**Visualizing Global Explanations of Point Cloud DNNs**|Hanxiao Tan et.al.|[2203.09505v1](http://arxiv.org/abs/2203.09505v1)|**[link](https://github.com/explain3d/lime-3d)**|
+|**2022-03-17**|**Visualizing Global Explanations of Point Cloud DNNs**|Hanxiao Tan et.al.|[2203.09505v1](http://arxiv.org/abs/2203.09505v1)|**[link](https://github.com/explain3d/pointcloudam)**|
 |**2022-03-17**|**Electronic excited states in deep variational Monte Carlo**|Mike Entwistle et.al.|[2203.09472v1](http://arxiv.org/abs/2203.09472v1)|null|
 |**2022-03-17**|**Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image**|Xuanchi Ren et.al.|[2203.09457v1](http://arxiv.org/abs/2203.09457v1)|null|
 |**2022-03-17**|**Synthetic-to-Real Domain Adaptation using Contrastive Unpaired Translation**|Benedikt T. Imbusch et.al.|[2203.09454v1](http://arxiv.org/abs/2203.09454v1)|null|
@@ -345,15 +345,15 @@
 |**2022-03-17**|**Mutual Learning for Domain Adaptation: Self-distillation Image Dehazing Network with Sample-cycle**|Tian Ye et.al.|[2203.09430v1](http://arxiv.org/abs/2203.09430v1)|null|
 |**2022-03-17**|**Deep Unsupervised Hashing with Latent Semantic Components**|Qinghong Lin et.al.|[2203.09420v1](http://arxiv.org/abs/2203.09420v1)|null|
 |**2022-03-17**|**A Framework and Benchmark for Deep Batch Active Learning for Regression**|David Holzmüller et.al.|[2203.09410v1](http://arxiv.org/abs/2203.09410v1)|**[link](https://github.com/dholzmueller/bmdal_reg)**|
-|**2022-03-17**|**When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation**|Ehsan Kamalloo et.al.|[2203.09391v1](http://arxiv.org/abs/2203.09391v1)|null|
-|**2022-03-17**|**A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2203.09388v1](http://arxiv.org/abs/2203.09388v1)|null|
+|**2022-03-17**|**When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation**|Ehsan Kamalloo et.al.|[2203.09391v1](http://arxiv.org/abs/2203.09391v1)|**[link](https://github.com/huawei-noah/kd-nlp)**|
+|**2022-03-17**|**A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2203.09388v1](http://arxiv.org/abs/2203.09388v1)|**[link](https://github.com/mjq11302010044/tatt)**|
 |**2022-03-17**|**One-Stage Deep Edge Detection Based on Dense-Scale Feature Fusion and Pixel-Level Imbalance Learning**|Dawei Dai et.al.|[2203.09387v1](http://arxiv.org/abs/2203.09387v1)|null|
 |**2022-03-17**|**DXQ-Net: Differentiable LiDAR-Camera Extrinsic Calibration Using Quality-aware Flow**|Xin Jing et.al.|[2203.09385v1](http://arxiv.org/abs/2203.09385v1)|null|
 |**2022-03-17**|**Gaussian initializations help deep variational quantum circuits escape from the barren plateau**|Kaining Zhang et.al.|[2203.09376v1](http://arxiv.org/abs/2203.09376v1)|null|
 |**2022-03-17**|**Single-shot quantitative aberration and scattering length measurements in mouse brain tissues using an extended-source Shack-Hartmann wavefront sensor**|Sophia Imperato et.al.|[2203.09349v1](http://arxiv.org/abs/2203.09349v1)|null|
 |**2022-03-17**|**POSTER: Diagnosis of COVID-19 through Transfer Learning Techniques on CT Scans: A Comparison of Deep Learning Models**|Aeyan Ashraf et.al.|[2203.09348v1](http://arxiv.org/abs/2203.09348v1)|null|
 |**2022-03-17**|**Machine Learning for Encrypted Malicious Traffic Detection: Approaches, Datasets and Comparative Study**|Zihao Wang et.al.|[2203.09332v1](http://arxiv.org/abs/2203.09332v1)|null|
-|**2022-03-17**|**Video Prediction at Multiple Scales with Hierarchical Recurrent Networks**|Ani Karapetyan et.al.|[2203.09303v1](http://arxiv.org/abs/2203.09303v1)|null|
+|**2022-03-17**|**Video Prediction at Multiple Scales with Hierarchical Recurrent Networks**|Ani Karapetyan et.al.|[2203.09303v1](http://arxiv.org/abs/2203.09303v1)|**[link](https://github.com/ais-bonn/vp-suite)**|
 |**2022-03-17**|**PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks**|Yue Wang et.al.|[2203.09289v1](http://arxiv.org/abs/2203.09289v1)|null|
 |**2022-03-17**|**Progressive Subsampling for Oversampled Data -- Application to Quantitative MRI**|Stefano B. Blumberg et.al.|[2203.09268v1](http://arxiv.org/abs/2203.09268v1)|null|
 |**2022-03-17**|**On the Properties of Adversarially-Trained CNNs**|Mattia Carletti et.al.|[2203.09243v1](http://arxiv.org/abs/2203.09243v1)|null|
@@ -366,11 +366,11 @@
 |**2022-03-17**|**Dual-domain Attention-based Deep Network for Sparse-view CT Artifact Reduction**|Xiang Gao et.al.|[2203.09169v1](http://arxiv.org/abs/2203.09169v1)|null|
 |**2022-03-17**|**On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks**|Maximilian Seitzer et.al.|[2203.09168v1](http://arxiv.org/abs/2203.09168v1)|null|
 |**2022-03-17**|**The UV 2175Å Attenuation Bump and its Correlation with PAH Emission at z~2**|Irene Shivaei et.al.|[2203.09153v1](http://arxiv.org/abs/2203.09153v1)|null|
-|**2022-03-17**|**Active Visuo-Haptic Object Shape Completion**|Lukas Rustler et.al.|[2203.09149v1](http://arxiv.org/abs/2203.09149v1)|null|
+|**2022-03-17**|**Active Visuo-Haptic Object Shape Completion**|Lukas Rustler et.al.|[2203.09149v1](http://arxiv.org/abs/2203.09149v1)|**[link](https://github.com/ctu-vras/visuo-haptic-shape-completion)**|
 |**2022-03-17**|**Prediction of speech intelligibility with DNN-based performance measures**|Angel Mario Castro Martinez et.al.|[2203.09148v1](http://arxiv.org/abs/2203.09148v1)|null|
-|**2022-03-17**|**Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning**|Haoxiang Wang et.al.|[2203.09137v1](http://arxiv.org/abs/2203.09137v1)|null|
+|**2022-03-17**|**Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning**|Haoxiang Wang et.al.|[2203.09137v1](http://arxiv.org/abs/2203.09137v1)|**[link](https://github.com/yitewang/metantk-nas)**|
 |**2022-03-17**|**Contrastive Learning with Positive-Negative Frame Mask for Music Representation**|Dong Yao et.al.|[2203.09129v1](http://arxiv.org/abs/2203.09129v1)|null|
-|**2022-03-17**|**Are Vision Transformers Robust to Spurious Correlations?**|Soumya Suvra Ghosal et.al.|[2203.09125v1](http://arxiv.org/abs/2203.09125v1)|null|
+|**2022-03-17**|**Are Vision Transformers Robust to Spurious Correlations?**|Soumya Suvra Ghosal et.al.|[2203.09125v1](http://arxiv.org/abs/2203.09125v1)|**[link](https://github.com/deeplearning-wisc/vit-spurious-robustness)**|
 |**2022-03-17**|**Knowledge Graph-Enabled Text-Based Automatic Personality Prediction**|Majid Ramezani et.al.|[2203.09103v1](http://arxiv.org/abs/2203.09103v1)|null|
 |**2022-03-17**|**DeepAD: A Robust Deep Learning Model of Alzheimer's Disease Progression for Real-World Clinical Applications**|Somaye Hashemifar et.al.|[2203.09096v1](http://arxiv.org/abs/2203.09096v1)|null|
 |**2022-03-17**|**CodeReviewer: Pre-Training for Automating Code Review Activities**|Zhiyu Li et.al.|[2203.09095v1](http://arxiv.org/abs/2203.09095v1)|null|
