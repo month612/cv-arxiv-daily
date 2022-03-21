@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.20
+## Updated on 2022.03.21
 
 ## SLAM
 
@@ -364,13 +364,13 @@ layout: default
 |**2022-03-17**|**Electronic excited states in deep variational Monte Carlo**|Mike Entwistle et.al.|[2203.09472v1](http://arxiv.org/abs/2203.09472v1)|null|
 |**2022-03-17**|**Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image**|Xuanchi Ren et.al.|[2203.09457v1](http://arxiv.org/abs/2203.09457v1)|null|
 |**2022-03-17**|**Synthetic-to-Real Domain Adaptation using Contrastive Unpaired Translation**|Benedikt T. Imbusch et.al.|[2203.09454v1](http://arxiv.org/abs/2203.09454v1)|null|
-|**2022-03-17**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v1](http://arxiv.org/abs/2203.09446v1)|null|
+|**2022-03-18**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v2](http://arxiv.org/abs/2203.09446v2)|null|
 |**2022-03-17**|**Image Super-Resolution With Deep Variational Autoencoders**|Darius Chira et.al.|[2203.09445v1](http://arxiv.org/abs/2203.09445v1)|null|
 |**2022-03-17**|**Mutual Learning for Domain Adaptation: Self-distillation Image Dehazing Network with Sample-cycle**|Tian Ye et.al.|[2203.09430v1](http://arxiv.org/abs/2203.09430v1)|null|
 |**2022-03-17**|**Deep Unsupervised Hashing with Latent Semantic Components**|Qinghong Lin et.al.|[2203.09420v1](http://arxiv.org/abs/2203.09420v1)|null|
 |**2022-03-17**|**A Framework and Benchmark for Deep Batch Active Learning for Regression**|David Holzmüller et.al.|[2203.09410v1](http://arxiv.org/abs/2203.09410v1)|**[link](https://github.com/dholzmueller/bmdal_reg)**|
 |**2022-03-17**|**When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation**|Ehsan Kamalloo et.al.|[2203.09391v1](http://arxiv.org/abs/2203.09391v1)|**[link](https://github.com/huawei-noah/kd-nlp)**|
-|**2022-03-17**|**A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2203.09388v1](http://arxiv.org/abs/2203.09388v1)|**[link](https://github.com/mjq11302010044/tatt)**|
+|**2022-03-18**|**A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2203.09388v2](http://arxiv.org/abs/2203.09388v2)|**[link](https://github.com/mjq11302010044/tatt)**|
 |**2022-03-17**|**One-Stage Deep Edge Detection Based on Dense-Scale Feature Fusion and Pixel-Level Imbalance Learning**|Dawei Dai et.al.|[2203.09387v1](http://arxiv.org/abs/2203.09387v1)|null|
 |**2022-03-17**|**DXQ-Net: Differentiable LiDAR-Camera Extrinsic Calibration Using Quality-aware Flow**|Xin Jing et.al.|[2203.09385v1](http://arxiv.org/abs/2203.09385v1)|null|
 |**2022-03-17**|**Gaussian initializations help deep variational quantum circuits escape from the barren plateau**|Kaining Zhang et.al.|[2203.09376v1](http://arxiv.org/abs/2203.09376v1)|null|
@@ -386,7 +386,7 @@ layout: default
 |**2022-03-17**|**An Interactive Explanatory AI System for Industrial Quality Control**|Dennis Müller et.al.|[2203.09181v1](http://arxiv.org/abs/2203.09181v1)|null|
 |**2022-03-17**|**A Novel End-To-End Network for Reconstruction of Non-Regularly Sampled Image Data Using Locally Fully Connected Layers**|Simon Grosche et.al.|[2203.09180v1](http://arxiv.org/abs/2203.09180v1)|null|
 |**2022-03-17**|**Generalized Classification of Satellite Image Time Series with Thermal Positional Encoding**|Joachim Nyborg et.al.|[2203.09175v1](http://arxiv.org/abs/2203.09175v1)|null|
-|**2022-03-17**|**Nearest Neighbor Classifier with Margin Penalty for Active Learning**|Yuan Cao et.al.|[2203.09174v1](http://arxiv.org/abs/2203.09174v1)|null|
+|**2022-03-18**|**Nearest Neighbor Classifier with Margin Penalty for Active Learning**|Yuan Cao et.al.|[2203.09174v2](http://arxiv.org/abs/2203.09174v2)|null|
 |**2022-03-17**|**Dual-domain Attention-based Deep Network for Sparse-view CT Artifact Reduction**|Xiang Gao et.al.|[2203.09169v1](http://arxiv.org/abs/2203.09169v1)|null|
 |**2022-03-17**|**On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks**|Maximilian Seitzer et.al.|[2203.09168v1](http://arxiv.org/abs/2203.09168v1)|null|
 |**2022-03-17**|**The UV 2175Å Attenuation Bump and its Correlation with PAH Emission at z~2**|Irene Shivaei et.al.|[2203.09153v1](http://arxiv.org/abs/2203.09153v1)|null|
