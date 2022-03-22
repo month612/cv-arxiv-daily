@@ -1,4 +1,4 @@
-## Updated on 2022.03.21
+## Updated on 2022.03.22
 
 ## SLAM
 
@@ -180,7 +180,7 @@
 |**2022-03-03**|**TransVPR: Transformer-based place recognition with multi-level attention aggregation**|Ruotong Wang et.al.|[2201.02001v2](http://arxiv.org/abs/2201.02001v2)|null|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
 |**2021-12-22**|**Ghost-dil-NetVLAD: A Lightweight Neural Network for Visual Place Recognition**|Qingyuan Gong et.al.|[2112.11679v1](http://arxiv.org/abs/2112.11679v1)|null|
-|**2022-03-17**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v2](http://arxiv.org/abs/2112.09081v2)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
+|**2022-03-19**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v3](http://arxiv.org/abs/2112.09081v3)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
 |**2021-12-09**|**Unsupervised Complementary-aware Multi-process Fusion for Visual Place Recognition**|Stephen Hausler et.al.|[2112.04701v1](http://arxiv.org/abs/2112.04701v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang et.al.|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-11-29**|**MIXER: A Principled Framework for Multimodal, Multiway Data Association**|Parker C. Lusk et.al.|[2111.14990v1](http://arxiv.org/abs/2111.14990v1)|null|
@@ -295,7 +295,7 @@
 |**2021-12-14**|**More Control for Free! Image Synthesis with Semantic Diffusion Guidance**|Xihui Liu et.al.|[2112.05744v2](http://arxiv.org/abs/2112.05744v2)|null|
 |**2021-12-08**|**Label-free virtual HER2 immunohistochemical staining of breast tissue using deep learning**|Bijie Bai et.al.|[2112.05240v1](http://arxiv.org/abs/2112.05240v1)|null|
 |**2021-12-01**|**FaSS-MVS -- Fast Multi-View Stereo with Surface-Aware Semi-Global Matching from UAV-borne Monocular Imagery**|Boitumelo Ruf et.al.|[2112.00821v1](http://arxiv.org/abs/2112.00821v1)|null|
-|**2022-03-04**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon et.al.|[2112.00374v2](http://arxiv.org/abs/2112.00374v2)|**[link](https://github.com/paper11667/clipstyler)**|
+|**2022-03-19**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon et.al.|[2112.00374v3](http://arxiv.org/abs/2112.00374v3)|**[link](https://github.com/paper11667/clipstyler)**|
 |**2021-11-29**|**Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**|Xiaoteng Zhou et.al.|[2111.15514v1](http://arxiv.org/abs/2111.15514v1)|null|
 |**2021-11-29**|**Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**|Yoad Tewel et.al.|[2111.14447v1](http://arxiv.org/abs/2111.14447v1)|**[link](https://github.com/yoadtew/zero-shot-image-to-text)**|
 |**2021-11-29**|**Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**|Usman Cheema et.al.|[2111.14339v1](http://arxiv.org/abs/2111.14339v1)|null|
@@ -372,7 +372,7 @@
 |**2022-03-18**|**Federated Learning for Privacy Preservation in Smart Healthcare Systems: A Comprehensive Survey**|Mansoor Ali et.al.|[2203.09702v1](http://arxiv.org/abs/2203.09702v1)|null|
 |**2022-03-18**|**Self-Ensemble Adversarial Training for Improved Robustness**|Hongjun Wang et.al.|[2203.09678v1](http://arxiv.org/abs/2203.09678v1)|**[link](https://github.com/whj363636/self-ensemble-adversarial-training)**|
 |**2022-03-18**|**A workflow for segmenting soil and plant X-ray CT images with deep learning in Googles Colaboratory**|Devin A. Rippner et.al.|[2203.09674v1](http://arxiv.org/abs/2203.09674v1)|**[link](https://github.com/daripp/xct_fcn)**|
-|**2022-03-18**|**Multi-Modal Causal Inference with Deep Structural Equation Models**|Shachi Deshpande et.al.|[2203.09672v1](http://arxiv.org/abs/2203.09672v1)|null|
+|**2022-03-21**|**Multi-Modal Causal Inference with Deep Structural Equation Models**|Shachi Deshpande et.al.|[2203.09672v2](http://arxiv.org/abs/2203.09672v2)|null|
 |**2022-03-18**|**Latency Optimization for Blockchain-Empowered Federated Learning in Multi-Server Edge Computing**|Dinh C. Nguyen et.al.|[2203.09670v1](http://arxiv.org/abs/2203.09670v1)|null|
 |**2022-03-18**|**Emerging Artificial Intelligence Applications in Spatial Transcriptomics Analysis**|Yijun Li et.al.|[2203.09664v1](http://arxiv.org/abs/2203.09664v1)|null|
 |**2022-03-17**|**Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing**|Zhiyuan Zha et.al.|[2203.09656v1](http://arxiv.org/abs/2203.09656v1)|null|
