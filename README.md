@@ -1,4 +1,4 @@
-## Updated on 2022.03.24
+## Updated on 2022.03.25
 
 ## SLAM
 
@@ -183,7 +183,7 @@
 |**2022-03-23**|**TransVPR: Transformer-based place recognition with multi-level attention aggregation**|Ruotong Wang et.al.|[2201.02001v3](http://arxiv.org/abs/2201.02001v3)|null|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
 |**2021-12-22**|**Ghost-dil-NetVLAD: A Lightweight Neural Network for Visual Place Recognition**|Qingyuan Gong et.al.|[2112.11679v1](http://arxiv.org/abs/2112.11679v1)|null|
-|**2022-03-19**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v3](http://arxiv.org/abs/2112.09081v3)|**[link](https://github.com/topo-epfl/crossloc)**|
+|**2022-03-24**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v4](http://arxiv.org/abs/2112.09081v4)|**[link](https://github.com/topo-epfl/crossloc)**|
 |**2021-12-09**|**Unsupervised Complementary-aware Multi-process Fusion for Visual Place Recognition**|Stephen Hausler et.al.|[2112.04701v1](http://arxiv.org/abs/2112.04701v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang et.al.|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-11-29**|**MIXER: A Principled Framework for Multimodal, Multiway Data Association**|Parker C. Lusk et.al.|[2111.14990v1](http://arxiv.org/abs/2111.14990v1)|null|
@@ -357,12 +357,12 @@
 |**2022-03-23**|**Deep Multi-View Learning for Tire Recommendation**|Thomas Ranvier et.al.|[2203.12451v1](http://arxiv.org/abs/2203.12451v1)|null|
 |**2022-03-23**|**Nanoconfinement Facilitates Reactions of Carbon Dioxide in Supercritical Water**|Nore Stolte et.al.|[2203.12432v1](http://arxiv.org/abs/2203.12432v1)|null|
 |**2022-03-23**|**Climate impacts of particle physics**|Kenneth Bloom et.al.|[2203.12389v1](http://arxiv.org/abs/2203.12389v1)|null|
-|**2022-03-23**|**Dynamically-Scaled Deep Canonical Correlation Analysis**|Tomer Friedlander et.al.|[2203.12377v1](http://arxiv.org/abs/2203.12377v1)|**[link](https://github.com/tomerfr/dynamicallyscaleddeepcca)**|
+|**2022-03-24**|**Dynamically-Scaled Deep Canonical Correlation Analysis**|Tomer Friedlander et.al.|[2203.12377v2](http://arxiv.org/abs/2203.12377v2)|**[link](https://github.com/tomerfr/dynamicallyscaleddeepcca)**|
 |**2022-03-23**|**Transformer-based Multimodal Information Fusion for Facial Expression Analysis**|Wei Zhang et.al.|[2203.12367v1](http://arxiv.org/abs/2203.12367v1)|null|
 |**2022-03-23**|**Values of Coordinated Residential Space Heating in Demand Response Provision**|Zihang Dong et.al.|[2203.12365v1](http://arxiv.org/abs/2203.12365v1)|null|
 |**2022-03-23**|**Ethereum Fraud Detection with Heterogeneous Graph Neural Networks**|Hiroki Kanezashi et.al.|[2203.12363v1](http://arxiv.org/abs/2203.12363v1)|null|
 |**2022-03-23**|**Cognitive Workload Associated with Different Conceptual Modeling Approaches in Information Systems**|Andreas Knoben et.al.|[2203.12342v1](http://arxiv.org/abs/2203.12342v1)|null|
-|**2022-03-23**|**Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin**|Hangyu Li et.al.|[2203.12341v1](http://arxiv.org/abs/2203.12341v1)|**[link](https://github.com/hangyu94/ada-cm)**|
+|**2022-03-24**|**Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin**|Hangyu Li et.al.|[2203.12341v2](http://arxiv.org/abs/2203.12341v2)|**[link](https://github.com/hangyu94/ada-cm)**|
 |**2022-03-23**|**Binary Morphological Neural Network**|Theodore Aouad et.al.|[2203.12337v1](http://arxiv.org/abs/2203.12337v1)|**[link](https://github.com/theodoreaouad/bimonn_icip2022)**|
 |**2022-03-23**|**Resource allocation optimization using artificial intelligence methods in various computing paradigms: A Review**|Javad Hassannataj Joloudari et.al.|[2203.12315v1](http://arxiv.org/abs/2203.12315v1)|null|
 |**2022-03-23**|**Energy Efficient Placement of ML-Based Services in IoT Networks**|Mohammed M. Alenazi et.al.|[2203.12312v1](http://arxiv.org/abs/2203.12312v1)|null|
@@ -390,7 +390,7 @@
 |**2022-03-23**|**An Optical Controlling Environment and Reinforcement Learning Benchmarks**|Abulikemu Abuduweili et.al.|[2203.12114v1](http://arxiv.org/abs/2203.12114v1)|**[link](https://github.com/walleclipse/reinforcement-learning-pulse-stacking)**|
 |**2022-03-23**|**Music Generation Using an LSTM**|Michael Conner et.al.|[2203.12105v1](http://arxiv.org/abs/2203.12105v1)|null|
 |**2022-03-22**|**FxP-QNet: A Post-Training Quantizer for the Design of Mixed Low-Precision DNNs with Dynamic Fixed-Point Representation**|Ahmad Shawahna et.al.|[2203.12091v1](http://arxiv.org/abs/2203.12091v1)|null|
-|**2022-03-22**|**Deep Portrait Delighting**|Joshua Weir et.al.|[2203.12088v1](http://arxiv.org/abs/2203.12088v1)|null|
+|**2022-03-24**|**Deep Portrait Delighting**|Joshua Weir et.al.|[2203.12088v2](http://arxiv.org/abs/2203.12088v2)|null|
 |**2022-03-22**|**Review of Metrics to Measure the Stability, Robustness and Resilience of Reinforcement Learning**|Laura L. Pullum et.al.|[2203.12048v1](http://arxiv.org/abs/2203.12048v1)|null|
 |**2022-03-22**|**On Supervised Feature Selection from High Dimensional Feature Spaces**|Yijing Yang et.al.|[2203.11924v1](http://arxiv.org/abs/2203.11924v1)|null|
 |**2022-03-22**|**Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections**|Simone Azeglio et.al.|[2203.11910v1](http://arxiv.org/abs/2203.11910v1)|null|
