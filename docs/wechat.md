@@ -1,4 +1,4 @@
-> Updated on 2022.03.27
+> Updated on 2022.03.28
 
 ## SLAM
 
@@ -278,7 +278,7 @@
 
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-14, **There's no difference: Convolutional Neural Networks for transient detection without template subtraction**, Tatiana Acero-Cuellar et.al., Paper: [http://arxiv.org/abs/2203.07390v1](http://arxiv.org/abs/2203.07390v1), Code: **[https://github.com/taceroc/dia_nodia](https://github.com/taceroc/dia_nodia)**
-- 2022-03-05, **Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2203.02668v1](http://arxiv.org/abs/2203.02668v1)
+- 2022-03-25, **Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2203.02668v2](http://arxiv.org/abs/2203.02668v2)
 - 2022-03-01, **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et.al., Paper: [http://arxiv.org/abs/2203.00386v1](http://arxiv.org/abs/2203.00386v1)
 - 2022-03-09, **Time-resolved Imaging of Stochastic Cascade Reactions over a Submillisecond to Second Time Range at the Angstrom Level**, Toshiki Shimizu et.al., Paper: [http://arxiv.org/abs/2202.13332v2](http://arxiv.org/abs/2202.13332v2)
 - 2022-02-16, **Cross-view and Cross-domain Underwater Localization based on Optical Aerial and Acoustic Underwater Images**, Matheus M. Dos Santos et.al., Paper: [http://arxiv.org/abs/2202.07817v1](http://arxiv.org/abs/2202.07817v1)
@@ -340,7 +340,7 @@
 - 2022-03-24, **Influence of implantation induced defects on the thermoelectric properties of ScN**, R. Burcea et.al., Paper: [http://arxiv.org/abs/2203.13227v1](http://arxiv.org/abs/2203.13227v1)
 - 2022-03-24, **The Promise and Limitations of Precision Gravity: Application to the Interior Structure of Uranus and Neptune**, Naor Movshovitz et.al., Paper: [http://arxiv.org/abs/2203.13221v1](http://arxiv.org/abs/2203.13221v1)
 - 2022-03-24, **Intelligent Systematic Investment Agent: an ensemble of deep learning and evolutionary strategies**, Prasang Gupta et.al., Paper: [http://arxiv.org/abs/2203.13125v1](http://arxiv.org/abs/2203.13125v1)
-- 2022-03-24, **Explainable Artificial Intelligence for Exhaust Gas Temperature of Turbofan Engines**, Marios Kefalas et.al., Paper: [http://arxiv.org/abs/2203.13108v1](http://arxiv.org/abs/2203.13108v1)
+- 2022-03-25, **Explainable Artificial Intelligence for Exhaust Gas Temperature of Turbofan Engines**, Marios Kefalas et.al., Paper: [http://arxiv.org/abs/2203.13108v2](http://arxiv.org/abs/2203.13108v2)
 - 2022-03-24, **Locally Asynchronous Stochastic Gradient Descent for Decentralised Deep Learning**, Tomer Avidor et.al., Paper: [http://arxiv.org/abs/2203.13085v1](http://arxiv.org/abs/2203.13085v1)
 - 2022-03-24, **Multitask Emotion Recognition Model with Knowledge Distillation and Task Discriminator**, Euiseok Jeong et.al., Paper: [http://arxiv.org/abs/2203.13072v1](http://arxiv.org/abs/2203.13072v1)
 - 2022-03-24, **Nonthermal particle acceleration from maximum entropy in collisionless plasmas**, Vladimir Zhdankin et.al., Paper: [http://arxiv.org/abs/2203.13054v1](http://arxiv.org/abs/2203.13054v1)
@@ -367,7 +367,7 @@
 - 2022-03-24, **Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer**, Zhou Yu et.al., Paper: [http://arxiv.org/abs/2203.12814v1](http://arxiv.org/abs/2203.12814v1)
 - 2022-03-24, **Survey of Gravitationally-lensed Objects in HSC Imaging (SuGOHI). VIII. New galaxy-scale lenses from the HSC SSP**, Kenneth C. Wong et.al., Paper: [http://arxiv.org/abs/2203.12805v1](http://arxiv.org/abs/2203.12805v1)
 - 2022-03-24, **When Accuracy Meets Privacy: Two-Stage Federated Transfer Learning Framework in Classification of Medical Images on Limited Data: A COVID-19 Case Study**, Alexandros Shikun Zhang et.al., Paper: [http://arxiv.org/abs/2203.12803v1](http://arxiv.org/abs/2203.12803v1)
-- 2022-03-24, **Chebyshev's Bias for Ramanujan's $τ$-function via the Deep Riemann Hypothesis**, Shin-ya Koyama et.al., Paper: [http://arxiv.org/abs/2203.12791v1](http://arxiv.org/abs/2203.12791v1)
+- 2022-03-25, **Chebyshev's Bias for Ramanujan's $τ$-function via the Deep Riemann Hypothesis**, Shin-ya Koyama et.al., Paper: [http://arxiv.org/abs/2203.12791v2](http://arxiv.org/abs/2203.12791v2)
 - 2022-03-23, **Multidimensional Belief Quantification for Label-Efficient Meta-Learning**, Deep Pandey et.al., Paper: [http://arxiv.org/abs/2203.12768v1](http://arxiv.org/abs/2203.12768v1)
 - 2022-03-23, **Functional mimicry of Ruffini receptors with Fiber Bragg Gratings and Deep Neural Networks enables a bio-inspired large-area tactile sensitive skin**, Luca Massari et.al., Paper: [http://arxiv.org/abs/2203.12752v1](http://arxiv.org/abs/2203.12752v1)
 - 2022-03-23, **Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning**, Natalie Dullerud et.al., Paper: [http://arxiv.org/abs/2203.12748v1](http://arxiv.org/abs/2203.12748v1)
@@ -380,7 +380,7 @@
 - 2022-03-23, **StructToken : Rethinking Semantic Segmentation with Structural Prior**, Fangjian Lin et.al., Paper: [http://arxiv.org/abs/2203.12612v1](http://arxiv.org/abs/2203.12612v1)
 - 2022-03-23, **Improving the Fairness of Chest X-ray Classifiers**, Haoran Zhang et.al., Paper: [http://arxiv.org/abs/2203.12609v1](http://arxiv.org/abs/2203.12609v1), Code: **[https://github.com/mlforhealth/cxr_fairness](https://github.com/mlforhealth/cxr_fairness)**
 - 2022-03-23, **Multi-label Transformer for Action Unit Detection**, Gauthier Tallec et.al., Paper: [http://arxiv.org/abs/2203.12531v1](http://arxiv.org/abs/2203.12531v1)
-- 2022-03-23, **A Deep Learning Approach to Probabilistic Forecasting of Weather**, Nick Rittler et.al., Paper: [http://arxiv.org/abs/2203.12529v1](http://arxiv.org/abs/2203.12529v1), Code: **[https://github.com/rittlern/probabilistic_forecasting](https://github.com/rittlern/probabilistic_forecasting)**
+- 2022-03-24, **A Deep Learning Approach to Probabilistic Forecasting of Weather**, Nick Rittler et.al., Paper: [http://arxiv.org/abs/2203.12529v2](http://arxiv.org/abs/2203.12529v2), Code: **[https://github.com/rittlern/probabilistic_forecasting](https://github.com/rittlern/probabilistic_forecasting)**
 - 2022-03-23, **Semi-Supervised Graph Learning Meets Dimensionality Reduction**, Alex Morehead et.al., Paper: [http://arxiv.org/abs/2203.12522v1](http://arxiv.org/abs/2203.12522v1), Code: **[https://github.com/amorehead/SSL-With-DR-And-GNNs](https://github.com/amorehead/SSL-With-DR-And-GNNs)**
 - 2022-03-23, **CoMeFa: Compute-in-Memory Blocks for FPGAs**, Aman Arora et.al., Paper: [http://arxiv.org/abs/2203.12521v1](http://arxiv.org/abs/2203.12521v1)
 - 2022-03-23, **Sampling Theorems for Unsupervised Learning in Linear Inverse Problems**, Julián Tachella et.al., Paper: [http://arxiv.org/abs/2203.12513v1](http://arxiv.org/abs/2203.12513v1)
