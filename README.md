@@ -1,4 +1,4 @@
-## Updated on 2022.03.28
+## Updated on 2022.03.29
 
 ## SLAM
 
@@ -52,7 +52,7 @@
 |**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
 |**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu et.al.|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
 |**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan et.al.|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
-|**2022-02-04**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
+|**2022-03-26**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v3](http://arxiv.org/abs/2201.09862v3)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
@@ -227,7 +227,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v1](http://arxiv.org/abs/2203.12745v1)|**[link](https://github.com/tencentarc/umt)**|
+|**2022-03-27**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v2](http://arxiv.org/abs/2203.12745v2)|**[link](https://github.com/tencentarc/umt)**|
 |**2022-03-21**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
 |**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton et.al.|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
 |**2022-03-11**|**DRTAM: Dual Rank-1 Tensor Attention Module**|Hanxing Chi et.al.|[2203.05893v1](http://arxiv.org/abs/2203.05893v1)|null|
@@ -377,7 +377,7 @@
 |**2022-03-25**|**A Unified Contrastive Energy-based Model for Understanding the Generative Ability of Adversarial Training**|Yifei Wang et.al.|[2203.13455v1](http://arxiv.org/abs/2203.13455v1)|null|
 |**2022-03-25**|**CNN LEGO: Disassembling and Assembling Convolutional Neural Network**|Jiacong Hu et.al.|[2203.13453v1](http://arxiv.org/abs/2203.13453v1)|null|
 |**2022-03-25**|**A Comparative Survey of Deep Active Learning**|Xueying Zhan et.al.|[2203.13450v1](http://arxiv.org/abs/2203.13450v1)|null|
-|**2022-03-25**|**AudioTagging Done Right: 2nd comparison of deep learning methods for environmental sound classification**|Juncheng B Li et.al.|[2203.13448v1](http://arxiv.org/abs/2203.13448v1)|null|
+|**2022-03-28**|**AudioTagging Done Right: 2nd comparison of deep learning methods for environmental sound classification**|Juncheng B Li et.al.|[2203.13448v2](http://arxiv.org/abs/2203.13448v2)|**[link](https://github.com/lijuncheng16/AudioTaggingDoneRight)**|
 |**2022-03-25**|**MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis**|Liwen Xu et.al.|[2203.13443v1](http://arxiv.org/abs/2203.13443v1)|null|
 |**2022-03-25**|**Dealing with Sparse Rewards Using Graph Neural Networks**|Matvey Gerasyov et.al.|[2203.13424v1](http://arxiv.org/abs/2203.13424v1)|null|
 |**2022-03-25**|**Multi-wavelength Campaign on the Super-Eddington NLS1 RX J0134.2-4258 -- I. Peculiar X-ray Spectra and Variability**|Chichuan Jin et.al.|[2203.13419v1](http://arxiv.org/abs/2203.13419v1)|null|
@@ -386,7 +386,7 @@
 |**2022-03-25**|**Weak-coupling to strong-coupling quantum criticality crossover in a Kitaev quantum spin liquid $α$-RuCl$_3$**|Jae-Ho Han et.al.|[2203.13407v1](http://arxiv.org/abs/2203.13407v1)|null|
 |**2022-03-25**|**Deep follow-up of GW151226: ordinary binary or low-mass-ratio system?**|Avi Vajpeyi et.al.|[2203.13406v1](http://arxiv.org/abs/2203.13406v1)|null|
 |**2022-03-25**|**Wayne State Universitys Dan Zowada Memorial Observatory: Characterization and Pipeline of a 0.5 Meter Robotic Telescope**|Robert Carr et.al.|[2203.13400v1](http://arxiv.org/abs/2203.13400v1)|null|
-|**2022-03-25**|**GPT-D: Inducing Dementia-related Linguistic Anomalies by Deliberate Degradation of Artificial Neural Language Models**|Changye Li et.al.|[2203.13397v1](http://arxiv.org/abs/2203.13397v1)|null|
+|**2022-03-25**|**GPT-D: Inducing Dementia-related Linguistic Anomalies by Deliberate Degradation of Artificial Neural Language Models**|Changye Li et.al.|[2203.13397v1](http://arxiv.org/abs/2203.13397v1)|**[link](https://github.com/LinguisticAnomalies/harmonized-toolkit)**|
 |**2022-03-25**|**Using Reinforcement Learning to Study Platform Economies under Market Shocks**|Xintong Wang et.al.|[2203.13395v1](http://arxiv.org/abs/2203.13395v1)|null|
 |**2022-03-24**|**Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology**|Yusuf Nasir et.al.|[2203.13375v1](http://arxiv.org/abs/2203.13375v1)|null|
 |**2022-03-24**|**Deep learning for laboratory earthquake prediction and autoregressive forecasting of fault zone stress**|Laura Laurenti et.al.|[2203.13313v1](http://arxiv.org/abs/2203.13313v1)|null|
