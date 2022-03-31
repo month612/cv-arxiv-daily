@@ -1,4 +1,4 @@
-> Updated on 2022.03.30
+> Updated on 2022.03.31
 
 ## SLAM
 
@@ -19,7 +19,7 @@
 - 2022-03-10, **High Definition, Inexpensive, Underwater Mapping**, Bharat Joshi et.al., Paper: [http://arxiv.org/abs/2203.05640v1](http://arxiv.org/abs/2203.05640v1)
 - 2022-03-10, **SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**, Jaehoon Choi et.al., Paper: [http://arxiv.org/abs/2203.05332v1](http://arxiv.org/abs/2203.05332v1)
 - 2022-03-08, **Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**, Pierre-Yves Lajoie et.al., Paper: [http://arxiv.org/abs/2203.04446v1](http://arxiv.org/abs/2203.04446v1)
-- 2022-03-08, **SLAM-Supported Self-Training for 6D Object Pose Estimation**, Ziqi Lu et.al., Paper: [http://arxiv.org/abs/2203.04424v1](http://arxiv.org/abs/2203.04424v1), Code: **[https://github.com/520xyxyzq/slam-super-6d](https://github.com/520xyxyzq/slam-super-6d)**
+- 2022-03-29, **SLAM-Supported Self-Training for 6D Object Pose Estimation**, Ziqi Lu et.al., Paper: [http://arxiv.org/abs/2203.04424v2](http://arxiv.org/abs/2203.04424v2), Code: **[https://github.com/520xyxyzq/slam-super-6d](https://github.com/520xyxyzq/slam-super-6d)**
 - 2022-03-08, **An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**, Thorsten Hempel et.al., Paper: [http://arxiv.org/abs/2203.03944v1](http://arxiv.org/abs/2203.03944v1)
 - 2022-03-07, **Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**, Qingqing Li et.al., Paper: [http://arxiv.org/abs/2203.03454v1](http://arxiv.org/abs/2203.03454v1), Code: **[https://github.com/tiers/tiers-lidars-dataset](https://github.com/tiers/tiers-lidars-dataset)**
 - 2022-03-07, **OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**, Junyi Ma et.al., Paper: [http://arxiv.org/abs/2203.03397v1](http://arxiv.org/abs/2203.03397v1), Code: **[https://github.com/haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer)**
@@ -191,7 +191,7 @@
 - 2022-03-23, **TransVPR: Transformer-based place recognition with multi-level attention aggregation**, Ruotong Wang et.al., Paper: [http://arxiv.org/abs/2201.02001v3](http://arxiv.org/abs/2201.02001v3)
 - 2022-03-29, **NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**, Tony Ng et.al., Paper: [http://arxiv.org/abs/2112.12785v2](http://arxiv.org/abs/2112.12785v2)
 - 2021-12-22, **Ghost-dil-NetVLAD: A Lightweight Neural Network for Visual Place Recognition**, Qingyuan Gong et.al., Paper: [http://arxiv.org/abs/2112.11679v1](http://arxiv.org/abs/2112.11679v1)
-- 2022-03-24, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v4](http://arxiv.org/abs/2112.09081v4), Code: **[https://github.com/topo-epfl/crossloc](https://github.com/topo-epfl/crossloc)**
+- 2022-03-30, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v5](http://arxiv.org/abs/2112.09081v5), Code: **[https://github.com/topo-epfl/crossloc](https://github.com/topo-epfl/crossloc)**
 - 2021-12-09, **Unsupervised Complementary-aware Multi-process Fusion for Visual Place Recognition**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2112.04701v1](http://arxiv.org/abs/2112.04701v1)
 - 2021-12-05, **RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**, Jialu Wang et.al., Paper: [http://arxiv.org/abs/2112.02469v1](http://arxiv.org/abs/2112.02469v1)
 - 2021-11-29, **MIXER: A Principled Framework for Multimodal, Multiway Data Association**, Parker C. Lusk et.al., Paper: [http://arxiv.org/abs/2111.14990v1](http://arxiv.org/abs/2111.14990v1)
@@ -357,8 +357,8 @@
 - 2022-03-29, **Revisiting Neighborhood-based Link Prediction for Collaborative Filtering**, Hao-Ming Fu et.al., Paper: [http://arxiv.org/abs/2203.15789v1](http://arxiv.org/abs/2203.15789v1)
 - 2022-03-29, **Target Geometry Estimation Using Deep Neural Networks in Sonar Sensing**, Chen Ming et.al., Paper: [http://arxiv.org/abs/2203.15770v1](http://arxiv.org/abs/2203.15770v1)
 - 2022-03-29, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, Mostafa Sadeghi et.al., Paper: [http://arxiv.org/abs/2203.15758v1](http://arxiv.org/abs/2203.15758v1)
-- 2022-03-29, **Accurate Deep Learning-aided Density-free Strategy for Many-Body Dispersion-corrected DFT**, Pier Paolo Poier et.al., Paper: [http://arxiv.org/abs/2203.15739v1](http://arxiv.org/abs/2203.15739v1)
-- 2022-03-29, **Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version**, Razvan-Gabriel Cirstea et.al., Paper: [http://arxiv.org/abs/2203.15737v1](http://arxiv.org/abs/2203.15737v1)
+- 2022-03-30, **Accurate Deep Learning-aided Density-free Strategy for Many-Body Dispersion-corrected DFT**, Pier Paolo Poier et.al., Paper: [http://arxiv.org/abs/2203.15739v2](http://arxiv.org/abs/2203.15739v2)
+- 2022-03-30, **Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version**, Razvan-Gabriel Cirstea et.al., Paper: [http://arxiv.org/abs/2203.15737v2](http://arxiv.org/abs/2203.15737v2), Code: **[https://github.com/razvanc92/st-wa](https://github.com/razvanc92/st-wa)**
 - 2022-03-29, **Synergizing Physics/Model-based and Data-driven Methods for Low-Dose CT**, Wenjun Xia et.al., Paper: [http://arxiv.org/abs/2203.15725v1](http://arxiv.org/abs/2203.15725v1)
 - 2022-03-29, **Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs**, Yifeng Jiang et.al., Paper: [http://arxiv.org/abs/2203.15720v1](http://arxiv.org/abs/2203.15720v1)
 - 2022-03-29, **Integrative Few-Shot Learning for Classification and Segmentation**, Dahyun Kang et.al., Paper: [http://arxiv.org/abs/2203.15712v1](http://arxiv.org/abs/2203.15712v1)
@@ -398,7 +398,7 @@
 - 2022-03-29, **Zero-Query Transfer Attacks on Context-Aware Object Detectors**, Zikui Cai et.al., Paper: [http://arxiv.org/abs/2203.15230v1](http://arxiv.org/abs/2203.15230v1)
 - 2022-03-29, **Edge Detection and Deep Learning Based SETI Signal Classification Method**, Zhewei Chen et.al., Paper: [http://arxiv.org/abs/2203.15229v1](http://arxiv.org/abs/2203.15229v1)
 - 2022-03-29, **SHOP: A Deep Learning Based Pipeline for near Real-Time Detection of Small Handheld Objects Present in Blurry Video**, Abhinav Ganguly et.al., Paper: [http://arxiv.org/abs/2203.15228v1](http://arxiv.org/abs/2203.15228v1)
-- 2022-03-29, **Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection**, Jingqun Tang et.al., Paper: [http://arxiv.org/abs/2203.15221v1](http://arxiv.org/abs/2203.15221v1)
+- 2022-03-30, **Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection**, Jingqun Tang et.al., Paper: [http://arxiv.org/abs/2203.15221v2](http://arxiv.org/abs/2203.15221v2)
 - 2022-03-29, **Comparing the effects of Boltzmann machines as associative memory in Generative Adversarial Networks between classical and quantum sampling**, Mitsuru Urushibata et.al., Paper: [http://arxiv.org/abs/2203.15220v1](http://arxiv.org/abs/2203.15220v1)
 - 2022-03-29, **AnoDFDNet: A Deep Feature Difference Network for Anomaly Detection**, Zhixue Wang et.al., Paper: [http://arxiv.org/abs/2203.15195v1](http://arxiv.org/abs/2203.15195v1), Code: **[https://github.com/wangle53/anodfdnet](https://github.com/wangle53/anodfdnet)**
 - 2022-03-29, **A Deep Learning Approach for Thermal Plume Prediction of Groundwater Heat Pumps**, Raphael Leiteritz et.al., Paper: [http://arxiv.org/abs/2203.14961v1](http://arxiv.org/abs/2203.14961v1)
