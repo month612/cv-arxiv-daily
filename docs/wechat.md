@@ -1,4 +1,4 @@
-> Updated on 2022.03.31
+> Updated on 2022.04.01
 
 ## SLAM
 
@@ -101,7 +101,7 @@
 
 ## SFM
 
-- 2022-03-30, **Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2203.16505v1](http://arxiv.org/abs/2203.16505v1)
+- 2022-03-31, **Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2203.16505v2](http://arxiv.org/abs/2203.16505v2)
 - 2022-03-28, **Visual Odometry for RGB-D Cameras**, Afonso Fontes et.al., Paper: [http://arxiv.org/abs/2203.15119v1](http://arxiv.org/abs/2203.15119v1)
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1)
 - 2022-03-23, **Event-Based Dense Reconstruction Pipeline**, Kun Xiao et.al., Paper: [http://arxiv.org/abs/2203.12270v1](http://arxiv.org/abs/2203.12270v1)
@@ -316,7 +316,7 @@
 - 2021-12-01, **FaSS-MVS -- Fast Multi-View Stereo with Surface-Aware Semi-Global Matching from UAV-borne Monocular Imagery**, Boitumelo Ruf et.al., Paper: [http://arxiv.org/abs/2112.00821v1](http://arxiv.org/abs/2112.00821v1)
 - 2022-03-19, **CLIPstyler: Image Style Transfer with a Single Text Condition**, Gihyun Kwon et.al., Paper: [http://arxiv.org/abs/2112.00374v3](http://arxiv.org/abs/2112.00374v3), Code: **[https://github.com/cyclomon/clipstyler](https://github.com/cyclomon/clipstyler)**
 - 2021-11-29, **Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.15514v1](http://arxiv.org/abs/2111.15514v1)
-- 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
+- 2022-03-31, **ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v2](http://arxiv.org/abs/2111.14447v2), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 - 2021-11-23, **Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2111.09006v2](http://arxiv.org/abs/2111.09006v2)
 - 2021-12-15, **Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.08994v3](http://arxiv.org/abs/2111.08994v3)
@@ -397,7 +397,7 @@
 - 2022-03-30, **X-ray Selected Narrow-Line Active Galactic Nuclei in the COSMOS Field: Nature of Optically Dull Active Galactic Nuclei**, Itsna K. Fitriana et.al., Paper: [http://arxiv.org/abs/2203.15967v1](http://arxiv.org/abs/2203.15967v1)
 - 2022-03-30, **PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation**, Haiyan Wang et.al., Paper: [http://arxiv.org/abs/2203.15965v1](http://arxiv.org/abs/2203.15965v1)
 - 2022-03-30, **Investigating the Properties of Neural Network Representations in Reinforcement Learning**, Han Wang et.al., Paper: [http://arxiv.org/abs/2203.15955v1](http://arxiv.org/abs/2203.15955v1)
-- 2022-03-29, **Graph Neural Networks in IoT: A Survey**, Guimin Dong et.al., Paper: [http://arxiv.org/abs/2203.15935v1](http://arxiv.org/abs/2203.15935v1), Code: **[https://github.com/guimindong/gnn4iot](https://github.com/guimindong/gnn4iot)**
+- 2022-03-31, **Graph Neural Networks in IoT: A Survey**, Guimin Dong et.al., Paper: [http://arxiv.org/abs/2203.15935v2](http://arxiv.org/abs/2203.15935v2), Code: **[https://github.com/guimindong/gnn4iot](https://github.com/guimindong/gnn4iot)**
 - 2022-03-29, **Self-Contrastive Learning based Semi-Supervised Radio Modulation Classification**, Dongxin Liu et.al., Paper: [http://arxiv.org/abs/2203.15932v1](http://arxiv.org/abs/2203.15932v1)
 - 2022-03-29, **Deep Equilibrium Assisted Block Sparse Coding of Inter-dependent Signals: Application to Hyperspectral Imaging**, Alexandros Gkillas et.al., Paper: [http://arxiv.org/abs/2203.15901v1](http://arxiv.org/abs/2203.15901v1)
 - 2022-03-29, **A deep learning model for burn depth classification using ultrasound imaging**, Sangrock Lee et.al., Paper: [http://arxiv.org/abs/2203.15879v1](http://arxiv.org/abs/2203.15879v1)
