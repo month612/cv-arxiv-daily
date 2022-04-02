@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.01
+## Updated on 2022.04.02
 
 ## SLAM
 
@@ -131,7 +131,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-31**|**Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**|Shaohan Li et.al.|[2203.16505v2](http://arxiv.org/abs/2203.16505v2)|null|
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
-|**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
+|**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|**[link](https://github.com/martyushev/eliminationtemplates)**|
 |**2022-03-23**|**Event-Based Dense Reconstruction Pipeline**|Kun Xiao et.al.|[2203.12270v1](http://arxiv.org/abs/2203.12270v1)|null|
 |**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
@@ -330,7 +330,7 @@ layout: default
 |**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|null|
 |**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
-|**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
+|**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|**[link](https://github.com/martyushev/eliminationtemplates)**|
 |**2022-03-28**|**S2-Net: Self-supervision Guided Feature Representation Learning for Cross-Modality Images**|Shasha Mei et.al.|[2203.14581v1](http://arxiv.org/abs/2203.14581v1)|null|
 |**2022-03-26**|**Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching**|Yujiao Shi et.al.|[2203.14148v1](http://arxiv.org/abs/2203.14148v1)|null|
 |**2022-03-21**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
@@ -442,7 +442,7 @@ layout: default
 |**2022-03-30**|**Exploring the hysteresis properties of nanocrystalline permanent magnets using deep learning**|Alexander Kovacs et.al.|[2203.16676v1](http://arxiv.org/abs/2203.16676v1)|null|
 |**2022-03-30**|**PIE-Net: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition**|Partha Das et.al.|[2203.16670v1](http://arxiv.org/abs/2203.16670v1)|**[link](https://github.com/Morpheus3000/PIE-Net)**|
 |**2022-03-30**|**Grey Tracks as Probes of Hadronization Dynamics**|Carolina M. Robles Gajardo et.al.|[2203.16665v1](http://arxiv.org/abs/2203.16665v1)|null|
-|**2022-03-30**|**Hybrid Handcrafted and Learnable Audio Representation for Analysis of Speech Under Cognitive and Physical Load**|Gasser Elbanna et.al.|[2203.16637v1](http://arxiv.org/abs/2203.16637v1)|null|
+|**2022-03-30**|**Hybrid Handcrafted and Learnable Audio Representation for Analysis of Speech Under Cognitive and Physical Load**|Gasser Elbanna et.al.|[2203.16637v1](http://arxiv.org/abs/2203.16637v1)|**[link](https://github.com/gasserelbanna/serab-byols)**|
 |**2022-03-30**|**Multi Antenna Radar System for American Sign Language (ASL) Recognition Using Deep Learning**|Gavin MacLaughlin et.al.|[2203.16624v1](http://arxiv.org/abs/2203.16624v1)|null|
 |**2022-03-30**|**An Improved Lightweight YOLOv5 Model Based on Attention Mechanism for Face Mask Detection**|Sheng Xu et.al.|[2203.16506v1](http://arxiv.org/abs/2203.16506v1)|null|
 |**2022-03-30**|**Foveation-based Deep Video Compression without Motion Search**|Meixu Chen et.al.|[2203.16490v1](http://arxiv.org/abs/2203.16490v1)|null|
