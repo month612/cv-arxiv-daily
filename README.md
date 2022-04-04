@@ -417,7 +417,7 @@
 |**2022-03-31**|**Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network**|DUNE Collaboration et.al.|[2203.17053v1](http://arxiv.org/abs/2203.17053v1)|null|
 |**2022-03-31**|**DeepFry: Identifying Vocal Fry Using Deep Neural Networks**|Bronya R. Chernyak et.al.|[2203.17019v1](http://arxiv.org/abs/2203.17019v1)|**[link](https://github.com/bronichern/deepfry)**|
 |**2022-03-31**|**A Temporal-oriented Broadcast ResNet for COVID-19 Detection**|Xin Jing et.al.|[2203.17012v1](http://arxiv.org/abs/2203.17012v1)|null|
-|**2022-04-01**|**It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher**|Kanghyun Choi et.al.|[2203.17008v2](http://arxiv.org/abs/2203.17008v2)|null|
+|**2022-04-01**|**It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher**|Kanghyun Choi et.al.|[2203.17008v2](http://arxiv.org/abs/2203.17008v2)|**[link](https://github.com/iamkanghyunchoi/ait)**|
 |**2022-03-31**|**Speech Enhancement with Score-Based Generative Models in the Complex STFT Domain**|Simon Welker et.al.|[2203.17004v1](http://arxiv.org/abs/2203.17004v1)|null|
 |**2022-03-31**|**SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy**|Shuai Guo et.al.|[2203.17001v1](http://arxiv.org/abs/2203.17001v1)|null|
 |**2022-03-31**|**Measuring hand use in the home after cervical spinal cord injury using egocentric video**|Andrea Bandini et.al.|[2203.16996v1](http://arxiv.org/abs/2203.16996v1)|null|
