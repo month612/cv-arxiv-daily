@@ -1,4 +1,4 @@
-> Updated on 2022.04.05
+> Updated on 2022.04.06
 
 ## SLAM
 
@@ -392,8 +392,8 @@
 - 2022-04-04, **Optimizing the Consumption of Spiking Neural Networks with Activity Regularization**, Simon Narduzzi et.al., Paper: [http://arxiv.org/abs/2204.01460v1](http://arxiv.org/abs/2204.01460v1)
 - 2022-04-04, **Computer-Aided Extraction of Select MRI Markers of Cerebral Small Vessel Disease: A Systematic Review**, Jiyang Jiang et.al., Paper: [http://arxiv.org/abs/2204.01411v1](http://arxiv.org/abs/2204.01411v1)
 - 2022-04-04, **Automated Machine Learning for Deep Recommender Systems: A Survey**, Bo Chen et.al., Paper: [http://arxiv.org/abs/2204.01390v1](http://arxiv.org/abs/2204.01390v1)
-- 2022-04-04, **Taking ROCKET on an efficiency mission: Multivariate time series classification with LightWaves**, Leonardos Pantiskas et.al., Paper: [http://arxiv.org/abs/2204.01379v1](http://arxiv.org/abs/2204.01379v1)
-- 2022-04-04, **Synthetic Graph Generation to Benchmark Graph Learning**, Anton Tsitsulin et.al., Paper: [http://arxiv.org/abs/2204.01376v1](http://arxiv.org/abs/2204.01376v1)
+- 2022-04-05, **Taking ROCKET on an Efficiency Mission: Multivariate Time Series Classification with LightWaveS**, Leonardos Pantiskas et.al., Paper: [http://arxiv.org/abs/2204.01379v2](http://arxiv.org/abs/2204.01379v2)
+- 2022-04-04, **Synthetic Graph Generation to Benchmark Graph Learning**, Anton Tsitsulin et.al., Paper: [http://arxiv.org/abs/2204.01376v1](http://arxiv.org/abs/2204.01376v1), Code: **[https://github.com/google-research/google-research](https://github.com/google-research/google-research)**
 - 2022-04-04, **Deep learning, stochastic gradient descent and diffusion maps**, Carmina Fjellström et.al., Paper: [http://arxiv.org/abs/2204.01365v1](http://arxiv.org/abs/2204.01365v1)
 - 2022-04-04, **PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models**, Chen Wu et.al., Paper: [http://arxiv.org/abs/2204.01321v1](http://arxiv.org/abs/2204.01321v1)
 - 2022-04-04, **tPLCnet: Real-time Deep Packet Loss Concealment in the Time Domain Using a Short Temporal Context**, Nils L. Westhausen et.al., Paper: [http://arxiv.org/abs/2204.01300v1](http://arxiv.org/abs/2204.01300v1)
