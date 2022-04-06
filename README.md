@@ -380,6 +380,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
+|**2022-04-05**|**Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models**|Jose L. Vazquez et.al.|[2204.02392v1](http://arxiv.org/abs/2204.02392v1)|null|
+|**2022-04-05**|**Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower**|Jimmy Wu et.al.|[2204.02390v1](http://arxiv.org/abs/2204.02390v1)|null|
+|**2022-04-05**|**Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth Estimation**|Zhengyang Lu et.al.|[2204.02386v1](http://arxiv.org/abs/2204.02386v1)|null|
+|**2022-04-05**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|**[link](https://github.com/hujunxianligong/MGDCF)**|
+|**2022-04-05**|**A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery**|Alessandro Betti et.al.|[2204.02325v1](http://arxiv.org/abs/2204.02325v1)|null|
+|**2022-04-05**|**Is it worth the effort? Understanding and contextualizing physical metrics in soccer**|Sergio Llana et.al.|[2204.02313v1](http://arxiv.org/abs/2204.02313v1)|null|
+|**2022-04-05**|**Two years of optical and NIR observations of the superluminous supernova UID 30901 discovered by the UltraVISTA SN survey**|Emilio D. Hueichapán et.al.|[2204.02293v1](http://arxiv.org/abs/2204.02293v1)|null|
+|**2022-04-05**|**Aggregating distribution forecasts from deep ensembles**|Benedikt Schulz et.al.|[2204.02291v1](http://arxiv.org/abs/2204.02291v1)|**[link](https://github.com/benediktschulz/agg_distr_deep_ens)**|
+|**2022-04-05**|**How Information on Acoustic Scenes and Sound Events Mutually Benefits Event Detection and Scene Classification Tasks**|Keisuke Imoto et.al.|[2204.02279v1](http://arxiv.org/abs/2204.02279v1)|null|
+|**2022-04-05**|**Deep surrogate accelerated delayed-acceptance HMC for Bayesian inference of spatio-temporal heat fluxes in rotating disc systems**|Teo Deveney et.al.|[2204.02272v1](http://arxiv.org/abs/2204.02272v1)|null|
+|**2022-04-05**|**A Comparison of Deep Learning MOS Predictors for Speech Synthesis Quality**|Alessandro Ragano et.al.|[2204.02249v1](http://arxiv.org/abs/2204.02249v1)|null|
+|**2022-04-05**|**A Set Membership Approach to Discovering Feature Relevance and Explaining Neural Classifier Decisions**|Stavros P. Adam et.al.|[2204.02241v1](http://arxiv.org/abs/2204.02241v1)|null|
+|**2022-04-05**|**Event-based Navigation for Autonomous Drone Racing with Sparse Gated Recurrent Network**|Kristoffer Fogh Andersen et.al.|[2204.02120v1](http://arxiv.org/abs/2204.02120v1)|null|
+|**2022-04-05**|**A machine learning-based framework for high resolution mapping of PM2.5 in Tehran, Iran, using MAIAC AOD data**|Hossein Bagheri et.al.|[2204.02093v1](http://arxiv.org/abs/2204.02093v1)|null|
+|**2022-04-05**|**Automating Reinforcement Learning with Example-based Resets**|Jigang Kim et.al.|[2204.02041v1](http://arxiv.org/abs/2204.02041v1)|null|
+|**2022-04-05**|**A Generative Deep Learning Approach to Stochastic Downscaling of Precipitation Forecasts**|Lucy Harris et.al.|[2204.02028v1](http://arxiv.org/abs/2204.02028v1)|null|
+|**2022-04-05**|**Learning Video Salient Object Detection Progressively from Unlabeled Videos**|Binwei Xu et.al.|[2204.02008v1](http://arxiv.org/abs/2204.02008v1)|null|
+|**2022-04-05**|**Bimodal Distributed Binarized Neural Networks**|Tal Rozen et.al.|[2204.02004v1](http://arxiv.org/abs/2204.02004v1)|**[link](https://github.com/blueanon/bd-bnn)**|
+|**2022-04-05**|**Exploring Mechanisms of Hydration and Carbonation of MgO and Mg(OH)2 in Reactive Magnesium Oxide-based Cements**|Mina Ghane Gardeh et.al.|[2204.01993v1](http://arxiv.org/abs/2204.01993v1)|null|
+|**2022-04-05**|**An End-to-End Integrated Computation and Communication Architecture for Goal-oriented Networking: A Perspective on Live Surveillance Video**|Suvadip Batabyal et.al.|[2204.01987v1](http://arxiv.org/abs/2204.01987v1)|null|
+|**2022-04-05**|**PSDoodle: Searching for App Screens via Interactive Sketching**|Soumik Mohian et.al.|[2204.01968v1](http://arxiv.org/abs/2204.01968v1)|null|
+|**2022-04-05**|**FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes**|Paarth Neekhara et.al.|[2204.01960v1](http://arxiv.org/abs/2204.01960v1)|null|
+|**2022-04-05**|**Unified Implicit Neural Stylization**|Zhiwen Fan et.al.|[2204.01943v1](http://arxiv.org/abs/2204.01943v1)|null|
+|**2022-04-05**|**Fault-Tolerant Deep Learning: A Hierarchical Perspective**|Cheng Liu et.al.|[2204.01942v1](http://arxiv.org/abs/2204.01942v1)|null|
+|**2022-04-05**|**Attention Distraction: Watermark Removal Through Continual Learning with Selective Forgetting**|Qi Zhong et.al.|[2204.01934v1](http://arxiv.org/abs/2204.01934v1)|null|
+|**2022-04-05**|**Structural parameters and possible association of the Ultra-Faint Dwarfs Pegasus III and Pisces II from deep Hubble Space Telescope photometry**|Hannah Richstein et.al.|[2204.01917v1](http://arxiv.org/abs/2204.01917v1)|null|
+|**2022-04-05**|**Weyl double copy and massless free fields in curved spacetimes**|Shanzhong Han et.al.|[2204.01907v1](http://arxiv.org/abs/2204.01907v1)|null|
+|**2022-04-05**|**Learning to Adapt to Domain Shifts with Few-shot Samples in Anomalous Sound Detection**|Bingqing Chen et.al.|[2204.01905v1](http://arxiv.org/abs/2204.01905v1)|null|
+|**2022-04-04**|**ConceptExplainer: Understanding the Mental Model of Deep Learning Algorithms via Interactive Concept-based Explanations**|Jinbin Huang et.al.|[2204.01888v1](http://arxiv.org/abs/2204.01888v1)|null|
+|**2022-04-04**|**Truck Axle Detection with Convolutional Neural Networks**|Leandro Arab Marcomini et.al.|[2204.01868v1](http://arxiv.org/abs/2204.01868v1)|null|
+|**2022-04-04**|**A Survey on Graph Representation Learning Methods**|Shima Khoshraftar et.al.|[2204.01855v1](http://arxiv.org/abs/2204.01855v1)|null|
+|**2022-04-04**|**Peptide conformational sampling using the Quantum Approximate Optimization Algorithm**|Sami Boulebnane et.al.|[2204.01821v1](http://arxiv.org/abs/2204.01821v1)|null|
+|**2022-04-04**|**Recovering the CMB Signal with Machine Learning**|Guo-Jian Wang et.al.|[2204.01820v1](http://arxiv.org/abs/2204.01820v1)|null|
+|**2022-04-04**|**Towards Infield Navigation: leveraging simulated data for crop row detection**|Rajitha de Silva et.al.|[2204.01811v1](http://arxiv.org/abs/2204.01811v1)|null|
+|**2022-04-04**|**GWA: A Large High-Quality Acoustic Dataset for Audio Processing**|Zhenyu Tang et.al.|[2204.01787v1](http://arxiv.org/abs/2204.01787v1)|null|
+|**2022-04-04**|**The First Principles of Deep Learning and Compression**|Max Ehrlich et.al.|[2204.01782v1](http://arxiv.org/abs/2204.01782v1)|null|
+|**2022-04-04**|**Deep learning for the rare-event rational design of 3D printed multi-material mechanical metamaterials**|H. Pahlavani et.al.|[2204.01769v1](http://arxiv.org/abs/2204.01769v1)|null|
+|**2022-04-04**|**Experimental quantum adversarial learning with programmable superconducting qubits**|Wenhui Ren et.al.|[2204.01738v1](http://arxiv.org/abs/2204.01738v1)|null|
 |**2022-04-04**|**Deep Image: A precious image based deep learning method for online malware detection in IoT Environment**|Meysam Ghahramani et.al.|[2204.01690v1](http://arxiv.org/abs/2204.01690v1)|null|
 |**2022-04-04**|**Deep Feature Screening: Feature Selection for Ultra High-Dimensional Data via Deep Neural Networks**|Kexuan Li et.al.|[2204.01682v1](http://arxiv.org/abs/2204.01682v1)|null|
 |**2022-04-04**|**A Novel Capsule Neural Network Based Model for Drowsiness Detection Using Electroencephalography Signals**|Luis Guarda et.al.|[2204.01666v1](http://arxiv.org/abs/2204.01666v1)|null|
