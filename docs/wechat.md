@@ -1,4 +1,4 @@
-> Updated on 2022.04.06
+> Updated on 2022.04.07
 
 ## SLAM
 
@@ -383,15 +383,15 @@
 - 2022-04-05, **A Set Membership Approach to Discovering Feature Relevance and Explaining Neural Classifier Decisions**, Stavros P. Adam et.al., Paper: [http://arxiv.org/abs/2204.02241v1](http://arxiv.org/abs/2204.02241v1)
 - 2022-04-05, **Event-based Navigation for Autonomous Drone Racing with Sparse Gated Recurrent Network**, Kristoffer Fogh Andersen et.al., Paper: [http://arxiv.org/abs/2204.02120v1](http://arxiv.org/abs/2204.02120v1)
 - 2022-04-05, **A machine learning-based framework for high resolution mapping of PM2.5 in Tehran, Iran, using MAIAC AOD data**, Hossein Bagheri et.al., Paper: [http://arxiv.org/abs/2204.02093v1](http://arxiv.org/abs/2204.02093v1)
-- 2022-04-05, **Automating Reinforcement Learning with Example-based Resets**, Jigang Kim et.al., Paper: [http://arxiv.org/abs/2204.02041v1](http://arxiv.org/abs/2204.02041v1)
+- 2022-04-06, **Automating Reinforcement Learning with Example-based Resets**, Jigang Kim et.al., Paper: [http://arxiv.org/abs/2204.02041v2](http://arxiv.org/abs/2204.02041v2)
 - 2022-04-05, **A Generative Deep Learning Approach to Stochastic Downscaling of Precipitation Forecasts**, Lucy Harris et.al., Paper: [http://arxiv.org/abs/2204.02028v1](http://arxiv.org/abs/2204.02028v1)
-- 2022-04-05, **Learning Video Salient Object Detection Progressively from Unlabeled Videos**, Binwei Xu et.al., Paper: [http://arxiv.org/abs/2204.02008v1](http://arxiv.org/abs/2204.02008v1)
+- 2022-04-05, **Learning Video Salient Object Detection Progressively from Unlabeled Videos**, Binwei Xu et.al., Paper: [http://arxiv.org/abs/2204.02008v1](http://arxiv.org/abs/2204.02008v1), Code: **[https://github.com/bradleybin/locate-globally-segment-locally-a-progressive-architecture-with-knowledge-review-network-for-sod](https://github.com/bradleybin/locate-globally-segment-locally-a-progressive-architecture-with-knowledge-review-network-for-sod)**
 - 2022-04-05, **Bimodal Distributed Binarized Neural Networks**, Tal Rozen et.al., Paper: [http://arxiv.org/abs/2204.02004v1](http://arxiv.org/abs/2204.02004v1), Code: **[https://github.com/blueanon/bd-bnn](https://github.com/blueanon/bd-bnn)**
 - 2022-04-05, **Exploring Mechanisms of Hydration and Carbonation of MgO and Mg(OH)2 in Reactive Magnesium Oxide-based Cements**, Mina Ghane Gardeh et.al., Paper: [http://arxiv.org/abs/2204.01993v1](http://arxiv.org/abs/2204.01993v1)
 - 2022-04-05, **An End-to-End Integrated Computation and Communication Architecture for Goal-oriented Networking: A Perspective on Live Surveillance Video**, Suvadip Batabyal et.al., Paper: [http://arxiv.org/abs/2204.01987v1](http://arxiv.org/abs/2204.01987v1)
 - 2022-04-05, **PSDoodle: Searching for App Screens via Interactive Sketching**, Soumik Mohian et.al., Paper: [http://arxiv.org/abs/2204.01968v1](http://arxiv.org/abs/2204.01968v1)
-- 2022-04-05, **FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes**, Paarth Neekhara et.al., Paper: [http://arxiv.org/abs/2204.01960v1](http://arxiv.org/abs/2204.01960v1)
-- 2022-04-05, **Unified Implicit Neural Stylization**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2204.01943v1](http://arxiv.org/abs/2204.01943v1)
+- 2022-04-05, **FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes**, Paarth Neekhara et.al., Paper: [http://arxiv.org/abs/2204.01960v1](http://arxiv.org/abs/2204.01960v1), Code: **[https://github.com/paarthneekhara/facesignsdemo](https://github.com/paarthneekhara/facesignsdemo)**
+- 2022-04-06, **Unified Implicit Neural Stylization**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2204.01943v2](http://arxiv.org/abs/2204.01943v2)
 - 2022-04-05, **Fault-Tolerant Deep Learning: A Hierarchical Perspective**, Cheng Liu et.al., Paper: [http://arxiv.org/abs/2204.01942v1](http://arxiv.org/abs/2204.01942v1)
 - 2022-04-05, **Attention Distraction: Watermark Removal Through Continual Learning with Selective Forgetting**, Qi Zhong et.al., Paper: [http://arxiv.org/abs/2204.01934v1](http://arxiv.org/abs/2204.01934v1)
 - 2022-04-05, **Structural parameters and possible association of the Ultra-Faint Dwarfs Pegasus III and Pisces II from deep Hubble Space Telescope photometry**, Hannah Richstein et.al., Paper: [http://arxiv.org/abs/2204.01917v1](http://arxiv.org/abs/2204.01917v1)
@@ -415,7 +415,7 @@
 - 2022-04-04, **APP: Anytime Progressive Pruning**, Diganta Misra et.al., Paper: [http://arxiv.org/abs/2204.01640v1](http://arxiv.org/abs/2204.01640v1), Code: **[https://github.com/landskape-ai/progressive-pruning](https://github.com/landskape-ai/progressive-pruning)**
 - 2022-04-04, **Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?**, Julien Audibert et.al., Paper: [http://arxiv.org/abs/2204.01637v1](http://arxiv.org/abs/2204.01637v1)
 - 2022-04-04, **Towards Deep Industrial Transfer Learning: Clustering for Transfer Case Selection**, Benjamin Maschler et.al., Paper: [http://arxiv.org/abs/2204.01620v1](http://arxiv.org/abs/2204.01620v1)
-- 2022-04-04, **Deep-Ensemble-Based Uncertainty Quantification in Spatiotemporal Graph Neural Networks for Traffic Forecasting**, Tanwi Mallick et.al., Paper: [http://arxiv.org/abs/2204.01618v1](http://arxiv.org/abs/2204.01618v1)
+- 2022-04-05, **Deep-Ensemble-Based Uncertainty Quantification in Spatiotemporal Graph Neural Networks for Traffic Forecasting**, Tanwi Mallick et.al., Paper: [http://arxiv.org/abs/2204.01618v2](http://arxiv.org/abs/2204.01618v2)
 - 2022-04-04, **SPECTRE : Spectral Conditioning Helps to Overcome the Expressivity Limits of One-shot Graph Generators**, Karolis Martinkus et.al., Paper: [http://arxiv.org/abs/2204.01613v1](http://arxiv.org/abs/2204.01613v1)
 - 2022-04-04, **Neural Estimation of the Rate-Distortion Function With Applications to Operational Source Coding**, Eric Lei et.al., Paper: [http://arxiv.org/abs/2204.01612v1](http://arxiv.org/abs/2204.01612v1)
 - 2022-04-04, **DODA: Data-oriented Sim-to-Real Domain Adaptation for 3D Indoor Semantic Segmentation**, Runyu Ding et.al., Paper: [http://arxiv.org/abs/2204.01599v1](http://arxiv.org/abs/2204.01599v1)
