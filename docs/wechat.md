@@ -1,4 +1,4 @@
-> Updated on 2022.04.07
+> Updated on 2022.04.08
 
 ## SLAM
 
@@ -126,7 +126,7 @@
 - 2021-12-16, **Road-aware Monocular Structure from Motion and Homography Estimation**, Wei Sui et.al., Paper: [http://arxiv.org/abs/2112.08635v1](http://arxiv.org/abs/2112.08635v1)
 - 2021-12-10, **Critical configurations for three projective views**, Martin Bråtelund et.al., Paper: [http://arxiv.org/abs/2112.05478v1](http://arxiv.org/abs/2112.05478v1)
 - 2021-12-09, **Critical configurations for two projective views, a new approach**, Martin Bråtelund et.al., Paper: [http://arxiv.org/abs/2112.05074v1](http://arxiv.org/abs/2112.05074v1)
-- 2021-12-06, **Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**, Barbara Roessle et.al., Paper: [http://arxiv.org/abs/2112.03288v1](http://arxiv.org/abs/2112.03288v1)
+- 2022-04-07, **Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**, Barbara Roessle et.al., Paper: [http://arxiv.org/abs/2112.03288v2](http://arxiv.org/abs/2112.03288v2)
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 - 2021-11-10, **Damage Estimation and Localization from Sparse Aerial Imagery**, Rene Garcia Franceschini et.al., Paper: [http://arxiv.org/abs/2111.03708v2](http://arxiv.org/abs/2111.03708v2)
@@ -243,7 +243,7 @@
 
 ## Keypoint Detection
 
-- 2022-04-06, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v1](http://arxiv.org/abs/2204.02611v1), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
+- 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
 - 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 - 2022-04-01, **MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**, Chenzhong Gao et.al., Paper: [http://arxiv.org/abs/2204.00260v1](http://arxiv.org/abs/2204.00260v1)
 - 2022-03-29, **Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**, David Howard et.al., Paper: [http://arxiv.org/abs/2203.15172v1](http://arxiv.org/abs/2203.15172v1)
@@ -374,7 +374,7 @@
 - 2022-04-06, **Computation of the Time-Dependent Dirac Equation with Physics-Informed Neural Networks**, Emmanuel Lorin et.al., Paper: [http://arxiv.org/abs/2204.02959v1](http://arxiv.org/abs/2204.02959v1)
 - 2022-04-06, **A Design Methodology for Fault-Tolerant Computing using Astrocyte Neural Networks**, Murat Işık et.al., Paper: [http://arxiv.org/abs/2204.02942v1](http://arxiv.org/abs/2204.02942v1)
 - 2022-04-06, **CREIME: A Convolutional Recurrent model for Earthquake Identification and Magnitude Estimation**, Megha Chakraborty et.al., Paper: [http://arxiv.org/abs/2204.02924v1](http://arxiv.org/abs/2204.02924v1)
-- 2022-04-06, **A survey on recently proposed activation functions for Deep Learning**, Murilo Gustineli et.al., Paper: [http://arxiv.org/abs/2204.02921v1](http://arxiv.org/abs/2204.02921v1)
+- 2022-04-07, **A survey on recently proposed activation functions for Deep Learning**, Murilo Gustineli et.al., Paper: [http://arxiv.org/abs/2204.02921v2](http://arxiv.org/abs/2204.02921v2)
 - 2022-04-06, **Question Generation for Reading Comprehension Assessment by Modeling How and What to Ask**, Bilal Ghanem et.al., Paper: [http://arxiv.org/abs/2204.02908v1](http://arxiv.org/abs/2204.02908v1)
 - 2022-04-06, **Vecchia-approximated Deep Gaussian Processes for Computer Experiments**, Annie Sauer et.al., Paper: [http://arxiv.org/abs/2204.02904v1](http://arxiv.org/abs/2204.02904v1), Code: **[https://bitbucket.org/gramacylab/deepgp-ex](https://bitbucket.org/gramacylab/deepgp-ex)**
 - 2022-04-06, **Extraction of deterministic components for high frequency stochastic process -- an application from CSI 300 index**, Xianfei Hui et.al., Paper: [http://arxiv.org/abs/2204.02891v1](http://arxiv.org/abs/2204.02891v1)
@@ -385,7 +385,7 @@
 - 2022-04-06, **Influence of Color Spaces for Deep Learning Image Colorization**, Coloma Ballester et.al., Paper: [http://arxiv.org/abs/2204.02850v1](http://arxiv.org/abs/2204.02850v1)
 - 2022-04-06, **Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2204.02844v1](http://arxiv.org/abs/2204.02844v1)
 - 2022-04-06, **An Empirical Study of Remote Sensing Pretraining**, Di Wang et.al., Paper: [http://arxiv.org/abs/2204.02825v1](http://arxiv.org/abs/2204.02825v1), Code: **[https://github.com/vitae-transformer/vitae-transformer-remote-sensing](https://github.com/vitae-transformer/vitae-transformer-remote-sensing)**
-- 2022-04-06, **Expression-preserving face frontalization improves visually assisted speech processing**, Zhiqi Kang et.al., Paper: [http://arxiv.org/abs/2204.02810v1](http://arxiv.org/abs/2204.02810v1)
+- 2022-04-07, **Expression-preserving face frontalization improves visually assisted speech processing**, Zhiqi Kang et.al., Paper: [http://arxiv.org/abs/2204.02810v2](http://arxiv.org/abs/2204.02810v2)
 - 2022-04-06, **Dimensionality Expansion and Transfer Learning for Next Generation Energy Management Systems**, Blaž Bertalanič et.al., Paper: [http://arxiv.org/abs/2204.02802v1](http://arxiv.org/abs/2204.02802v1)
 - 2022-04-06, **BFRnet: A deep learning-based MR background field removal method for QSM of the brain containing significant pathological susceptibility sources**, Xuanyu Zhu et.al., Paper: [http://arxiv.org/abs/2204.02760v1](http://arxiv.org/abs/2204.02760v1)
 - 2022-04-06, **Universal Representations: A Unified Look at Multiple Task and Domain Learning**, Wei-Hong Li et.al., Paper: [http://arxiv.org/abs/2204.02744v1](http://arxiv.org/abs/2204.02744v1)
