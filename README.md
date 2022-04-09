@@ -1,4 +1,4 @@
-## Updated on 2022.04.08
+## Updated on 2022.04.09
 
 ## SLAM
 
@@ -400,7 +400,7 @@
 |**2022-04-07**|**A Deep Learning-Based Approach for Cell Outage Compensation in NOMA Networks**|Elaheh Vaezpour et.al.|[2204.03477v1](http://arxiv.org/abs/2204.03477v1)|null|
 |**2022-04-07**|**DynLight: Realize dynamic phase duration with multi-level traffic signal control**|Liang Zhang et.al.|[2204.03471v1](http://arxiv.org/abs/2204.03471v1)|null|
 |**2022-04-07**|**Few-Shot Forecasting of Time-Series with Heterogeneous Channels**|Lukas Brinkmeyer et.al.|[2204.03456v1](http://arxiv.org/abs/2204.03456v1)|**[link](https://github.com/radrumond/timehetnet)**|
-|**2022-04-07**|**Deep Visual Geo-localization Benchmark**|Gabriele Berton et.al.|[2204.03444v1](http://arxiv.org/abs/2204.03444v1)|null|
+|**2022-04-07**|**Deep Visual Geo-localization Benchmark**|Gabriele Berton et.al.|[2204.03444v1](http://arxiv.org/abs/2204.03444v1)|**[link](https://github.com/gmberton/deep-visual-geo-localization-benchmark)**|
 |**2022-04-07**|**Continual Inference: A Library for Efficient Online Inference with Deep Neural Networks in PyTorch**|Lukas Hedegaard et.al.|[2204.03418v1](http://arxiv.org/abs/2204.03418v1)|**[link](https://github.com/LukasHedegaard/continual-inference)**|
 |**2022-04-07**|**Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces**|Simon Dahan et.al.|[2204.03408v1](http://arxiv.org/abs/2204.03408v1)|null|
 |**2022-04-07**|**Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks**|Nikita O. Starodubcev et.al.|[2204.03400v1](http://arxiv.org/abs/2204.03400v1)|**[link](https://github.com/quickjkee/generative-design-breakwaters)**|
