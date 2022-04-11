@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.10
+## Updated on 2022.04.11
 
 ## SLAM
 
@@ -417,11 +417,11 @@ layout: default
 |**2022-04-07**|**Practical Digital Disguises: Leveraging Face Swaps to Protect Patient Privacy**|Ethan Wilson et.al.|[2204.03559v1](http://arxiv.org/abs/2204.03559v1)|null|
 |**2022-04-07**|**Phase Retrieval: From Computational Imaging to Machine Learning**|Jonathan Dong et.al.|[2204.03554v1](http://arxiv.org/abs/2204.03554v1)|null|
 |**2022-04-07**|**Efficient Multiscale Object-based Superpixel Framework**|Felipe Belém et.al.|[2204.03533v1](http://arxiv.org/abs/2204.03533v1)|null|
-|**2022-04-07**|**FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity**|Yonghai Gong et.al.|[2204.03529v1](http://arxiv.org/abs/2204.03529v1)|**[link](https://github.com/yonghaigong/fedadmm)**|
+|**2022-04-08**|**FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity**|Yonghai Gong et.al.|[2204.03529v2](http://arxiv.org/abs/2204.03529v2)|**[link](https://github.com/yonghaigong/fedadmm)**|
 |**2022-04-07**|**Visualizing Deep Neural Networks with Topographic Activation Maps**|Andreas Krug et.al.|[2204.03528v1](http://arxiv.org/abs/2204.03528v1)|**[link](https://github.com/andreaskrug/ann-topomaps)**|
-|**2022-04-07**|**Generalised Latent Assimilation in Heterogeneous Reduced Spaces with Machine Learning Surrogate Models**|Sibo Cheng et.al.|[2204.03497v1](http://arxiv.org/abs/2204.03497v1)|null|
+|**2022-04-08**|**Generalised Latent Assimilation in Heterogeneous Reduced Spaces with Machine Learning Surrogate Models**|Sibo Cheng et.al.|[2204.03497v2](http://arxiv.org/abs/2204.03497v2)|null|
 |**2022-04-07**|**Optimizing the Long-Term Behaviour of Deep Reinforcement Learning for Pushing and Grasping**|Rodrigo Chau et.al.|[2204.03487v1](http://arxiv.org/abs/2204.03487v1)|null|
-|**2022-04-07**|**A Deep Learning-Based Approach for Cell Outage Compensation in NOMA Networks**|Elaheh Vaezpour et.al.|[2204.03477v1](http://arxiv.org/abs/2204.03477v1)|null|
+|**2022-04-08**|**A Deep Learning-Based Approach for Cell Outage Compensation in NOMA Networks**|Elaheh Vaezpour et.al.|[2204.03477v2](http://arxiv.org/abs/2204.03477v2)|null|
 |**2022-04-07**|**DynLight: Realize dynamic phase duration with multi-level traffic signal control**|Liang Zhang et.al.|[2204.03471v1](http://arxiv.org/abs/2204.03471v1)|null|
 |**2022-04-07**|**Few-Shot Forecasting of Time-Series with Heterogeneous Channels**|Lukas Brinkmeyer et.al.|[2204.03456v1](http://arxiv.org/abs/2204.03456v1)|**[link](https://github.com/radrumond/timehetnet)**|
 |**2022-04-07**|**Deep Visual Geo-localization Benchmark**|Gabriele Berton et.al.|[2204.03444v1](http://arxiv.org/abs/2204.03444v1)|**[link](https://github.com/gmberton/deep-visual-geo-localization-benchmark)**|
@@ -445,7 +445,7 @@ layout: default
 |**2022-04-07**|**MC-UNet Multi-module Concatenation based on U-shape Network for Retinal Blood Vessels Segmentation**|Ting Zhang et.al.|[2204.03213v1](http://arxiv.org/abs/2204.03213v1)|null|
 |**2022-04-07**|**Elastic Model Aggregation with Parameter Service**|Juncheng Gu et.al.|[2204.03211v1](http://arxiv.org/abs/2204.03211v1)|null|
 |**2022-04-07**|**A Joint Learning Approach for Semi-supervised Neural Topic Modeling**|Jeffrey Chiu et.al.|[2204.03208v1](http://arxiv.org/abs/2204.03208v1)|null|
-|**2022-04-07**|**MDA GAN: Adversarial-Learning-based 3-D Seismic Data Interpolation and Reconstruction for Complex Missing**|Yimin Dou et.al.|[2204.03197v1](http://arxiv.org/abs/2204.03197v1)|null|
+|**2022-04-08**|**MDA GAN: Adversarial-Learning-based 3-D Seismic Data Interpolation and Reconstruction for Complex Missing**|Yimin Dou et.al.|[2204.03197v2](http://arxiv.org/abs/2204.03197v2)|null|
 |**2022-04-07**|**A Framework for Following Temporal Logic Instructions with Unknown Causal Dependencies**|Duo Xu et.al.|[2204.03196v1](http://arxiv.org/abs/2204.03196v1)|null|
 |**2022-04-07**|**MultiAuto-DeepONet: A Multi-resolution Autoencoder DeepONet for Nonlinear Dimension Reduction, Uncertainty Quantification and Operator Learning of Forward and Inverse Stochastic Problems**|Jiahao Zhang et.al.|[2204.03193v1](http://arxiv.org/abs/2204.03193v1)|null|
 |**2022-04-07**|**3M: Multi-loss, Multi-path and Multi-level Neural Networks for speech recognition**|Zhao You et.al.|[2204.03178v1](http://arxiv.org/abs/2204.03178v1)|null|
