@@ -135,6 +135,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**|Debao Huang et.al.|[2204.04145v1](http://arxiv.org/abs/2204.04145v1)|null|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
 |**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes et.al.|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|**[link](https://github.com/lukasbommes/pv-hawk)**|
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu et.al.|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|**[link](https://github.com/amazon-research/small-baseline-camera-tracking)**|
@@ -341,6 +342,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen et.al.|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|**[link](https://github.com/astro-data-lab/starshade-xy)**|
 |**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|null|
 |**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
@@ -408,6 +410,49 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Learning Polynomial Transformations**|Sitan Chen et.al.|[2204.04209v1](http://arxiv.org/abs/2204.04209v1)|null|
+|**2022-04-08**|**Modern applications of machine learning in quantum sciences**|Anna Dawid et.al.|[2204.04198v1](http://arxiv.org/abs/2204.04198v1)|null|
+|**2022-04-08**|**An ultra-deep multi-band VLA survey of the faint radio sky (COSMOS-XS): New constraints on the cosmic star formation history**|D. van der Vlugt et.al.|[2204.04167v1](http://arxiv.org/abs/2204.04167v1)|null|
+|**2022-04-08**|**Self-supervised Speaker Diarization**|Yehoshua Dissen et.al.|[2204.04166v1](http://arxiv.org/abs/2204.04166v1)|null|
+|**2022-04-08**|**Optical tracking in team sports**|Pegah Rahimian et.al.|[2204.04143v1](http://arxiv.org/abs/2204.04143v1)|null|
+|**2022-04-08**|**EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression**|Jianfei Yang et.al.|[2204.04138v1](http://arxiv.org/abs/2204.04138v1)|null|
+|**2022-04-08**|**Karaoker: Alignment-free singing voice synthesis with speech training data**|Panos Kakoulidis et.al.|[2204.04127v1](http://arxiv.org/abs/2204.04127v1)|null|
+|**2022-04-08**|**Generative Adversarial Method Based On Neural Tangent Kernels**|Yu-Rong Zhang et.al.|[2204.04090v1](http://arxiv.org/abs/2204.04090v1)|null|
+|**2022-04-08**|**"Gettr-ing" Deep Insights from the Social Network Gettr**|Filipo Sharevski et.al.|[2204.04066v1](http://arxiv.org/abs/2204.04066v1)|null|
+|**2022-04-08**|**Deep-Learning-Based Identification of LPV Models for Nonlinear Systems**|Chris Verhoek et.al.|[2204.04060v1](http://arxiv.org/abs/2204.04060v1)|null|
+|**2022-04-08**|**Deep Learning-Based Intra Mode Derivation for Versatile Video Coding**|Linwei Zhu et.al.|[2204.04059v1](http://arxiv.org/abs/2204.04059v1)|null|
+|**2022-04-08**|**C-NMT: A Collaborative Inference Framework for Neural Machine Translation**|Yukai Chen et.al.|[2204.04043v1](http://arxiv.org/abs/2204.04043v1)|null|
+|**2022-04-08**|**Multimodal Quasi-AutoRegression: Forecasting the visual popularity of new fashion products**|Stefanos I. Papadopoulos et.al.|[2204.04014v1](http://arxiv.org/abs/2204.04014v1)|null|
+|**2022-04-08**|**SnapMode: An Intelligent and Distributed Large-Scale Fashion Image Retrieval Platform Based On Big Data and Deep Generative Adversarial Network Technologies**|Narges Norouzi et.al.|[2204.03998v1](http://arxiv.org/abs/2204.03998v1)|null|
+|**2022-04-08**|**Labeling-Free Comparison Testing of Deep Learning Models**|Yuejun Guo et.al.|[2204.03994v1](http://arxiv.org/abs/2204.03994v1)|null|
+|**2022-04-08**|**ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation**|Pietro Melzi et.al.|[2204.03992v1](http://arxiv.org/abs/2204.03992v1)|**[link](https://github.com/bidalab/ecgxtractor)**|
+|**2022-04-08**|**Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?**|Qiongqiong Wang et.al.|[2204.03965v1](http://arxiv.org/abs/2204.03965v1)|null|
+|**2022-04-08**|**The XXL Survey: XLVIII; X-ray follow-up of distant XXL clusters: Masses, scaling relations and AGN contamination**|R. T. Duffy et.al.|[2204.03945v1](http://arxiv.org/abs/2204.03945v1)|null|
+|**2022-04-08**|**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**|Chunyu Li et.al.|[2204.03929v1](http://arxiv.org/abs/2204.03929v1)|null|
+|**2022-04-08**|**SuperNet in Neural Architecture Search: A Taxonomic Survey**|Stephen Cha et.al.|[2204.03916v1](http://arxiv.org/abs/2204.03916v1)|null|
+|**2022-04-08**|**Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid**|Shimpei Masuda et.al.|[2204.03897v1](http://arxiv.org/abs/2204.03897v1)|null|
+|**2022-04-08**|**Reliable Visualization for Deep Speaker Recognition**|Pengqi Li et.al.|[2204.03852v1](http://arxiv.org/abs/2204.03852v1)|null|
+|**2022-04-08**|**From 2D Images to 3D Model:Weakly Supervised Multi-View Face Reconstruction with Deep Fusion**|Weiguang Zhao et.al.|[2204.03842v1](http://arxiv.org/abs/2204.03842v1)|null|
+|**2022-04-08**|**Exploring the Universality of Hadronic Jet Classification**|Kingman Cheung et.al.|[2204.03812v1](http://arxiv.org/abs/2204.03812v1)|null|
+|**2022-04-08**|**A Learnable Variational Model for Joint Multimodal MRI Reconstruction and Synthesis**|Wanyu Bian et.al.|[2204.03804v1](http://arxiv.org/abs/2204.03804v1)|null|
+|**2022-04-08**|**Deep water wave cloaking using a multi-layered buoyant plate**|Takahito Iida et.al.|[2204.03792v1](http://arxiv.org/abs/2204.03792v1)|**[link](https://github.com/azareei/DeepCloaking)**|
+|**2022-04-07**|**Mitigating Mismatch Compression in Differential Local Field Potentials**|Vineet Tiruvadi et.al.|[2204.03778v1](http://arxiv.org/abs/2204.03778v1)|null|
+|**2022-04-07**|**Multi-objective optimization determines when, which and how to fuse deep networks: an application to predict COVID-19 outcomes**|Valerio Guarrasi et.al.|[2204.03772v1](http://arxiv.org/abs/2204.03772v1)|null|
+|**2022-04-07**|**Q-learning with online random forests**|Joosung Min et.al.|[2204.03771v1](http://arxiv.org/abs/2204.03771v1)|null|
+|**2022-04-07**|**Global ECG Classification by Self-Operational Neural Networks with Feature Injection**|Muhammad Uzair Zahid et.al.|[2204.03768v1](http://arxiv.org/abs/2204.03768v1)|null|
+|**2022-04-07**|**The market drives ETFs or ETFs the market: causality without Granger**|Peter Lerner et.al.|[2204.03760v1](http://arxiv.org/abs/2204.03760v1)|null|
+|**2022-04-07**|**Compositional Generalization and Decomposition in Neural Program Synthesis**|Kensen Shi et.al.|[2204.03758v1](http://arxiv.org/abs/2204.03758v1)|null|
+|**2022-04-07**|**Powering Finetuning in Few-shot Learning: Domain-Agnostic Feature Adaptation with Rectified Class Prototypes**|Ran Tao et.al.|[2204.03749v1](http://arxiv.org/abs/2204.03749v1)|null|
+|**2022-04-07**|**Experimental Validation of DeeP-LCC for Dissipating Stop-and-Go Waves in Mixed Traffic**|Jiawei Wang et.al.|[2204.03747v1](http://arxiv.org/abs/2204.03747v1)|null|
+|**2022-04-07**|**Merger rates of intermediate-mass black hole binaries in nuclear star clusters**|Giacomo Fragione et.al.|[2204.03745v1](http://arxiv.org/abs/2204.03745v1)|null|
+|**2022-04-07**|**T4PdM: a Deep Neural Network based on the Transformer Architecture for Fault Diagnosis of Rotating Machinery**|Erick Giovani Sperandio Nascimento et.al.|[2204.03725v1](http://arxiv.org/abs/2204.03725v1)|null|
+|**2022-04-07**|**Using Multiple Self-Supervised Tasks Improves Model Robustness**|Matthew Lawhon et.al.|[2204.03714v1](http://arxiv.org/abs/2204.03714v1)|**[link](https://github.com/mattlawhon/selfsupdefense)**|
+|**2022-04-07**|**Predicting Solar Flares Using CNN and LSTM on Two Solar Cycles of Active Region Data**|Zeyu Sun et.al.|[2204.03710v1](http://arxiv.org/abs/2204.03710v1)|**[link](https://github.com/zeyusun/flare-prediction-smarp)**|
+|**2022-04-07**|**Physics-assisted Generative Adversarial Network for X-Ray Tomography**|Zhen Guo et.al.|[2204.03703v1](http://arxiv.org/abs/2204.03703v1)|null|
+|**2022-04-07**|**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**|Leon Sievers et.al.|[2204.03698v1](http://arxiv.org/abs/2204.03698v1)|null|
+|**2022-04-07**|**Adaptive-Gravity: A Defense Against Adversarial Samples**|Ali Mirzaeian et.al.|[2204.03694v1](http://arxiv.org/abs/2204.03694v1)|null|
+|**2022-04-07**|**Probing nucleon spin structure in deep-inelastic scattering, proton-proton collisions and Drell-Yan processes**|Caroline Riedl et.al.|[2204.03684v1](http://arxiv.org/abs/2204.03684v1)|null|
+|**2022-04-07**|**Automatic Parameter Optimization Using Genetic Algorithm in Deep Reinforcement Learning for Robotic Manipulation Tasks**|Adarsh Sehgal et.al.|[2204.03656v1](http://arxiv.org/abs/2204.03656v1)|null|
 |**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
 |**2022-04-07**|**Total Variation Optimization Layers for Computer Vision**|Raymond A. Yeh et.al.|[2204.03643v1](http://arxiv.org/abs/2204.03643v1)|**[link](https://github.com/raymondyeh07/tv_layers_for_cv)**|
 |**2022-04-07**|**Equivariance Discovery by Learned Parameter-Sharing**|Raymond A. Yeh et.al.|[2204.03640v1](http://arxiv.org/abs/2204.03640v1)|**[link](https://github.com/raymondyeh07/equivariance_discovery)**|
