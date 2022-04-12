@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.11
+## Updated on 2022.04.12
 
 ## SLAM
 
@@ -417,7 +417,7 @@ layout: default
 |**2022-04-08**|**Optical tracking in team sports**|Pegah Rahimian et.al.|[2204.04143v1](http://arxiv.org/abs/2204.04143v1)|null|
 |**2022-04-08**|**EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression**|Jianfei Yang et.al.|[2204.04138v1](http://arxiv.org/abs/2204.04138v1)|null|
 |**2022-04-08**|**Karaoker: Alignment-free singing voice synthesis with speech training data**|Panos Kakoulidis et.al.|[2204.04127v1](http://arxiv.org/abs/2204.04127v1)|null|
-|**2022-04-08**|**Generative Adversarial Method Based On Neural Tangent Kernels**|Yu-Rong Zhang et.al.|[2204.04090v1](http://arxiv.org/abs/2204.04090v1)|null|
+|**2022-04-11**|**Generative Adversarial Method Based on Neural Tangent Kernels**|Yu-Rong Zhang et.al.|[2204.04090v2](http://arxiv.org/abs/2204.04090v2)|null|
 |**2022-04-08**|**"Gettr-ing" Deep Insights from the Social Network Gettr**|Filipo Sharevski et.al.|[2204.04066v1](http://arxiv.org/abs/2204.04066v1)|null|
 |**2022-04-08**|**Deep-Learning-Based Identification of LPV Models for Nonlinear Systems**|Chris Verhoek et.al.|[2204.04060v1](http://arxiv.org/abs/2204.04060v1)|null|
 |**2022-04-08**|**Deep Learning-Based Intra Mode Derivation for Versatile Video Coding**|Linwei Zhu et.al.|[2204.04059v1](http://arxiv.org/abs/2204.04059v1)|null|
@@ -426,7 +426,7 @@ layout: default
 |**2022-04-08**|**SnapMode: An Intelligent and Distributed Large-Scale Fashion Image Retrieval Platform Based On Big Data and Deep Generative Adversarial Network Technologies**|Narges Norouzi et.al.|[2204.03998v1](http://arxiv.org/abs/2204.03998v1)|null|
 |**2022-04-08**|**Labeling-Free Comparison Testing of Deep Learning Models**|Yuejun Guo et.al.|[2204.03994v1](http://arxiv.org/abs/2204.03994v1)|null|
 |**2022-04-08**|**ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation**|Pietro Melzi et.al.|[2204.03992v1](http://arxiv.org/abs/2204.03992v1)|**[link](https://github.com/bidalab/ecgxtractor)**|
-|**2022-04-08**|**Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?**|Qiongqiong Wang et.al.|[2204.03965v1](http://arxiv.org/abs/2204.03965v1)|null|
+|**2022-04-11**|**Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?**|Qiongqiong Wang et.al.|[2204.03965v2](http://arxiv.org/abs/2204.03965v2)|null|
 |**2022-04-08**|**The XXL Survey: XLVIII; X-ray follow-up of distant XXL clusters: Masses, scaling relations and AGN contamination**|R. T. Duffy et.al.|[2204.03945v1](http://arxiv.org/abs/2204.03945v1)|null|
 |**2022-04-08**|**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**|Chunyu Li et.al.|[2204.03929v1](http://arxiv.org/abs/2204.03929v1)|null|
 |**2022-04-08**|**SuperNet in Neural Architecture Search: A Taxonomic Survey**|Stephen Cha et.al.|[2204.03916v1](http://arxiv.org/abs/2204.03916v1)|null|
@@ -456,7 +456,7 @@ layout: default
 |**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
 |**2022-04-07**|**Total Variation Optimization Layers for Computer Vision**|Raymond A. Yeh et.al.|[2204.03643v1](http://arxiv.org/abs/2204.03643v1)|**[link](https://github.com/raymondyeh07/tv_layers_for_cv)**|
 |**2022-04-07**|**Equivariance Discovery by Learned Parameter-Sharing**|Raymond A. Yeh et.al.|[2204.03640v1](http://arxiv.org/abs/2204.03640v1)|**[link](https://github.com/raymondyeh07/equivariance_discovery)**|
-|**2022-04-07**|**The Effects of Regularization and Data Augmentation are Class Dependent**|Randall Balestriero et.al.|[2204.03632v1](http://arxiv.org/abs/2204.03632v1)|null|
+|**2022-04-08**|**The Effects of Regularization and Data Augmentation are Class Dependent**|Randall Balestriero et.al.|[2204.03632v2](http://arxiv.org/abs/2204.03632v2)|null|
 |**2022-04-07**|**Pneumonia Detection in Chest X-Rays using Neural Networks**|Narayana Darapaneni et.al.|[2204.03618v1](http://arxiv.org/abs/2204.03618v1)|null|
 |**2022-04-07**|**Pin the Memory: Learning to Generalize Semantic Segmentation**|Jin Kim et.al.|[2204.03609v1](http://arxiv.org/abs/2204.03609v1)|null|
 |**2022-04-07**|**Practical Digital Disguises: Leveraging Face Swaps to Protect Patient Privacy**|Ethan Wilson et.al.|[2204.03559v1](http://arxiv.org/abs/2204.03559v1)|null|
