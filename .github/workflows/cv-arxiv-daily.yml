@@ -35,7 +35,7 @@ jobs:
       - name: Set up Python Env
         uses: actions/setup-python@v1
         with:
-          python-version: 3.9        
+          python-version: 3.6        
 
       - name: Install dependencies
         run: |
@@ -48,7 +48,7 @@ jobs:
           python daily_arxiv.py
           
       - name: Push new cv-arxiv-daily.md
-        uses: github-actions-x/commit@v2.8
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
