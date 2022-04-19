@@ -1,4 +1,4 @@
-## Updated on 2022.04.18
+## Updated on 2022.04.19
 
 ## SLAM
 
@@ -408,13 +408,13 @@
 |**2022-04-15**|**Evaluating few shot and Contrastive learning Methods for Code Clone Detection**|Mohamad Khajezade et.al.|[2204.07501v1](http://arxiv.org/abs/2204.07501v1)|null|
 |**2022-04-15**|**Towards PAC Multi-Object Detection and Tracking**|Shuo Li et.al.|[2204.07482v1](http://arxiv.org/abs/2204.07482v1)|null|
 |**2022-04-15**|**Detecting Violence in Video Based on Deep Features Fusion Technique**|Heyam M. Bin Jahlan et.al.|[2204.07443v1](http://arxiv.org/abs/2204.07443v1)|null|
-|**2022-04-15**|**INSTA-BNN: Binary Neural Network with INSTAnce-aware Threshold**|Changhun Lee et.al.|[2204.07439v1](http://arxiv.org/abs/2204.07439v1)|null|
+|**2022-04-18**|**INSTA-BNN: Binary Neural Network with INSTAnce-aware Threshold**|Changhun Lee et.al.|[2204.07439v2](http://arxiv.org/abs/2204.07439v2)|null|
 |**2022-04-15**|**Transfer Learning for Instance Segmentation of Waste Bottles using Mask R-CNN Algorithm**|Punitha Jaikumar et.al.|[2204.07437v1](http://arxiv.org/abs/2204.07437v1)|null|
 |**2022-04-15**|**Deep CardioSound: An Ensembled Deep Learning Model for Heart Sound MultiLabelling**|Li Guo et.al.|[2204.07420v1](http://arxiv.org/abs/2204.07420v1)|null|
 |**2022-04-15**|**Safe Reinforcement Learning Using Black-Box Reachability Analysis**|Mahmoud Selim et.al.|[2204.07417v1](http://arxiv.org/abs/2204.07417v1)|null|
 |**2022-04-15**|**SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing**|Jiwei Chen et.al.|[2204.07406v1](http://arxiv.org/abs/2204.07406v1)|null|
-|**2022-04-15**|**Divide & Conquer Imitation Learning**|Alexandre Chenu et.al.|[2204.07404v1](http://arxiv.org/abs/2204.07404v1)|null|
-|**2022-04-15**|**Deep learning model solves change point detection for multiple change types**|Alexander Stepikin et.al.|[2204.07403v1](http://arxiv.org/abs/2204.07403v1)|null|
+|**2022-04-15**|**Divide & Conquer Imitation Learning**|Alexandre Chenu et.al.|[2204.07404v1](http://arxiv.org/abs/2204.07404v1)|**[link](https://github.com/AlexandreChenu/dcil)**|
+|**2022-04-15**|**Deep learning model solves change point detection for multiple change types**|Alexander Stepikin et.al.|[2204.07403v1](http://arxiv.org/abs/2204.07403v1)|**[link](https://github.com/romanenkova95/principledcpd)**|
 |**2022-04-15**|**Email Spam Detection Using Hierarchical Attention Hybrid Deep Learning Method**|Sultan Zavrak et.al.|[2204.07390v1](http://arxiv.org/abs/2204.07390v1)|null|
 |**2022-04-15**|**Crowd counting with segmentation attention convolutional neural network**|Jiwei Chen et.al.|[2204.07380v1](http://arxiv.org/abs/2204.07380v1)|null|
 |**2022-04-15**|**Speaker-Aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction**|Zifeng Zhao et.al.|[2204.07375v1](http://arxiv.org/abs/2204.07375v1)|null|
