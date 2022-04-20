@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.19
+## Updated on 2022.04.20
 
 ## SLAM
 
@@ -333,7 +333,7 @@ layout: default
 |**2021-12-14**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li et.al.|[2110.01179v2](http://arxiv.org/abs/2110.01179v2)|**[link](https://github.com/dxbdxx/bpfnet)**|
 |**2021-10-01**|**Machine learning aided noise filtration and signal classification for CREDO experiment**|Łukasz Bibrzycki et.al.|[2110.00297v1](http://arxiv.org/abs/2110.00297v1)|null|
 |**2021-09-29**|**PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**|Prune Truong et.al.|[2109.13912v2](http://arxiv.org/abs/2109.13912v2)|**[link](https://github.com/PruneTruong/DenseMatching)**|
-|**2022-02-05**|**HarrisZ$^+$: Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia et.al.|[2109.12925v4](http://arxiv.org/abs/2109.12925v4)|null|
+|**2022-04-18**|**HarrisZ$^+$: Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia et.al.|[2109.12925v5](http://arxiv.org/abs/2109.12925v5)|null|
 |**2021-09-24**|**Catadioptric Stereo on a Smartphone**|Kristijan Bartol et.al.|[2109.11872v1](http://arxiv.org/abs/2109.11872v1)|null|
 |**2021-09-20**|**Semi-supervised Dense Keypointsusing Unlabeled Multiview Images**|Zhixuan Yu et.al.|[2109.09299v1](http://arxiv.org/abs/2109.09299v1)|null|
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
@@ -391,7 +391,7 @@ layout: default
 |**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn et.al.|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser et.al.|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
 |**2021-09-29**|**Visually Grounded Concept Composition**|Bowen Zhang et.al.|[2109.14115v1](http://arxiv.org/abs/2109.14115v1)|null|
-|**2022-02-05**|**HarrisZ$^+$: Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia et.al.|[2109.12925v4](http://arxiv.org/abs/2109.12925v4)|null|
+|**2022-04-18**|**HarrisZ$^+$: Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia et.al.|[2109.12925v5](http://arxiv.org/abs/2109.12925v5)|null|
 |**2021-09-20**|**Viewpoint Invariant Dense Matching for Visual Geolocalization**|Gabriele Berton et.al.|[2109.09827v1](http://arxiv.org/abs/2109.09827v1)|**[link](https://github.com/gmberton/geo_warp)**|
 |**2021-09-20**|**Image Subtraction in Fourier Space**|Lei Hu et.al.|[2109.09334v1](http://arxiv.org/abs/2109.09334v1)|null|
 |**2021-09-10**|**Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**|Sungho Yoon et.al.|[2109.04753v1](http://arxiv.org/abs/2109.04753v1)|**[link](https://github.com/yosungho/LineTR)**|
@@ -426,7 +426,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-04-18**|**Revisiting Consistency Regularization for Semi-supervised Change Detection in Remote Sensing Images**|Wele Gedara Chaminda Bandara et.al.|[2204.08454v1](http://arxiv.org/abs/2204.08454v1)|**[link](https://github.com/wgcban/SemiCD)**|
+|**2022-04-19**|**Revisiting Consistency Regularization for Semi-supervised Change Detection in Remote Sensing Images**|Wele Gedara Chaminda Bandara et.al.|[2204.08454v2](http://arxiv.org/abs/2204.08454v2)|**[link](https://github.com/wgcban/SemiCD)**|
 |**2022-04-18**|**Deep Equilibrium Optical Flow Estimation**|Shaojie Bai et.al.|[2204.08442v1](http://arxiv.org/abs/2204.08442v1)|**[link](https://github.com/locuslab/deq-flow)**|
 |**2022-04-18**|**Probabilistic Modelled Optimal Frame for Erasures under Spectral and Operator Norm**|Shankhadeep Mondal et.al.|[2204.08419v1](http://arxiv.org/abs/2204.08419v1)|null|
 |**2022-04-18**|**Multiple-environment Self-adaptive Network for Aerial-view Geo-localization**|Tingyu Wang et.al.|[2204.08381v1](http://arxiv.org/abs/2204.08381v1)|null|
@@ -473,7 +473,7 @@ layout: default
 |**2022-04-16**|**Language-Grounded Indoor 3D Semantic Segmentation in the Wild**|David Rozenberszki et.al.|[2204.07761v1](http://arxiv.org/abs/2204.07761v1)|null|
 |**2022-04-16**|**Visual Attention Methods in Deep Learning: An In-Depth Survey**|Mohammed Hassanin et.al.|[2204.07756v1](http://arxiv.org/abs/2204.07756v1)|null|
 |**2022-04-16**|**Homomorphic Encryption and Federated Learning based Privacy-Preserving CNN Training: COVID-19 Detection Use-Case**|Febrianti Wibawa et.al.|[2204.07752v1](http://arxiv.org/abs/2204.07752v1)|null|
-|**2022-04-16**|**Efficient Bayesian Policy Reuse with a Scalable Observation Model in Deep Reinforcement Learning**|Donghan Xie et.al.|[2204.07729v1](http://arxiv.org/abs/2204.07729v1)|null|
+|**2022-04-19**|**Efficient Bayesian Policy Reuse with a Scalable Observation Model in Deep Reinforcement Learning**|Jinmei Liu et.al.|[2204.07729v2](http://arxiv.org/abs/2204.07729v2)|null|
 |**2022-04-16**|**Semantic interpretation for convolutional neural networks: What makes a cat a cat?**|Hao Xu et.al.|[2204.07724v1](http://arxiv.org/abs/2204.07724v1)|null|
 |**2022-04-16**|**Stress-Testing LiDAR Registration**|Amnon Drory et.al.|[2204.07719v1](http://arxiv.org/abs/2204.07719v1)|**[link](https://github.com/amnondrory/lidarregistration)**|
 |**2022-04-15**|**The Distributed Information Bottleneck reveals the explanatory structure of complex systems**|Kieran A. Murphy et.al.|[2204.07576v1](http://arxiv.org/abs/2204.07576v1)|null|
