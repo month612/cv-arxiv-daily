@@ -1,4 +1,4 @@
-> Updated on 2022.04.20
+> Updated on 2022.04.21
 
 ## SLAM
 
@@ -418,16 +418,16 @@
 - 2022-04-19, **Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing**, Jiazhen Gu et.al., Paper: [http://arxiv.org/abs/2204.08734v1](http://arxiv.org/abs/2204.08734v1)
 - 2022-04-19, **Euclid: Discovering pair-instability supernovae with the Deep Survey**, T. J. Moriya et.al., Paper: [http://arxiv.org/abs/2204.08727v1](http://arxiv.org/abs/2204.08727v1)
 - 2022-04-19, **Jacobian Ensembles Improve Robustness Trade-offs to Adversarial Attacks**, Kenneth T. Co et.al., Paper: [http://arxiv.org/abs/2204.08726v1](http://arxiv.org/abs/2204.08726v1)
-- 2022-04-19, **Audio Deep Fake Detection System with Neural Stitching for ADD 2022**, Rui Yan et.al., Paper: [http://arxiv.org/abs/2204.08720v1](http://arxiv.org/abs/2204.08720v1)
+- 2022-04-20, **Audio Deep Fake Detection System with Neural Stitching for ADD 2022**, Rui Yan et.al., Paper: [http://arxiv.org/abs/2204.08720v2](http://arxiv.org/abs/2204.08720v2)
 - 2022-04-19, **Non-Linear Dimensionality Reduction with a Variational Autoencoder Decoder to Understand Convective Processes in Climate Models**, Gunnar Behrens et.al., Paper: [http://arxiv.org/abs/2204.08708v1](http://arxiv.org/abs/2204.08708v1)
 - 2022-04-19, **Unsupervised Contrastive Hashing for Cross-Modal Retrieval in Remote Sensing**, Georgii Mikriukov et.al., Paper: [http://arxiv.org/abs/2204.08707v1](http://arxiv.org/abs/2204.08707v1)
 - 2022-04-19, **Software Engineering Approaches for TinyML based IoT Embedded Vision: A Systematic Literature Review**, Shashank Bangalore Lakshman et.al., Paper: [http://arxiv.org/abs/2204.08702v1](http://arxiv.org/abs/2204.08702v1)
 - 2022-04-19, **CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution**, Guangwei Gao et.al., Paper: [http://arxiv.org/abs/2204.08696v1](http://arxiv.org/abs/2204.08696v1)
-- 2022-04-19, **Time Domain Adversarial Voice Conversion for ADD 2022**, Cheng Wen et.al., Paper: [http://arxiv.org/abs/2204.08692v1](http://arxiv.org/abs/2204.08692v1)
+- 2022-04-20, **Time Domain Adversarial Voice Conversion for ADD 2022**, Cheng Wen et.al., Paper: [http://arxiv.org/abs/2204.08692v2](http://arxiv.org/abs/2204.08692v2)
 - 2022-04-19, **Auto-Icon+: An Automated End-to-End Code Generation Tool for Icon Designs in UI Development**, Sidong Feng et.al., Paper: [http://arxiv.org/abs/2204.08676v1](http://arxiv.org/abs/2204.08676v1)
 - 2022-04-19, **A Score-based Geometric Model for Molecular Dynamics Simulations**, Fang Wu et.al., Paper: [http://arxiv.org/abs/2204.08672v1](http://arxiv.org/abs/2204.08672v1)
 - 2022-04-19, **Pre-training of Deep Protein Models with Molecular Dynamics Simulations for Drug Binding**, Fang Wu et.al., Paper: [http://arxiv.org/abs/2204.08663v1](http://arxiv.org/abs/2204.08663v1)
-- 2022-04-19, **Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation**, Yunho Kim et.al., Paper: [http://arxiv.org/abs/2204.08647v1](http://arxiv.org/abs/2204.08647v1), Code: **[https://github.com/awesomericky/complex-env-navigation](https://github.com/awesomericky/complex-env-navigation)**
+- 2022-04-20, **Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation**, Yunho Kim et.al., Paper: [http://arxiv.org/abs/2204.08647v2](http://arxiv.org/abs/2204.08647v2), Code: **[https://github.com/awesomericky/complex-env-navigation](https://github.com/awesomericky/complex-env-navigation)**
 - 2022-04-19, **A Subject-Independent Brain-Computer Interface Framework Based on Supervised Autoencoder**, Navid Ayoobi et.al., Paper: [http://arxiv.org/abs/2204.08626v1](http://arxiv.org/abs/2204.08626v1)
 - 2022-04-19, **Topology and geometry of data manifold in deep learning**, German Magai et.al., Paper: [http://arxiv.org/abs/2204.08624v1](http://arxiv.org/abs/2204.08624v1)
 - 2022-04-19, **CorrGAN: Input Transformation Technique Against Natural Corruptions**, Mirazul Haque et.al., Paper: [http://arxiv.org/abs/2204.08623v1](http://arxiv.org/abs/2204.08623v1)
