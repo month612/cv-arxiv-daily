@@ -408,6 +408,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-21**|**TorchSparse: Efficient Point Cloud Inference Engine**|Haotian Tang et.al.|[2204.10319v1](http://arxiv.org/abs/2204.10319v1)|**[link](https://github.com/mit-han-lab/torchsparse)**|
+|**2022-04-21**|**Deep learning techniques for energy clustering in the CMS ECAL**|Davide Valsecchi et.al.|[2204.10277v1](http://arxiv.org/abs/2204.10277v1)|null|
+|**2022-04-21**|**SpaceE: Knowledge Graph Embedding by Relational Linear Transformation in the Entity Space**|Jinxing Yu et.al.|[2204.10245v1](http://arxiv.org/abs/2204.10245v1)|null|
+|**2022-04-21**|**Learning spatiotemporal features from incomplete data for traffic flow prediction using hybrid deep neural networks**|Mehdi Mehdipour Ghazi et.al.|[2204.10222v1](http://arxiv.org/abs/2204.10222v1)|null|
+|**2022-04-21**|**OCTOPUS -- optical coherence tomography plaque and stent analysis software**|Juhwan Lee et.al.|[2204.10212v1](http://arxiv.org/abs/2204.10212v1)|null|
+|**2022-04-21**|**Automated analysis of fibrous cap in intravascular optical coherence tomography images of coronary arteries**|Juhwan Lee et.al.|[2204.10162v1](http://arxiv.org/abs/2204.10162v1)|null|
+|**2022-04-21**|**A Multi-Person Video Dataset Annotation Method of Spatio-Temporally Actions**|Fan Yang et.al.|[2204.10160v1](http://arxiv.org/abs/2204.10160v1)|null|
+|**2022-04-21**|**WebFace260M: A Benchmark for Million-Scale Deep Face Recognition**|Zheng Zhu et.al.|[2204.10149v1](http://arxiv.org/abs/2204.10149v1)|null|
+|**2022-04-21**|**An analytical solution of Balitsky-Kovchegov equation using homotopy perturbation method**|Ranjan Saikia et.al.|[2204.10111v1](http://arxiv.org/abs/2204.10111v1)|null|
+|**2022-04-21**|**Deep Model-Based Super-Resolution with Non-uniform Blur**|Charles Laroche et.al.|[2204.10109v1](http://arxiv.org/abs/2204.10109v1)|null|
+|**2022-04-21**|**Working memory inspired hierarchical video decomposition with transformative representations**|Binjie Qin et.al.|[2204.10105v1](http://arxiv.org/abs/2204.10105v1)|null|
+|**2022-04-21**|**GAF-NAU: Gramian Angular Field encoded Neighborhood Attention U-Net for Pixel-Wise Hyperspectral Image Classification**|Sidike Paheding et.al.|[2204.10099v1](http://arxiv.org/abs/2204.10099v1)|**[link](https://github.com/main-lab/gaf-nau)**|
+|**2022-04-21**|**Learn from Unpaired Data for Image Restoration: A Variational Bayes Approach**|Dihan Zheng et.al.|[2204.10090v1](http://arxiv.org/abs/2204.10090v1)|null|
+|**2022-04-21**|**Implicit Shape Completion via Adversarial Shape Priors**|Abhishek Saroha et.al.|[2204.10060v1](http://arxiv.org/abs/2204.10060v1)|null|
+|**2022-04-21**|**Optoelectronic properties of the CuI, AgI and Janus Cu2BrI, and Ag2BrI monolayers by many-body perturbation theory**|Mohammad Ali Mohebpour et.al.|[2204.10056v1](http://arxiv.org/abs/2204.10056v1)|null|
+|**2022-04-21**|**Generative Compression for Face Video: A Hybrid Scheme**|Anni Tang et.al.|[2204.10055v1](http://arxiv.org/abs/2204.10055v1)|null|
+|**2022-04-21**|**On Distribution Shift in Learning-based Bug Detectors**|Jingxuan He et.al.|[2204.10049v1](http://arxiv.org/abs/2204.10049v1)|**[link](https://github.com/eth-sri/learning-real-bug-detector)**|
+|**2022-04-21**|**Is Neuron Coverage Needed to Make Person Detection More Robust?**|Svetlana Pavlitskaya et.al.|[2204.10027v1](http://arxiv.org/abs/2204.10027v1)|null|
+|**2022-04-21**|**Scalable Sensitivity and Uncertainty Analysis for Causal-Effect Estimates of Continuous-Valued Interventions**|Andrew Jesson et.al.|[2204.10022v1](http://arxiv.org/abs/2204.10022v1)|null|
+|**2022-04-21**|**On Learning the Invisible in Photoacoustic Tomography with Flat Directionally Sensitive Detector**|Bolin Pan et.al.|[2204.10001v1](http://arxiv.org/abs/2204.10001v1)|**[link](https://github.com/bolinpan/coronaenet)**|
+|**2022-04-21**|**A data filling methodology for time series based on CNN and (Bi)LSTM neural networks**|Kostas Tzoumpas et.al.|[2204.09994v1](http://arxiv.org/abs/2204.09994v1)|null|
+|**2022-04-21**|**Arbitrary Bit-width Network: A Joint Layer-Wise Quantization and Adaptive Inference Approach**|Chen Tang et.al.|[2204.09992v1](http://arxiv.org/abs/2204.09992v1)|null|
+|**2022-04-21**|**Baseline Systems for the First Spoofing-Aware Speaker Verification Challenge: Score and Embedding Fusion**|Hye-jin Shim et.al.|[2204.09976v1](http://arxiv.org/abs/2204.09976v1)|null|
+|**2022-04-21**|**Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation**|Jun Xia et.al.|[2204.09975v1](http://arxiv.org/abs/2204.09975v1)|null|
+|**2022-04-21**|**Dynamic Tomography Reconstruction by Projection-Domain Separable Modeling**|Berk Iskender et.al.|[2204.09935v1](http://arxiv.org/abs/2204.09935v1)|null|
+|**2022-04-21**|**Multi-task recommendation system for scientific papers with high-way networks**|Aram Karimi et.al.|[2204.09930v1](http://arxiv.org/abs/2204.09930v1)|null|
+|**2022-04-21**|**Perception Visualization: Seeing Through the Eyes of a DNN**|Loris Giulivi et.al.|[2204.09920v1](http://arxiv.org/abs/2204.09920v1)|**[link](https://github.com/loris2222/perceptionvisualization)**|
+|**2022-04-21**|**STFT-Domain Neural Speech Enhancement with Very Low Algorithmic Latency**|Zhong-Qiu Wang et.al.|[2204.09911v1](http://arxiv.org/abs/2204.09911v1)|null|
+|**2022-04-21**|**An Efficient End-to-End Deep Neural Network for Interstitial Lung Disease Recognition and Classification**|Masum Shah Junayed et.al.|[2204.09909v1](http://arxiv.org/abs/2204.09909v1)|null|
+|**2022-04-21**|**MAP-SNN: Mapping Spike Activities with Multiplicity, Adaptability, and Plasticity into Bio-Plausible Spiking Neural Networks**|Chengting Yu et.al.|[2204.09893v1](http://arxiv.org/abs/2204.09893v1)|null|
+|**2022-04-21**|**Self-Supervised Learning to Guide Scientifically Relevant Categorization of Martian Terrain Images**|Tejas Panambur et.al.|[2204.09854v1](http://arxiv.org/abs/2204.09854v1)|**[link](https://github.com/tejaspanambur/mastcam)**|
+|**2022-04-21**|**Weakly Aligned Feature Fusion for Multimodal Object Detection**|Lu Zhang et.al.|[2204.09848v1](http://arxiv.org/abs/2204.09848v1)|null|
+|**2022-04-21**|**SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2204.09826v1](http://arxiv.org/abs/2204.09826v1)|**[link](https://github.com/kali-hac/simmc)**|
+|**2022-04-21**|**Extensible Database Simulator for Fast Prototyping In-Database Algorithms**|Yifan Wang et.al.|[2204.09819v1](http://arxiv.org/abs/2204.09819v1)|null|
+|**2022-04-20**|**Deep transfer learning for partial differential equations under conditional shift with DeepONet**|Somdatta Goswami et.al.|[2204.09810v1](http://arxiv.org/abs/2204.09810v1)|null|
+|**2022-04-20**|**Photometrically-Classified Superluminous Supernovae from the Pan-STARRS1 Medium Deep Survey: A Case Study for Science with Machine Learning-Based Classification**|Brian Hsu et.al.|[2204.09809v1](http://arxiv.org/abs/2204.09809v1)|null|
+|**2022-04-20**|**fairDMS: Rapid Model Training by Data and Model Reuse**|Ahsan Ali et.al.|[2204.09805v1](http://arxiv.org/abs/2204.09805v1)|null|
+|**2022-04-20**|**Multiply-and-Fire (MNF): An Event-driven Sparse Neural Network Accelerator**|Miao Yu et.al.|[2204.09797v1](http://arxiv.org/abs/2204.09797v1)|null|
+|**2022-04-20**|**Assessing Machine Learning Algorithms for Near-Real Time Bus Ridership Prediction During Extreme Weather**|Francisco Rowe et.al.|[2204.09792v1](http://arxiv.org/abs/2204.09792v1)|null|
+|**2022-04-20**|**SELMA: SEmantic Large-scale Multimodal Acquisitions in Variable Weather, Daytime and Viewpoints**|Paolo Testolina et.al.|[2204.09788v1](http://arxiv.org/abs/2204.09788v1)|null|
+|**2022-04-20**|**Attention in Reasoning: Dataset, Analysis, and Modeling**|Shi Chen et.al.|[2204.09774v1](http://arxiv.org/abs/2204.09774v1)|**[link](https://github.com/szzexpoi/AiR)**|
+|**2022-04-20**|**Time-based Self-supervised Learning for Wireless Capsule Endoscopy**|Guillem Pascual et.al.|[2204.09773v1](http://arxiv.org/abs/2204.09773v1)|null|
+|**2022-04-20**|**Delamination prediction in composite panels using unsupervised-feature learning methods with wavelet-enhanced guided wave representations**|Mahindra Rautela et.al.|[2204.09764v1](http://arxiv.org/abs/2204.09764v1)|null|
+|**2022-04-20**|**Inferring ice sheet damage models from limited observations using CRIKit: the Constitutive Relation Inference Toolkit**|Grant Bruer et.al.|[2204.09748v1](http://arxiv.org/abs/2204.09748v1)|**[link](https://gitlab.com/gbruer/ice-crikit)**|
+|**2022-04-20**|**Res-CNN-BiLSTM Network for overcoming Mental Health Disturbances caused due to Cyberbullying through Social Media**|Raunak Joshi et.al.|[2204.09738v1](http://arxiv.org/abs/2204.09738v1)|null|
+|**2022-04-20**|**Complete identification of complex salt-geometries from inaccurate migrated images using Deep Learning**|Ana Paula O. Muller et.al.|[2204.09710v1](http://arxiv.org/abs/2204.09710v1)|null|
+|**2022-04-20**|**Where are the magnetar binary companions? Candidates from a comparison with binary population synthesis predictions**|A. A. Chrimes et.al.|[2204.09701v1](http://arxiv.org/abs/2204.09701v1)|null|
+|**2022-04-20**|**The Age of Discovery with the James Webb: Excavating the Spectral Signatures of the First Massive Black Holes**|Kohei Inayoshi et.al.|[2204.09692v1](http://arxiv.org/abs/2204.09692v1)|null|
 |**2022-04-21**|**Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?**|Kaiqi Zhang et.al.|[2204.09664v2](http://arxiv.org/abs/2204.09664v2)|null|
 |**2022-04-20**|**One-Class Model for Fabric Defect Detection**|Hao Zhou et.al.|[2204.09648v1](http://arxiv.org/abs/2204.09648v1)|null|
 |**2022-04-20**|**SurvLatent ODE : A Neural ODE based time-to-event model with competing risks for longitudinal data improves cancer-associated Deep Vein Thrombosis (DVT) prediction**|Intae Moon et.al.|[2204.09633v1](http://arxiv.org/abs/2204.09633v1)|**[link](https://github.com/itmoon7/survlatent_ode)**|
