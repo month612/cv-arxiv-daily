@@ -1,4 +1,4 @@
-> Updated on 2022.04.24
+> Updated on 2022.04.25
 
 ## SLAM
 
@@ -441,7 +441,7 @@
 - 2022-04-20, **Delamination prediction in composite panels using unsupervised-feature learning methods with wavelet-enhanced guided wave representations**, Mahindra Rautela et.al., Paper: [http://arxiv.org/abs/2204.09764v1](http://arxiv.org/abs/2204.09764v1)
 - 2022-04-20, **Inferring ice sheet damage models from limited observations using CRIKit: the Constitutive Relation Inference Toolkit**, Grant Bruer et.al., Paper: [http://arxiv.org/abs/2204.09748v1](http://arxiv.org/abs/2204.09748v1), Code: **[https://gitlab.com/gbruer/ice-crikit](https://gitlab.com/gbruer/ice-crikit)**
 - 2022-04-20, **Res-CNN-BiLSTM Network for overcoming Mental Health Disturbances caused due to Cyberbullying through Social Media**, Raunak Joshi et.al., Paper: [http://arxiv.org/abs/2204.09738v1](http://arxiv.org/abs/2204.09738v1)
-- 2022-04-20, **Complete identification of complex salt-geometries from inaccurate migrated images using Deep Learning**, Ana Paula O. Muller et.al., Paper: [http://arxiv.org/abs/2204.09710v1](http://arxiv.org/abs/2204.09710v1)
+- 2022-04-22, **Complete identification of complex salt-geometries from inaccurate migrated images using Deep Learning**, Ana Paula O. Muller et.al., Paper: [http://arxiv.org/abs/2204.09710v2](http://arxiv.org/abs/2204.09710v2)
 - 2022-04-20, **Where are the magnetar binary companions? Candidates from a comparison with binary population synthesis predictions**, A. A. Chrimes et.al., Paper: [http://arxiv.org/abs/2204.09701v1](http://arxiv.org/abs/2204.09701v1)
 - 2022-04-20, **The Age of Discovery with the James Webb: Excavating the Spectral Signatures of the First Massive Black Holes**, Kohei Inayoshi et.al., Paper: [http://arxiv.org/abs/2204.09692v1](http://arxiv.org/abs/2204.09692v1)
 - 2022-04-21, **Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?**, Kaiqi Zhang et.al., Paper: [http://arxiv.org/abs/2204.09664v2](http://arxiv.org/abs/2204.09664v2)
