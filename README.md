@@ -1,4 +1,4 @@
-## Updated on 2022.04.25
+## Updated on 2022.04.26
 
 ## SLAM
 
@@ -414,13 +414,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-22**|**Federated Learning Enables Big Data for Rare Cancer Boundary Detection**|Sarthak Pati et.al.|[2204.10836v1](http://arxiv.org/abs/2204.10836v1)|null|
+|**2022-04-22**|**Federated Learning Enables Big Data for Rare Cancer Boundary Detection**|Sarthak Pati et.al.|[2204.10836v1](http://arxiv.org/abs/2204.10836v1)|**[link](https://github.com/FETS-AI/Front-End)**|
 |**2022-04-22**|**Chirality distributions inside baryons in ${\rm QCD_2}$**|Adrien Florio et.al.|[2204.10827v1](http://arxiv.org/abs/2204.10827v1)|null|
 |**2022-04-22**|**Deep-tomography: iterative velocity model building with deep learning**|Ana Paula O. Muller et.al.|[2204.10813v1](http://arxiv.org/abs/2204.10813v1)|null|
 |**2022-04-22**|**Pay "Attention" to Adverse Weather: Weather-aware Attention-based Object Detection**|Saket S. Chaturvedi et.al.|[2204.10803v1](http://arxiv.org/abs/2204.10803v1)|null|
 |**2022-04-22**|**iCAR: Bridging Image Classification and Image-text Alignment for Visual Recognition**|Yixuan Wei et.al.|[2204.10760v1](http://arxiv.org/abs/2204.10760v1)|null|
 |**2022-04-22**|**Quantum Davidson Algorithm for Excited States**|Nikolay V. Tkachenko et.al.|[2204.10741v1](http://arxiv.org/abs/2204.10741v1)|null|
-|**2022-04-22**|**EmbedTrack -- Simultaneous Cell Segmentation and Tracking Through Learning Offsets and Clustering Bandwidths**|Katharina Löffler et.al.|[2204.10713v1](http://arxiv.org/abs/2204.10713v1)|**[link](https://git.scc.kit.edu/kit-loe-ge/embedtrack)**|
+|**2022-04-25**|**EmbedTrack -- Simultaneous Cell Segmentation and Tracking Through Learning Offsets and Clustering Bandwidths**|Katharina Löffler et.al.|[2204.10713v2](http://arxiv.org/abs/2204.10713v2)|**[link](https://git.scc.kit.edu/kit-loe-ge/embedtrack)**|
 |**2022-04-22**|**Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics**|Yu Feng et.al.|[2204.10707v1](http://arxiv.org/abs/2204.10707v1)|null|
 |**2022-04-22**|**Implicit Channel Charting with Application to UAV-aided Localization**|Pham Q. Viet et.al.|[2204.10690v1](http://arxiv.org/abs/2204.10690v1)|null|
 |**2022-04-22**|**Real-time HOG+SVM based object detection using SoC FPGA for a UHD video stream**|Mateusz Wasala et.al.|[2204.10619v1](http://arxiv.org/abs/2204.10619v1)|null|
@@ -449,12 +449,12 @@
 |**2022-04-21**|**Learning spatiotemporal features from incomplete data for traffic flow prediction using hybrid deep neural networks**|Mehdi Mehdipour Ghazi et.al.|[2204.10222v1](http://arxiv.org/abs/2204.10222v1)|null|
 |**2022-04-21**|**OCTOPUS -- optical coherence tomography plaque and stent analysis software**|Juhwan Lee et.al.|[2204.10212v1](http://arxiv.org/abs/2204.10212v1)|null|
 |**2022-04-21**|**Automated analysis of fibrous cap in intravascular optical coherence tomography images of coronary arteries**|Juhwan Lee et.al.|[2204.10162v1](http://arxiv.org/abs/2204.10162v1)|null|
-|**2022-04-21**|**A Multi-Person Video Dataset Annotation Method of Spatio-Temporally Actions**|Fan Yang et.al.|[2204.10160v1](http://arxiv.org/abs/2204.10160v1)|null|
+|**2022-04-21**|**A Multi-Person Video Dataset Annotation Method of Spatio-Temporally Actions**|Fan Yang et.al.|[2204.10160v1](http://arxiv.org/abs/2204.10160v1)|**[link](https://github.com/Whiffe/Custom-ava-dataset_Custom-Spatio-Temporally-Action-Video-Dataset)**|
 |**2022-04-21**|**WebFace260M: A Benchmark for Million-Scale Deep Face Recognition**|Zheng Zhu et.al.|[2204.10149v1](http://arxiv.org/abs/2204.10149v1)|null|
 |**2022-04-21**|**An analytical solution of Balitsky-Kovchegov equation using homotopy perturbation method**|Ranjan Saikia et.al.|[2204.10111v1](http://arxiv.org/abs/2204.10111v1)|null|
 |**2022-04-21**|**Deep Model-Based Super-Resolution with Non-uniform Blur**|Charles Laroche et.al.|[2204.10109v1](http://arxiv.org/abs/2204.10109v1)|null|
-|**2022-04-21**|**Working memory inspired hierarchical video decomposition with transformative representations**|Binjie Qin et.al.|[2204.10105v1](http://arxiv.org/abs/2204.10105v1)|null|
-|**2022-04-21**|**GAF-NAU: Gramian Angular Field encoded Neighborhood Attention U-Net for Pixel-Wise Hyperspectral Image Classification**|Sidike Paheding et.al.|[2204.10099v1](http://arxiv.org/abs/2204.10099v1)|**[link](https://github.com/main-lab/gaf-nau)**|
+|**2022-04-25**|**Working memory inspired hierarchical video decomposition with transformative representations**|Binjie Qin et.al.|[2204.10105v2](http://arxiv.org/abs/2204.10105v2)|null|
+|**2022-04-21**|**GAF-NAU: Gramian Angular Field encoded Neighborhood Attention U-Net for Pixel-Wise Hyperspectral Image Classification**|Sidike Paheding et.al.|[2204.10099v1](http://arxiv.org/abs/2204.10099v1)|null|
 |**2022-04-21**|**Learn from Unpaired Data for Image Restoration: A Variational Bayes Approach**|Dihan Zheng et.al.|[2204.10090v1](http://arxiv.org/abs/2204.10090v1)|null|
 |**2022-04-21**|**Implicit Shape Completion via Adversarial Shape Priors**|Abhishek Saroha et.al.|[2204.10060v1](http://arxiv.org/abs/2204.10060v1)|null|
 |**2022-04-21**|**Optoelectronic properties of the CuI, AgI and Janus Cu2BrI, and Ag2BrI monolayers by many-body perturbation theory**|Mohammad Ali Mohebpour et.al.|[2204.10056v1](http://arxiv.org/abs/2204.10056v1)|null|
@@ -2639,7 +2639,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v1](http://arxiv.org/abs/2204.07640v1)|null|
+|**2022-04-24**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
 |**2022-02-20**|**COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems**|Shuang Ma et.al.|[2203.15788v1](http://arxiv.org/abs/2203.15788v1)|null|
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
