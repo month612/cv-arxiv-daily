@@ -434,7 +434,7 @@
 - 2022-04-25, **Deep Reinforcement Learning for Online Routing of Unmanned Aerial Vehicles with Wireless Power Transfer**, Kaiwen Li et.al., Paper: [http://arxiv.org/abs/2204.11477v1](http://arxiv.org/abs/2204.11477v1)
 - 2022-04-25, **Adaptive actuation of magnetic soft robots using deep reinforcement learning**, Jianpeng Yao et.al., Paper: [http://arxiv.org/abs/2204.11475v1](http://arxiv.org/abs/2204.11475v1)
 - 2022-04-25, **Application of deep learning to the evaluation of goodness in the waveform processing of transition-edge sensor calorimeters**, Y. Ichinohe et.al., Paper: [http://arxiv.org/abs/2204.11474v1](http://arxiv.org/abs/2204.11474v1)
-- 2022-04-25, **Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods**, Yi Wan et.al., Paper: [http://arxiv.org/abs/2204.11464v1](http://arxiv.org/abs/2204.11464v1), Code: **[https://github.com/chandar-lab/LoCA2](https://github.com/chandar-lab/LoCA2)**
+- 2022-04-25, **Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods**, Yi Wan et.al., Paper: [http://arxiv.org/abs/2204.11464v1](http://arxiv.org/abs/2204.11464v1)
 - 2022-04-25, **IMDeception: Grouped Information Distilling Super-Resolution Network**, Mustafa Ayazoglu et.al., Paper: [http://arxiv.org/abs/2204.11463v1](http://arxiv.org/abs/2204.11463v1)
 - 2022-04-25, **OCFormer: One-Class Transformer Network for Image Classification**, Prerana Mukherjee et.al., Paper: [http://arxiv.org/abs/2204.11449v1](http://arxiv.org/abs/2204.11449v1)
 - 2022-04-25, **SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images**, Zhishe Wang et.al., Paper: [http://arxiv.org/abs/2204.11436v1](http://arxiv.org/abs/2204.11436v1)
