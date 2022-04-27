@@ -1,4 +1,4 @@
-> Updated on 2022.04.26
+> Updated on 2022.04.27
 
 ## SLAM
 
@@ -407,7 +407,7 @@
 - 2022-04-25, **Skill-based Meta-Reinforcement Learning**, Taewook Nam et.al., Paper: [http://arxiv.org/abs/2204.11828v1](http://arxiv.org/abs/2204.11828v1)
 - 2022-04-25, **Automatic Parameter Selection for Electron Ptychography via Bayesian Optimization**, Michael C. Cao et.al., Paper: [http://arxiv.org/abs/2204.11815v1](http://arxiv.org/abs/2204.11815v1)
 - 2022-04-25, **Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**, Wei Cheng et.al., Paper: [http://arxiv.org/abs/2204.11798v1](http://arxiv.org/abs/2204.11798v1), Code: **[https://github.com/generalizable-neural-performer/gnr](https://github.com/generalizable-neural-performer/gnr)**
-- 2022-04-25, **PVNAS: 3D Neural Architecture Search with Point-Voxel Convolution**, Zhijian Liu et.al., Paper: [http://arxiv.org/abs/2204.11797v1](http://arxiv.org/abs/2204.11797v1)
+- 2022-04-26, **PVNAS: 3D Neural Architecture Search with Point-Voxel Convolution**, Zhijian Liu et.al., Paper: [http://arxiv.org/abs/2204.11797v2](http://arxiv.org/abs/2204.11797v2)
 - 2022-04-25, **Online Deep Learning from Doubly-Streaming Data**, Heng Lian et.al., Paper: [http://arxiv.org/abs/2204.11793v1](http://arxiv.org/abs/2204.11793v1), Code: **[https://github.com/olmm-2022/old3s](https://github.com/olmm-2022/old3s)**
 - 2022-04-25, **Enable Deep Learning on Mobile Devices: Methods, Systems, and Applications**, Han Cai et.al., Paper: [http://arxiv.org/abs/2204.11786v1](http://arxiv.org/abs/2204.11786v1)
 - 2022-04-25, **Multi-scale reconstruction of undersampled spectral-spatial OCT data for coronary imaging using deep learning**, Xueshen Li et.al., Paper: [http://arxiv.org/abs/2204.11769v1](http://arxiv.org/abs/2204.11769v1)
@@ -440,14 +440,14 @@
 - 2022-04-25, **SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images**, Zhishe Wang et.al., Paper: [http://arxiv.org/abs/2204.11436v1](http://arxiv.org/abs/2204.11436v1)
 - 2022-04-25, **Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition**, Takaya Miyamoto et.al., Paper: [http://arxiv.org/abs/2204.11434v1](http://arxiv.org/abs/2204.11434v1)
 - 2022-04-25, **Concrete one complex dimensional moduli spaces of hyperbolic manifolds and orbifolds**, Alex Elzenaar et.al., Paper: [http://arxiv.org/abs/2204.11422v1](http://arxiv.org/abs/2204.11422v1)
-- 2022-04-25, **Road Traffic Law Adaptive Decision-making for Self-Driving Vehicles**, Jiaxin Liu et.al., Paper: [http://arxiv.org/abs/2204.11411v1](http://arxiv.org/abs/2204.11411v1)
+- 2022-04-26, **Road Traffic Law Adaptive Decision-making for Self-Driving Vehicles**, Jiaxin Liu et.al., Paper: [http://arxiv.org/abs/2204.11411v2](http://arxiv.org/abs/2204.11411v2)
 - 2022-04-25, **Single Object Tracking Research: A Survey**, Ruize Han et.al., Paper: [http://arxiv.org/abs/2204.11410v1](http://arxiv.org/abs/2204.11410v1)
 - 2022-04-25, **Back-ends Selection for Deep Speaker Embeddings**, Zhuo Li et.al., Paper: [http://arxiv.org/abs/2204.11403v1](http://arxiv.org/abs/2204.11403v1)
 - 2022-04-25, **Video Frame Interpolation Based on Deformable Kernel Region**, Haoyue Tian et.al., Paper: [http://arxiv.org/abs/2204.11396v1](http://arxiv.org/abs/2204.11396v1)
 - 2022-04-25, **Financial data analysis application via multi-strategy text processing**, Hongyin Zhu et.al., Paper: [http://arxiv.org/abs/2204.11394v1](http://arxiv.org/abs/2204.11394v1)
 - 2022-04-25, **Multi-wavelength properties of 850-$μ$m selected sources from the North Ecliptic Pole SCUBA-2 survey**, H. Shim et.al., Paper: [http://arxiv.org/abs/2204.11392v1](http://arxiv.org/abs/2204.11392v1)
 - 2022-04-25, **DRT: A Lightweight Single Image Deraining Recursive Transformer**, Yuanchu Liang et.al., Paper: [http://arxiv.org/abs/2204.11385v1](http://arxiv.org/abs/2204.11385v1), Code: **[https://github.com/yc-liang/drt](https://github.com/yc-liang/drt)**
-- 2022-04-25, **Real-time Speech Emotion Recognition Based on Syllable-Level Feature Extraction**, Abdul Rehman et.al., Paper: [http://arxiv.org/abs/2204.11382v1](http://arxiv.org/abs/2204.11382v1)
+- 2022-04-26, **Real-time Speech Emotion Recognition Based on Syllable-Level Feature Extraction**, Abdul Rehman et.al., Paper: [http://arxiv.org/abs/2204.11382v2](http://arxiv.org/abs/2204.11382v2)
 - 2022-04-24, **Deep Reinforcement Learning Using a Low-Dimensional Observation Filter for Visual Complex Video Game Playing**, Victor Augusto Kich et.al., Paper: [http://arxiv.org/abs/2204.11370v1](http://arxiv.org/abs/2204.11370v1)
 - 2022-04-24, **Improving Deep Learning Model Robustness Against Adversarial Attack by Increasing the Network Capacity**, Marco Marchetti et.al., Paper: [http://arxiv.org/abs/2204.11357v1](http://arxiv.org/abs/2204.11357v1)
 - 2022-04-24, **An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models**, Han Yuan et.al., Paper: [http://arxiv.org/abs/2204.11351v1](http://arxiv.org/abs/2204.11351v1)
