@@ -198,7 +198,7 @@ if __name__ == "__main__":
     keywords["Image Matching"]      = "\"Image Matching\""
     keywords["Deep Learning"]      = "\"Deep Learning\"OR\"Deep\"OR\"Deep VO\"OR\"Deep Visual Odometry\"OR\"Deep SLAM\""
     keywords["Visual Odometry"]      = "\"Visual Odometry\""
-  
+    keywords["non-photorealistic rendering"]      = "\"non-photorealistic rendering\"OR\"NPR\"OR\"image modeling\"OR\"digital simulation\""
 
 
     for topic,keyword in keywords.items():
