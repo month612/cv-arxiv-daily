@@ -2883,3 +2883,56 @@
 - 2021-03-19, **Spatiotemporal Registration for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2103.05955v2](http://arxiv.org/abs/2103.05955v2), Code: **[https://github.com/liudaqikk/RobotEvt](https://github.com/liudaqikk/RobotEvt)**
 - 2021-03-02, **Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle**, Jinwoo Jeon et.al., Paper: [http://arxiv.org/abs/2103.01655v1](http://arxiv.org/abs/2103.01655v1), Code: **[https://github.com/zinuok/kaistviodataset](https://github.com/zinuok/kaistviodataset)**
 
+## non-photorealistic rendering
+
+- 2022-04-26, **Masked Spectrogram Modeling using Masked Autoencoders for Learning General-purpose Audio Representation**, Daisuke Niizumi et.al., Paper: [http://arxiv.org/abs/2204.12260v1](http://arxiv.org/abs/2204.12260v1), Code: **[https://github.com/nttcslab/msm-mae](https://github.com/nttcslab/msm-mae)**
+- 2022-04-26, **Acquiring a Dynamic Light Field through a Single-Shot Coded Image**, Ryoya Mizuno et.al., Paper: [http://arxiv.org/abs/2204.12089v1](http://arxiv.org/abs/2204.12089v1)
+- 2022-04-27, **Assessing the ability of generative adversarial networks to learn canonical medical image statistics**, Varun A. Kelkar et.al., Paper: [http://arxiv.org/abs/2204.12007v2](http://arxiv.org/abs/2204.12007v2)
+- 2022-04-25, **Masked Image Modeling Advances 3D Medical Image Analysis**, Zekai Chen et.al., Paper: [http://arxiv.org/abs/2204.11716v1](http://arxiv.org/abs/2204.11716v1)
+- 2022-04-25, **Audio-Visual Scene Classification Using A Transfer Learning Based Joint Optimization Strategy**, Chengxin Chen et.al., Paper: [http://arxiv.org/abs/2204.11420v1](http://arxiv.org/abs/2204.11420v1)
+- 2022-04-21, **Pixel2Mesh++: 3D Mesh Generation and Refinement from Multi-View Images**, Chao Wen et.al., Paper: [http://arxiv.org/abs/2204.09866v1](http://arxiv.org/abs/2204.09866v1)
+- 2022-04-18, **The Devil is in the Frequency: Geminated Gestalt Autoencoder for Self-Supervised Visual Pre-Training**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2204.08227v1](http://arxiv.org/abs/2204.08227v1)
+- 2022-04-12, **Nth power root topological phases in Hermitian and non-Hermitian systems**, Wenyuan Deng et.al., Paper: [http://arxiv.org/abs/2204.05714v1](http://arxiv.org/abs/2204.05714v1)
+- 2022-04-08, **On-Policy Pixel-Level Grasping Across the Gap Between Simulation and Reality**, Dexin Wang et.al., Paper: [http://arxiv.org/abs/2204.03874v1](http://arxiv.org/abs/2204.03874v1)
+- 2022-04-07, **Evaluating Procedures for Establishing Generative Adversarial Network-based Stochastic Image Models in Medical Imaging**, Varun A. Kelkar et.al., Paper: [http://arxiv.org/abs/2204.03547v1](http://arxiv.org/abs/2204.03547v1)
+- 2022-04-06, **Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2204.02964v1](http://arxiv.org/abs/2204.02964v1), Code: **[https://github.com/hustvl/mimdet](https://github.com/hustvl/mimdet)**
+- 2022-03-31, **Self-distillation Augmented Masked Autoencoders for Histopathological Image Classification**, Yang Luo et.al., Paper: [http://arxiv.org/abs/2203.16983v1](http://arxiv.org/abs/2203.16983v1)
+- 2022-04-04, **Recent improvements of ASR models in the face of adversarial attacks**, Raphael Olivier et.al., Paper: [http://arxiv.org/abs/2203.16536v2](http://arxiv.org/abs/2203.16536v2), Code: **[https://github.com/raphaelolivier/robust_speech](https://github.com/raphaelolivier/robust_speech)**
+- 2022-03-29, **Few-shot Structured Radiology Report Generation Using Natural Language Prompts**, Matthias Keicher et.al., Paper: [http://arxiv.org/abs/2203.15723v1](http://arxiv.org/abs/2203.15723v1)
+- 2022-04-09, **mc-BEiT: Multi-choice Discretization for Image BERT Pre-training**, Xiaotong Li et.al., Paper: [http://arxiv.org/abs/2203.15371v2](http://arxiv.org/abs/2203.15371v2)
+- 2022-04-11, **In-N-Out Generative Learning for Dense Unsupervised Video Segmentation**, Xiao Pan et.al., Paper: [http://arxiv.org/abs/2203.15312v2](http://arxiv.org/abs/2203.15312v2)
+- 2022-04-11, **PAEDID: Patch Autoencoder Based Deep Image Decomposition For Pixel-level Defective Region Segmentation**, Shancong Mou et.al., Paper: [http://arxiv.org/abs/2203.14457v2](http://arxiv.org/abs/2203.14457v2)
+- 2022-03-27, **Beyond Masking: Demystifying Token-Based Pre-Training for Vision Transformers**, Yunjie Tian et.al., Paper: [http://arxiv.org/abs/2203.14313v1](http://arxiv.org/abs/2203.14313v1), Code: **[https://github.com/sunsmarterjie/beyond_masking](https://github.com/sunsmarterjie/beyond_masking)**
+- 2022-03-27, **Variational quantum simulation of long-range interacting systems**, Xiaoyu Tang et.al., Paper: [http://arxiv.org/abs/2203.14281v1](http://arxiv.org/abs/2203.14281v1)
+- 2022-04-08, **Constraining the multi-scale dark-matter distribution in CASSOWARY 31 with strong gravitational lensing and stellar dynamics**, H. Wang et.al., Paper: [http://arxiv.org/abs/2203.13759v2](http://arxiv.org/abs/2203.13759v2)
+- 2022-03-23, **What to Hide from Your Students: Attention-Guided Masked Image Modeling**, Ioannis Kakogeorgiou et.al., Paper: [http://arxiv.org/abs/2203.12719v1](http://arxiv.org/abs/2203.12719v1)
+- 2022-03-22, **Enabling faster and more reliable sonographic assessment of gestational age through machine learning**, Chace Lee et.al., Paper: [http://arxiv.org/abs/2203.11903v1](http://arxiv.org/abs/2203.11903v1)
+- 2022-03-20, **Hybrid training of optical neural networks**, James Spall et.al., Paper: [http://arxiv.org/abs/2203.11207v1](http://arxiv.org/abs/2203.11207v1)
+- 2022-03-21, **A new perspective on probabilistic image modeling**, Alexander Gepperth et.al., Paper: [http://arxiv.org/abs/2203.11034v1](http://arxiv.org/abs/2203.11034v1)
+- 2022-04-23, **Underwater Light Field Retention : Neural Rendering for Underwater Imaging**, Tian Ye et.al., Paper: [http://arxiv.org/abs/2203.11006v2](http://arxiv.org/abs/2203.11006v2), Code: **[https://github.com/ephemeral182/uwnr](https://github.com/ephemeral182/uwnr)**
+- 2022-03-18, **Bayesian Inversion for Nonlinear Imaging Models using Deep Generative Priors**, Pakshal Bohra et.al., Paper: [http://arxiv.org/abs/2203.10078v1](http://arxiv.org/abs/2203.10078v1)
+- 2022-03-22, **Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing**, Zhiyuan Zha et.al., Paper: [http://arxiv.org/abs/2203.09656v2](http://arxiv.org/abs/2203.09656v2)
+- 2022-03-18, **Transframer: Arbitrary Frame Prediction with Generative Models**, Charlie Nash et.al., Paper: [http://arxiv.org/abs/2203.09494v2](http://arxiv.org/abs/2203.09494v2)
+- 2022-03-17, **Image Super-Resolution With Deep Variational Autoencoders**, Darius Chira et.al., Paper: [http://arxiv.org/abs/2203.09445v1](http://arxiv.org/abs/2203.09445v1)
+- 2022-03-16, **Towards Practical Certifiable Patch Defense with Vision Transformer**, Zhaoyu Chen et.al., Paper: [http://arxiv.org/abs/2203.08519v1](http://arxiv.org/abs/2203.08519v1)
+- 2022-03-10, **MVP: Multimodality-guided Visual Pre-training**, Longhui Wei et.al., Paper: [http://arxiv.org/abs/2203.05175v1](http://arxiv.org/abs/2203.05175v1)
+- 2022-03-10, **Manifold Modeling in Quotient Space: Learning An Invariant Mapping with Decodability of Image Patches**, Tatsuya Yokota et.al., Paper: [http://arxiv.org/abs/2203.05134v1](http://arxiv.org/abs/2203.05134v1)
+- 2022-03-09, **Pose Guided Multi-person Image Generation From Text**, Soon Yau Cheong et.al., Paper: [http://arxiv.org/abs/2203.04907v1](http://arxiv.org/abs/2203.04907v1)
+- 2022-03-10, **Controllable Evaluation and Generation of Physical Adversarial Patch on Face Recognition**, Xiao Yang et.al., Paper: [http://arxiv.org/abs/2203.04623v2](http://arxiv.org/abs/2203.04623v2)
+- 2022-03-12, **Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification**, Zhiyuan Cai et.al., Paper: [http://arxiv.org/abs/2203.04614v2](http://arxiv.org/abs/2203.04614v2)
+- 2022-02-27, **PanoFlow: Learning Optical Flow for Panoramic Images**, Hao Shi et.al., Paper: [http://arxiv.org/abs/2202.13388v1](http://arxiv.org/abs/2202.13388v1), Code: **[https://github.com/masterhow/panoflow](https://github.com/masterhow/panoflow)**
+- 2022-02-25, **Image reconstruction algorithms in radio interferometry: from handcrafted to learned denoisers**, Matthieu Terris et.al., Paper: [http://arxiv.org/abs/2202.12959v1](http://arxiv.org/abs/2202.12959v1)
+- 2022-02-23, **The consistent behavior of negative Poissons ratio with interlayer interactions**, Yancong Wang et.al., Paper: [http://arxiv.org/abs/2202.11580v1](http://arxiv.org/abs/2202.11580v1)
+- 2022-02-22, **Neural Program Repair: Systems, Challenges and Solutions**, Wenkang Zhong et.al., Paper: [http://arxiv.org/abs/2202.10868v1](http://arxiv.org/abs/2202.10868v1)
+- 2022-02-18, **Fourier ptychography multi-parameter neural network with composite physical priori optimization**, Delong Yang et.al., Paper: [http://arxiv.org/abs/2202.10239v1](http://arxiv.org/abs/2202.10239v1)
+- 2022-02-17, **Accessing negative Poisson`s ratio of graphene by machine learning interatomic potentials**, Jing Wu et.al., Paper: [http://arxiv.org/abs/2202.08618v1](http://arxiv.org/abs/2202.08618v1)
+- 2022-02-09, **The Thresher: Lucky Imaging without the Waste**, James A. Hitchcock et.al., Paper: [http://arxiv.org/abs/2202.04686v1](http://arxiv.org/abs/2202.04686v1), Code: **[https://github.com/jah1994/thethresher](https://github.com/jah1994/thethresher)**
+- 2022-02-08, **DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**, Jaemin Cho et.al., Paper: [http://arxiv.org/abs/2202.04053v1](http://arxiv.org/abs/2202.04053v1), Code: **[https://github.com/j-min/dalleval](https://github.com/j-min/dalleval)**
+- 2022-02-07, **Corrupted Image Modeling for Self-Supervised Visual Pre-Training**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2202.03382v1](http://arxiv.org/abs/2202.03382v1)
+- 2022-02-07, **Context Autoencoder for Self-Supervised Representation Learning**, Xiaokang Chen et.al., Paper: [http://arxiv.org/abs/2202.03026v1](http://arxiv.org/abs/2202.03026v1)
+- 2022-04-16, **Emerging negative Poisson's ratio driven by strong intralayer interaction response in rectangular transition metal chalcogenides**, Linfeng Yu et.al., Paper: [http://arxiv.org/abs/2202.01931v2](http://arxiv.org/abs/2202.01931v2)
+- 2022-01-31, **Adversarial Masking for Self-Supervised Learning**, Yuge Shi et.al., Paper: [http://arxiv.org/abs/2201.13100v1](http://arxiv.org/abs/2201.13100v1)
+- 2022-01-31, **Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**, Xin Du et.al., Paper: [http://arxiv.org/abs/2201.11674v3](http://arxiv.org/abs/2201.11674v3)
+- 2022-01-26, **IMACS: Image Model Attribution Comparison Summaries**, Eldon Schoop et.al., Paper: [http://arxiv.org/abs/2201.11196v1](http://arxiv.org/abs/2201.11196v1)
+- 2022-01-19, **CM3: A Causal Masked Multimodal Model of the Internet**, Armen Aghajanyan et.al., Paper: [http://arxiv.org/abs/2201.07520v1](http://arxiv.org/abs/2201.07520v1)
+
