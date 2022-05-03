@@ -450,6 +450,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-02**|**PreMovNet: Pre-Movement EEG-based Hand Kinematics Estimation for Grasp and Lift task**|Anant Jain et.al.|[2205.01050v1](http://arxiv.org/abs/2205.01050v1)|null|
+|**2022-05-02**|**A Survey on Uncertainty Toolkits for Deep Learning**|Maximilian Pintz et.al.|[2205.01040v1](http://arxiv.org/abs/2205.01040v1)|null|
+|**2022-05-02**|**Quality-Aware Decoding for Neural Machine Translation**|Patrick Fernandes et.al.|[2205.00978v1](http://arxiv.org/abs/2205.00978v1)|**[link](https://github.com/deep-spin/qaware-decode)**|
+|**2022-05-02**|**LIDER: An Efficient High-dimensional Learned Index for Large-scale Dense Passage Retrieval**|Yifan Wang et.al.|[2205.00970v1](http://arxiv.org/abs/2205.00970v1)|null|
+|**2022-05-02**|**Leaf Tar Spot Detection Using RGB Images**|Sriram Baireddy et.al.|[2205.00952v1](http://arxiv.org/abs/2205.00952v1)|null|
+|**2022-05-02**|**Understanding CNNs from excitations**|Zijian Ying et.al.|[2205.00932v1](http://arxiv.org/abs/2205.00932v1)|null|
+|**2022-05-02**|**A Novel Speech-Driven Lip-Sync Model with CNN and LSTM**|Xiaohong Li et.al.|[2205.00916v1](http://arxiv.org/abs/2205.00916v1)|null|
+|**2022-05-02**|**On the generalization capabilities of FSL methods through domain adaptation: a case study in endoscopic kidney stone image classification**|Mauricio Mendez-Ruiz et.al.|[2205.00895v1](http://arxiv.org/abs/2205.00895v1)|null|
+|**2022-05-02**|**Motif-based Deep Graph Convolutional Networks**|Kejia Zhang et.al.|[2205.00867v1](http://arxiv.org/abs/2205.00867v1)|null|
+|**2022-05-02**|**WeatherBench Probability: A benchmark dataset for probabilistic medium-range weather forecasting along with deep learning baseline models**|Sagar Garg et.al.|[2205.00865v1](http://arxiv.org/abs/2205.00865v1)|null|
+|**2022-05-02**|**Model-based Deep Learning Receiver Design for Rate-Splitting Multiple Access**|Rafael Cerna Loli et.al.|[2205.00849v1](http://arxiv.org/abs/2205.00849v1)|null|
+|**2022-05-02**|**Gradient Descent, Stochastic Optimization, and Other Tales**|Jun Lu et.al.|[2205.00832v1](http://arxiv.org/abs/2205.00832v1)|null|
+|**2022-05-02**|**Exploration in Deep Reinforcement Learning: A Survey**|Pawel Ladosz et.al.|[2205.00824v1](http://arxiv.org/abs/2205.00824v1)|null|
+|**2022-05-02**|**Deep-Attack over the Deep Reinforcement Learning**|Yang Li et.al.|[2205.00807v1](http://arxiv.org/abs/2205.00807v1)|null|
+|**2022-05-02**|**Lattice simulations of adjoint QCD with one Dirac overlap fermion**|Georg Bergner et.al.|[2205.00792v1](http://arxiv.org/abs/2205.00792v1)|null|
+|**2022-05-02**|**Data-driven emotional body language generation for social robotics**|Mina Marmpena et.al.|[2205.00763v1](http://arxiv.org/abs/2205.00763v1)|**[link](https://github.com/minamar/rebl-pepper-data)**|
+|**2022-05-02**|**Machine-learned cloud classes from satellite data for process-oriented climate model evaluation**|A. Kaps et.al.|[2205.00743v1](http://arxiv.org/abs/2205.00743v1)|null|
+|**2022-05-02**|**A Multi-stage deep architecture for summary generation of soccer videos**|Melissa Sanabria et.al.|[2205.00694v1](http://arxiv.org/abs/2205.00694v1)|null|
+|**2022-05-02**|**Deep Video Harmonization with Color Mapping Consistency**|Xinyuan Lu et.al.|[2205.00687v1](http://arxiv.org/abs/2205.00687v1)|**[link](https://github.com/bcmi/video-harmonization-dataset-hyoutube)**|
+|**2022-05-02**|**Jack and Masters of All Trades: One-Pass Learning of a Set of Model Sets from Foundation Models**|Han Xiang Choong et.al.|[2205.00671v1](http://arxiv.org/abs/2205.00671v1)|null|
+|**2022-05-02**|**Simple Techniques Work Surprisingly Well for Neural Network Test Prioritization and Active Learning (Replicability Study)**|Michael Weiss et.al.|[2205.00664v1](http://arxiv.org/abs/2205.00664v1)|**[link](https://github.com/testingautomated-usi/corrupted-text)**|
+|**2022-05-02**|**Enhancing Adversarial Training with Feature Separability**|Yaxin Li et.al.|[2205.00637v1](http://arxiv.org/abs/2205.00637v1)|null|
+|**2022-05-02**|**DFC: Anatomically Informed Fiber Clustering with Self-supervised Deep Learning for Fast and Effective Tractography Parcellation**|Yuqian Chen et.al.|[2205.00627v1](http://arxiv.org/abs/2205.00627v1)|**[link](https://github.com/slicerdmri/dfc)**|
+|**2022-05-02**|**HatCUP: Hybrid Analysis and Attention based Just-In-Time Comment Updating**|Hongquan Zhu et.al.|[2205.00600v1](http://arxiv.org/abs/2205.00600v1)|null|
+|**2022-05-01**|**Using a novel fractional-order gradient method for CNN back-propagation**|Mundher Mohammed Taresh et.al.|[2205.00581v1](http://arxiv.org/abs/2205.00581v1)|null|
+|**2022-05-01**|**Data-driven control of spatiotemporal chaos with reduced-order neural ODE-based models and reinforcement learning**|Kevin Zeng et.al.|[2205.00579v1](http://arxiv.org/abs/2205.00579v1)|null|
+|**2022-05-01**|**Thermodynamically Consistent Machine-Learned Internal State Variable Approach for Data-Driven Modeling of Path-Dependent Materials**|Xiaolong He et.al.|[2205.00578v1](http://arxiv.org/abs/2205.00578v1)|null|
+|**2022-05-01**|**Persistent Laplacian projected Omicron BA.4 and BA.5 to become new dominating variants**|Jiahui Chen et.al.|[2205.00532v1](http://arxiv.org/abs/2205.00532v1)|null|
+|**2022-05-01**|**Deep vs. Shallow Learning: A Benchmark Study in Low Magnitude Earthquake Detection**|Akshat Goel et.al.|[2205.00525v1](http://arxiv.org/abs/2205.00525v1)|null|
+|**2022-05-01**|**Deep Learning with Logical Constraints**|Eleonora Giunchiglia et.al.|[2205.00523v1](http://arxiv.org/abs/2205.00523v1)|null|
+|**2022-05-01**|**Accurate non-stationary short-term traffic flow prediction method**|Wenzheng Zhao et.al.|[2205.00517v1](http://arxiv.org/abs/2205.00517v1)|null|
+|**2022-05-01**|**An Early Fault Detection Method of Rotating Machines Based on Multiple Feature Fusion with Stacking Architecture**|Wenbin Song et.al.|[2205.00511v1](http://arxiv.org/abs/2205.00511v1)|null|
+|**2022-05-01**|**Boost decoding performance of finite geometry LDPC codes with deep learning tactics**|Guangwen Li et.al.|[2205.00481v1](http://arxiv.org/abs/2205.00481v1)|null|
+|**2022-05-01**|**A Survey of Decentralized Online Learning**|Xiuxian Li et.al.|[2205.00473v1](http://arxiv.org/abs/2205.00473v1)|null|
+|**2022-05-01**|**Dataset-free Deep learning Method for Low-Dose CT Image Reconstruction**|Qiaoqiao Ding et.al.|[2205.00463v1](http://arxiv.org/abs/2205.00463v1)|null|
+|**2022-05-01**|**Molecular Identification from AFM images using the IUPAC Nomenclature and Attribute Multimodal Recurrent Neural Networks**|Jaime Carracedo-Cosme et.al.|[2205.00449v1](http://arxiv.org/abs/2205.00449v1)|null|
+|**2022-05-01**|**Differentially Private Multivariate Time Series Forecasting of Aggregated Human Mobility With Deep Learning: Input or Gradient Perturbation?**|Héber H. Arcolezi et.al.|[2205.00436v1](http://arxiv.org/abs/2205.00436v1)|**[link](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/tree/main/papers/%5B3%5D)**|
+|**2022-05-01**|**Analysis of Diffractive Neural Networks for Seeing Through Random Diffusers**|Yuhang Li et.al.|[2205.00428v1](http://arxiv.org/abs/2205.00428v1)|null|
+|**2022-05-01**|**TinyLight: Adaptive Traffic Signal Control on Devices with Extremely Limited Resources**|Dong Xing et.al.|[2205.00427v1](http://arxiv.org/abs/2205.00427v1)|null|
+|**2022-05-01**|**A Simple Approach to Improve Single-Model Deep Uncertainty via Distance-Awareness**|Jeremiah Zhe Liu et.al.|[2205.00403v1](http://arxiv.org/abs/2205.00403v1)|**[link](https://github.com/google/uncertainty-baselines)**|
+|**2022-05-01**|**Neural Network Optimal Feedback Control with Guaranteed Local Stability**|Tenavi Nakamura-Zimmerer et.al.|[2205.00394v1](http://arxiv.org/abs/2205.00394v1)|**[link](https://github.com/tenavi/pylgr)**|
+|**2022-05-01**|**Blockchain Applicability for the Internet of Things: Performance and Scalability Challenges and Solutions**|Ziaur Rahman et.al.|[2205.00384v1](http://arxiv.org/abs/2205.00384v1)|null|
+|**2022-04-30**|**RADNet: A Deep Neural Network Model for Robust Perception in Moving Autonomous Systems**|Burhan A. Mudassar et.al.|[2205.00364v1](http://arxiv.org/abs/2205.00364v1)|null|
+|**2022-04-30**|**Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees**|Jonathan Brophy et.al.|[2205.00359v1](http://arxiv.org/abs/2205.00359v1)|**[link](https://github.com/jjbrophy47/tree_influence)**|
+|**2022-04-30**|**A Nanometer-Thick Oxide Semiconductor Transistor with Ultra-High Drain Current**|Zehao Lin et.al.|[2205.00357v1](http://arxiv.org/abs/2205.00357v1)|null|
+|**2022-04-30**|**Coherent enhancement of optical remission in diffusive media**|Nicholas Bender et.al.|[2205.00351v1](http://arxiv.org/abs/2205.00351v1)|null|
+|**2022-04-30**|**End-to-End Signal Classification in Signed Cumulative Distribution Transform Space**|Abu Hasnat Mohammad Rubaiyat et.al.|[2205.00348v1](http://arxiv.org/abs/2205.00348v1)|**[link](https://github.com/rohdelab/PyTransKit)**|
+|**2022-04-30**|**Engineering flexible machine learning systems by traversing functionally invariant paths in weight space**|Guruprasad Raghavan et.al.|[2205.00334v1](http://arxiv.org/abs/2205.00334v1)|null|
+|**2022-04-30**|**Terahertz Spatio-Temporal Deep Learning Computed Tomography**|Yi-Chun Hung et.al.|[2205.00324v1](http://arxiv.org/abs/2205.00324v1)|null|
+|**2022-04-30**|**FairSR: Fairness-aware Sequential Recommendation through Multi-Task Learning with Preference Graph Embeddings**|Cheng-Te Li et.al.|[2205.00313v1](http://arxiv.org/abs/2205.00313v1)|null|
 |**2022-04-29**|**Symmetric Mass Generation**|Juven Wang et.al.|[2204.14271v1](http://arxiv.org/abs/2204.14271v1)|null|
 |**2022-04-29**|**Hardware Trojan Detection Using Unsupervised Deep Learning on Quantum Diamond Microscope Magnetic Field Images**|Maitreyi Ashok et.al.|[2204.14228v1](http://arxiv.org/abs/2204.14228v1)|null|
 |**2022-04-28**|**Oracle Guided Image Synthesis with Relative Queries**|Alec Helbling et.al.|[2204.14189v1](http://arxiv.org/abs/2204.14189v1)|**[link](https://github.com/helblazer811/oracle-guided-image-synthesis)**|
