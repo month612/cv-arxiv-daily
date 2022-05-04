@@ -1,4 +1,4 @@
-> Updated on 2022.05.03
+> Updated on 2022.05.04
 
 ## SLAM
 
@@ -273,7 +273,7 @@
 ## Keypoint Detection
 
 - 2022-04-28, **Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**, Emilio Gomez-Gonzalez et.al., Paper: [http://arxiv.org/abs/2204.14050v1](http://arxiv.org/abs/2204.14050v1)
-- 2022-04-28, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v1](http://arxiv.org/abs/2204.13653v1), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
+- 2022-05-02, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v2](http://arxiv.org/abs/2204.13653v2), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
 - 2022-04-26, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v1](http://arxiv.org/abs/2204.12484v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-04-26, **Unified GCNs: Towards Connecting GCNs with CNNs**, Ziyan Zhang et.al., Paper: [http://arxiv.org/abs/2204.12300v1](http://arxiv.org/abs/2204.12300v1)
 - 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1)
@@ -462,7 +462,7 @@
 - 2022-04-30, **Coherent enhancement of optical remission in diffusive media**, Nicholas Bender et.al., Paper: [http://arxiv.org/abs/2205.00351v1](http://arxiv.org/abs/2205.00351v1)
 - 2022-04-30, **End-to-End Signal Classification in Signed Cumulative Distribution Transform Space**, Abu Hasnat Mohammad Rubaiyat et.al., Paper: [http://arxiv.org/abs/2205.00348v1](http://arxiv.org/abs/2205.00348v1), Code: **[https://github.com/rohdelab/PyTransKit](https://github.com/rohdelab/PyTransKit)**
 - 2022-04-30, **Engineering flexible machine learning systems by traversing functionally invariant paths in weight space**, Guruprasad Raghavan et.al., Paper: [http://arxiv.org/abs/2205.00334v1](http://arxiv.org/abs/2205.00334v1)
-- 2022-04-30, **Terahertz Spatio-Temporal Deep Learning Computed Tomography**, Yi-Chun Hung et.al., Paper: [http://arxiv.org/abs/2205.00324v1](http://arxiv.org/abs/2205.00324v1)
+- 2022-05-03, **Terahertz Spatio-Temporal Deep Learning Computed Tomography**, Yi-Chun Hung et.al., Paper: [http://arxiv.org/abs/2205.00324v2](http://arxiv.org/abs/2205.00324v2)
 - 2022-04-30, **FairSR: Fairness-aware Sequential Recommendation through Multi-Task Learning with Preference Graph Embeddings**, Cheng-Te Li et.al., Paper: [http://arxiv.org/abs/2205.00313v1](http://arxiv.org/abs/2205.00313v1)
 - 2022-04-29, **Symmetric Mass Generation**, Juven Wang et.al., Paper: [http://arxiv.org/abs/2204.14271v1](http://arxiv.org/abs/2204.14271v1)
 - 2022-04-29, **Hardware Trojan Detection Using Unsupervised Deep Learning on Quantum Diamond Microscope Magnetic Field Images**, Maitreyi Ashok et.al., Paper: [http://arxiv.org/abs/2204.14228v1](http://arxiv.org/abs/2204.14228v1)
