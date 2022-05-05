@@ -1,4 +1,4 @@
-> Updated on 2022.05.04
+> Updated on 2022.05.05
 
 ## SLAM
 
@@ -416,8 +416,8 @@
 ## Deep Learning
 
 - 2022-05-03, **DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks**, Shih-Yang Su et.al., Paper: [http://arxiv.org/abs/2205.01666v1](http://arxiv.org/abs/2205.01666v1)
-- 2022-05-03, **Intelligent Trajectory Design for RIS-NOMA aided Multi-robot Communications**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2205.01647v1](http://arxiv.org/abs/2205.01647v1)
-- 2022-05-03, **An untrained deep learning method for reconstructing dynamic magnetic resonance images from accelerated model-based data**, Kalina P. Slavkova et.al., Paper: [http://arxiv.org/abs/2205.01604v1](http://arxiv.org/abs/2205.01604v1)
+- 2022-05-04, **Intelligent Trajectory Design for RIS-NOMA aided Multi-robot Communications**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2205.01647v2](http://arxiv.org/abs/2205.01647v2)
+- 2022-05-04, **An untrained deep learning method for reconstructing dynamic magnetic resonance images from accelerated model-based data**, Kalina P. Slavkova et.al., Paper: [http://arxiv.org/abs/2205.01604v2](http://arxiv.org/abs/2205.01604v2)
 - 2022-05-03, **Efficient Fine-Tuning of BERT Models on the Edge**, Danilo Vucetic et.al., Paper: [http://arxiv.org/abs/2205.01541v1](http://arxiv.org/abs/2205.01541v1)
 - 2022-05-03, **BiOcularGAN: Bimodal Synthesis and Annotation of Ocular Images**, Darian Tomašević et.al., Paper: [http://arxiv.org/abs/2205.01536v1](http://arxiv.org/abs/2205.01536v1)
 - 2022-05-03, **ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models**, Junyi Li et.al., Paper: [http://arxiv.org/abs/2205.01523v1](http://arxiv.org/abs/2205.01523v1), Code: **[https://github.com/rucaibox/eliteplm](https://github.com/rucaibox/eliteplm)**
@@ -426,16 +426,16 @@
 - 2022-05-03, **A Comprehensive Survey of Image Augmentation Techniques for Deep Learning**, Mingle Xu et.al., Paper: [http://arxiv.org/abs/2205.01491v1](http://arxiv.org/abs/2205.01491v1)
 - 2022-05-03, **Picophotonics -- Subatomic Optical Resolution Beyond Thermal Fluctuations**, Tongjun Liu et.al., Paper: [http://arxiv.org/abs/2205.01475v1](http://arxiv.org/abs/2205.01475v1)
 - 2022-05-03, **Learning Economic Indicators by Aggregating Multi-Level Geospatial Information**, Sungwon Park et.al., Paper: [http://arxiv.org/abs/2205.01472v1](http://arxiv.org/abs/2205.01472v1)
-- 2022-05-03, **Deep learning of quantum entanglement from incomplete measurements**, Dominik Koutný et.al., Paper: [http://arxiv.org/abs/2205.01462v1](http://arxiv.org/abs/2205.01462v1)
+- 2022-05-04, **Deep learning of quantum entanglement from incomplete measurements**, Dominik Koutný et.al., Paper: [http://arxiv.org/abs/2205.01462v2](http://arxiv.org/abs/2205.01462v2)
 - 2022-05-03, **RLFlow: Optimising Neural Network Subgraph Transformation with World Models**, Sean Parker et.al., Paper: [http://arxiv.org/abs/2205.01435v1](http://arxiv.org/abs/2205.01435v1), Code: **[https://github.com/seanjparker/rlflow](https://github.com/seanjparker/rlflow)**
 - 2022-05-03, **ARCADE: Adversarially Regularized Convolutional Autoencoder for Network Anomaly Detection**, Willian T. Lunardi et.al., Paper: [http://arxiv.org/abs/2205.01432v1](http://arxiv.org/abs/2205.01432v1)
 - 2022-05-03, **Multimodal Detection of Unknown Objects on Roads for Autonomous Driving**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2205.01414v1](http://arxiv.org/abs/2205.01414v1)
 - 2022-05-03, **Outdoor Monocular Depth Estimation: A Research Review**, Pulkit Vyas et.al., Paper: [http://arxiv.org/abs/2205.01399v1](http://arxiv.org/abs/2205.01399v1)
-- 2022-05-03, **Neural language models for network configuration: Opportunities and reality check**, Zied Ben Houidi et.al., Paper: [http://arxiv.org/abs/2205.01398v1](http://arxiv.org/abs/2205.01398v1)
+- 2022-05-04, **Neural language models for network configuration: Opportunities and reality check**, Zied Ben Houidi et.al., Paper: [http://arxiv.org/abs/2205.01398v2](http://arxiv.org/abs/2205.01398v2)
 - 2022-05-03, **Unveiling the outer dust disc of TW Hya with deep ALMA observations**, John D. Ilee et.al., Paper: [http://arxiv.org/abs/2205.01396v1](http://arxiv.org/abs/2205.01396v1)
 - 2022-05-03, **Cost-Efficient and QoS-Aware User Association and 3D Placement of 6G Aerial Mobile Access Points**, Esteban Catté et.al., Paper: [http://arxiv.org/abs/2205.01390v1](http://arxiv.org/abs/2205.01390v1)
 - 2022-05-03, **Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review**, Jiaxin Li et.al., Paper: [http://arxiv.org/abs/2205.01380v1](http://arxiv.org/abs/2205.01380v1)
-- 2022-05-03, **TracInAD: Measuring Influence for Anomaly Detection**, Hugo Thimonier et.al., Paper: [http://arxiv.org/abs/2205.01362v1](http://arxiv.org/abs/2205.01362v1)
+- 2022-05-04, **TracInAD: Measuring Influence for Anomaly Detection**, Hugo Thimonier et.al., Paper: [http://arxiv.org/abs/2205.01362v2](http://arxiv.org/abs/2205.01362v2)
 - 2022-05-03, **Distilling Governing Laws and Source Input for Dynamical Systems from Videos**, Lele Luan et.al., Paper: [http://arxiv.org/abs/2205.01314v1](http://arxiv.org/abs/2205.01314v1), Code: **[https://github.com/leleluan/videodiscovery](https://github.com/leleluan/videodiscovery)**
 - 2022-05-03, **CANShield: Signal-based Intrusion Detection for Controller Area Networks**, Md Hasan Shahriar et.al., Paper: [http://arxiv.org/abs/2205.01306v1](http://arxiv.org/abs/2205.01306v1)
 - 2022-05-03, **A Survey of Deep Learning Models for Structural Code Understanding**, Ruoting Wu et.al., Paper: [http://arxiv.org/abs/2205.01293v1](http://arxiv.org/abs/2205.01293v1), Code: **[https://github.com/codingclaire/structural-code-understanding](https://github.com/codingclaire/structural-code-understanding)**
@@ -462,7 +462,7 @@
 - 2022-05-02, **Quality-Aware Decoding for Neural Machine Translation**, Patrick Fernandes et.al., Paper: [http://arxiv.org/abs/2205.00978v1](http://arxiv.org/abs/2205.00978v1), Code: **[https://github.com/deep-spin/qaware-decode](https://github.com/deep-spin/qaware-decode)**
 - 2022-05-02, **LIDER: An Efficient High-dimensional Learned Index for Large-scale Dense Passage Retrieval**, Yifan Wang et.al., Paper: [http://arxiv.org/abs/2205.00970v1](http://arxiv.org/abs/2205.00970v1)
 - 2022-05-02, **Leaf Tar Spot Detection Using RGB Images**, Sriram Baireddy et.al., Paper: [http://arxiv.org/abs/2205.00952v1](http://arxiv.org/abs/2205.00952v1)
-- 2022-05-02, **Understanding CNNs from excitations**, Zijian Ying et.al., Paper: [http://arxiv.org/abs/2205.00932v1](http://arxiv.org/abs/2205.00932v1)
+- 2022-05-04, **Understanding CNNs from excitations**, Zijian Ying et.al., Paper: [http://arxiv.org/abs/2205.00932v2](http://arxiv.org/abs/2205.00932v2)
 - 2022-05-02, **A Novel Speech-Driven Lip-Sync Model with CNN and LSTM**, Xiaohong Li et.al., Paper: [http://arxiv.org/abs/2205.00916v1](http://arxiv.org/abs/2205.00916v1)
 - 2022-05-02, **On the generalization capabilities of FSL methods through domain adaptation: a case study in endoscopic kidney stone image classification**, Mauricio Mendez-Ruiz et.al., Paper: [http://arxiv.org/abs/2205.00895v1](http://arxiv.org/abs/2205.00895v1)
 - 2022-05-02, **Motif-based Deep Graph Convolutional Networks**, Kejia Zhang et.al., Paper: [http://arxiv.org/abs/2205.00867v1](http://arxiv.org/abs/2205.00867v1)
