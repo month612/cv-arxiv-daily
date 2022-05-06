@@ -2,8 +2,10 @@
 
 ## SLAM
 
+- 2022-05-05, **PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**, Hyowon Kim et.al., Paper: [http://arxiv.org/abs/2205.02502v1](http://arxiv.org/abs/2205.02502v1)
+- 2022-05-04, **BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking**, Dorian Henning et.al., Paper: [http://arxiv.org/abs/2205.02301v1](http://arxiv.org/abs/2205.02301v1)
 - 2022-05-04, **A Global Asymptotic Convergent Observer for SLAM**, Seyed Hamed Hashemi et.al., Paper: [http://arxiv.org/abs/2205.01953v1](http://arxiv.org/abs/2205.01953v1)
-- 2022-05-04, **Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation**, Nathaniel Merrill et.al., Paper: [http://arxiv.org/abs/2205.01823v1](http://arxiv.org/abs/2205.01823v1)
+- 2022-05-04, **Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation**, Nathaniel Merrill et.al., Paper: [http://arxiv.org/abs/2205.01823v1](http://arxiv.org/abs/2205.01823v1), Code: **[https://github.com/rpng/suo_slam](https://github.com/rpng/suo_slam)**
 - 2022-05-03, **GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping**, Pan Ji et.al., Paper: [http://arxiv.org/abs/2205.01656v1](http://arxiv.org/abs/2205.01656v1)
 - 2022-04-29, **Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**, Jinwoo Jeon et.al., Paper: [http://arxiv.org/abs/2204.13877v1](http://arxiv.org/abs/2204.13877v1), Code: **[https://github.com/url-kaist/Struct-MDC](https://github.com/url-kaist/Struct-MDC)**
 - 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
@@ -417,6 +419,47 @@
 
 ## Deep Learning
 
+- 2022-05-05, **The PAndAS View of the Andromeda Satellite System. III. Dwarf galaxy detection limits**, Amandine Doliva-Dolinsky et.al., Paper: [http://arxiv.org/abs/2205.02831v1](http://arxiv.org/abs/2205.02831v1)
+- 2022-05-05, **Identifying Cause-and-Effect Relationships of Manufacturing Errors using Sequence-to-Sequence Learning**, Jeff Reimer et.al., Paper: [http://arxiv.org/abs/2205.02827v1](http://arxiv.org/abs/2205.02827v1)
+- 2022-05-05, **Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations**, Peng-Shuai Wang et.al., Paper: [http://arxiv.org/abs/2205.02825v1](http://arxiv.org/abs/2205.02825v1)
+- 2022-05-05, **Activity Detection in Long Surgical Videos using Spatio-Temporal Models**, Aidean Sharghi et.al., Paper: [http://arxiv.org/abs/2205.02805v1](http://arxiv.org/abs/2205.02805v1)
+- 2022-05-05, **Development of Interpretable Machine Learning Models to Detect Arrhythmia based on ECG Data**, Shourya Verma et.al., Paper: [http://arxiv.org/abs/2205.02803v1](http://arxiv.org/abs/2205.02803v1)
+- 2022-05-05, **Spiking Graph Convolutional Networks**, Zulun Zhu et.al., Paper: [http://arxiv.org/abs/2205.02767v1](http://arxiv.org/abs/2205.02767v1), Code: **[https://github.com/zulunzhu/spikinggcn](https://github.com/zulunzhu/spikinggcn)**
+- 2022-05-05, **General sum stochastic games with networked information flows**, Sarah H. Q. Li et.al., Paper: [http://arxiv.org/abs/2205.02760v1](http://arxiv.org/abs/2205.02760v1)
+- 2022-05-05, **Meta-learning Feature Representations for Adaptive Gaussian Processes via Implicit Differentiation**, Wenlin Chen et.al., Paper: [http://arxiv.org/abs/2205.02708v1](http://arxiv.org/abs/2205.02708v1)
+- 2022-05-05, **Do Different Deep Metric Learning Losses Lead to Similar Learned Features?**, Konstantin Kobs et.al., Paper: [http://arxiv.org/abs/2205.02698v1](http://arxiv.org/abs/2205.02698v1), Code: **[https://github.com/konstantinkobs/dml-analysis](https://github.com/konstantinkobs/dml-analysis)**
+- 2022-05-05, **Quantifying Language Variation Acoustically with Few Resources**, Martijn Bartelds et.al., Paper: [http://arxiv.org/abs/2205.02694v1](http://arxiv.org/abs/2205.02694v1), Code: **[https://github.com/bartelds/language-variation](https://github.com/bartelds/language-variation)**
+- 2022-05-05, **Quantum thermalization and thermal entanglement in the open quantum Rabi model**, Wang-Yan Liu et.al., Paper: [http://arxiv.org/abs/2205.02676v1](http://arxiv.org/abs/2205.02676v1)
+- 2022-05-05, **Multi-Agent Deep Reinforcement Learning in Vehicular OCC**, Amirul Islam et.al., Paper: [http://arxiv.org/abs/2205.02672v1](http://arxiv.org/abs/2205.02672v1)
+- 2022-05-05, **Unsupervised Mismatch Localization in Cross-Modal Sequential Data**, Wei Wei et.al., Paper: [http://arxiv.org/abs/2205.02670v1](http://arxiv.org/abs/2205.02670v1)
+- 2022-05-05, **Model-Based Deep Learning: On the Intersection of Deep Learning and Optimization**, Nir Shlezinger et.al., Paper: [http://arxiv.org/abs/2205.02640v1](http://arxiv.org/abs/2205.02640v1)
+- 2022-05-05, **Investigating molecular transport in the human brain from MRI with physics-informed neural networks**, Bastian Zapf et.al., Paper: [http://arxiv.org/abs/2205.02592v1](http://arxiv.org/abs/2205.02592v1)
+- 2022-05-05, **A Temporal-Pattern Backdoor Attack to Deep Reinforcement Learning**, Yinbo Yu et.al., Paper: [http://arxiv.org/abs/2205.02589v1](http://arxiv.org/abs/2205.02589v1)
+- 2022-05-05, **Intra and Cross-spectrum Iris Presentation Attack Detection in the NIR and Visible Domains Using Attention-based and Pixel-wise Supervised Learning**, Meiling Fang et.al., Paper: [http://arxiv.org/abs/2205.02573v1](http://arxiv.org/abs/2205.02573v1)
+- 2022-05-05, **DropTrack -- automatic droplet tracking using deep learning for microfluidic applications**, Mihir Durve et.al., Paper: [http://arxiv.org/abs/2205.02568v1](http://arxiv.org/abs/2205.02568v1)
+- 2022-05-05, **Biologically inspired deep residual networks for computer vision applications**, Prathibha Varghese et.al., Paper: [http://arxiv.org/abs/2205.02551v1](http://arxiv.org/abs/2205.02551v1)
+- 2022-05-05, **Search for flavour-changing neutral-current couplings between the top quark and the photon with the ATLAS detector at $\sqrt{s} = 13$ TeV**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2205.02537v1](http://arxiv.org/abs/2205.02537v1)
+- 2022-05-05, **Towards hybrid inflation with $n_s=1$ in light of Hubble tension and primordial gravitational waves**, Gen Ye et.al., Paper: [http://arxiv.org/abs/2205.02478v1](http://arxiv.org/abs/2205.02478v1)
+- 2022-05-05, **dPRO: A Generic Profiling and Optimization System for Expediting Distributed DNN Training**, Hanpeng Hu et.al., Paper: [http://arxiv.org/abs/2205.02473v1](http://arxiv.org/abs/2205.02473v1)
+- 2022-05-05, **Soft and Hard Constrained Parametric Generative Schemes for Encoding and Synthesizing Airfoils**, Hairun Xie et.al., Paper: [http://arxiv.org/abs/2205.02458v1](http://arxiv.org/abs/2205.02458v1)
+- 2022-05-05, **A Deep Learning Approach to Dst Index Prediction**, Yasser Abduallah et.al., Paper: [http://arxiv.org/abs/2205.02447v1](http://arxiv.org/abs/2205.02447v1)
+- 2022-05-05, **Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services**, Fan Zhang et.al., Paper: [http://arxiv.org/abs/2205.02446v1](http://arxiv.org/abs/2205.02446v1)
+- 2022-05-05, **TomoSAR-ALISTA: Efficient TomoSAR Imaging via Deep Unfolded Network**, Muhan Wang et.al., Paper: [http://arxiv.org/abs/2205.02445v1](http://arxiv.org/abs/2205.02445v1)
+- 2022-05-05, **DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data**, Asadullah Hill Galib et.al., Paper: [http://arxiv.org/abs/2205.02441v1](http://arxiv.org/abs/2205.02441v1), Code: **[https://github.com/galib19/deepextrema-ijcai22-](https://github.com/galib19/deepextrema-ijcai22-)**
+- 2022-05-05, **ActorRL: A Novel Distributed Reinforcement Learning for Autonomous Intersection Management**, Guanzhou Li et.al., Paper: [http://arxiv.org/abs/2205.02428v1](http://arxiv.org/abs/2205.02428v1)
+- 2022-05-05, **Towards Real-time Traffic Sign and Traffic Light Detection on Embedded Systems**, Oshada Jayasinghe et.al., Paper: [http://arxiv.org/abs/2205.02421v1](http://arxiv.org/abs/2205.02421v1)
+- 2022-05-05, **Surface Reconstruction from Point Clouds: A Survey and a Benchmark**, Zhangjin Huang et.al., Paper: [http://arxiv.org/abs/2205.02413v1](http://arxiv.org/abs/2205.02413v1)
+- 2022-05-05, **Spot-adaptive Knowledge Distillation**, Jie Song et.al., Paper: [http://arxiv.org/abs/2205.02399v1](http://arxiv.org/abs/2205.02399v1), Code: **[https://github.com/zju-vipa/spot-adaptive-pytorch](https://github.com/zju-vipa/spot-adaptive-pytorch)**
+- 2022-05-05, **Compressive Ptychography using Deep Image and Generative Priors**, Semih Barutcu et.al., Paper: [http://arxiv.org/abs/2205.02397v1](http://arxiv.org/abs/2205.02397v1)
+- 2022-05-04, **Convolutional and Residual Networks Provably Contain Lottery Tickets**, Rebekka Burkholz et.al., Paper: [http://arxiv.org/abs/2205.02343v1](http://arxiv.org/abs/2205.02343v1)
+- 2022-05-04, **Equity and Fairness of Bayesian Knowledge Tracing**, Sebastian Tschiatschek et.al., Paper: [http://arxiv.org/abs/2205.02333v1](http://arxiv.org/abs/2205.02333v1)
+- 2022-05-04, **Learning Individual Interactions from Population Dynamics with Discrete-Event Simulation Model**, Yan Shen et.al., Paper: [http://arxiv.org/abs/2205.02332v1](http://arxiv.org/abs/2205.02332v1)
+- 2022-05-04, **Most Activation Functions Can Win the Lottery Without Excessive Depth**, Rebekka Burkholz et.al., Paper: [http://arxiv.org/abs/2205.02321v1](http://arxiv.org/abs/2205.02321v1)
+- 2022-05-04, **Zero Day Threat Detection Using Graph and Flow Based Security Telemetry**, Christopher Redino et.al., Paper: [http://arxiv.org/abs/2205.02298v1](http://arxiv.org/abs/2205.02298v1)
+- 2022-05-04, **Improved error bounds for the distance distribution of Reed-Solomon codes**, Zhicheng Gao et.al., Paper: [http://arxiv.org/abs/2205.02277v1](http://arxiv.org/abs/2205.02277v1)
+- 2022-05-04, **DeepBayes -- an estimator for parameter estimation in stochastic nonlinear dynamical models**, Anubhab Ghosh et.al., Paper: [http://arxiv.org/abs/2205.02264v1](http://arxiv.org/abs/2205.02264v1)
+- 2022-05-04, **The halo finding problem revisited: a deep revision of the ASOHF code**, David Vallés-Pérez et.al., Paper: [http://arxiv.org/abs/2205.02245v1](http://arxiv.org/abs/2205.02245v1)
+- 2022-05-04, **Deep Potential: Recovering the gravitational potential from a snapshot of phase space**, Gregory M. Green et.al., Paper: [http://arxiv.org/abs/2205.02244v1](http://arxiv.org/abs/2205.02244v1)
 - 2022-05-04, **Semi-Supervised Cascaded Clustering for Classification of Noisy Label Data**, Ashit Gupta et.al., Paper: [http://arxiv.org/abs/2205.02209v1](http://arxiv.org/abs/2205.02209v1)
 - 2022-05-04, **Graphical Games for UAV Swarm Control Under Time-Varying Communication Networks**, Malintha Fernando et.al., Paper: [http://arxiv.org/abs/2205.02203v1](http://arxiv.org/abs/2205.02203v1)
 - 2022-05-04, **UnrealNAS: Can We Search Neural Architectures with Unreal Data?**, Zhen Dong et.al., Paper: [http://arxiv.org/abs/2205.02162v1](http://arxiv.org/abs/2205.02162v1)
