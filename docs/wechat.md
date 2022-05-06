@@ -1,4 +1,4 @@
-> Updated on 2022.05.05
+> Updated on 2022.05.06
 
 ## SLAM
 
@@ -424,7 +424,7 @@
 - 2022-05-04, **Evaluating Transferability for Covid 3D Localization Using CT SARS-CoV-2 segmentation models**, Constantine Maganaris et.al., Paper: [http://arxiv.org/abs/2205.02152v1](http://arxiv.org/abs/2205.02152v1)
 - 2022-05-04, **Using Deep Reinforcement Learning to solve Optimal Power Flow problem with generator failures**, Muhammad Usman Awais et.al., Paper: [http://arxiv.org/abs/2205.02108v1](http://arxiv.org/abs/2205.02108v1)
 - 2022-05-04, **Prediction of fish location by combining fisheries data and sea bottom temperature forecasting**, Matthieu Ospici et.al., Paper: [http://arxiv.org/abs/2205.02107v1](http://arxiv.org/abs/2205.02107v1)
-- 2022-05-04, **Neuroevolutionary Multi-objective approaches to Trajectory Prediction in Autonomous Vehicles**, Fergal Stapleton et.al., Paper: [http://arxiv.org/abs/2205.02105v1](http://arxiv.org/abs/2205.02105v1)
+- 2022-05-05, **Neuroevolutionary Multi-objective approaches to Trajectory Prediction in Autonomous Vehicles**, Fergal Stapleton et.al., Paper: [http://arxiv.org/abs/2205.02105v2](http://arxiv.org/abs/2205.02105v2)
 - 2022-05-04, **Hypercomplex Image-to-Image Translation**, Eleonora Grassucci et.al., Paper: [http://arxiv.org/abs/2205.02087v1](http://arxiv.org/abs/2205.02087v1), Code: **[https://github.com/ispamm/hi2i](https://github.com/ispamm/hi2i)**
 - 2022-05-04, **Does a PESQNet (Loss) Require a Clean Reference Input? The Original PESQ Does, But ACR Listening Tests Don't**, Ziyi Xu et.al., Paper: [http://arxiv.org/abs/2205.02085v1](http://arxiv.org/abs/2205.02085v1)
 - 2022-05-04, **DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches**, Xian Wu et.al., Paper: [http://arxiv.org/abs/2205.02070v1](http://arxiv.org/abs/2205.02070v1)
@@ -444,7 +444,7 @@
 - 2022-05-04, **A deep domain decomposition method based on Fourier features**, Sen Li et.al., Paper: [http://arxiv.org/abs/2205.01884v1](http://arxiv.org/abs/2205.01884v1)
 - 2022-05-04, **Machine Learning based Framework for Robust Price-Sensitivity Estimation with Application to Airline Pricing**, Ravi Kumar et.al., Paper: [http://arxiv.org/abs/2205.01875v1](http://arxiv.org/abs/2205.01875v1)
 - 2022-05-04, **Correlated Read Noise Reduction in Infrared Arrays Using Deep Learning**, Guillaume Payeur et.al., Paper: [http://arxiv.org/abs/2205.01866v1](http://arxiv.org/abs/2205.01866v1), Code: **[https://github.com/GuillaumePayeur/HxRG-denoiser](https://github.com/GuillaumePayeur/HxRG-denoiser)**
-- 2022-05-04, **DEAR: A Novel Deep Learning-based Approach for Automated Program Repair**, Yi Li et.al., Paper: [http://arxiv.org/abs/2205.01859v1](http://arxiv.org/abs/2205.01859v1)
+- 2022-05-04, **DEAR: A Novel Deep Learning-based Approach for Automated Program Repair**, Yi Li et.al., Paper: [http://arxiv.org/abs/2205.01859v1](http://arxiv.org/abs/2205.01859v1), Code: **[https://github.com/AutomatedProgramRepair-2021/dear-auto-fix](https://github.com/AutomatedProgramRepair-2021/dear-auto-fix)**
 - 2022-05-04, **DeeptDCS: Deep Learning-Based Estimation of Currents Induced During Transcranial Direct Current Stimulation**, Xiaofan Jia et.al., Paper: [http://arxiv.org/abs/2205.01858v1](http://arxiv.org/abs/2205.01858v1)
 - 2022-05-04, **Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**, Jinhao Jiang et.al., Paper: [http://arxiv.org/abs/2205.01841v1](http://arxiv.org/abs/2205.01841v1), Code: **[https://github.com/rucaibox/safe](https://github.com/rucaibox/safe)**
 - 2022-05-04, **Search for narrow resonances in the b-tagged dijet mass spectrum in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, CMS Collaboration et.al., Paper: [http://arxiv.org/abs/2205.01835v1](http://arxiv.org/abs/2205.01835v1)
