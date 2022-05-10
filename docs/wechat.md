@@ -1,4 +1,4 @@
-> Updated on 2022.05.09
+> Updated on 2022.05.10
 
 ## SLAM
 
@@ -427,7 +427,7 @@
 - 2022-05-06, **Vehicle management in a modular production context using Deep Q-Learning**, Lucain Pouget et.al., Paper: [http://arxiv.org/abs/2205.03294v1](http://arxiv.org/abs/2205.03294v1)
 - 2022-05-06, **Optimal Control as Variational Inference**, Tom Lefebvre et.al., Paper: [http://arxiv.org/abs/2205.03279v1](http://arxiv.org/abs/2205.03279v1)
 - 2022-05-06, **Human Tracking with mmWave Radars: a Deep Learning Approach with Uncertainty Estimation**, Jacopo Pegoraro et.al., Paper: [http://arxiv.org/abs/2205.03274v1](http://arxiv.org/abs/2205.03274v1)
-- 2022-05-06, **Collective Relevance Labeling for Passage Retrieval**, Jihyuk Kim et.al., Paper: [http://arxiv.org/abs/2205.03273v1](http://arxiv.org/abs/2205.03273v1), Code: **[https://github.com/jihyukkim-nlp/CollectiveKD](https://github.com/jihyukkim-nlp/CollectiveKD)**
+- 2022-05-09, **Collective Relevance Labeling for Passage Retrieval**, Jihyuk Kim et.al., Paper: [http://arxiv.org/abs/2205.03273v2](http://arxiv.org/abs/2205.03273v2), Code: **[https://github.com/jihyukkim-nlp/CollectiveKD](https://github.com/jihyukkim-nlp/CollectiveKD)**
 - 2022-05-06, **Photoionized Herbig-Haro objects in the Orion Nebula through deep high-spectral resolution spectroscopy III: HH514**, J. E. Méndez-Delgado et.al., Paper: [http://arxiv.org/abs/2205.03266v1](http://arxiv.org/abs/2205.03266v1)
 - 2022-05-06, **A Trillion Genetic Programming Instructions per Second**, W. B. Langdon et.al., Paper: [http://arxiv.org/abs/2205.03251v1](http://arxiv.org/abs/2205.03251v1)
 - 2022-05-06, **Goal-Oriented Next Best Activity Recommendation using Reinforcement Learning**, Prerna Agarwal et.al., Paper: [http://arxiv.org/abs/2205.03219v1](http://arxiv.org/abs/2205.03219v1), Code: **[https://github.com/avani17101/go-nba](https://github.com/avani17101/go-nba)**
@@ -456,16 +456,16 @@
 - 2022-05-05, **End-to-End Image-Based Fashion Recommendation**, Shereen Elsayed et.al., Paper: [http://arxiv.org/abs/2205.02923v1](http://arxiv.org/abs/2205.02923v1), Code: **[https://github.com/shereen-elsayed/imgrec](https://github.com/shereen-elsayed/imgrec)**
 - 2022-05-05, **Interactive Model Cards: A Human-Centered Approach to Model Documentation**, Anamaria Crisan et.al., Paper: [http://arxiv.org/abs/2205.02894v1](http://arxiv.org/abs/2205.02894v1)
 - 2022-05-05, **Evaluating Context for Deep Object Detectors**, Osman Semih Kayhan et.al., Paper: [http://arxiv.org/abs/2205.02887v1](http://arxiv.org/abs/2205.02887v1)
-- 2022-05-05, **Data Augmentation for Manipulation**, Peter Mitrano et.al., Paper: [http://arxiv.org/abs/2205.02886v1](http://arxiv.org/abs/2205.02886v1)
+- 2022-05-05, **Data Augmentation for Manipulation**, Peter Mitrano et.al., Paper: [http://arxiv.org/abs/2205.02886v1](http://arxiv.org/abs/2205.02886v1), Code: **[https://github.com/UM-ARM-Lab/data-augmentation-for-manipulation](https://github.com/UM-ARM-Lab/data-augmentation-for-manipulation)**
 - 2022-05-05, **Multi-confound regression adversarial network for deep learning-based diagnosis on highly heterogenous clinical data**, Matthew Leming et.al., Paper: [http://arxiv.org/abs/2205.02885v1](http://arxiv.org/abs/2205.02885v1), Code: **[https://github.com/mleming/mucran](https://github.com/mleming/mucran)**
-- 2022-05-05, **Euclid preparation: XXI. Intermediate-redshift contaminants in the search for $z>6$ galaxies within the Euclid Deep Survey**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2205.02871v1](http://arxiv.org/abs/2205.02871v1)
+- 2022-05-09, **Euclid preparation: XXI. Intermediate-redshift contaminants in the search for $z>6$ galaxies within the Euclid Deep Survey**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2205.02871v2](http://arxiv.org/abs/2205.02871v2)
 - 2022-05-05, **Deep two-phase, hemispherical magma oceans on lava planets**, Charles-Édouard Boukaré et.al., Paper: [http://arxiv.org/abs/2205.02864v1](http://arxiv.org/abs/2205.02864v1)
 - 2022-05-05, **The most beautiful strongly bound dibaryon**, Nilmani Mathur et.al., Paper: [http://arxiv.org/abs/2205.02862v1](http://arxiv.org/abs/2205.02862v1)
 - 2022-05-05, **The PAndAS View of the Andromeda Satellite System. III. Dwarf galaxy detection limits**, Amandine Doliva-Dolinsky et.al., Paper: [http://arxiv.org/abs/2205.02831v1](http://arxiv.org/abs/2205.02831v1)
 - 2022-05-05, **Identifying Cause-and-Effect Relationships of Manufacturing Errors using Sequence-to-Sequence Learning**, Jeff Reimer et.al., Paper: [http://arxiv.org/abs/2205.02827v1](http://arxiv.org/abs/2205.02827v1)
 - 2022-05-06, **Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations**, Peng-Shuai Wang et.al., Paper: [http://arxiv.org/abs/2205.02825v2](http://arxiv.org/abs/2205.02825v2)
 - 2022-05-05, **Activity Detection in Long Surgical Videos using Spatio-Temporal Models**, Aidean Sharghi et.al., Paper: [http://arxiv.org/abs/2205.02805v1](http://arxiv.org/abs/2205.02805v1)
-- 2022-05-05, **Development of Interpretable Machine Learning Models to Detect Arrhythmia based on ECG Data**, Shourya Verma et.al., Paper: [http://arxiv.org/abs/2205.02803v1](http://arxiv.org/abs/2205.02803v1)
+- 2022-05-07, **Development of Interpretable Machine Learning Models to Detect Arrhythmia based on ECG Data**, Shourya Verma et.al., Paper: [http://arxiv.org/abs/2205.02803v2](http://arxiv.org/abs/2205.02803v2)
 - 2022-05-05, **Spiking Graph Convolutional Networks**, Zulun Zhu et.al., Paper: [http://arxiv.org/abs/2205.02767v1](http://arxiv.org/abs/2205.02767v1), Code: **[https://github.com/zulunzhu/spikinggcn](https://github.com/zulunzhu/spikinggcn)**
 - 2022-05-05, **General sum stochastic games with networked information flows**, Sarah H. Q. Li et.al., Paper: [http://arxiv.org/abs/2205.02760v1](http://arxiv.org/abs/2205.02760v1)
 - 2022-05-05, **Meta-learning Feature Representations for Adaptive Gaussian Processes via Implicit Differentiation**, Wenlin Chen et.al., Paper: [http://arxiv.org/abs/2205.02708v1](http://arxiv.org/abs/2205.02708v1)
@@ -3091,13 +3091,13 @@
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
 - 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
 - 2022-03-01, **Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**, Ling Gao et.al., Paper: [http://arxiv.org/abs/2203.00291v1](http://arxiv.org/abs/2203.00291v1)
-- 2022-02-25, **LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2202.12613v1](http://arxiv.org/abs/2202.12613v1), Code: **[https://github.com/flysoaryun/lf-vio](https://github.com/flysoaryun/lf-vio)**
+- 2022-05-08, **LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2202.12613v2](http://arxiv.org/abs/2202.12613v2), Code: **[https://github.com/flysoaryun/lf-vio](https://github.com/flysoaryun/lf-vio)**
 - 2022-02-05, **DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2202.02556v1](http://arxiv.org/abs/2202.02556v1)
 - 2022-01-05, **Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**, Bing Han et.al., Paper: [http://arxiv.org/abs/2201.01561v1](http://arxiv.org/abs/2201.01561v1)
 - 2021-12-24, **Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**, David Charatan et.al., Paper: [http://arxiv.org/abs/2112.13018v1](http://arxiv.org/abs/2112.13018v1)
 - 2021-12-23, **Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12818v1](http://arxiv.org/abs/2112.12818v1)
 - 2021-12-23, **MDN-VO: Estimating Visual Odometry with Confidence**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12812v1](http://arxiv.org/abs/2112.12812v1)
-- 2021-12-21, **360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**, Bolivar Solarte et.al., Paper: [http://arxiv.org/abs/2112.06180v2](http://arxiv.org/abs/2112.06180v2)
+- 2022-05-08, **360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**, Bolivar Solarte et.al., Paper: [http://arxiv.org/abs/2112.06180v3](http://arxiv.org/abs/2112.06180v3)
 - 2021-12-08, **GPCO: An Unsupervised Green Point Cloud Odometry Method**, Pranav Kadam et.al., Paper: [http://arxiv.org/abs/2112.04054v1](http://arxiv.org/abs/2112.04054v1)
 - 2021-12-06, **3D Hierarchical Refinement and Augmentation for Unsupervised Learning of Depth and Pose from Monocular Video**, Guangming Wang et.al., Paper: [http://arxiv.org/abs/2112.03045v1](http://arxiv.org/abs/2112.03045v1)
 - 2021-12-03, **Fast Direct Stereo Visual SLAM**, Jiawei Mo et.al., Paper: [http://arxiv.org/abs/2112.01890v1](http://arxiv.org/abs/2112.01890v1), Code: **[https://github.com/irvlab/direct_stereo_slam](https://github.com/irvlab/direct_stereo_slam)**
@@ -3175,7 +3175,7 @@
 - 2022-04-23, **Underwater Light Field Retention : Neural Rendering for Underwater Imaging**, Tian Ye et.al., Paper: [http://arxiv.org/abs/2203.11006v2](http://arxiv.org/abs/2203.11006v2), Code: **[https://github.com/ephemeral182/uwnr](https://github.com/ephemeral182/uwnr)**
 - 2022-03-18, **Bayesian Inversion for Nonlinear Imaging Models using Deep Generative Priors**, Pakshal Bohra et.al., Paper: [http://arxiv.org/abs/2203.10078v1](http://arxiv.org/abs/2203.10078v1)
 - 2022-03-22, **Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing**, Zhiyuan Zha et.al., Paper: [http://arxiv.org/abs/2203.09656v2](http://arxiv.org/abs/2203.09656v2)
-- 2022-03-18, **Transframer: Arbitrary Frame Prediction with Generative Models**, Charlie Nash et.al., Paper: [http://arxiv.org/abs/2203.09494v2](http://arxiv.org/abs/2203.09494v2)
+- 2022-05-09, **Transframer: Arbitrary Frame Prediction with Generative Models**, Charlie Nash et.al., Paper: [http://arxiv.org/abs/2203.09494v3](http://arxiv.org/abs/2203.09494v3)
 - 2022-03-17, **Image Super-Resolution With Deep Variational Autoencoders**, Darius Chira et.al., Paper: [http://arxiv.org/abs/2203.09445v1](http://arxiv.org/abs/2203.09445v1)
 - 2022-03-16, **Towards Practical Certifiable Patch Defense with Vision Transformer**, Zhaoyu Chen et.al., Paper: [http://arxiv.org/abs/2203.08519v1](http://arxiv.org/abs/2203.08519v1)
 - 2022-03-10, **MVP: Multimodality-guided Visual Pre-training**, Longhui Wei et.al., Paper: [http://arxiv.org/abs/2203.05175v1](http://arxiv.org/abs/2203.05175v1)
