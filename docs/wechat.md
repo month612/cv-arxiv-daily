@@ -1,4 +1,4 @@
-> Updated on 2022.05.10
+> Updated on 2022.05.11
 
 ## SLAM
 
@@ -354,7 +354,7 @@
 ## Image Matching
 
 - 2022-05-06, **BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**, Jingwei Song et.al., Paper: [http://arxiv.org/abs/2205.03133v1](http://arxiv.org/abs/2205.03133v1), Code: **[https://github.com/jingweisong/bdis-v2](https://github.com/jingweisong/bdis-v2)**
-- 2022-05-05, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v1](http://arxiv.org/abs/2205.02849v1)
+- 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
 - 2022-04-27, **Gleo-Det: Deep Convolution Feature-Guided Detector with Local Entropy Optimization for Salient Points**, Chao Li et.al., Paper: [http://arxiv.org/abs/2204.12884v1](http://arxiv.org/abs/2204.12884v1)
 - 2022-04-22, **SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**, Runzhe Zhu et.al., Paper: [http://arxiv.org/abs/2204.10704v1](http://arxiv.org/abs/2204.10704v1), Code: **[https://github.com/Reza-Zhu/SUES-200-Benchmark](https://github.com/Reza-Zhu/SUES-200-Benchmark)**
 - 2022-04-20, **Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**, Leila Pishdad et.al., Paper: [http://arxiv.org/abs/2204.09268v1](http://arxiv.org/abs/2204.09268v1)
@@ -451,7 +451,7 @@
 - 2022-05-09, **Multimodel Sensor Fusion for Learning Rich Models for Interacting Soft Robots**, Thomas George Thuruthel et.al., Paper: [http://arxiv.org/abs/2205.04202v1](http://arxiv.org/abs/2205.04202v1)
 - 2022-05-09, **Paired Image-to-Image Translation Quality Assessment Using Multi-Method Fusion**, Stefan Borasinski et.al., Paper: [http://arxiv.org/abs/2205.04186v1](http://arxiv.org/abs/2205.04186v1)
 - 2022-05-09, **Improved-Flow Warp Module for Remote Sensing Semantic Segmentation**, Yinjie Zhang et.al., Paper: [http://arxiv.org/abs/2205.04160v1](http://arxiv.org/abs/2205.04160v1)
-- 2022-05-09, **Verifying Integrity of Deep Ensemble Models by Lossless Black-box Watermarking with Sensitive Samples**, Lina Lin et.al., Paper: [http://arxiv.org/abs/2205.04145v1](http://arxiv.org/abs/2205.04145v1)
+- 2022-05-10, **Verifying Integrity of Deep Ensemble Models by Lossless Black-box Watermarking with Sensitive Samples**, Lina Lin et.al., Paper: [http://arxiv.org/abs/2205.04145v2](http://arxiv.org/abs/2205.04145v2)
 - 2022-05-09, **Single-Image 3D Face Reconstruction under Perspective Projection**, Yueying Kao et.al., Paper: [http://arxiv.org/abs/2205.04126v1](http://arxiv.org/abs/2205.04126v1)
 - 2022-05-09, **An Efficient Architecture and High-Throughput Implementation of CCSDS-123.0-B-2 Hybrid Entropy Coder Targeting Space-Grade SRAM FPGA Technology**, Panagiotis Chatziantoniou et.al., Paper: [http://arxiv.org/abs/2205.04123v1](http://arxiv.org/abs/2205.04123v1)
 - 2022-05-09, **Localized Adversarial Domain Generalization**, Wei Zhu et.al., Paper: [http://arxiv.org/abs/2205.04114v1](http://arxiv.org/abs/2205.04114v1), Code: **[https://github.com/zwvews/ladg](https://github.com/zwvews/ladg)**
