@@ -137,6 +137,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-09**|**Is my Depth Ground-Truth Good Enough? HAMMER -- Highly Accurate Multi-Modal Dataset for DEnse 3D Scene Regression**|HyunJun Jung et.al.|[2205.04565v1](http://arxiv.org/abs/2205.04565v1)|null|
 |**2022-05-07**|**Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs**|Pedro F. Proença et.al.|[2205.03522v1](http://arxiv.org/abs/2205.03522v1)|null|
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
@@ -438,6 +439,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**On the Verge of Solving Rocket League using Deep Reinforcement Learning and Sim-to-sim Transfer**|Marco Pleines et.al.|[2205.05061v1](http://arxiv.org/abs/2205.05061v1)|null|
+|**2022-05-10**|**White-box Testing of NLP models with Mask Neuron Coverage**|Arshdeep Sekhon et.al.|[2205.05050v1](http://arxiv.org/abs/2205.05050v1)|null|
+|**2022-05-10**|**A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks**|Mingrui Liu et.al.|[2205.05040v1](http://arxiv.org/abs/2205.05040v1)|null|
+|**2022-05-10**|**Multi-agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks**|Xiao Du et.al.|[2205.05036v1](http://arxiv.org/abs/2205.05036v1)|null|
+|**2022-05-10**|**Hybrid Reinforcement Learning for STAR-RISs: A Coupled Phase-Shift Model Based Beamformer**|Ruikang Zhong et.al.|[2205.05029v1](http://arxiv.org/abs/2205.05029v1)|null|
+|**2022-05-10**|**Neuromimetic Linear Systems -- Resilience and Learning**|Zexin Sun et.al.|[2205.05013v1](http://arxiv.org/abs/2205.05013v1)|null|
+|**2022-05-10**|**Using Deep Learning-based Features Extracted from CT scans to Predict Outcomes in COVID-19 Patients**|Sai Vidyaranya Nuthalapati et.al.|[2205.05009v1](http://arxiv.org/abs/2205.05009v1)|null|
+|**2022-05-10**|**Approximate Expressions to the Reactive Near-Field Losses of Body-Implanted Antennas**|Mingxiang Gao et.al.|[2205.04971v1](http://arxiv.org/abs/2205.04971v1)|null|
+|**2022-05-10**|**Hybrid Far- and Near-Field Channel Estimation for THz Ultra-Massive MIMO via Fixed Point Networks**|Wentao Yu et.al.|[2205.04944v1](http://arxiv.org/abs/2205.04944v1)|null|
+|**2022-05-10**|**Cross-Language Source Code Clone Detection Using Deep Learning with InferCode**|Mohammad A. Yahya et.al.|[2205.04913v1](http://arxiv.org/abs/2205.04913v1)|null|
+|**2022-05-10**|**Identical Image Retrieval using Deep Learning**|Sayan Nath et.al.|[2205.04883v1](http://arxiv.org/abs/2205.04883v1)|**[link](https://github.com/sayannath/identical-image-retrieval)**|
+|**2022-05-10**|**Hyperparameter optimization of hybrid quantum neural networks for car classification**|Asel Sagingalieva et.al.|[2205.04878v1](http://arxiv.org/abs/2205.04878v1)|null|
+|**2022-05-10**|**Designing a Recurrent Neural Network to Learn a Motion Planner for High-Dimensional Inputs**|Johnathan Chiu et.al.|[2205.04799v1](http://arxiv.org/abs/2205.04799v1)|null|
+|**2022-05-10**|**State Encoders in Reinforcement Learning for Recommendation: A Reproducibility Study**|Jin Huang et.al.|[2205.04797v1](http://arxiv.org/abs/2205.04797v1)|**[link](https://github.com/betsyhj/rl4rec)**|
+|**2022-05-10**|**Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control**|David Jorge et.al.|[2205.04796v1](http://arxiv.org/abs/2205.04796v1)|null|
+|**2022-05-10**|**Deep Learning-based Schemes for Singularly Perturbed Convection-Diffusion Problems**|A. Beguinet et.al.|[2205.04779v1](http://arxiv.org/abs/2205.04779v1)|null|
+|**2022-05-10**|**Explainable Deep Learning Methods in Medical Diagnosis: A Survey**|Cristiano Patrício et.al.|[2205.04766v1](http://arxiv.org/abs/2205.04766v1)|null|
+|**2022-05-10**|**Deep learning based Chinese text sentiment mining and stock market correlation research**|Chenrui Zhang et.al.|[2205.04743v1](http://arxiv.org/abs/2205.04743v1)|null|
+|**2022-05-10**|**Robust Medical Image Classification from Noisy Labeled Data with Global and Local Representation Guided Co-training**|Cheng Xue et.al.|[2205.04723v1](http://arxiv.org/abs/2205.04723v1)|null|
+|**2022-05-10**|**OTFPF: Optimal Transport-Based Feature Pyramid Fusion Network for Brain Age Estimation with 3D Overlapped ConvNeXt**|Yu Fu et.al.|[2205.04684v1](http://arxiv.org/abs/2205.04684v1)|**[link](https://github.com/ZJU-Brain/OTFPF)**|
+|**2022-05-10**|**UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection**|Youhui Guo et.al.|[2205.04683v1](http://arxiv.org/abs/2205.04683v1)|null|
+|**2022-05-10**|**A lattice theoretical interpretation of generalized deep holes of the Leech lattice vertex operator algebra**|Ching Hung Lam et.al.|[2205.04681v1](http://arxiv.org/abs/2205.04681v1)|null|
+|**2022-05-10**|**Improving genetic risk prediction across diverse population by disentangling ancestry representations**|Prashnna K Gyawali et.al.|[2205.04673v1](http://arxiv.org/abs/2205.04673v1)|null|
+|**2022-05-10**|**Deep Gait Tracking With Inertial Measurement Unit**|Jien De Sui et.al.|[2205.04666v1](http://arxiv.org/abs/2205.04666v1)|null|
+|**2022-05-10**|**Robust Learning of Parsimonious Deep Neural Networks**|Valentin Frank Ingmar Guenter et.al.|[2205.04650v1](http://arxiv.org/abs/2205.04650v1)|null|
+|**2022-05-10**|**Crypto Pump and Dump via Deep Learning Techniques**|Viswanath Chadalapaka et.al.|[2205.04646v1](http://arxiv.org/abs/2205.04646v1)|null|
+|**2022-05-10**|**Using frequency attention to make adversarial patch powerful against person detector**|Xiaochun Lei et.al.|[2205.04638v1](http://arxiv.org/abs/2205.04638v1)|null|
+|**2022-05-10**|**KEMP: Keyframe-Based Hierarchical End-to-End Deep Model for Long-Term Trajectory Prediction**|Qiujing Lu et.al.|[2205.04624v1](http://arxiv.org/abs/2205.04624v1)|null|
+|**2022-05-10**|**An Edge-Cloud Integrated Framework for Flexible and Dynamic Stream Analytics**|Xin Wang et.al.|[2205.04622v1](http://arxiv.org/abs/2205.04622v1)|null|
+|**2022-05-10**|**Plasma Image Classification Using Cosine Similarity Constrained CNN**|Michael J. Falato et.al.|[2205.04609v1](http://arxiv.org/abs/2205.04609v1)|null|
+|**2022-05-09**|**Deep Stochastic Optimization in Finance**|A. Max Reppen et.al.|[2205.04604v1](http://arxiv.org/abs/2205.04604v1)|null|
+|**2022-05-09**|**Deep Learning Enabled Semantic Communications with Speech Recognition and Synthesis**|Zhenzi Weng et.al.|[2205.04603v1](http://arxiv.org/abs/2205.04603v1)|null|
+|**2022-05-09**|**Long-term stability and generalization of observationally-constrained stochastic data-driven models for geophysical turbulence**|Ashesh Chattopadhyay et.al.|[2205.04601v1](http://arxiv.org/abs/2205.04601v1)|null|
+|**2022-05-09**|**Affective Medical Estimation and Decision Making via Visualized Learning and Deep Learning**|Mohammad Eslami et.al.|[2205.04599v1](http://arxiv.org/abs/2205.04599v1)|null|
+|**2022-05-09**|**Neural Optimal Stopping Boundary**|A. Max Reppen et.al.|[2205.04595v1](http://arxiv.org/abs/2205.04595v1)|null|
+|**2022-05-09**|**Towards Optimal VPU Compiler Cost Modeling by using Neural Networks to Infer Hardware Performances**|Ian Frederick Vigogne Goodbody Hunter et.al.|[2205.04586v1](http://arxiv.org/abs/2205.04586v1)|null|
+|**2022-05-09**|**Unveiling Nucleon 3D Chiral-Odd Structure with Jet Axes**|Wai Kin Lai et.al.|[2205.04570v1](http://arxiv.org/abs/2205.04570v1)|null|
+|**2022-05-09**|**Machine Learning Diffusion Monte Carlo Energy Densities**|Kevin Ryczko et.al.|[2205.04547v1](http://arxiv.org/abs/2205.04547v1)|null|
+|**2022-05-09**|**How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?**|Alvin Chan et.al.|[2205.04533v1](http://arxiv.org/abs/2205.04533v1)|null|
+|**2022-05-09**|**Skin disease diagnosis using image analysis and natural language processing**|Martin Chileshe et.al.|[2205.04468v1](http://arxiv.org/abs/2205.04468v1)|null|
 |**2022-05-09**|**Introspective Deep Metric Learning**|Chengkun Wang et.al.|[2205.04449v1](http://arxiv.org/abs/2205.04449v1)|**[link](https://github.com/wangck20/idml)**|
 |**2022-05-09**|**Dual Geometry of Entanglement Entropy via Deep Learning**|Chanyong Park et.al.|[2205.04445v1](http://arxiv.org/abs/2205.04445v1)|null|
 |**2022-05-09**|**MixAugment & Mixup: Augmentation Methods for Facial Expression Recognition**|Andreas Psaroudakis et.al.|[2205.04442v1](http://arxiv.org/abs/2205.04442v1)|null|
@@ -3214,6 +3255,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**Accelerating the Training of Video Super-Resolution**|Lijian Lin et.al.|[2205.05069v1](http://arxiv.org/abs/2205.05069v1)|null|
+|**2022-05-10**|**The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**|Makoto Miyoshi et.al.|[2205.04623v1](http://arxiv.org/abs/2205.04623v1)|null|
 |**2022-05-06**|**Simulating high-time resolution radio-telescope observations**|Rui Luo et.al.|[2205.03046v1](http://arxiv.org/abs/2205.03046v1)|**[link](https://bitbucket.csiro.au/scm/psrsoft/simulatesearch.git)**|
 |**2022-04-28**|**CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers**|Ming Ding et.al.|[2204.14217v1](http://arxiv.org/abs/2204.14217v1)|**[link](https://github.com/thudm/cogview2)**|
 |**2022-04-29**|**Preoperative brain tumor imaging: models and software for segmentation and standardized reporting**|D. Bouget et.al.|[2204.14199v1](http://arxiv.org/abs/2204.14199v1)|**[link](https://github.com/dbouget/Raidionics)**|
