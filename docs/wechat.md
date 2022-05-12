@@ -1,8 +1,8 @@
-> Updated on 2022.05.11
+> Updated on 2022.05.12
 
 ## SLAM
 
-- 2022-05-09, **Multi-modal Semantic SLAM for Complex Dynamic Environments**, Jing Ying Ko et.al., Paper: [http://arxiv.org/abs/2205.04300v1](http://arxiv.org/abs/2205.04300v1)
+- 2022-05-09, **Multi-modal Semantic SLAM for Complex Dynamic Environments**, Jing Ying Ko et.al., Paper: [http://arxiv.org/abs/2205.04300v1](http://arxiv.org/abs/2205.04300v1), Code: **[https://github.com/wh200720041/mms_slam](https://github.com/wh200720041/mms_slam)**
 - 2022-05-06, **OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**, Carmen Delgado et.al., Paper: [http://arxiv.org/abs/2205.03256v1](http://arxiv.org/abs/2205.03256v1)
 - 2022-05-05, **CNN-Augmented Visual-Inertial SLAM with Planar Constraints**, Pan Ji et.al., Paper: [http://arxiv.org/abs/2205.02940v1](http://arxiv.org/abs/2205.02940v1)
 - 2022-05-05, **PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**, Hyowon Kim et.al., Paper: [http://arxiv.org/abs/2205.02502v1](http://arxiv.org/abs/2205.02502v1)
@@ -440,27 +440,27 @@
 - 2022-05-10, **Identical Image Retrieval using Deep Learning**, Sayan Nath et.al., Paper: [http://arxiv.org/abs/2205.04883v1](http://arxiv.org/abs/2205.04883v1), Code: **[https://github.com/sayannath/identical-image-retrieval](https://github.com/sayannath/identical-image-retrieval)**
 - 2022-05-10, **Hyperparameter optimization of hybrid quantum neural networks for car classification**, Asel Sagingalieva et.al., Paper: [http://arxiv.org/abs/2205.04878v1](http://arxiv.org/abs/2205.04878v1)
 - 2022-05-10, **Designing a Recurrent Neural Network to Learn a Motion Planner for High-Dimensional Inputs**, Johnathan Chiu et.al., Paper: [http://arxiv.org/abs/2205.04799v1](http://arxiv.org/abs/2205.04799v1)
-- 2022-05-10, **State Encoders in Reinforcement Learning for Recommendation: A Reproducibility Study**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2205.04797v1](http://arxiv.org/abs/2205.04797v1), Code: **[https://github.com/betsyhj/rl4rec](https://github.com/betsyhj/rl4rec)**
+- 2022-05-11, **State Encoders in Reinforcement Learning for Recommendation: A Reproducibility Study**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2205.04797v2](http://arxiv.org/abs/2205.04797v2), Code: **[https://github.com/betsyhj/rl4rec](https://github.com/betsyhj/rl4rec)**
 - 2022-05-10, **Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control**, David Jorge et.al., Paper: [http://arxiv.org/abs/2205.04796v1](http://arxiv.org/abs/2205.04796v1)
 - 2022-05-10, **Deep Learning-based Schemes for Singularly Perturbed Convection-Diffusion Problems**, A. Beguinet et.al., Paper: [http://arxiv.org/abs/2205.04779v1](http://arxiv.org/abs/2205.04779v1)
 - 2022-05-10, **Explainable Deep Learning Methods in Medical Diagnosis: A Survey**, Cristiano Patrício et.al., Paper: [http://arxiv.org/abs/2205.04766v1](http://arxiv.org/abs/2205.04766v1)
 - 2022-05-10, **Deep learning based Chinese text sentiment mining and stock market correlation research**, Chenrui Zhang et.al., Paper: [http://arxiv.org/abs/2205.04743v1](http://arxiv.org/abs/2205.04743v1)
 - 2022-05-10, **Robust Medical Image Classification from Noisy Labeled Data with Global and Local Representation Guided Co-training**, Cheng Xue et.al., Paper: [http://arxiv.org/abs/2205.04723v1](http://arxiv.org/abs/2205.04723v1)
-- 2022-05-10, **OTFPF: Optimal Transport-Based Feature Pyramid Fusion Network for Brain Age Estimation with 3D Overlapped ConvNeXt**, Yu Fu et.al., Paper: [http://arxiv.org/abs/2205.04684v1](http://arxiv.org/abs/2205.04684v1), Code: **[https://github.com/ZJU-Brain/OTFPF](https://github.com/ZJU-Brain/OTFPF)**
+- 2022-05-11, **OTFPF: Optimal Transport-Based Feature Pyramid Fusion Network for Brain Age Estimation with 3D Overlapped ConvNeXt**, Yu Fu et.al., Paper: [http://arxiv.org/abs/2205.04684v2](http://arxiv.org/abs/2205.04684v2), Code: **[https://github.com/brain-age/otfpf](https://github.com/brain-age/otfpf)**
 - 2022-05-10, **UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection**, Youhui Guo et.al., Paper: [http://arxiv.org/abs/2205.04683v1](http://arxiv.org/abs/2205.04683v1)
 - 2022-05-10, **A lattice theoretical interpretation of generalized deep holes of the Leech lattice vertex operator algebra**, Ching Hung Lam et.al., Paper: [http://arxiv.org/abs/2205.04681v1](http://arxiv.org/abs/2205.04681v1)
 - 2022-05-10, **Improving genetic risk prediction across diverse population by disentangling ancestry representations**, Prashnna K Gyawali et.al., Paper: [http://arxiv.org/abs/2205.04673v1](http://arxiv.org/abs/2205.04673v1)
 - 2022-05-10, **Deep Gait Tracking With Inertial Measurement Unit**, Jien De Sui et.al., Paper: [http://arxiv.org/abs/2205.04666v1](http://arxiv.org/abs/2205.04666v1)
 - 2022-05-10, **Robust Learning of Parsimonious Deep Neural Networks**, Valentin Frank Ingmar Guenter et.al., Paper: [http://arxiv.org/abs/2205.04650v1](http://arxiv.org/abs/2205.04650v1)
-- 2022-05-10, **Crypto Pump and Dump via Deep Learning Techniques**, Viswanath Chadalapaka et.al., Paper: [http://arxiv.org/abs/2205.04646v1](http://arxiv.org/abs/2205.04646v1)
-- 2022-05-10, **Using frequency attention to make adversarial patch powerful against person detector**, Xiaochun Lei et.al., Paper: [http://arxiv.org/abs/2205.04638v1](http://arxiv.org/abs/2205.04638v1)
+- 2022-05-10, **Crypto Pump and Dump Detection via Deep Learning Techniques**, Viswanath Chadalapaka et.al., Paper: [http://arxiv.org/abs/2205.04646v1](http://arxiv.org/abs/2205.04646v1)
+- 2022-05-11, **Using Frequency Attention to Make Adversarial Patch Powerful Against Person Detector**, Xiaochun Lei et.al., Paper: [http://arxiv.org/abs/2205.04638v2](http://arxiv.org/abs/2205.04638v2)
 - 2022-05-10, **KEMP: Keyframe-Based Hierarchical End-to-End Deep Model for Long-Term Trajectory Prediction**, Qiujing Lu et.al., Paper: [http://arxiv.org/abs/2205.04624v1](http://arxiv.org/abs/2205.04624v1)
 - 2022-05-10, **An Edge-Cloud Integrated Framework for Flexible and Dynamic Stream Analytics**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2205.04622v1](http://arxiv.org/abs/2205.04622v1)
 - 2022-05-10, **Plasma Image Classification Using Cosine Similarity Constrained CNN**, Michael J. Falato et.al., Paper: [http://arxiv.org/abs/2205.04609v1](http://arxiv.org/abs/2205.04609v1)
 - 2022-05-09, **Deep Stochastic Optimization in Finance**, A. Max Reppen et.al., Paper: [http://arxiv.org/abs/2205.04604v1](http://arxiv.org/abs/2205.04604v1)
 - 2022-05-09, **Deep Learning Enabled Semantic Communications with Speech Recognition and Synthesis**, Zhenzi Weng et.al., Paper: [http://arxiv.org/abs/2205.04603v1](http://arxiv.org/abs/2205.04603v1)
 - 2022-05-09, **Long-term stability and generalization of observationally-constrained stochastic data-driven models for geophysical turbulence**, Ashesh Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2205.04601v1](http://arxiv.org/abs/2205.04601v1)
-- 2022-05-09, **Affective Medical Estimation and Decision Making via Visualized Learning and Deep Learning**, Mohammad Eslami et.al., Paper: [http://arxiv.org/abs/2205.04599v1](http://arxiv.org/abs/2205.04599v1)
+- 2022-05-09, **Affective Medical Estimation and Decision Making via Visualized Learning and Deep Learning**, Mohammad Eslami et.al., Paper: [http://arxiv.org/abs/2205.04599v1](http://arxiv.org/abs/2205.04599v1), Code: **[https://github.com/mohaes/vl4ml](https://github.com/mohaes/vl4ml)**
 - 2022-05-09, **Neural Optimal Stopping Boundary**, A. Max Reppen et.al., Paper: [http://arxiv.org/abs/2205.04595v1](http://arxiv.org/abs/2205.04595v1)
 - 2022-05-09, **Towards Optimal VPU Compiler Cost Modeling by using Neural Networks to Infer Hardware Performances**, Ian Frederick Vigogne Goodbody Hunter et.al., Paper: [http://arxiv.org/abs/2205.04586v1](http://arxiv.org/abs/2205.04586v1)
 - 2022-05-09, **Unveiling Nucleon 3D Chiral-Odd Structure with Jet Axes**, Wai Kin Lai et.al., Paper: [http://arxiv.org/abs/2205.04570v1](http://arxiv.org/abs/2205.04570v1)
