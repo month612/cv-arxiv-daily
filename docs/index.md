@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
+|**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Jing Ying Ko et.al.|[2205.04300v1](http://arxiv.org/abs/2205.04300v1)|**[link](https://github.com/wh200720041/mms_slam)**|
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado et.al.|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
@@ -465,6 +467,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
+|**2022-05-12**|**SIBILA: High-performance computing and interpretable machine learning join efforts toward personalised medicine in a novel decision-making tool**|Antonio Jesús Banegas-Luna et.al.|[2205.06234v1](http://arxiv.org/abs/2205.06234v1)|null|
+|**2022-05-12**|**The Mechanism of Prediction Head in Non-contrastive Self-supervised Learning**|Zixin Wen et.al.|[2205.06226v1](http://arxiv.org/abs/2205.06226v1)|null|
+|**2022-05-12**|**Fluorescent wavefront shaping using incoherent iterative phase conjugation**|Dror Aizik et.al.|[2205.06215v1](http://arxiv.org/abs/2205.06215v1)|null|
+|**2022-05-12**|**Image Segmentation with Topological Priors**|Shakir Showkat Sofi et.al.|[2205.06197v1](http://arxiv.org/abs/2205.06197v1)|null|
+|**2022-05-12**|**Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection**|Mingyu Yang et.al.|[2205.06187v1](http://arxiv.org/abs/2205.06187v1)|**[link](https://github.com/mingyuyng/visual-selective-vio)**|
+|**2022-05-12**|**Training Strategies for Own Voice Reconstruction in Hearing Protection Devices using an In-ear Microphone**|Mattes Ohlenbusch et.al.|[2205.06157v1](http://arxiv.org/abs/2205.06157v1)|null|
+|**2022-05-12**|**Smooth-Reduce: Leveraging Patches for Improved Certified Robustness**|Ameya Joshi et.al.|[2205.06154v1](http://arxiv.org/abs/2205.06154v1)|null|
+|**2022-05-12**|**Is the Computation of Abstract Sameness Relations Human-Like in Neural Language Models?**|Lukas Thoma et.al.|[2205.06149v1](http://arxiv.org/abs/2205.06149v1)|null|
+|**2022-05-12**|**Prospects for Higgs boson and new scalar resonant production searches in ttbb final state at the LHC**|Petr Mandrik et.al.|[2205.06134v1](http://arxiv.org/abs/2205.06134v1)|null|
+|**2022-05-12**|**Mask Wearing Status Estimation with Smartwatches**|Huina Meng et.al.|[2205.06113v1](http://arxiv.org/abs/2205.06113v1)|null|
+|**2022-05-12**|**Deep morphological recognition of kidney stones using intra-operative endoscopic digital videos**|Vincent Estrade et.al.|[2205.06093v1](http://arxiv.org/abs/2205.06093v1)|null|
+|**2022-05-12**|**TaDeR: A New Task Dependency Recommendation for Project Management Platform**|Quynh Nguyen et.al.|[2205.05976v1](http://arxiv.org/abs/2205.05976v1)|null|
+|**2022-05-12**|**Emerging Immersive Communication Systems: Overview, Taxonomy, and Good Practises for QoE Assessment**|Pablo Pérez et.al.|[2205.05953v1](http://arxiv.org/abs/2205.05953v1)|null|
+|**2022-05-12**|**Automated Audio Captioning: an Overview of Recent Progress and New Challenges**|Xinhao Mei et.al.|[2205.05949v1](http://arxiv.org/abs/2205.05949v1)|null|
+|**2022-05-12**|**Observing Quantum Synchronization of a Single Trapped-Ion Qubit**|Liyun Zhang et.al.|[2205.05936v1](http://arxiv.org/abs/2205.05936v1)|null|
+|**2022-05-12**|**Virtual twins of nonlinear vibrating multiphysics microstructures: physics-based versus deep learning-based approaches**|Giorgio Gobat et.al.|[2205.05928v1](http://arxiv.org/abs/2205.05928v1)|null|
+|**2022-05-12**|**Bridging the Gap between Reality and Ideality of Entity Matching: A Revisiting and Benchmark Re-Construction**|Tianshu Wang et.al.|[2205.05889v1](http://arxiv.org/abs/2205.05889v1)|null|
+|**2022-05-12**|**Deep Decomposition and Bilinear Pooling Network for Blind Night-Time Image Quality Evaluation**|Qiuping Jiang et.al.|[2205.05880v1](http://arxiv.org/abs/2205.05880v1)|null|
+|**2022-05-12**|**Training Uncertainty-Aware Classifiers with Conformalized Deep Learning**|Bat-Sheva Einbinder et.al.|[2205.05878v1](http://arxiv.org/abs/2205.05878v1)|null|
+|**2022-05-12**|**Hormonal Factors Moderate the Associations Between Vascular Risk Factors and White Matter Hyperintensities**|Abdullah Alqarni et.al.|[2205.05876v1](http://arxiv.org/abs/2205.05876v1)|null|
+|**2022-05-12**|**Distinction Maximization Loss: Efficiently Improving Classification Accuracy, Uncertainty Estimation, and Out-of-Distribution Detection Simply Replacing the Loss and Calibrating**|David Macêdo et.al.|[2205.05874v1](http://arxiv.org/abs/2205.05874v1)|**[link](https://github.com/dlmacedo/distinction-maximization-loss)**|
+|**2022-05-12**|**e-CARE: a New Dataset for Exploring Explainable Causal Reasoning**|Li Du et.al.|[2205.05849v1](http://arxiv.org/abs/2205.05849v1)|**[link](https://github.com/waste-wood/e-care)**|
+|**2022-05-12**|**Leveraging Uncertainty for Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images**|Soufiane Belharbi et.al.|[2205.05841v1](http://arxiv.org/abs/2205.05841v1)|**[link](https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty)**|
+|**2022-05-11**|**AI and Theoretical Particle Physics**|Rajan Gupta et.al.|[2205.05803v1](http://arxiv.org/abs/2205.05803v1)|null|
+|**2022-05-11**|**Deep-Learned Generators of Porosity Distributions Produced During Metal Additive Manufacturing**|Francis Ogoke et.al.|[2205.05794v1](http://arxiv.org/abs/2205.05794v1)|null|
+|**2022-05-11**|**Beyond Barren Plateaus: Quantum Variational Algorithms Are Swamped With Traps**|Eric R. Anschuetz et.al.|[2205.05786v1](http://arxiv.org/abs/2205.05786v1)|null|
+|**2022-05-11**|**Real-Time Packet Loss Concealment With Mixed Generative and Predictive Model**|Jean-Marc Valin et.al.|[2205.05785v1](http://arxiv.org/abs/2205.05785v1)|null|
+|**2022-05-11**|**Learning to Guide Multiple Heterogeneous Actors from a Single Human Demonstration via Automatic Curriculum Learning in StarCraft II**|Nicholas Waytowich et.al.|[2205.05784v1](http://arxiv.org/abs/2205.05784v1)|null|
+|**2022-05-11**|**CSI-based Indoor Localization via Attention-Augmented Residual Convolutional Neural Network**|Bowen Zhang et.al.|[2205.05775v1](http://arxiv.org/abs/2205.05775v1)|null|
+|**2022-05-11**|**Probabilistic learning for pulsar classification**|Sambatra Andrianomena et.al.|[2205.05765v1](http://arxiv.org/abs/2205.05765v1)|null|
+|**2022-05-11**|**Deep Learning and Synthetic Media**|Raphaël Millière et.al.|[2205.05764v1](http://arxiv.org/abs/2205.05764v1)|null|
+|**2022-05-11**|**eFedDNN: Ensemble based Federated Deep Neural Networks for Trajectory Mode Inference**|Daniel Opoku Mensah et.al.|[2205.05756v1](http://arxiv.org/abs/2205.05756v1)|null|
+|**2022-05-11**|**DISARM: Detecting the Victims Targeted by Harmful Memes**|Shivam Sharma et.al.|[2205.05738v1](http://arxiv.org/abs/2205.05738v1)|**[link](https://github.com/lcs2-iiitd/disarm)**|
+|**2022-05-11**|**Diverse Video Generation from a Single Video**|Niv Haim et.al.|[2205.05725v1](http://arxiv.org/abs/2205.05725v1)|null|
+|**2022-05-11**|**A time-varying study of Chinese investor sentiment, stock market liquidity and volatility: Based on deep learning BERT model and TVP-VAR model**|Chenrui Zhang et.al.|[2205.05719v1](http://arxiv.org/abs/2205.05719v1)|null|
 |**2022-05-11**|**RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation**|Pingchuan Ma et.al.|[2205.05678v1](http://arxiv.org/abs/2205.05678v1)|null|
 |**2022-05-11**|**Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis**|Wuyang Chen et.al.|[2205.05662v1](http://arxiv.org/abs/2205.05662v1)|**[link](https://github.com/chenwydj/architecture_convergence)**|
 |**2022-05-10**|**Gamma and Vega Hedging Using Deep Distributional Reinforcement Learning**|Jay Cao et.al.|[2205.05614v1](http://arxiv.org/abs/2205.05614v1)|null|
@@ -3249,6 +3287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
 |**2022-04-24**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
