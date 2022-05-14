@@ -1,4 +1,4 @@
-> Updated on 2022.05.13
+> Updated on 2022.05.14
 
 ## SLAM
 
@@ -443,7 +443,7 @@
 - 2022-05-12, **Prospects for Higgs boson and new scalar resonant production searches in ttbb final state at the LHC**, Petr Mandrik et.al., Paper: [http://arxiv.org/abs/2205.06134v1](http://arxiv.org/abs/2205.06134v1)
 - 2022-05-12, **Mask Wearing Status Estimation with Smartwatches**, Huina Meng et.al., Paper: [http://arxiv.org/abs/2205.06113v1](http://arxiv.org/abs/2205.06113v1)
 - 2022-05-12, **Deep morphological recognition of kidney stones using intra-operative endoscopic digital videos**, Vincent Estrade et.al., Paper: [http://arxiv.org/abs/2205.06093v1](http://arxiv.org/abs/2205.06093v1)
-- 2022-05-12, **TaDeR: A New Task Dependency Recommendation for Project Management Platform**, Quynh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.05976v1](http://arxiv.org/abs/2205.05976v1)
+- 2022-05-12, **TaDeR: A New Task Dependency Recommendation for Project Management Platform**, Quynh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.05976v1](http://arxiv.org/abs/2205.05976v1), Code: **[https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform](https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform)**
 - 2022-05-12, **Emerging Immersive Communication Systems: Overview, Taxonomy, and Good Practises for QoE Assessment**, Pablo Pérez et.al., Paper: [http://arxiv.org/abs/2205.05953v1](http://arxiv.org/abs/2205.05953v1)
 - 2022-05-12, **Automated Audio Captioning: an Overview of Recent Progress and New Challenges**, Xinhao Mei et.al., Paper: [http://arxiv.org/abs/2205.05949v1](http://arxiv.org/abs/2205.05949v1)
 - 2022-05-12, **Observing Quantum Synchronization of a Single Trapped-Ion Qubit**, Liyun Zhang et.al., Paper: [http://arxiv.org/abs/2205.05936v1](http://arxiv.org/abs/2205.05936v1)
@@ -457,7 +457,7 @@
 - 2022-05-12, **Leveraging Uncertainty for Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images**, Soufiane Belharbi et.al., Paper: [http://arxiv.org/abs/2205.05841v1](http://arxiv.org/abs/2205.05841v1), Code: **[https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty](https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty)**
 - 2022-05-11, **AI and Theoretical Particle Physics**, Rajan Gupta et.al., Paper: [http://arxiv.org/abs/2205.05803v1](http://arxiv.org/abs/2205.05803v1)
 - 2022-05-11, **Deep-Learned Generators of Porosity Distributions Produced During Metal Additive Manufacturing**, Francis Ogoke et.al., Paper: [http://arxiv.org/abs/2205.05794v1](http://arxiv.org/abs/2205.05794v1)
-- 2022-05-11, **Beyond Barren Plateaus: Quantum Variational Algorithms Are Swamped With Traps**, Eric R. Anschuetz et.al., Paper: [http://arxiv.org/abs/2205.05786v1](http://arxiv.org/abs/2205.05786v1)
+- 2022-05-11, **Beyond Barren Plateaus: Quantum Variational Algorithms Are Swamped With Traps**, Eric R. Anschuetz et.al., Paper: [http://arxiv.org/abs/2205.05786v1](http://arxiv.org/abs/2205.05786v1), Code: **[https://github.com/bkiani/beyond-barren-plateaus](https://github.com/bkiani/beyond-barren-plateaus)**
 - 2022-05-11, **Real-Time Packet Loss Concealment With Mixed Generative and Predictive Model**, Jean-Marc Valin et.al., Paper: [http://arxiv.org/abs/2205.05785v1](http://arxiv.org/abs/2205.05785v1)
 - 2022-05-11, **Learning to Guide Multiple Heterogeneous Actors from a Single Human Demonstration via Automatic Curriculum Learning in StarCraft II**, Nicholas Waytowich et.al., Paper: [http://arxiv.org/abs/2205.05784v1](http://arxiv.org/abs/2205.05784v1)
 - 2022-05-11, **CSI-based Indoor Localization via Attention-Augmented Residual Convolutional Neural Network**, Bowen Zhang et.al., Paper: [http://arxiv.org/abs/2205.05775v1](http://arxiv.org/abs/2205.05775v1)
