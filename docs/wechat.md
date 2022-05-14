@@ -432,7 +432,7 @@
 ## Deep Learning
 
 - 2022-05-12, **Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**, Félix Remigereau et.al., Paper: [http://arxiv.org/abs/2205.06237v1](http://arxiv.org/abs/2205.06237v1)
-- 2022-05-12, **SIBILA: High-performance computing and interpretable machine learning join efforts toward personalised medicine in a novel decision-making tool**, Antonio Jesús Banegas-Luna et.al., Paper: [http://arxiv.org/abs/2205.06234v1](http://arxiv.org/abs/2205.06234v1)
+- 2022-05-12, **SIBILA: High-performance computing and interpretable machine learning join efforts toward personalised medicine in a novel decision-making tool**, Antonio Jesús Banegas-Luna et.al., Paper: [http://arxiv.org/abs/2205.06234v1](http://arxiv.org/abs/2205.06234v1), Code: **[https://github.com/bio-hpc/sibila](https://github.com/bio-hpc/sibila)**
 - 2022-05-12, **The Mechanism of Prediction Head in Non-contrastive Self-supervised Learning**, Zixin Wen et.al., Paper: [http://arxiv.org/abs/2205.06226v1](http://arxiv.org/abs/2205.06226v1)
 - 2022-05-12, **Fluorescent wavefront shaping using incoherent iterative phase conjugation**, Dror Aizik et.al., Paper: [http://arxiv.org/abs/2205.06215v1](http://arxiv.org/abs/2205.06215v1)
 - 2022-05-12, **Image Segmentation with Topological Priors**, Shakir Showkat Sofi et.al., Paper: [http://arxiv.org/abs/2205.06197v1](http://arxiv.org/abs/2205.06197v1)
@@ -441,7 +441,7 @@
 - 2022-05-12, **Smooth-Reduce: Leveraging Patches for Improved Certified Robustness**, Ameya Joshi et.al., Paper: [http://arxiv.org/abs/2205.06154v1](http://arxiv.org/abs/2205.06154v1)
 - 2022-05-12, **Is the Computation of Abstract Sameness Relations Human-Like in Neural Language Models?**, Lukas Thoma et.al., Paper: [http://arxiv.org/abs/2205.06149v1](http://arxiv.org/abs/2205.06149v1)
 - 2022-05-12, **Prospects for Higgs boson and new scalar resonant production searches in ttbb final state at the LHC**, Petr Mandrik et.al., Paper: [http://arxiv.org/abs/2205.06134v1](http://arxiv.org/abs/2205.06134v1)
-- 2022-05-12, **Mask Wearing Status Estimation with Smartwatches**, Huina Meng et.al., Paper: [http://arxiv.org/abs/2205.06113v1](http://arxiv.org/abs/2205.06113v1)
+- 2022-05-12, **Mask Wearing Status Estimation with Smartwatches**, Huina Meng et.al., Paper: [http://arxiv.org/abs/2205.06113v1](http://arxiv.org/abs/2205.06113v1), Code: **[https://github.com/aiotgroup/maskreminder](https://github.com/aiotgroup/maskreminder)**
 - 2022-05-12, **Deep morphological recognition of kidney stones using intra-operative endoscopic digital videos**, Vincent Estrade et.al., Paper: [http://arxiv.org/abs/2205.06093v1](http://arxiv.org/abs/2205.06093v1)
 - 2022-05-12, **TaDeR: A New Task Dependency Recommendation for Project Management Platform**, Quynh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.05976v1](http://arxiv.org/abs/2205.05976v1), Code: **[https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform](https://github.com/thuynguyetquynh/tader-a-new-task-dependency-recommendation-for-project-management-platform)**
 - 2022-05-12, **Emerging Immersive Communication Systems: Overview, Taxonomy, and Good Practises for QoE Assessment**, Pablo Pérez et.al., Paper: [http://arxiv.org/abs/2205.05953v1](http://arxiv.org/abs/2205.05953v1)
@@ -458,7 +458,7 @@
 - 2022-05-11, **AI and Theoretical Particle Physics**, Rajan Gupta et.al., Paper: [http://arxiv.org/abs/2205.05803v1](http://arxiv.org/abs/2205.05803v1)
 - 2022-05-11, **Deep-Learned Generators of Porosity Distributions Produced During Metal Additive Manufacturing**, Francis Ogoke et.al., Paper: [http://arxiv.org/abs/2205.05794v1](http://arxiv.org/abs/2205.05794v1)
 - 2022-05-11, **Beyond Barren Plateaus: Quantum Variational Algorithms Are Swamped With Traps**, Eric R. Anschuetz et.al., Paper: [http://arxiv.org/abs/2205.05786v1](http://arxiv.org/abs/2205.05786v1), Code: **[https://github.com/bkiani/beyond-barren-plateaus](https://github.com/bkiani/beyond-barren-plateaus)**
-- 2022-05-11, **Real-Time Packet Loss Concealment With Mixed Generative and Predictive Model**, Jean-Marc Valin et.al., Paper: [http://arxiv.org/abs/2205.05785v1](http://arxiv.org/abs/2205.05785v1)
+- 2022-05-11, **Real-Time Packet Loss Concealment With Mixed Generative and Predictive Model**, Jean-Marc Valin et.al., Paper: [http://arxiv.org/abs/2205.05785v1](http://arxiv.org/abs/2205.05785v1), Code: **[https://github.com/xiph/lpcnet](https://github.com/xiph/lpcnet)**
 - 2022-05-11, **Learning to Guide Multiple Heterogeneous Actors from a Single Human Demonstration via Automatic Curriculum Learning in StarCraft II**, Nicholas Waytowich et.al., Paper: [http://arxiv.org/abs/2205.05784v1](http://arxiv.org/abs/2205.05784v1)
 - 2022-05-11, **CSI-based Indoor Localization via Attention-Augmented Residual Convolutional Neural Network**, Bowen Zhang et.al., Paper: [http://arxiv.org/abs/2205.05775v1](http://arxiv.org/abs/2205.05775v1)
 - 2022-05-11, **Probabilistic learning for pulsar classification**, Sambatra Andrianomena et.al., Paper: [http://arxiv.org/abs/2205.05765v1](http://arxiv.org/abs/2205.05765v1)
