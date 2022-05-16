@@ -1,4 +1,4 @@
-## Updated on 2022.05.15
+## Updated on 2022.05.16
 
 ## SLAM
 
@@ -188,7 +188,7 @@
 |**2021-07-09**|**Optimal Triangulation Method is Not Really Optimal**|Seyed-Mahdi Nasiri et.al.|[2107.04618v1](http://arxiv.org/abs/2107.04618v1)|null|
 |**2022-04-29**|**Depth-supervised NeRF: Fewer Views and Faster Training for Free**|Kangle Deng et.al.|[2107.02791v2](http://arxiv.org/abs/2107.02791v2)|**[link](https://github.com/dunbar12138/DSNeRF)**|
 |**2021-05-20**|**Snowcover Survey over an Arctic Glacier Forefield: Contribution of Photogrammetry to Identify "Icing" Variability and Processes**|Eric Bernard et.al.|[2106.07436v1](http://arxiv.org/abs/2106.07436v1)|null|
-|**2021-06-07**|**Self-Supervised Structure-from-Motion through Tightly-Coupled Depth and Egomotion Networks**|Brandon Wagstaff et.al.|[2106.04007v1](http://arxiv.org/abs/2106.04007v1)|null|
+|**2022-05-13**|**On the Coupling of Depth and Egomotion Networks for Self-Supervised Structure from Motion**|Brandon Wagstaff et.al.|[2106.04007v2](http://arxiv.org/abs/2106.04007v2)|null|
 |**2021-05-28**|**TransCamP: Graph Transformer for 6-DoF Camera Pose Estimation**|Xinyi Li et.al.|[2105.14065v1](http://arxiv.org/abs/2105.14065v1)|null|
 |**2021-05-27**|**Correlation Filter of 2D Laser Scans For Indoor Environment**|Kirill Krinkin et.al.|[2105.12983v1](http://arxiv.org/abs/2105.12983v1)|**[link](https://github.com/OSLL/slam-constructor)**|
 |**2021-05-24**|**Reconstructing Small 3D Objects in front of a Textured Background**|Petr Hruby et.al.|[2105.11352v1](http://arxiv.org/abs/2105.11352v1)|null|
@@ -478,7 +478,7 @@
 |**2022-05-11**|**eFedDNN: Ensemble based Federated Deep Neural Networks for Trajectory Mode Inference**|Daniel Opoku Mensah et.al.|[2205.05756v1](http://arxiv.org/abs/2205.05756v1)|null|
 |**2022-05-11**|**DISARM: Detecting the Victims Targeted by Harmful Memes**|Shivam Sharma et.al.|[2205.05738v1](http://arxiv.org/abs/2205.05738v1)|**[link](https://github.com/lcs2-iiitd/disarm)**|
 |**2022-05-11**|**Diverse Video Generation from a Single Video**|Niv Haim et.al.|[2205.05725v1](http://arxiv.org/abs/2205.05725v1)|null|
-|**2022-05-11**|**A time-varying study of Chinese investor sentiment, stock market liquidity and volatility: Based on deep learning BERT model and TVP-VAR model**|Chenrui Zhang et.al.|[2205.05719v1](http://arxiv.org/abs/2205.05719v1)|null|
+|**2022-05-13**|**A time-varying study of Chinese investor sentiment, stock market liquidity and volatility: Based on deep learning BERT model and TVP-VAR model**|Chenrui Zhang et.al.|[2205.05719v2](http://arxiv.org/abs/2205.05719v2)|null|
 |**2022-05-11**|**RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation**|Pingchuan Ma et.al.|[2205.05678v1](http://arxiv.org/abs/2205.05678v1)|null|
 |**2022-05-11**|**Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis**|Wuyang Chen et.al.|[2205.05662v1](http://arxiv.org/abs/2205.05662v1)|**[link](https://github.com/chenwydj/architecture_convergence)**|
 |**2022-05-10**|**Gamma and Vega Hedging Using Deep Distributional Reinforcement Learning**|Jay Cao et.al.|[2205.05614v1](http://arxiv.org/abs/2205.05614v1)|null|
@@ -489,7 +489,7 @@
 |**2022-05-11**|**Performance of a deep learning system for detection of referable diabetic retinopathy in real clinical settings**|Verónica Sánchez-Gutiérrez et.al.|[2205.05554v1](http://arxiv.org/abs/2205.05554v1)|null|
 |**2022-05-11**|**CNN-LSTM Based Multimodal MRI and Clinical Data Fusion for Predicting Functional Outcome in Stroke Patients**|Nima Hatami et.al.|[2205.05545v1](http://arxiv.org/abs/2205.05545v1)|null|
 |**2022-05-11**|**Groups and protocluster candidates in the CLAUDS and HSC-SSP joint deep surveys**|Qingyang Li et.al.|[2205.05517v1](http://arxiv.org/abs/2205.05517v1)|null|
-|**2022-05-11**|**Efficient Automated Deep Learning for Time Series Forecasting**|Difan Deng et.al.|[2205.05511v1](http://arxiv.org/abs/2205.05511v1)|null|
+|**2022-05-13**|**Efficient Automated Deep Learning for Time Series Forecasting**|Difan Deng et.al.|[2205.05511v2](http://arxiv.org/abs/2205.05511v2)|null|
 |**2022-05-11**|**Deep Learning and Computer Vision Techniques for Microcirculation Analysis: A Review**|Maged Abdalla Helmy Mohamed Abdou et.al.|[2205.05493v1](http://arxiv.org/abs/2205.05493v1)|null|
 |**2022-05-11**|**DNA data storage, sequencing data-carrying DNA**|Jasmine Quah et.al.|[2205.05488v1](http://arxiv.org/abs/2205.05488v1)|null|
 |**2022-05-11**|**Automatic Tuberculosis and COVID-19 cough classification using deep learning**|Madhurananda Pahar et.al.|[2205.05480v1](http://arxiv.org/abs/2205.05480v1)|null|
