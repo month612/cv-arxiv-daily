@@ -1,4 +1,4 @@
-## Updated on 2022.05.16
+## Updated on 2022.05.17
 
 ## SLAM
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
-|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Jing Ying Ko et.al.|[2205.04300v1](http://arxiv.org/abs/2205.04300v1)|**[link](https://github.com/wh200720041/mms_slam)**|
+|**2022-05-14**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang et.al.|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|**[link](https://github.com/wh200720041/mms_slam)**|
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado et.al.|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim et.al.|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
@@ -42,7 +42,7 @@
 |**2022-03-29**|**Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**|Mingjun Li et.al.|[2203.15439v1](http://arxiv.org/abs/2203.15439v1)|null|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
 |**2022-03-28**|**Are High-Resolution Event Cameras Really Needed?**|Daniel Gehrig et.al.|[2203.14672v1](http://arxiv.org/abs/2203.14672v1)|null|
-|**2022-03-25**|**Spectral Measurement Sparsification for Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2203.13897v1](http://arxiv.org/abs/2203.13897v1)|null|
+|**2022-03-25**|**Spectral Measurement Sparsification for Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2203.13897v1](http://arxiv.org/abs/2203.13897v1)|**[link](https://github.com/MarineRoboticsGroup/mac)**|
 |**2022-03-25**|**FD-SLAM: 3-D Reconstruction Using Features and Dense Matching**|Xingrui Yang et.al.|[2203.13861v1](http://arxiv.org/abs/2203.13861v1)|null|
 |**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
 |**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|**[link](https://github.com/digiamm/md_slam)**|
@@ -451,7 +451,7 @@
 |**2022-05-13**|**DRBM-ClustNet: A Deep Restricted Boltzmann-Kohonen Architecture for Data Clustering**|J. Senthilnath et.al.|[2205.06697v1](http://arxiv.org/abs/2205.06697v1)|null|
 |**2022-05-13**|**A Unified Framework for Implicit Sinkhorn Differentiation**|Marvin Eisenberger et.al.|[2205.06688v1](http://arxiv.org/abs/2205.06688v1)|**[link](https://github.com/marvin-eisenberger/implicit-sinkhorn)**|
 |**2022-05-13**|**The Effectiveness of Temporal Dependency in Deepfake Video Detection**|Will Rowan et.al.|[2205.06684v1](http://arxiv.org/abs/2205.06684v1)|null|
-|**2022-05-13**|**FLAD: Adaptive Federated Learning for DDoS Attack Detection**|Roberto Doriguzzi-Corin et.al.|[2205.06661v1](http://arxiv.org/abs/2205.06661v1)|**[link](https://github.com/doriguzzi/flad-federated-learning-ddos)**|
+|**2022-05-16**|**FLAD: Adaptive Federated Learning for DDoS Attack Detection**|Roberto Doriguzzi-Corin et.al.|[2205.06661v2](http://arxiv.org/abs/2205.06661v2)|**[link](https://github.com/doriguzzi/flad-federated-learning-ddos)**|
 |**2022-05-13**|**Blind Image Inpainting with Sparse Directional Filter Dictionaries for Lightweight CNNs**|Jenny Schmalfuss et.al.|[2205.06597v1](http://arxiv.org/abs/2205.06597v1)|null|
 |**2022-05-13**|**Convergence Analysis of Deep Residual Networks**|Wentao Huang et.al.|[2205.06571v1](http://arxiv.org/abs/2205.06571v1)|null|
 |**2022-05-13**|**Convergence of Deep Neural Networks with General Activation Functions and Pooling**|Wentao Huang et.al.|[2205.06570v1](http://arxiv.org/abs/2205.06570v1)|null|
@@ -483,8 +483,8 @@
 |**2022-05-12**|**Brought to Light III: Colors of Disk and Clump Substructures in Dwarf Early-Type Galaxies of the Fornax Cluster**|Josefina Michea et.al.|[2205.06281v1](http://arxiv.org/abs/2205.06281v1)|null|
 |**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
 |**2022-05-12**|**SIBILA: High-performance computing and interpretable machine learning join efforts toward personalised medicine in a novel decision-making tool**|Antonio Jesús Banegas-Luna et.al.|[2205.06234v1](http://arxiv.org/abs/2205.06234v1)|**[link](https://github.com/bio-hpc/sibila)**|
-|**2022-05-12**|**The Mechanism of Prediction Head in Non-contrastive Self-supervised Learning**|Zixin Wen et.al.|[2205.06226v1](http://arxiv.org/abs/2205.06226v1)|null|
-|**2022-05-12**|**Fluorescent wavefront shaping using incoherent iterative phase conjugation**|Dror Aizik et.al.|[2205.06215v1](http://arxiv.org/abs/2205.06215v1)|null|
+|**2022-05-14**|**The Mechanism of Prediction Head in Non-contrastive Self-supervised Learning**|Zixin Wen et.al.|[2205.06226v2](http://arxiv.org/abs/2205.06226v2)|null|
+|**2022-05-15**|**Fluorescent wavefront shaping using incoherent iterative phase conjugation**|Dror Aizik et.al.|[2205.06215v2](http://arxiv.org/abs/2205.06215v2)|null|
 |**2022-05-12**|**Image Segmentation with Topological Priors**|Shakir Showkat Sofi et.al.|[2205.06197v1](http://arxiv.org/abs/2205.06197v1)|null|
 |**2022-05-12**|**Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection**|Mingyu Yang et.al.|[2205.06187v1](http://arxiv.org/abs/2205.06187v1)|**[link](https://github.com/mingyuyng/visual-selective-vio)**|
 |**2022-05-12**|**Training Strategies for Own Voice Reconstruction in Hearing Protection Devices using an In-ear Microphone**|Mattes Ohlenbusch et.al.|[2205.06157v1](http://arxiv.org/abs/2205.06157v1)|null|
@@ -3376,7 +3376,7 @@
 |---|---|---|---|---|
 |**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
 |**2022-05-10**|**Accelerating the Training of Video Super-Resolution**|Lijian Lin et.al.|[2205.05069v1](http://arxiv.org/abs/2205.05069v1)|null|
-|**2022-05-10**|**The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**|Makoto Miyoshi et.al.|[2205.04623v1](http://arxiv.org/abs/2205.04623v1)|null|
+|**2022-05-14**|**The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**|Makoto Miyoshi et.al.|[2205.04623v2](http://arxiv.org/abs/2205.04623v2)|null|
 |**2022-05-06**|**Simulating high-time resolution radio-telescope observations**|Rui Luo et.al.|[2205.03046v1](http://arxiv.org/abs/2205.03046v1)|**[link](https://bitbucket.csiro.au/scm/psrsoft/simulatesearch.git)**|
 |**2022-04-28**|**CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers**|Ming Ding et.al.|[2204.14217v1](http://arxiv.org/abs/2204.14217v1)|**[link](https://github.com/thudm/cogview2)**|
 |**2022-04-29**|**Preoperative brain tumor imaging: models and software for segmentation and standardized reporting**|D. Bouget et.al.|[2204.14199v1](http://arxiv.org/abs/2204.14199v1)|**[link](https://github.com/dbouget/Raidionics)**|
