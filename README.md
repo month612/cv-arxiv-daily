@@ -1,4 +1,4 @@
-## Updated on 2022.05.17
+## Updated on 2022.05.18
 
 ## SLAM
 
@@ -449,7 +449,7 @@
 |**2022-05-16**|**Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization**|Luke Melas-Kyriazi et.al.|[2205.07839v1](http://arxiv.org/abs/2205.07839v1)|null|
 |**2022-05-16**|**Physics-informed machine learning techniques for edge plasma turbulence modelling in computational theory and experiment**|Abhilash Mathews et.al.|[2205.07838v1](http://arxiv.org/abs/2205.07838v1)|null|
 |**2022-05-16**|**Heat Source Layout Optimization Using Automatic Deep Learning Surrogate Model and Multimodal Neighborhood Search Algorithm**|Jialiang Sun et.al.|[2205.07812v1](http://arxiv.org/abs/2205.07812v1)|null|
-|**2022-05-16**|**The Primacy Bias in Deep Reinforcement Learning**|Evgenii Nikishin et.al.|[2205.07802v1](http://arxiv.org/abs/2205.07802v1)|null|
+|**2022-05-16**|**The Primacy Bias in Deep Reinforcement Learning**|Evgenii Nikishin et.al.|[2205.07802v1](http://arxiv.org/abs/2205.07802v1)|**[link](https://github.com/evgenii-nikishin/rl_with_resets)**|
 |**2022-05-16**|**Referring Expressions with Rational Speech Act Framework: A Probabilistic Approach**|Hieu Le et.al.|[2205.07795v1](http://arxiv.org/abs/2205.07795v1)|null|
 |**2022-05-16**|**Prompt emission analysis of luminous GRB 210619B observed with {\it Fermi} and ASIM: a transition between thermal to non-thermal outflow?**|M. D. Caballero-García et.al.|[2205.07790v1](http://arxiv.org/abs/2205.07790v1)|null|
 |**2022-05-16**|**Gradient-based Counterfactual Explanations using Tractable Probabilistic Models**|Xiaoting Shao et.al.|[2205.07774v1](http://arxiv.org/abs/2205.07774v1)|null|
@@ -492,7 +492,7 @@
 |**2022-05-15**|**What is an equivariant neural network?**|Lek-Heng Lim et.al.|[2205.07362v1](http://arxiv.org/abs/2205.07362v1)|null|
 |**2022-05-15**|**LIRE: Learned Invertible Reconstruction for Cone Beam CT**|Nikita Moriakov et.al.|[2205.07358v1](http://arxiv.org/abs/2205.07358v1)|null|
 |**2022-05-15**|**Mack-Net model: Blending Mack's model with Recurrent Neural Networks**|Eduardo Ramos-Pérez et.al.|[2205.07334v1](http://arxiv.org/abs/2205.07334v1)|null|
-|**2022-05-15**|**Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent**|Yiping Lu et.al.|[2205.07331v1](http://arxiv.org/abs/2205.07331v1)|null|
+|**2022-05-17**|**Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent**|Yiping Lu et.al.|[2205.07331v2](http://arxiv.org/abs/2205.07331v2)|null|
 |**2022-05-15**|**Attack vs Benign Network Intrusion Traffic Classification**|M. Andrecut et.al.|[2205.07323v1](http://arxiv.org/abs/2205.07323v1)|null|
 |**2022-05-13**|**The ACM Multimedia 2022 Computational Paralinguistics Challenge: Vocalisations, Stuttering, Activity, & Mosquitoes**|Björn W. Schuller et.al.|[2205.06799v1](http://arxiv.org/abs/2205.06799v1)|null|
 |**2022-05-13**|**Embodied-Symbolic Contrastive Graph Self-Supervised Learning for Molecular Graphs**|Daniel T. Chang et.al.|[2205.06783v1](http://arxiv.org/abs/2205.06783v1)|null|
@@ -3364,7 +3364,7 @@
 |**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
 |**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
 |**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li et.al.|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
-|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
+|**2022-05-17**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v2](http://arxiv.org/abs/2203.01578v2)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
@@ -3426,8 +3426,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
-|**2022-05-10**|**Accelerating the Training of Video Super-Resolution**|Lijian Lin et.al.|[2205.05069v1](http://arxiv.org/abs/2205.05069v1)|null|
-|**2022-05-14**|**The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**|Makoto Miyoshi et.al.|[2205.04623v2](http://arxiv.org/abs/2205.04623v2)|null|
+|**2022-05-17**|**Accelerating the Training of Video Super-Resolution Models**|Lijian Lin et.al.|[2205.05069v2](http://arxiv.org/abs/2205.05069v2)|null|
+|**2022-05-17**|**The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**|Makoto Miyoshi et.al.|[2205.04623v3](http://arxiv.org/abs/2205.04623v3)|null|
 |**2022-05-06**|**Simulating high-time resolution radio-telescope observations**|Rui Luo et.al.|[2205.03046v1](http://arxiv.org/abs/2205.03046v1)|**[link](https://bitbucket.csiro.au/scm/psrsoft/simulatesearch.git)**|
 |**2022-04-28**|**CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers**|Ming Ding et.al.|[2204.14217v1](http://arxiv.org/abs/2204.14217v1)|**[link](https://github.com/thudm/cogview2)**|
 |**2022-04-29**|**Preoperative brain tumor imaging: models and software for segmentation and standardized reporting**|D. Bouget et.al.|[2204.14199v1](http://arxiv.org/abs/2204.14199v1)|**[link](https://github.com/dbouget/Raidionics)**|
