@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk et.al.|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
 |**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang et.al.|[2205.08151v1](http://arxiv.org/abs/2205.08151v1)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
@@ -236,6 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-17**|**Text Detection & Recognition in the Wild for Robot Localization**|Zobeir Raisi et.al.|[2205.08565v1](http://arxiv.org/abs/2205.08565v1)|null|
 |**2022-05-11**|**Review on Panoramic Imaging and Its Applications in Scene Understanding**|Shaohua Gao et.al.|[2205.05570v1](http://arxiv.org/abs/2205.05570v1)|null|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa et.al.|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
 |**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas et.al.|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
@@ -470,6 +472,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-18**|**Single-Shot Optical Neural Network**|Liane Bernstein et.al.|[2205.09103v1](http://arxiv.org/abs/2205.09103v1)|null|
+|**2022-05-18**|**Global Contrast Masked Autoencoders Are Powerful Pathological Representation Learners**|Hao Quan et.al.|[2205.09048v1](http://arxiv.org/abs/2205.09048v1)|**[link](https://github.com/staruniversus/gcmae)**|
+|**2022-05-18**|**Empirical Advocacy of Bio-inspired Models for Robust Image Recognition**|Harshitha Machiraju et.al.|[2205.09037v1](http://arxiv.org/abs/2205.09037v1)|**[link](https://github.com/code-assasin/biir)**|
+|**2022-05-18**|**A weakly supervised framework for high-resolution crop yield forecasts**|Dilli R. Paudel et.al.|[2205.09016v1](http://arxiv.org/abs/2205.09016v1)|null|
+|**2022-05-18**|**Trading Positional Complexity vs. Deepness in Coordinate Networks**|Jianqiao Zheng et.al.|[2205.08987v1](http://arxiv.org/abs/2205.08987v1)|null|
+|**2022-05-18**|**Deep Multi-Frame MVDR Filtering for Binaural Noise Reduction**|Marvin Tammen et.al.|[2205.08983v1](http://arxiv.org/abs/2205.08983v1)|null|
+|**2022-05-18**|**Meta-Learning Sparse Compression Networks**|Jonathan Richard Schwarz et.al.|[2205.08957v1](http://arxiv.org/abs/2205.08957v1)|null|
+|**2022-05-18**|**Deep Features for CBIR with Scarce Data using Hebbian Learning**|Gabriele Lagani et.al.|[2205.08935v1](http://arxiv.org/abs/2205.08935v1)|null|
+|**2022-05-18**|**COVID-Net UV: An End-to-End Spatio-Temporal Deep Neural Network Architecture for Automated Diagnosis of COVID-19 Infection from Ultrasound Videos**|Hilda Azimi et.al.|[2205.08932v1](http://arxiv.org/abs/2205.08932v1)|null|
+|**2022-05-18**|**Generating Explanations from Deep Reinforcement Learning Using Episodic Memory**|Sam Blakeman et.al.|[2205.08926v1](http://arxiv.org/abs/2205.08926v1)|null|
+|**2022-05-18**|**Remote Sensing Novel View Synthesis with Implicit Multiplane Representations**|Yongchang Wu et.al.|[2205.08908v1](http://arxiv.org/abs/2205.08908v1)|**[link](https://github.com/wyc-chang/immpi)**|
+|**2022-05-18**|**FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting**|Tian Zhou et.al.|[2205.08897v1](http://arxiv.org/abs/2205.08897v1)|null|
+|**2022-05-18**|**3D Segmentation Guided Style-based Generative Adversarial Networks for PET Synthesis**|Yang Zhou et.al.|[2205.08887v1](http://arxiv.org/abs/2205.08887v1)|null|
+|**2022-05-18**|**Transformer based multiple instance learning for weakly supervised histopathology image segmentation**|Ziniu Qian et.al.|[2205.08878v1](http://arxiv.org/abs/2205.08878v1)|null|
+|**2022-05-18**|**A matrix-inverse-free implementation of the MU-MIMO WMMSE beamforming algorithm**|Lissy Pellaco et.al.|[2205.08877v1](http://arxiv.org/abs/2205.08877v1)|null|
+|**2022-05-18**|**Bridging the gap between QP-based and MPC-based RL**|Shambhuraj Sawant et.al.|[2205.08856v1](http://arxiv.org/abs/2205.08856v1)|null|
+|**2022-05-18**|**GPoeT-2: A GPT-2 Based Poem Generator**|Kai-Ling Lo et.al.|[2205.08847v1](http://arxiv.org/abs/2205.08847v1)|**[link](https://github.com/coderalo/11785-automatic-poetry-generation)**|
+|**2022-05-18**|**Regex in a Time of Deep Learning: The Role of an Old Technology in Age Discrimination Detection in Job Advertisements**|Anna Pillar et.al.|[2205.08813v1](http://arxiv.org/abs/2205.08813v1)|null|
+|**2022-05-18**|**Deep Reinforcement Learning Based on Location-Aware Imitation Environment for RIS-Aided mmWave MIMO Systems**|Wangyang Xu et.al.|[2205.08788v1](http://arxiv.org/abs/2205.08788v1)|null|
+|**2022-05-18**|**Cross-subject Action Unit Detection with Meta Learning and Transformer-based Relation Modeling**|Jiyuan Cao et.al.|[2205.08787v1](http://arxiv.org/abs/2205.08787v1)|null|
+|**2022-05-18**|**Marginal and Joint Cross-Entropies & Predictives for Online Bayesian Inference, Active Learning, and Active Sampling**|Andreas Kirsch et.al.|[2205.08766v1](http://arxiv.org/abs/2205.08766v1)|null|
+|**2022-05-18**|**Revisiting PINNs: Generative Adversarial Physics-informed Neural Networks and Point-weighting Method**|Wensheng Li et.al.|[2205.08754v1](http://arxiv.org/abs/2205.08754v1)|null|
+|**2022-05-18**|**Passive Defense Against 3D Adversarial Point Clouds Through the Lens of 3D Steganalysis**|Jiahao Zhu et.al.|[2205.08738v1](http://arxiv.org/abs/2205.08738v1)|null|
+|**2022-05-18**|**Deep-learned orthogonal basis patterns for fast, noise-robust single-pixel imaging**|Ritz Ann Aguilar et.al.|[2205.08736v1](http://arxiv.org/abs/2205.08736v1)|null|
+|**2022-05-18**|**TTAPS: Test-Time Adaption by Aligning Prototypes using Self-Supervision**|Alexander Bartler et.al.|[2205.08731v1](http://arxiv.org/abs/2205.08731v1)|**[link](https://github.com/alexanderbartler/ttaps)**|
+|**2022-05-18**|**CARNet: A Dynamic Autoencoder for Learning Latent Dynamics in Autonomous Driving Tasks**|Andrey Pak et.al.|[2205.08712v1](http://arxiv.org/abs/2205.08712v1)|null|
+|**2022-05-18**|**Hyperparameter Optimization with Neural Network Pruning**|Kangil Lee et.al.|[2205.08695v1](http://arxiv.org/abs/2205.08695v1)|null|
+|**2022-05-18**|**Deep learning on rail profiles matching**|Kunqi Wang et.al.|[2205.08687v1](http://arxiv.org/abs/2205.08687v1)|**[link](https://github.com/kunqi1994/deep-learning-on-rail-profile-matching)**|
+|**2022-05-18**|**Policy Distillation with Selective Input Gradient Regularization for Efficient Interpretability**|Jinwei Xing et.al.|[2205.08685v1](http://arxiv.org/abs/2205.08685v1)|null|
+|**2022-05-18**|**U-Former: Improving Monaural Speech Enhancement with Multi-head Self and Cross Attention**|Xinmeng Xu et.al.|[2205.08681v1](http://arxiv.org/abs/2205.08681v1)|null|
+|**2022-05-18**|**K-textures, a self supervised hard clustering deep learning algorithm for satellite images segmentation**|Fabien H. Wagner et.al.|[2205.08671v1](http://arxiv.org/abs/2205.08671v1)|null|
+|**2022-05-18**|**Learning Monocular Depth Estimation via Selective Distillation of Stereo Knowledge**|Kyeongseob Song et.al.|[2205.08668v1](http://arxiv.org/abs/2205.08668v1)|null|
+|**2022-05-17**|**Physics-Informed Machine Learning for Modeling Turbulence in Supernovae**|Platon I. Karpov et.al.|[2205.08663v1](http://arxiv.org/abs/2205.08663v1)|null|
+|**2022-05-17**|**Comparison of Deep Space Navigation Using Optical Imaging, Pulsar Time-of-Arrival Tracking, and/or Radiometric Tracking**|Todd Ely et.al.|[2205.08652v1](http://arxiv.org/abs/2205.08652v1)|null|
+|**2022-05-17**|**Quasiparticle self-consistent $GW$ band structures and phase transitions of LiAlO$_2$ in tetrahedrally and octahedrally coordinated structures**|Phillip Popp et.al.|[2205.08638v1](http://arxiv.org/abs/2205.08638v1)|null|
+|**2022-05-17**|**Solving optimal control of rigid-body dynamics with collisions using the hybrid minimum principle**|Wei Hu et.al.|[2205.08622v1](http://arxiv.org/abs/2205.08622v1)|null|
+|**2022-05-17**|**Multibit Tries Packet Classification with Deep Reinforcement Learning**|Hasibul Jamil et.al.|[2205.08606v1](http://arxiv.org/abs/2205.08606v1)|null|
+|**2022-05-17**|**Universal characteristics of deep neural network loss surfaces from random matrix theory**|Nicholas P Baskerville et.al.|[2205.08601v1](http://arxiv.org/abs/2205.08601v1)|null|
+|**2022-05-17**|**RARITYNet: Rarity Guided Affective Emotion Learning Framework**|Monu Verma et.al.|[2205.08595v1](http://arxiv.org/abs/2205.08595v1)|null|
+|**2022-05-17**|**Deep Neural Network Classifier for Multi-dimensional Functional Data**|Shuoyang Wang et.al.|[2205.08592v1](http://arxiv.org/abs/2205.08592v1)|**[link](https://github.com/fdastatauburn/fdnn-classification)**|
+|**2022-05-17**|**Quantum Transfer Learning for Wi-Fi Sensing**|Toshiaki Koike-Akino et.al.|[2205.08590v1](http://arxiv.org/abs/2205.08590v1)|null|
+|**2022-05-17**|**Hierarchical Distribution-Aware Testing of Deep Learning**|Wei Huang et.al.|[2205.08589v1](http://arxiv.org/abs/2205.08589v1)|**[link](https://github.com/havelhuang/hda-testing)**|
+|**2022-05-17**|**Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging**|Rui Yan et.al.|[2205.08576v1](http://arxiv.org/abs/2205.08576v1)|**[link](https://github.com/rui-yan/ssl-fl)**|
+|**2022-05-17**|**CLEAR: The Evolution of Spatially Resolved Star Formation in Galaxies between $0.5\lesssim z \lesssim1.7$ using H$α$ Emission Line Maps**|Jasleen Matharu et.al.|[2205.08543v1](http://arxiv.org/abs/2205.08543v1)|null|
 |**2022-05-17**|**Grunsky operator, Grinshpan's conjecture and universal Teichmuller space**|Samuel L. Krushkal et.al.|[2205.08519v1](http://arxiv.org/abs/2205.08519v1)|null|
 |**2022-05-17**|**Experimentally realized in situ backpropagation for deep learning in nanophotonic neural networks**|Sunil Pai et.al.|[2205.08501v1](http://arxiv.org/abs/2205.08501v1)|null|
 |**2022-05-17**|**A dialog on the fate of information in black hole evaporation**|Alejandro Perez et.al.|[2205.08469v1](http://arxiv.org/abs/2205.08469v1)|null|
