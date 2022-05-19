@@ -1,4 +1,4 @@
-> Updated on 2022.05.18
+> Updated on 2022.05.19
 
 ## SLAM
 
@@ -439,13 +439,13 @@
 - 2022-05-17, **A dialog on the fate of information in black hole evaporation**, Alejandro Perez et.al., Paper: [http://arxiv.org/abs/2205.08469v1](http://arxiv.org/abs/2205.08469v1)
 - 2022-05-17, **Privacy Preserving Machine Learning for Electric Vehicles: A Survey**, Abdul Rahman Sani et.al., Paper: [http://arxiv.org/abs/2205.08462v1](http://arxiv.org/abs/2205.08462v1)
 - 2022-05-17, **Nonlinear Waveform Inversion for Quantitative Ultrasound**, Avner Shultzman et.al., Paper: [http://arxiv.org/abs/2205.08461v1](http://arxiv.org/abs/2205.08461v1)
-- 2022-05-17, **Utterance Weighted Multi-Dilation Temporal Convolutional Networks for Monaural Speech Dereverberation**, William Ravenscroft et.al., Paper: [http://arxiv.org/abs/2205.08455v1](http://arxiv.org/abs/2205.08455v1)
+- 2022-05-17, **Utterance Weighted Multi-Dilation Temporal Convolutional Networks for Monaural Speech Dereverberation**, William Ravenscroft et.al., Paper: [http://arxiv.org/abs/2205.08455v1](http://arxiv.org/abs/2205.08455v1), Code: **[https://github.com/jwr1995/wd-tcn](https://github.com/jwr1995/wd-tcn)**
 - 2022-05-17, **Towards Resilient Access Equality for 6G Serverless p-LEO Satellite Networks**, Lin Shih-Chun et.al., Paper: [http://arxiv.org/abs/2205.08430v1](http://arxiv.org/abs/2205.08430v1)
 - 2022-05-17, **Depth resolved pencil beam radiography using AI -- a proof of principle study**, Ida Häggström et.al., Paper: [http://arxiv.org/abs/2205.08394v1](http://arxiv.org/abs/2205.08394v1)
 - 2022-05-17, **Deep learning density functionals for gradient descent optimization**, Emanuele Costa et.al., Paper: [http://arxiv.org/abs/2205.08367v1](http://arxiv.org/abs/2205.08367v1)
 - 2022-05-17, **A Deep-learning Model for Fast Prediction of Vacancy Formation in Diverse Materials**, Kamal Choudhary et.al., Paper: [http://arxiv.org/abs/2205.08366v1](http://arxiv.org/abs/2205.08366v1)
 - 2022-05-17, **Perturbation of Deep Autoencoder Weights for Model Compression and Classification of Tabular Data**, Manar Samad et.al., Paper: [http://arxiv.org/abs/2205.08358v1](http://arxiv.org/abs/2205.08358v1)
-- 2022-05-17, **Moving Stuff Around: A study on efficiency of moving documents into memory for Neural IR models**, Arthur Câmara et.al., Paper: [http://arxiv.org/abs/2205.08343v1](http://arxiv.org/abs/2205.08343v1)
+- 2022-05-17, **Moving Stuff Around: A study on efficiency of moving documents into memory for Neural IR models**, Arthur Câmara et.al., Paper: [http://arxiv.org/abs/2205.08343v1](http://arxiv.org/abs/2205.08343v1), Code: **[https://github.com/arthurcamara/ir_efficiency](https://github.com/arthurcamara/ir_efficiency)**
 - 2022-05-17, **Machine-learned control-oriented flow estimation for multiactuator multi-sensor systems exemplified for the fluidic pinball**, Songqi Li et.al., Paper: [http://arxiv.org/abs/2205.08334v1](http://arxiv.org/abs/2205.08334v1)
 - 2022-05-17, **Providing Location Information at Edge Networks: A Federated Learning-Based Approach**, Xin Cheng et.al., Paper: [http://arxiv.org/abs/2205.08292v1](http://arxiv.org/abs/2205.08292v1)
 - 2022-05-17, **Measuring Alignment Bias in Neural Seq2Seq Semantic Parsers**, Davide Locatelli et.al., Paper: [http://arxiv.org/abs/2205.08288v1](http://arxiv.org/abs/2205.08288v1)
