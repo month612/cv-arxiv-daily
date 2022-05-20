@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.05.19
+## Updated on 2022.05.20
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk et.al.|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
-|**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang et.al.|[2205.08151v1](http://arxiv.org/abs/2205.08151v1)|null|
+|**2022-05-19**|**Cluster on Wheels**|Yuanyuan Yang et.al.|[2205.08151v2](http://arxiv.org/abs/2205.08151v2)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-14**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang et.al.|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|**[link](https://github.com/wh200720041/mms_slam)**|
@@ -237,7 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-17**|**Text Detection & Recognition in the Wild for Robot Localization**|Zobeir Raisi et.al.|[2205.08565v1](http://arxiv.org/abs/2205.08565v1)|null|
+|**2022-05-19**|**Text Detection & Recognition in the Wild for Robot Localization**|Zobeir Raisi et.al.|[2205.08565v2](http://arxiv.org/abs/2205.08565v2)|null|
 |**2022-05-11**|**Review on Panoramic Imaging and Its Applications in Scene Understanding**|Shaohua Gao et.al.|[2205.05570v1](http://arxiv.org/abs/2205.05570v1)|null|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa et.al.|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
 |**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas et.al.|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
@@ -3541,7 +3541,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
 |**2022-05-17**|**Accelerating the Training of Video Super-Resolution Models**|Lijian Lin et.al.|[2205.05069v2](http://arxiv.org/abs/2205.05069v2)|null|
-|**2022-05-17**|**The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**|Makoto Miyoshi et.al.|[2205.04623v3](http://arxiv.org/abs/2205.04623v3)|null|
+|**2022-05-19**|**The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**|Makoto Miyoshi et.al.|[2205.04623v4](http://arxiv.org/abs/2205.04623v4)|null|
 |**2022-05-06**|**Simulating high-time resolution radio-telescope observations**|Rui Luo et.al.|[2205.03046v1](http://arxiv.org/abs/2205.03046v1)|**[link](https://bitbucket.csiro.au/scm/psrsoft/simulatesearch.git)**|
 |**2022-04-28**|**CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers**|Ming Ding et.al.|[2204.14217v1](http://arxiv.org/abs/2204.14217v1)|**[link](https://github.com/thudm/cogview2)**|
 |**2022-04-29**|**Preoperative brain tumor imaging: models and software for segmentation and standardized reporting**|D. Bouget et.al.|[2204.14199v1](http://arxiv.org/abs/2204.14199v1)|**[link](https://github.com/dbouget/Raidionics)**|
@@ -3555,7 +3555,7 @@ layout: default
 |**2022-04-12**|**Nth power root topological phases in Hermitian and non-Hermitian systems**|Wenyuan Deng et.al.|[2204.05714v1](http://arxiv.org/abs/2204.05714v1)|null|
 |**2022-04-08**|**On-Policy Pixel-Level Grasping Across the Gap Between Simulation and Reality**|Dexin Wang et.al.|[2204.03874v1](http://arxiv.org/abs/2204.03874v1)|null|
 |**2022-04-07**|**Evaluating Procedures for Establishing Generative Adversarial Network-based Stochastic Image Models in Medical Imaging**|Varun A. Kelkar et.al.|[2204.03547v1](http://arxiv.org/abs/2204.03547v1)|null|
-|**2022-04-06**|**Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**|Yuxin Fang et.al.|[2204.02964v1](http://arxiv.org/abs/2204.02964v1)|**[link](https://github.com/hustvl/mimdet)**|
+|**2022-05-19**|**Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**|Yuxin Fang et.al.|[2204.02964v2](http://arxiv.org/abs/2204.02964v2)|**[link](https://github.com/hustvl/mimdet)**|
 |**2022-03-31**|**Self-distillation Augmented Masked Autoencoders for Histopathological Image Classification**|Yang Luo et.al.|[2203.16983v1](http://arxiv.org/abs/2203.16983v1)|null|
 |**2022-04-04**|**Recent improvements of ASR models in the face of adversarial attacks**|Raphael Olivier et.al.|[2203.16536v2](http://arxiv.org/abs/2203.16536v2)|**[link](https://github.com/raphaelolivier/robust_speech)**|
 |**2022-03-29**|**Few-shot Structured Radiology Report Generation Using Natural Language Prompts**|Matthias Keicher et.al.|[2203.15723v1](http://arxiv.org/abs/2203.15723v1)|null|
