@@ -436,6 +436,56 @@
 
 ## Deep Learning
 
+- 2022-05-19, **Understanding Gradient Descent on Edge of Stability in Deep Learning**, Sanjeev Arora et.al., Paper: [http://arxiv.org/abs/2205.09745v1](http://arxiv.org/abs/2205.09745v1)
+- 2022-05-19, **AIGenC: AI generalisation via creativity**, Corina Catarau-Cotutiu et.al., Paper: [http://arxiv.org/abs/2205.09738v1](http://arxiv.org/abs/2205.09738v1)
+- 2022-05-19, **k-strip: A novel segmentation algorithm in k-space for the application of skull stripping**, Moritz Rempe et.al., Paper: [http://arxiv.org/abs/2205.09706v1](http://arxiv.org/abs/2205.09706v1)
+- 2022-05-19, **Distributed Multi-Agent Deep Reinforcement Learning for Robust Coordination against Noise**, Yoshinari Motokawa et.al., Paper: [http://arxiv.org/abs/2205.09705v1](http://arxiv.org/abs/2205.09705v1)
+- 2022-05-19, **Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis**, Maciej Besta et.al., Paper: [http://arxiv.org/abs/2205.09702v1](http://arxiv.org/abs/2205.09702v1)
+- 2022-05-19, **Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2205.09683v1](http://arxiv.org/abs/2205.09683v1)
+- 2022-05-19, **Semi-Supervised Learning for Image Classification using Compact Networks in the BioMedical Context**, Adrián Inés et.al., Paper: [http://arxiv.org/abs/2205.09678v1](http://arxiv.org/abs/2205.09678v1)
+- 2022-05-19, **A graph-transformer for whole slide image classification**, Yi Zheng et.al., Paper: [http://arxiv.org/abs/2205.09671v1](http://arxiv.org/abs/2205.09671v1), Code: **[https://github.com/vkola-lab/tmi2022](https://github.com/vkola-lab/tmi2022)**
+- 2022-05-19, **The AI Mechanic: Acoustic Vehicle Characterization Neural Networks**, Adam M. Terwilliger et.al., Paper: [http://arxiv.org/abs/2205.09667v1](http://arxiv.org/abs/2205.09667v1)
+- 2022-05-19, **Image-Based Conditioning for Action Policy Smoothness in Autonomous Miniature Car Racing with Reinforcement Learning**, Bo-Jiun Hsu et.al., Paper: [http://arxiv.org/abs/2205.09658v1](http://arxiv.org/abs/2205.09658v1)
+- 2022-05-19, **Self-Consistent Dynamical Field Theory of Kernel Evolution in Wide Neural Networks**, Blake Bordelon et.al., Paper: [http://arxiv.org/abs/2205.09653v1](http://arxiv.org/abs/2205.09653v1)
+- 2022-05-19, **Deep Generative Survival Analysis: Nonparametric Estimation of Conditional Survival Function**, Xingyu Zhou et.al., Paper: [http://arxiv.org/abs/2205.09633v1](http://arxiv.org/abs/2205.09633v1)
+- 2022-05-19, **A Topological Approach for Semi-Supervised Learning**, Adrián Inés et.al., Paper: [http://arxiv.org/abs/2205.09617v1](http://arxiv.org/abs/2205.09617v1), Code: **[https://github.com/adines/ttassl](https://github.com/adines/ttassl)**
+- 2022-05-19, **Robust Deep Neural Network Estimation for Multi-dimensional Functional Data**, Shuoyang Wang et.al., Paper: [http://arxiv.org/abs/2205.09604v1](http://arxiv.org/abs/2205.09604v1), Code: **[https://github.com/fdastatauburn/rdnn](https://github.com/fdastatauburn/rdnn)**
+- 2022-05-19, **CORPS: Cost-free Rigorous Pseudo-labeling based on Similarity-ranking for Brain MRI Segmentation**, Can Taylan Sari et.al., Paper: [http://arxiv.org/abs/2205.09601v1](http://arxiv.org/abs/2205.09601v1)
+- 2022-05-19, **A Comparative Study of Feature Expansion Unit for 3D Point Cloud Upsampling**, Qiang Li et.al., Paper: [http://arxiv.org/abs/2205.09594v1](http://arxiv.org/abs/2205.09594v1)
+- 2022-05-19, **Transferable Physical Attack against Object Detection with Separable Attention**, Yu Zhang et.al., Paper: [http://arxiv.org/abs/2205.09592v1](http://arxiv.org/abs/2205.09592v1)
+- 2022-05-19, **Combining Deep Learning and Adaptive Sparse Modeling for Low-dose CT Reconstruction**, Ling Chen et.al., Paper: [http://arxiv.org/abs/2205.09587v1](http://arxiv.org/abs/2205.09587v1)
+- 2022-05-19, **On Trace of PGD-Like Adversarial Attacks**, Mo Zhou et.al., Paper: [http://arxiv.org/abs/2205.09586v1](http://arxiv.org/abs/2205.09586v1)
+- 2022-05-19, **Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention**, Yiheng Liu et.al., Paper: [http://arxiv.org/abs/2205.09576v1](http://arxiv.org/abs/2205.09576v1), Code: **[https://github.com/WhatAboutMyStar/SCAAE](https://github.com/WhatAboutMyStar/SCAAE)**
+- 2022-05-19, **Online Optimization of Dynamical Systems with Deep Learning Perception**, Liliaokeawawa Cothren et.al., Paper: [http://arxiv.org/abs/2205.09574v1](http://arxiv.org/abs/2205.09574v1)
+- 2022-05-19, **Data Valuation for Offline Reinforcement Learning**, Amir Abolfazli et.al., Paper: [http://arxiv.org/abs/2205.09550v1](http://arxiv.org/abs/2205.09550v1)
+- 2022-05-19, **Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2205.09542v1](http://arxiv.org/abs/2205.09542v1), Code: **[https://github.com/zyxelsa/cast_pytorch](https://github.com/zyxelsa/cast_pytorch)**
+- 2022-05-19, **Data-driven prediction of Air Traffic Controllers reactions to resolving conflicts**, Alevizos Bastas et.al., Paper: [http://arxiv.org/abs/2205.09539v1](http://arxiv.org/abs/2205.09539v1)
+- 2022-05-19, **Estimating the ultrasound attenuation coefficient using convolutional neural networks -- a feasibility study**, Piotr Jarosik et.al., Paper: [http://arxiv.org/abs/2205.09533v1](http://arxiv.org/abs/2205.09533v1)
+- 2022-05-19, **Defending Against Adversarial Attacks by Energy Storage Facility**, Jiawei Li et.al., Paper: [http://arxiv.org/abs/2205.09522v1](http://arxiv.org/abs/2205.09522v1)
+- 2022-05-19, **Enhancing the Transferability of Adversarial Examples via a Few Queries**, Xiangyuan Yang et.al., Paper: [http://arxiv.org/abs/2205.09518v1](http://arxiv.org/abs/2205.09518v1)
+- 2022-05-19, **Static Output Feedback Synthesis of Time-Delay Linear Systems via Deep Unfolding**, Masaki Ogura et.al., Paper: [http://arxiv.org/abs/2205.09499v1](http://arxiv.org/abs/2205.09499v1)
+- 2022-05-19, **Spatial Autoregressive Coding for Graph Neural Recommendation**, Jiayi Zheng et.al., Paper: [http://arxiv.org/abs/2205.09489v1](http://arxiv.org/abs/2205.09489v1)
+- 2022-05-19, **Neural ODEs with Irregular and Noisy Data**, Pawan Goyal et.al., Paper: [http://arxiv.org/abs/2205.09479v1](http://arxiv.org/abs/2205.09479v1)
+- 2022-05-19, **Nebula-I: A General Framework for Collaboratively Training Deep Learning Models on Low-Bandwidth Cloud Clusters**, Yang Xiang et.al., Paper: [http://arxiv.org/abs/2205.09470v1](http://arxiv.org/abs/2205.09470v1)
+- 2022-05-19, **Enhancing VVC with Deep Learning based Multi-Frame Post-Processing**, Duolikun Danier et.al., Paper: [http://arxiv.org/abs/2205.09458v1](http://arxiv.org/abs/2205.09458v1)
+- 2022-05-19, **Learning-based AC-OPF Solvers on Realistic Network and Realistic Loads**, Tsun Ho Aaron Cheung et.al., Paper: [http://arxiv.org/abs/2205.09452v1](http://arxiv.org/abs/2205.09452v1)
+- 2022-05-19, **Bounce universe with finite-time singularity**, Sergei D. Odintsov et.al., Paper: [http://arxiv.org/abs/2205.09447v1](http://arxiv.org/abs/2205.09447v1)
+- 2022-05-19, **Gold-standard solutions to the Schrödinger equation using deep learning: How much physics do we need?**, Leon Gerard et.al., Paper: [http://arxiv.org/abs/2205.09438v1](http://arxiv.org/abs/2205.09438v1)
+- 2022-05-19, **Smooth densities and generative modeling with unsupervised random forests**, David S. Watson et.al., Paper: [http://arxiv.org/abs/2205.09435v1](http://arxiv.org/abs/2205.09435v1), Code: **[https://github.com/bips-hb/generative_rf](https://github.com/bips-hb/generative_rf)**
+- 2022-05-19, **NIR spectroscopic survey of protostellar jets in the star forming region IC 1396N**, Fabrizio Massi et.al., Paper: [http://arxiv.org/abs/2205.09425v1](http://arxiv.org/abs/2205.09425v1)
+- 2022-05-19, **Multicast Scheduling for Multi-Message over Multi-Channel: A Permutation-based Wolpertinger Deep Reinforcement Learning Method**, Ran Li et.al., Paper: [http://arxiv.org/abs/2205.09420v1](http://arxiv.org/abs/2205.09420v1)
+- 2022-05-19, **UIF: An Objective Quality Assessment for Underwater Image Enhancement**, Yannan Zheng et.al., Paper: [http://arxiv.org/abs/2205.09392v1](http://arxiv.org/abs/2205.09392v1)
+- 2022-05-19, **Multi-DNN Accelerators for Next-Generation AI Systems**, Stylianos I. Venieris et.al., Paper: [http://arxiv.org/abs/2205.09376v1](http://arxiv.org/abs/2205.09376v1)
+- 2022-05-19, **Plane Geometry Diagram Parsing**, Ming-Liang Zhang et.al., Paper: [http://arxiv.org/abs/2205.09363v1](http://arxiv.org/abs/2205.09363v1), Code: **[https://github.com/mingliangzhang2018/PGDP](https://github.com/mingliangzhang2018/PGDP)**
+- 2022-05-19, **Cosmological Constraints on the Global Star Formation Law of Galaxies: Insights From Baryon Acoustic Oscillation Intensity Mapping**, Guochao Sun et.al., Paper: [http://arxiv.org/abs/2205.09354v1](http://arxiv.org/abs/2205.09354v1)
+- 2022-05-19, **Physically-Based Editing of Indoor Scene Lighting from a Single Image**, Zhengqin Li et.al., Paper: [http://arxiv.org/abs/2205.09343v1](http://arxiv.org/abs/2205.09343v1)
+- 2022-05-19, **Deep Learning in Business Analytics: A Clash of Expectations and Reality**, Marc Andreas Schmitt et.al., Paper: [http://arxiv.org/abs/2205.09337v1](http://arxiv.org/abs/2205.09337v1)
+- 2022-05-19, **New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH + CH_4**, Xiongfei Gui et.al., Paper: [http://arxiv.org/abs/2205.09331v1](http://arxiv.org/abs/2205.09331v1)
+- 2022-05-19, **Dataset Pruning: Reducing Training Data by Examining Generalization Influence**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2205.09329v1](http://arxiv.org/abs/2205.09329v1)
+- 2022-05-19, **Routing and Placement of Macros using Deep Reinforcement Learning**, Mrinal Mathur et.al., Paper: [http://arxiv.org/abs/2205.09289v1](http://arxiv.org/abs/2205.09289v1)
+- 2022-05-19, **IL-flOw: Imitation Learning from Observation using Normalizing Flows**, Wei-Di Chang et.al., Paper: [http://arxiv.org/abs/2205.09251v1](http://arxiv.org/abs/2205.09251v1)
+- 2022-05-19, **Bayesian Convolutional Neural Networks for Limited Data Hyperspectral Remote Sensing Image Classification**, Mohammad Joshaghani et.al., Paper: [http://arxiv.org/abs/2205.09250v1](http://arxiv.org/abs/2205.09250v1)
+- 2022-05-18, **Readle: A Formal Framework for Designing AI-based Edge Systems**, Aftab Hussain et.al., Paper: [http://arxiv.org/abs/2205.09239v1](http://arxiv.org/abs/2205.09239v1)
 - 2022-05-18, **Single-Shot Optical Neural Network**, Liane Bernstein et.al., Paper: [http://arxiv.org/abs/2205.09103v1](http://arxiv.org/abs/2205.09103v1)
 - 2022-05-18, **Global Contrast Masked Autoencoders Are Powerful Pathological Representation Learners**, Hao Quan et.al., Paper: [http://arxiv.org/abs/2205.09048v1](http://arxiv.org/abs/2205.09048v1), Code: **[https://github.com/staruniversus/gcmae](https://github.com/staruniversus/gcmae)**
 - 2022-05-18, **Empirical Advocacy of Bio-inspired Models for Robust Image Recognition**, Harshitha Machiraju et.al., Paper: [http://arxiv.org/abs/2205.09037v1](http://arxiv.org/abs/2205.09037v1), Code: **[https://github.com/code-assasin/biir](https://github.com/code-assasin/biir)**
@@ -3499,6 +3549,7 @@
 
 ## non-photorealistic rendering
 
+- 2022-05-19, **Masked Image Modeling with Denoising Contrast**, Kun Yi et.al., Paper: [http://arxiv.org/abs/2205.09616v1](http://arxiv.org/abs/2205.09616v1)
 - 2022-05-11, **An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**, Gokul Karthik Kumar et.al., Paper: [http://arxiv.org/abs/2205.05543v1](http://arxiv.org/abs/2205.05543v1), Code: **[https://github.com/gokulkarthik/deformable-detr](https://github.com/gokulkarthik/deformable-detr)**
 - 2022-05-17, **Accelerating the Training of Video Super-Resolution Models**, Lijian Lin et.al., Paper: [http://arxiv.org/abs/2205.05069v2](http://arxiv.org/abs/2205.05069v2)
 - 2022-05-19, **The jet and resolved features of the central supermassive black hole of M 87 observed with EHT**, Makoto Miyoshi et.al., Paper: [http://arxiv.org/abs/2205.04623v4](http://arxiv.org/abs/2205.04623v4)
