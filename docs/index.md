@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.22
+## Updated on 2022.05.23
 
 ## SLAM
 
@@ -476,7 +476,7 @@ layout: default
 |**2022-05-19**|**AIGenC: AI generalisation via creativity**|Corina Catarau-Cotutiu et.al.|[2205.09738v1](http://arxiv.org/abs/2205.09738v1)|null|
 |**2022-05-19**|**k-strip: A novel segmentation algorithm in k-space for the application of skull stripping**|Moritz Rempe et.al.|[2205.09706v1](http://arxiv.org/abs/2205.09706v1)|null|
 |**2022-05-19**|**Distributed Multi-Agent Deep Reinforcement Learning for Robust Coordination against Noise**|Yoshinari Motokawa et.al.|[2205.09705v1](http://arxiv.org/abs/2205.09705v1)|null|
-|**2022-05-19**|**Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis**|Maciej Besta et.al.|[2205.09702v1](http://arxiv.org/abs/2205.09702v1)|null|
+|**2022-05-20**|**Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis**|Maciej Besta et.al.|[2205.09702v2](http://arxiv.org/abs/2205.09702v2)|null|
 |**2022-05-19**|**Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks**|Qiang Wang et.al.|[2205.09683v1](http://arxiv.org/abs/2205.09683v1)|null|
 |**2022-05-19**|**Semi-Supervised Learning for Image Classification using Compact Networks in the BioMedical Context**|Adrián Inés et.al.|[2205.09678v1](http://arxiv.org/abs/2205.09678v1)|null|
 |**2022-05-19**|**A graph-transformer for whole slide image classification**|Yi Zheng et.al.|[2205.09671v1](http://arxiv.org/abs/2205.09671v1)|**[link](https://github.com/vkola-lab/tmi2022)**|
@@ -494,7 +494,7 @@ layout: default
 |**2022-05-19**|**Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention**|Yiheng Liu et.al.|[2205.09576v1](http://arxiv.org/abs/2205.09576v1)|**[link](https://github.com/WhatAboutMyStar/SCAAE)**|
 |**2022-05-19**|**Online Optimization of Dynamical Systems with Deep Learning Perception**|Liliaokeawawa Cothren et.al.|[2205.09574v1](http://arxiv.org/abs/2205.09574v1)|null|
 |**2022-05-19**|**Data Valuation for Offline Reinforcement Learning**|Amir Abolfazli et.al.|[2205.09550v1](http://arxiv.org/abs/2205.09550v1)|null|
-|**2022-05-19**|**Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning**|Yuxin Zhang et.al.|[2205.09542v1](http://arxiv.org/abs/2205.09542v1)|**[link](https://github.com/zyxelsa/cast_pytorch)**|
+|**2022-05-20**|**Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning**|Yuxin Zhang et.al.|[2205.09542v2](http://arxiv.org/abs/2205.09542v2)|**[link](https://github.com/zyxelsa/cast_pytorch)**|
 |**2022-05-19**|**Data-driven prediction of Air Traffic Controllers reactions to resolving conflicts**|Alevizos Bastas et.al.|[2205.09539v1](http://arxiv.org/abs/2205.09539v1)|null|
 |**2022-05-19**|**Estimating the ultrasound attenuation coefficient using convolutional neural networks -- a feasibility study**|Piotr Jarosik et.al.|[2205.09533v1](http://arxiv.org/abs/2205.09533v1)|null|
 |**2022-05-19**|**Defending Against Adversarial Attacks by Energy Storage Facility**|Jiawei Li et.al.|[2205.09522v1](http://arxiv.org/abs/2205.09522v1)|null|
