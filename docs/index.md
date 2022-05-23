@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-19**|**FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**|Jeffrey Ichnowski et.al.|[2205.09778v1](http://arxiv.org/abs/2205.09778v1)|**[link](https://github.com/BerkeleyAutomation/FogROS2)**|
 |**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk et.al.|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
 |**2022-05-19**|**Cluster on Wheels**|Yuanyuan Yang et.al.|[2205.08151v2](http://arxiv.org/abs/2205.08151v2)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
@@ -472,6 +473,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-20**|**Diverse super-resolution with pretrained deep hiererarchical VAEs**|Jean Prost et.al.|[2205.10347v1](http://arxiv.org/abs/2205.10347v1)|null|
+|**2022-05-20**|**Towards Understanding Grokking: An Effective Theory of Representation Learning**|Ziming Liu et.al.|[2205.10343v1](http://arxiv.org/abs/2205.10343v1)|null|
+|**2022-05-20**|**Efficient visual object representation using a biologically plausible spike-latency code and winner-take-all inhibition**|Melani Sanchez-Garcia et.al.|[2205.10338v1](http://arxiv.org/abs/2205.10338v1)|null|
+|**2022-05-20**|**UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation**|Jiashuo Fan et.al.|[2205.10334v1](http://arxiv.org/abs/2205.10334v1)|null|
+|**2022-05-20**|**Nothing makes sense in deep learning, except in the light of evolution**|Artem Kaznatcheev et.al.|[2205.10320v1](http://arxiv.org/abs/2205.10320v1)|null|
+|**2022-05-20**|**Low-cost Relevance Generation and Evaluation Metrics for Entity Resolution in AI**|Venkat Varada et.al.|[2205.10298v1](http://arxiv.org/abs/2205.10298v1)|null|
+|**2022-05-20**|**On the SDEs and Scaling Rules for Adaptive Gradient Algorithms**|Sadhika Malladi et.al.|[2205.10287v1](http://arxiv.org/abs/2205.10287v1)|null|
+|**2022-05-20**|**Pre-Train Your Loss: Easy Bayesian Transfer Learning with Informative Priors**|Ravid Shwartz-Ziv et.al.|[2205.10279v1](http://arxiv.org/abs/2205.10279v1)|**[link](https://github.com/hsouri/bayesiantransferlearning)**|
+|**2022-05-20**|**Self-supervised deep learning MRI reconstruction with Noisier2Noise**|Charles Millard et.al.|[2205.10278v1](http://arxiv.org/abs/2205.10278v1)|null|
+|**2022-05-20**|**Global temperature projections from a statistical energy balance model using multiple sources of historical data**|Mikkel Bennedsen et.al.|[2205.10269v1](http://arxiv.org/abs/2205.10269v1)|null|
+|**2022-05-20**|**B-cos Networks: Alignment is All We Need for Interpretability**|Moritz Böhle et.al.|[2205.10268v1](http://arxiv.org/abs/2205.10268v1)|**[link](https://github.com/moboehle/b-cos)**|
+|**2022-05-20**|**Analysis of Co-Laughter Gesture Relationship on RGB videos in Dyadic Conversation Contex**|Hugo Bohy et.al.|[2205.10266v1](http://arxiv.org/abs/2205.10266v1)|null|
+|**2022-05-20**|**Accelerating Chemical Exchange Saturation Transfer Imaging Using a Model-based Deep Neural Network**|Jianping Xu et.al.|[2205.10265v1](http://arxiv.org/abs/2205.10265v1)|null|
+|**2022-05-20**|**DEMAND: Deep Matrix Approximately NonlinearDecomposition to Identify Meta, Canonical, and Sub-Spatial Pattern of functional Magnetic Resonance Imaging in the Human Brain**|Wei Zhang et.al.|[2205.10264v1](http://arxiv.org/abs/2205.10264v1)|null|
+|**2022-05-20**|**A Demographic Attribute Guided Approach to Age Estimation**|Zhicheng Cao et.al.|[2205.10254v1](http://arxiv.org/abs/2205.10254v1)|null|
+|**2022-05-20**|**SADAM: Stochastic Adam, A Stochastic Operator for First-Order Gradient-based Optimizer**|Wei Zhang et.al.|[2205.10247v1](http://arxiv.org/abs/2205.10247v1)|null|
+|**2022-05-20**|**Exploring the Trade-off between Plausibility, Change Intensity and Adversarial Power in Counterfactual Explanations using Multi-objective Optimization**|Javier Del Ser et.al.|[2205.10232v1](http://arxiv.org/abs/2205.10232v1)|null|
+|**2022-05-20**|**Memorization and Optimization in Deep Neural Networks with Minimum Over-parameterization**|Simone Bombari et.al.|[2205.10217v1](http://arxiv.org/abs/2205.10217v1)|null|
+|**2022-05-20**|**Test-time Batch Normalization**|Tao Yang et.al.|[2205.10210v1](http://arxiv.org/abs/2205.10210v1)|null|
+|**2022-05-20**|**Adversarial Body Shape Search for Legged Robots**|Takaaki Azakami et.al.|[2205.10187v1](http://arxiv.org/abs/2205.10187v1)|null|
+|**2022-05-20**|**Towards the Generation of Synthetic Images of Palm Vein Patterns: A Review**|Edwin H. Salazar-Jurado et.al.|[2205.10179v1](http://arxiv.org/abs/2205.10179v1)|null|
+|**2022-05-20**|**Task Relabelling for Multi-task Transfer using Successor Features**|Martin Balla et.al.|[2205.10175v1](http://arxiv.org/abs/2205.10175v1)|**[link](https://github.com/martinballa/sf-tr)**|
+|**2022-05-20**|**Reconstruction of the Solar Activity from the Catalogs of the Zurich Observatory**|Egor Illarionov et.al.|[2205.10167v1](http://arxiv.org/abs/2205.10167v1)|null|
+|**2022-05-20**|**Swapping Semantic Contents for Mixing Images**|Rémy Sun et.al.|[2205.10158v1](http://arxiv.org/abs/2205.10158v1)|null|
+|**2022-05-20**|**The developmental trajectory of object recognition robustness: children are like small adults but unlike big deep neural networks**|Lukas S. Huber et.al.|[2205.10144v1](http://arxiv.org/abs/2205.10144v1)|**[link](https://github.com/wichmann-lab/robustness-development)**|
+|**2022-05-20**|**Degradation-Aware Unfolding Half-Shuffle Transformer for Spectral Compressive Imaging**|Yuanhao Cai et.al.|[2205.10102v1](http://arxiv.org/abs/2205.10102v1)|null|
+|**2022-05-20**|**Adversarial joint attacks on legged robots**|Takuto Otomo et.al.|[2205.10098v1](http://arxiv.org/abs/2205.10098v1)|null|
+|**2022-05-20**|**How to keep text private? A systematic review of deep learning methods for privacy-preserving natural language processing**|Samuel Sousa et.al.|[2205.10095v1](http://arxiv.org/abs/2205.10095v1)|null|
+|**2022-05-20**|**An efficient Deep Spatio-Temporal Context Aware decision Network (DST-CAN) for Predictive Manoeuvre Planning**|Jayabrata Chowdhury et.al.|[2205.10092v1](http://arxiv.org/abs/2205.10092v1)|null|
+|**2022-05-20**|**Kernel Normalized Convolutional Networks**|Reza Nasirigerdeh et.al.|[2205.10089v1](http://arxiv.org/abs/2205.10089v1)|null|
+|**2022-05-20**|**People Tracking and Re-Identifying in Distributed Contexts: Extension of PoseTReID**|Ratha Siv et.al.|[2205.10086v1](http://arxiv.org/abs/2205.10086v1)|**[link](https://github.com/rathaumons/pyppbox)**|
+|**2022-05-20**|**On Calibration of Ensemble-Based Credal Predictors**|Thomas Mortier et.al.|[2205.10082v1](http://arxiv.org/abs/2205.10082v1)|null|
+|**2022-05-20**|**The Unreasonable Effectiveness of Deep Evidential Regression**|Nis Meinert et.al.|[2205.10060v1](http://arxiv.org/abs/2205.10060v1)|**[link](https://github.com/pasteurlabs/unreasonable_effective_der)**|
+|**2022-05-20**|**ExMo: Explainable AI Model using Inverse Frequency Decision Rules**|Pradip Mainali et.al.|[2205.10045v1](http://arxiv.org/abs/2205.10045v1)|null|
+|**2022-05-20**|**ALPINE: Analog In-Memory Acceleration with Tight Processor Integration for Deep Learning**|Joshua Klein et.al.|[2205.10042v1](http://arxiv.org/abs/2205.10042v1)|null|
+|**2022-05-20**|**Deep Learning-based Inertial Odometry for Pedestrian Tracking using Attention Mechanism and Res2Net Module**|Boxuan Chen et.al.|[2205.10031v1](http://arxiv.org/abs/2205.10031v1)|null|
+|**2022-05-20**|**Neural Additive Models for Nowcasting**|Wonkeun Jo et.al.|[2205.10020v1](http://arxiv.org/abs/2205.10020v1)|null|
+|**2022-05-20**|**NMA: Neural Multi-slot Auctions with Externalities for Online Advertising**|Guogang Liao et.al.|[2205.10018v1](http://arxiv.org/abs/2205.10018v1)|null|
+|**2022-05-20**|**A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection**|Bingzhe Wu et.al.|[2205.10014v1](http://arxiv.org/abs/2205.10014v1)|null|
+|**2022-05-20**|**InDistill: Transferring Knowledge From Pruned Intermediate Layers**|Ioannis Sarridis et.al.|[2205.10003v1](http://arxiv.org/abs/2205.10003v1)|**[link](https://github.com/gsarridis/indistill)**|
+|**2022-05-20**|**Unexpected dipole instabilities in small molecules after ultrafast XUV irradiation**|Paul-Gerhard Reinhard et.al.|[2205.09997v1](http://arxiv.org/abs/2205.09997v1)|null|
+|**2022-05-20**|**Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning**|Yuzhong Chen et.al.|[2205.09995v1](http://arxiv.org/abs/2205.09995v1)|null|
+|**2022-05-20**|**Model Predictive Manipulation of Compliant Objects with Multi-Objective Optimizer and Adversarial Network for Occlusion Compensation**|Jiaming Qi et.al.|[2205.09987v1](http://arxiv.org/abs/2205.09987v1)|null|
+|**2022-05-20**|**Clustering as Attention: Unified Image Segmentation with Hierarchical Clustering**|Teppei Suzuki et.al.|[2205.09949v1](http://arxiv.org/abs/2205.09949v1)|**[link](https://github.com/densoitlab/hcformer)**|
+|**2022-05-20**|**Long Run Incremental Cost (LRIC) Distribution Network Pricing in UK, advising China's Distribution Network**|Asad Mujeeb et.al.|[2205.09946v1](http://arxiv.org/abs/2205.09946v1)|null|
+|**2022-05-20**|**Explainable Supervised Domain Adaptation**|Vidhya Kamakshi et.al.|[2205.09943v1](http://arxiv.org/abs/2205.09943v1)|null|
+|**2022-05-20**|**Low-complexity full-field ultrafast nonlinear dynamics prediction by a convolutional feature separation modeling method**|Hang Yang et.al.|[2205.09939v1](http://arxiv.org/abs/2205.09939v1)|null|
+|**2022-05-20**|**On Jointly Optimizing Partial Offloading and SFC Mapping: A Cooperative Dual-agent Deep Reinforcement Learning Approach**|Xinhan Wang et.al.|[2205.09925v1](http://arxiv.org/abs/2205.09925v1)|null|
+|**2022-05-20**|**Modulation and Classification of Mixed Signals Based on Deep Learning**|Jiahao Xu et.al.|[2205.09916v1](http://arxiv.org/abs/2205.09916v1)|null|
+|**2022-05-20**|**Deep transfer learning for image classification: a survey**|Jo Plested et.al.|[2205.09904v1](http://arxiv.org/abs/2205.09904v1)|null|
 |**2022-05-19**|**Understanding Gradient Descent on Edge of Stability in Deep Learning**|Sanjeev Arora et.al.|[2205.09745v1](http://arxiv.org/abs/2205.09745v1)|null|
 |**2022-05-19**|**AIGenC: AI generalisation via creativity**|Corina Catarau-Cotutiu et.al.|[2205.09738v1](http://arxiv.org/abs/2205.09738v1)|null|
 |**2022-05-19**|**k-strip: A novel segmentation algorithm in k-space for the application of skull stripping**|Moritz Rempe et.al.|[2205.09706v1](http://arxiv.org/abs/2205.09706v1)|null|
