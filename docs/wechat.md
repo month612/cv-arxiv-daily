@@ -1,4 +1,4 @@
-> Updated on 2022.05.23
+> Updated on 2022.05.24
 
 ## SLAM
 
@@ -440,7 +440,7 @@
 - 2022-05-20, **Diverse super-resolution with pretrained deep hiererarchical VAEs**, Jean Prost et.al., Paper: [http://arxiv.org/abs/2205.10347v1](http://arxiv.org/abs/2205.10347v1)
 - 2022-05-20, **Towards Understanding Grokking: An Effective Theory of Representation Learning**, Ziming Liu et.al., Paper: [http://arxiv.org/abs/2205.10343v1](http://arxiv.org/abs/2205.10343v1)
 - 2022-05-20, **Efficient visual object representation using a biologically plausible spike-latency code and winner-take-all inhibition**, Melani Sanchez-Garcia et.al., Paper: [http://arxiv.org/abs/2205.10338v1](http://arxiv.org/abs/2205.10338v1)
-- 2022-05-20, **UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation**, Jiashuo Fan et.al., Paper: [http://arxiv.org/abs/2205.10334v1](http://arxiv.org/abs/2205.10334v1)
+- 2022-05-20, **UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation**, Jiashuo Fan et.al., Paper: [http://arxiv.org/abs/2205.10334v1](http://arxiv.org/abs/2205.10334v1), Code: **[https://github.com/voldemortX/DST-CBC](https://github.com/voldemortX/DST-CBC)**
 - 2022-05-20, **Nothing makes sense in deep learning, except in the light of evolution**, Artem Kaznatcheev et.al., Paper: [http://arxiv.org/abs/2205.10320v1](http://arxiv.org/abs/2205.10320v1)
 - 2022-05-20, **Low-cost Relevance Generation and Evaluation Metrics for Entity Resolution in AI**, Venkat Varada et.al., Paper: [http://arxiv.org/abs/2205.10298v1](http://arxiv.org/abs/2205.10298v1)
 - 2022-05-20, **On the SDEs and Scaling Rules for Adaptive Gradient Algorithms**, Sadhika Malladi et.al., Paper: [http://arxiv.org/abs/2205.10287v1](http://arxiv.org/abs/2205.10287v1)
@@ -453,7 +453,7 @@
 - 2022-05-20, **DEMAND: Deep Matrix Approximately NonlinearDecomposition to Identify Meta, Canonical, and Sub-Spatial Pattern of functional Magnetic Resonance Imaging in the Human Brain**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2205.10264v1](http://arxiv.org/abs/2205.10264v1)
 - 2022-05-20, **A Demographic Attribute Guided Approach to Age Estimation**, Zhicheng Cao et.al., Paper: [http://arxiv.org/abs/2205.10254v1](http://arxiv.org/abs/2205.10254v1)
 - 2022-05-20, **SADAM: Stochastic Adam, A Stochastic Operator for First-Order Gradient-based Optimizer**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2205.10247v1](http://arxiv.org/abs/2205.10247v1)
-- 2022-05-20, **Exploring the Trade-off between Plausibility, Change Intensity and Adversarial Power in Counterfactual Explanations using Multi-objective Optimization**, Javier Del Ser et.al., Paper: [http://arxiv.org/abs/2205.10232v1](http://arxiv.org/abs/2205.10232v1)
+- 2022-05-20, **Exploring the Trade-off between Plausibility, Change Intensity and Adversarial Power in Counterfactual Explanations using Multi-objective Optimization**, Javier Del Ser et.al., Paper: [http://arxiv.org/abs/2205.10232v1](http://arxiv.org/abs/2205.10232v1), Code: **[https://github.com/alejandrobarredo/countgen-framework](https://github.com/alejandrobarredo/countgen-framework)**
 - 2022-05-20, **Memorization and Optimization in Deep Neural Networks with Minimum Over-parameterization**, Simone Bombari et.al., Paper: [http://arxiv.org/abs/2205.10217v1](http://arxiv.org/abs/2205.10217v1)
 - 2022-05-20, **Test-time Batch Normalization**, Tao Yang et.al., Paper: [http://arxiv.org/abs/2205.10210v1](http://arxiv.org/abs/2205.10210v1)
 - 2022-05-20, **Adversarial Body Shape Search for Legged Robots**, Takaaki Azakami et.al., Paper: [http://arxiv.org/abs/2205.10187v1](http://arxiv.org/abs/2205.10187v1)
@@ -475,7 +475,7 @@
 - 2022-05-20, **Deep Learning-based Inertial Odometry for Pedestrian Tracking using Attention Mechanism and Res2Net Module**, Boxuan Chen et.al., Paper: [http://arxiv.org/abs/2205.10031v1](http://arxiv.org/abs/2205.10031v1)
 - 2022-05-20, **Neural Additive Models for Nowcasting**, Wonkeun Jo et.al., Paper: [http://arxiv.org/abs/2205.10020v1](http://arxiv.org/abs/2205.10020v1)
 - 2022-05-20, **NMA: Neural Multi-slot Auctions with Externalities for Online Advertising**, Guogang Liao et.al., Paper: [http://arxiv.org/abs/2205.10018v1](http://arxiv.org/abs/2205.10018v1)
-- 2022-05-20, **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection**, Bingzhe Wu et.al., Paper: [http://arxiv.org/abs/2205.10014v1](http://arxiv.org/abs/2205.10014v1)
+- 2022-05-23, **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection**, Bingzhe Wu et.al., Paper: [http://arxiv.org/abs/2205.10014v2](http://arxiv.org/abs/2205.10014v2)
 - 2022-05-20, **InDistill: Transferring Knowledge From Pruned Intermediate Layers**, Ioannis Sarridis et.al., Paper: [http://arxiv.org/abs/2205.10003v1](http://arxiv.org/abs/2205.10003v1), Code: **[https://github.com/gsarridis/indistill](https://github.com/gsarridis/indistill)**
 - 2022-05-20, **Unexpected dipole instabilities in small molecules after ultrafast XUV irradiation**, Paul-Gerhard Reinhard et.al., Paper: [http://arxiv.org/abs/2205.09997v1](http://arxiv.org/abs/2205.09997v1)
 - 2022-05-20, **Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning**, Yuzhong Chen et.al., Paper: [http://arxiv.org/abs/2205.09995v1](http://arxiv.org/abs/2205.09995v1)
@@ -3618,7 +3618,7 @@
 - 2022-04-08, **On-Policy Pixel-Level Grasping Across the Gap Between Simulation and Reality**, Dexin Wang et.al., Paper: [http://arxiv.org/abs/2204.03874v1](http://arxiv.org/abs/2204.03874v1)
 - 2022-04-07, **Evaluating Procedures for Establishing Generative Adversarial Network-based Stochastic Image Models in Medical Imaging**, Varun A. Kelkar et.al., Paper: [http://arxiv.org/abs/2204.03547v1](http://arxiv.org/abs/2204.03547v1)
 - 2022-05-19, **Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2204.02964v2](http://arxiv.org/abs/2204.02964v2), Code: **[https://github.com/hustvl/mimdet](https://github.com/hustvl/mimdet)**
-- 2022-03-31, **Self-distillation Augmented Masked Autoencoders for Histopathological Image Classification**, Yang Luo et.al., Paper: [http://arxiv.org/abs/2203.16983v1](http://arxiv.org/abs/2203.16983v1)
+- 2022-05-21, **Self-distillation Augmented Masked Autoencoders for Histopathological Image Classification**, Yang Luo et.al., Paper: [http://arxiv.org/abs/2203.16983v2](http://arxiv.org/abs/2203.16983v2)
 - 2022-04-04, **Recent improvements of ASR models in the face of adversarial attacks**, Raphael Olivier et.al., Paper: [http://arxiv.org/abs/2203.16536v2](http://arxiv.org/abs/2203.16536v2), Code: **[https://github.com/raphaelolivier/robust_speech](https://github.com/raphaelolivier/robust_speech)**
 - 2022-03-29, **Few-shot Structured Radiology Report Generation Using Natural Language Prompts**, Matthias Keicher et.al., Paper: [http://arxiv.org/abs/2203.15723v1](http://arxiv.org/abs/2203.15723v1)
 - 2022-04-09, **mc-BEiT: Multi-choice Discretization for Image BERT Pre-training**, Xiaotong Li et.al., Paper: [http://arxiv.org/abs/2203.15371v2](http://arxiv.org/abs/2203.15371v2)
