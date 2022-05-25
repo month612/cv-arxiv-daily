@@ -1,4 +1,4 @@
-## Updated on 2022.05.24
+## Updated on 2022.05.25
 
 ## SLAM
 
@@ -303,7 +303,7 @@
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-04-28**|**Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**|Emilio Gomez-Gonzalez et.al.|[2204.14050v1](http://arxiv.org/abs/2204.14050v1)|null|
 |**2022-05-02**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
-|**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
+|**2022-05-24**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v2](http://arxiv.org/abs/2204.12484v2)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-04-26**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
 |**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|null|
 |**2022-04-17**|**The Z-axis, X-axis, Weight and Disambiguation Methods for Constructing Local Reference Frame in 3D Registration: An Evaluation**|Bao Zhao et.al.|[2204.08024v1](http://arxiv.org/abs/2204.08024v1)|null|
@@ -486,7 +486,7 @@
 |**2022-05-23**|**Flow-based Recurrent Belief State Learning for POMDPs**|Xiaoyu Chen et.al.|[2205.11051v1](http://arxiv.org/abs/2205.11051v1)|null|
 |**2022-05-23**|**Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation**|Yunzhi Lin et.al.|[2205.11047v1](http://arxiv.org/abs/2205.11047v1)|null|
 |**2022-05-23**|**Body Composition Estimation Based on Multimodal Multi-task Deep Neural Network**|Subas Chhatkuli et.al.|[2205.11031v1](http://arxiv.org/abs/2205.11031v1)|null|
-|**2022-05-23**|**RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds**|Xiaodong Gu et.al.|[2205.11028v1](http://arxiv.org/abs/2205.11028v1)|null|
+|**2022-05-24**|**RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds**|Xiaodong Gu et.al.|[2205.11028v2](http://arxiv.org/abs/2205.11028v2)|null|
 |**2022-05-23**|**Distance-Sensitive Offline Reinforcement Learning**|Jianxiong Li et.al.|[2205.11027v1](http://arxiv.org/abs/2205.11027v1)|null|
 |**2022-05-23**|**Artificial intelligence for topic modelling in Hindu philosophy: mapping themes between the Upanishads and the Bhagavad Gita**|Rohitash Chandra et.al.|[2205.11020v1](http://arxiv.org/abs/2205.11020v1)|**[link](https://github.com/sydney-machine-learning/topicmodelling_vedictexts)**|
 |**2022-05-23**|**MolMiner: You only look once for chemical structure recognition**|Youjun Xu et.al.|[2205.11016v1](http://arxiv.org/abs/2205.11016v1)|null|
