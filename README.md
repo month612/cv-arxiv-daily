@@ -1,4 +1,4 @@
-## Updated on 2022.05.26
+## Updated on 2022.05.27
 
 ## SLAM
 
@@ -468,8 +468,8 @@
 |**2022-05-25**|**Deep Gradient Learning for Efficient Camouflaged Object Detection**|Ge-Peng Ji et.al.|[2205.12853v1](http://arxiv.org/abs/2205.12853v1)|**[link](https://github.com/gewelsji/dgnet)**|
 |**2022-05-25**|**A Comparative Study of Gastric Histopathology Sub-size Image Classification: from Linear Regression to Visual Transformer**|Weiming Hu et.al.|[2205.12843v1](http://arxiv.org/abs/2205.12843v1)|null|
 |**2022-05-25**|**Mirror Descent Maximizes Generalized Margin and Can Be Implemented Efficiently**|Haoyuan Sun et.al.|[2205.12808v1](http://arxiv.org/abs/2205.12808v1)|null|
-|**2022-05-25**|**Gradient-based explanations for Gaussian Process regression and classification models**|Sarem Seitz et.al.|[2205.12797v1](http://arxiv.org/abs/2205.12797v1)|null|
-|**2022-05-25**|**Impartial Games: A Challenge for Reinforcement Learning**|Bei Zhou et.al.|[2205.12787v1](http://arxiv.org/abs/2205.12787v1)|null|
+|**2022-05-25**|**Gradient-based explanations for Gaussian Process regression and classification models**|Sarem Seitz et.al.|[2205.12797v1](http://arxiv.org/abs/2205.12797v1)|**[link](https://github.com/sarems/explainablegps)**|
+|**2022-05-25**|**Impartial Games: A Challenge for Reinforcement Learning**|Bei Zhou et.al.|[2205.12787v1](http://arxiv.org/abs/2205.12787v1)|**[link](https://github.com/sagebei/impartial-games-a-chanllenge-for-reinforcement-learning)**|
 |**2022-05-25**|**Ultra-compact Binary Neural Networks for Human Activity Recognition on RISC-V Processors**|Francesco Daghero et.al.|[2205.12781v1](http://arxiv.org/abs/2205.12781v1)|**[link](https://github.com/francescodaghero/ultracompactbnn)**|
 |**2022-05-25**|**Residual-Concatenate Neural Network with Deep Regularization Layers for Binary Classification**|Abhishek Gupta et.al.|[2205.12775v1](http://arxiv.org/abs/2205.12775v1)|null|
 |**2022-05-25**|**An Experimental Comparison Between Temporal Difference and Residual Gradient with Neural Network Approximation**|Shuyu Yin et.al.|[2205.12770v1](http://arxiv.org/abs/2205.12770v1)|null|
@@ -478,7 +478,7 @@
 |**2022-05-25**|**High-efficiency, 80-mm aperture metalens telescope**|Lidan Zhang et.al.|[2205.12739v1](http://arxiv.org/abs/2205.12739v1)|null|
 |**2022-05-25**|**Deep interpretable ensembles**|Lucas Kook et.al.|[2205.12729v1](http://arxiv.org/abs/2205.12729v1)|null|
 |**2022-05-25**|**Semantic-preserved Communication System for Highly Efficient Speech Transmission**|Tianxiao Han et.al.|[2205.12727v1](http://arxiv.org/abs/2205.12727v1)|null|
-|**2022-05-25**|**jTrans: Jump-Aware Transformer for Binary Code Similarity**|Hao Wang et.al.|[2205.12713v1](http://arxiv.org/abs/2205.12713v1)|null|
+|**2022-05-25**|**jTrans: Jump-Aware Transformer for Binary Code Similarity**|Hao Wang et.al.|[2205.12713v1](http://arxiv.org/abs/2205.12713v1)|**[link](https://github.com/vul337/jtrans)**|
 |**2022-05-25**|**VeriFi: Towards Verifiable Federated Unlearning**|Xiangshan Gao et.al.|[2205.12709v1](http://arxiv.org/abs/2205.12709v1)|null|
 |**2022-05-25**|**DRLinFluids -- An open-source python platform of coupling Deep Reinforcement Learning and OpenFOAM**|Qiulei Wang et.al.|[2205.12699v1](http://arxiv.org/abs/2205.12699v1)|null|
 |**2022-05-25**|**Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models**|Clara Na et.al.|[2205.12694v1](http://arxiv.org/abs/2205.12694v1)|null|
@@ -493,19 +493,19 @@
 |**2022-05-25**|**Heterogeneous Reservoir Computing Models for Persian Speech Recognition**|Zohreh Ansari et.al.|[2205.12594v1](http://arxiv.org/abs/2205.12594v1)|null|
 |**2022-05-25**|**Less Learn Shortcut: Analyzing and Mitigating Learning of Spurious Feature-Label Correlation**|Yanrui Du et.al.|[2205.12593v1](http://arxiv.org/abs/2205.12593v1)|null|
 |**2022-05-25**|**Deniable Steganography**|Yong Xu et.al.|[2205.12587v1](http://arxiv.org/abs/2205.12587v1)|null|
-|**2022-05-25**|**A Real-World Radio Frequency Signal Dataset Based on LTE System and Variable Channels**|Shupeng Zhang et.al.|[2205.12577v1](http://arxiv.org/abs/2205.12577v1)|null|
+|**2022-05-25**|**A Real-World Radio Frequency Signal Dataset Based on LTE System and Variable Channels**|Shupeng Zhang et.al.|[2205.12577v1](http://arxiv.org/abs/2205.12577v1)|**[link](https://github.com/njuptzsp/xsrpdataset)**|
 |**2022-05-25**|**Deep Dense Local Feature Matching and Vehicle Removal for Indoor Visual Localization**|Kyung Ho Park et.al.|[2205.12544v1](http://arxiv.org/abs/2205.12544v1)|null|
 |**2022-05-25**|**Misleading Deep-Fake Detection with GAN Fingerprints**|Vera Wesselkamp et.al.|[2205.12543v1](http://arxiv.org/abs/2205.12543v1)|**[link](https://github.com/vwesselkamp/deepfake-fingerprint-attacks)**|
 |**2022-05-25**|**Machine-learning-based prediction of parameters of secondaries in hadronic showers using calorimetric observables**|M. Chadeeva et.al.|[2205.12534v1](http://arxiv.org/abs/2205.12534v1)|null|
 |**2022-05-25**|**Structured Uncertainty in the Observation Space of Variational Autoencoders**|James Langley et.al.|[2205.12533v1](http://arxiv.org/abs/2205.12533v1)|null|
-|**2022-05-25**|**LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification**|Dheeraj Mekala et.al.|[2205.12528v1](http://arxiv.org/abs/2205.12528v1)|null|
+|**2022-05-25**|**LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification**|Dheeraj Mekala et.al.|[2205.12528v1](http://arxiv.org/abs/2205.12528v1)|**[link](https://github.com/dheeraj7596/lops)**|
 |**2022-05-25**|**Exact Phase Transitions in Deep Learning**|Liu Ziyin et.al.|[2205.12510v1](http://arxiv.org/abs/2205.12510v1)|null|
 |**2022-05-25**|**An Investigation on Applying Acoustic Feature Conversion to ASR of Adult and Child Speech**|Wei Liu et.al.|[2205.12477v1](http://arxiv.org/abs/2205.12477v1)|null|
 |**2022-05-25**|**Efficient Textured Mesh Recovery from Multiple Views with Differentiable Rendering**|Lixiang Lin et.al.|[2205.12468v1](http://arxiv.org/abs/2205.12468v1)|**[link](https://github.com/l1346792580123/diff)**|
 |**2022-05-25**|**Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning**|Chong Ma et.al.|[2205.12466v1](http://arxiv.org/abs/2205.12466v1)|null|
 |**2022-05-25**|**FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation**|Xuan Kan et.al.|[2205.12465v1](http://arxiv.org/abs/2205.12465v1)|**[link](https://github.com/wayfear/fbnetgen)**|
 |**2022-05-25**|**sat2pc: Estimating Point Cloud of Building Roofs from 2D Satellite Images**|Yoones Rezaei et.al.|[2205.12464v1](http://arxiv.org/abs/2205.12464v1)|null|
-|**2022-05-25**|**Augmentation-induced Consistency Regularization for Classification**|Jianhan Wu et.al.|[2205.12461v1](http://arxiv.org/abs/2205.12461v1)|null|
+|**2022-05-26**|**Augmentation-induced Consistency Regularization for Classification**|Jianhan Wu et.al.|[2205.12461v2](http://arxiv.org/abs/2205.12461v2)|null|
 |**2022-05-24**|**Psychotic Relapse Prediction in Schizophrenia Patients using A Mobile Sensing-based Supervised Deep Learning Model**|Bishal Lamichhane et.al.|[2205.12225v1](http://arxiv.org/abs/2205.12225v1)|null|
 |**2022-05-24**|**GLOBUS: GLObal Building heights for Urban Studies**|Harsh G. Kamath et.al.|[2205.12224v1](http://arxiv.org/abs/2205.12224v1)|null|
 |**2022-05-24**|**Automated WBRT Treatment Planning via Deep Learning Auto-Contouring and Customizable Landmark-Based Field Aperture Design**|Yao Xiao et.al.|[2205.12189v1](http://arxiv.org/abs/2205.12189v1)|null|
