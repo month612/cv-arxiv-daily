@@ -482,7 +482,7 @@
 |**2022-05-26**|**Learning the spatio-temporal relationship between wind and significant wave height using deep learning**|Said Obakrim et.al.|[2205.13325v1](http://arxiv.org/abs/2205.13325v1)|**[link](https://github.com/saidobakrim/two-stage-cnn-lstm-)**|
 |**2022-05-26**|**The Physical Properties of Star-Forming Galaxies with Strong [OIII] Lines at $z=3.25$**|Run Wen et.al.|[2205.13310v1](http://arxiv.org/abs/2205.13310v1)|null|
 |**2022-05-26**|**DeepTechnome: Mitigating Unknown Bias in Deep Learning Based Assessment of CT Images**|Simon Langer et.al.|[2205.13297v1](http://arxiv.org/abs/2205.13297v1)|null|
-|**2022-05-26**|**Social Interpretable Tree for Pedestrian Trajectory Prediction**|Liushuai Shi et.al.|[2205.13296v1](http://arxiv.org/abs/2205.13296v1)|null|
+|**2022-05-26**|**Social Interpretable Tree for Pedestrian Trajectory Prediction**|Liushuai Shi et.al.|[2205.13296v1](http://arxiv.org/abs/2205.13296v1)|**[link](https://github.com/lssiair/sit)**|
 |**2022-05-26**|**Embedding Principle in Depth for the Loss Landscape Analysis of Deep Neural Networks**|Zhiwei Bai et.al.|[2205.13283v1](http://arxiv.org/abs/2205.13283v1)|null|
 |**2022-05-26**|**Objects Matter: Learning Object Relation Graph for Robust Camera Relocalization**|Chengyu Qiao et.al.|[2205.13280v1](http://arxiv.org/abs/2205.13280v1)|null|
 |**2022-05-26**|**Semantic Segmentation for Thermal Images: A Comparative Survey**|Zülfiye Kütük et.al.|[2205.13278v1](http://arxiv.org/abs/2205.13278v1)|null|
