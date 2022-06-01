@@ -1,9 +1,9 @@
-> Updated on 2022.05.31
+> Updated on 2022.06.01
 
 ## SLAM
 
 - 2022-05-27, **A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**, Arno Solin et.al., Paper: [http://arxiv.org/abs/2205.13821v1](http://arxiv.org/abs/2205.13821v1)
-- 2022-05-26, **LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2205.13135v1](http://arxiv.org/abs/2205.13135v1), Code: **[https://github.com/nebula-autonomy/nebula-multirobot-dataset](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**
+- 2022-05-31, **LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2205.13135v2](http://arxiv.org/abs/2205.13135v2), Code: **[https://github.com/nebula-autonomy/nebula-multirobot-dataset](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**
 - 2022-05-25, **Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**, Milad Ramezani et.al., Paper: [http://arxiv.org/abs/2205.12595v1](http://arxiv.org/abs/2205.12595v1)
 - 2022-05-24, **Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM**, Christopher E. Denniston et.al., Paper: [http://arxiv.org/abs/2205.12402v1](http://arxiv.org/abs/2205.12402v1)
 - 2022-05-22, **ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2205.10737v1](http://arxiv.org/abs/2205.10737v1), Code: **[https://github.com/metaslam/alita](https://github.com/metaslam/alita)**
@@ -21,7 +21,7 @@
 - 2022-05-04, **Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation**, Nathaniel Merrill et.al., Paper: [http://arxiv.org/abs/2205.01823v1](http://arxiv.org/abs/2205.01823v1), Code: **[https://github.com/rpng/suo_slam](https://github.com/rpng/suo_slam)**
 - 2022-05-03, **GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping**, Pan Ji et.al., Paper: [http://arxiv.org/abs/2205.01656v1](http://arxiv.org/abs/2205.01656v1)
 - 2022-04-29, **Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**, Jinwoo Jeon et.al., Paper: [http://arxiv.org/abs/2204.13877v1](http://arxiv.org/abs/2204.13877v1), Code: **[https://github.com/url-kaist/Struct-MDC](https://github.com/url-kaist/Struct-MDC)**
-- 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
+- 2022-05-31, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v2](http://arxiv.org/abs/2204.12831v2)
 - 2022-04-27, **Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**, Wenyu Li et.al., Paper: [http://arxiv.org/abs/2204.12769v1](http://arxiv.org/abs/2204.12769v1)
 - 2022-04-29, **MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**, Tingchen Ma et.al., Paper: [http://arxiv.org/abs/2204.11621v2](http://arxiv.org/abs/2204.11621v2)
 - 2022-04-23, **Indoor simultaneous localization and mapping based on fringe projection profilometry**, Yang Zhao et.al., Paper: [http://arxiv.org/abs/2204.11020v1](http://arxiv.org/abs/2204.11020v1)
@@ -214,14 +214,14 @@
 ## Visual Localization
 
 - 2022-05-27, **Improving Road Segmentation in Challenging Domains Using Similar Place Priors**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2205.14112v1](http://arxiv.org/abs/2205.14112v1)
-- 2022-05-26, **LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2205.13135v1](http://arxiv.org/abs/2205.13135v1), Code: **[https://github.com/nebula-autonomy/nebula-multirobot-dataset](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**
+- 2022-05-31, **LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2205.13135v2](http://arxiv.org/abs/2205.13135v2), Code: **[https://github.com/nebula-autonomy/nebula-multirobot-dataset](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**
 - 2022-05-25, **Deep Dense Local Feature Matching and Vehicle Removal for Indoor Visual Localization**, Kyung Ho Park et.al., Paper: [http://arxiv.org/abs/2205.12544v1](http://arxiv.org/abs/2205.12544v1)
 - 2022-05-24, **OnePose: One-Shot Object Pose Estimation without CAD Models**, Jiaming Sun et.al., Paper: [http://arxiv.org/abs/2205.12257v1](http://arxiv.org/abs/2205.12257v1), Code: **[https://github.com/zju3dv/OnePose](https://github.com/zju3dv/OnePose)**
 - 2022-05-23, **VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**, Michael Schleiss et.al., Paper: [http://arxiv.org/abs/2205.11567v1](http://arxiv.org/abs/2205.11567v1)
 - 2022-05-19, **Text Detection & Recognition in the Wild for Robot Localization**, Zobeir Raisi et.al., Paper: [http://arxiv.org/abs/2205.08565v2](http://arxiv.org/abs/2205.08565v2)
 - 2022-05-11, **Review on Panoramic Imaging and Its Applications in Scene Understanding**, Shaohua Gao et.al., Paper: [http://arxiv.org/abs/2205.05570v1](http://arxiv.org/abs/2205.05570v1)
 - 2022-04-28, **Spatio-Temporal Graph Localization Networks for Image-based Navigation**, Takahiro Niwa et.al., Paper: [http://arxiv.org/abs/2204.13237v1](http://arxiv.org/abs/2204.13237v1)
-- 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
+- 2022-05-31, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v2](http://arxiv.org/abs/2204.12831v2)
 - 2022-04-22, **Transferring ConvNet Features from Passive to Active Robot Self-Localization: The Use of Ego-Centric and World-Centric Views**, Kanya Kurauchi et.al., Paper: [http://arxiv.org/abs/2204.10497v1](http://arxiv.org/abs/2204.10497v1)
 - 2022-04-15, **Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**, Hanjing Ye et.al., Paper: [http://arxiv.org/abs/2204.07350v1](http://arxiv.org/abs/2204.07350v1), Code: **[https://github.com/medlartea/cae-vpr](https://github.com/medlartea/cae-vpr)**
 - 2022-04-13, **Reuse your features: unifying retrieval and feature-metric alignment**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2204.06292v1](http://arxiv.org/abs/2204.06292v1)
@@ -454,7 +454,7 @@
 - 2022-05-30, **Going Beyond One-Hot Encoding in Classification: Can Human Uncertainty Improve Model Performance?**, Christoph Koller et.al., Paper: [http://arxiv.org/abs/2205.15265v1](http://arxiv.org/abs/2205.15265v1), Code: **[https://github.com/ChunpingQiu/benchmark-on-So2SatLCZ42-dataset-a-simple-tour](https://github.com/ChunpingQiu/benchmark-on-So2SatLCZ42-dataset-a-simple-tour)**
 - 2022-05-30, **Pooling Revisited: Your Receptive Field is Suboptimal**, Dong-Hwan Jang et.al., Paper: [http://arxiv.org/abs/2205.15254v1](http://arxiv.org/abs/2205.15254v1)
 - 2022-05-30, **Direct measurement of the Wigner function of atoms in an optical trap**, Falk-Richard G. Winkelmann et.al., Paper: [http://arxiv.org/abs/2205.15248v1](http://arxiv.org/abs/2205.15248v1)
-- 2022-05-30, **RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression**, Yu Gong et.al., Paper: [http://arxiv.org/abs/2205.15236v1](http://arxiv.org/abs/2205.15236v1)
+- 2022-05-30, **RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression**, Yu Gong et.al., Paper: [http://arxiv.org/abs/2205.15236v1](http://arxiv.org/abs/2205.15236v1), Code: **[https://github.com/BorealisAI/ranksim-imbalanced-regression](https://github.com/BorealisAI/ranksim-imbalanced-regression)**
 - 2022-05-30, **Few-Shot Adaptation of Pre-Trained Networks for Domain Shift**, Wenyu Zhang et.al., Paper: [http://arxiv.org/abs/2205.15234v1](http://arxiv.org/abs/2205.15234v1)
 - 2022-05-30, **Gradient Backpropagation Through Combinatorial Algorithms: Identity with Projection Works**, Subham Sekhar Sahoo et.al., Paper: [http://arxiv.org/abs/2205.15213v1](http://arxiv.org/abs/2205.15213v1)
 - 2022-05-30, **The Devil is in the Pose: Ambiguity-free 3D Rotation-invariant Learning via Pose-aware Convolution**, Ronghan Chen et.al., Paper: [http://arxiv.org/abs/2205.15210v1](http://arxiv.org/abs/2205.15210v1)
@@ -466,11 +466,11 @@
 - 2022-05-30, **Universal Deep GNNs: Rethinking Residual Connection in GNNs from a Path Decomposition Perspective for Preventing the Over-smoothing**, Jie Chen et.al., Paper: [http://arxiv.org/abs/2205.15127v1](http://arxiv.org/abs/2205.15127v1)
 - 2022-05-30, **FLICU: A Federated Learning Workflow for Intensive Care Unit Mortality Prediction**, Lena Mondrejevski et.al., Paper: [http://arxiv.org/abs/2205.15104v1](http://arxiv.org/abs/2205.15104v1)
 - 2022-05-30, **CHALLENGER: Training with Attribution Maps**, Christian Tomani et.al., Paper: [http://arxiv.org/abs/2205.15094v1](http://arxiv.org/abs/2205.15094v1)
-- 2022-05-30, **Multi-Scale Image Preprocessing and Feature Tracking for Remote CME Characterization**, Oleg Stepanyuk et.al., Paper: [http://arxiv.org/abs/2205.15088v1](http://arxiv.org/abs/2205.15088v1)
+- 2022-05-31, **Multi-Scale Image Preprocessing and Feature Tracking for Remote CME Characterization**, Oleg Stepanyuk et.al., Paper: [http://arxiv.org/abs/2205.15088v2](http://arxiv.org/abs/2205.15088v2)
 - 2022-05-30, **SAPD+: An Accelerated Stochastic Method for Nonconvex-Concave Minimax Problems**, Xuan Zhang et.al., Paper: [http://arxiv.org/abs/2205.15084v1](http://arxiv.org/abs/2205.15084v1)
 - 2022-05-30, **Substrate-mediated Borophane Polymorphs through Hydrogenation of Two-dimensional Boron Sheets**, Yuchong Kang et.al., Paper: [http://arxiv.org/abs/2205.15081v1](http://arxiv.org/abs/2205.15081v1)
 - 2022-05-30, **A Transistor Operations Model for Deep Learning Energy Consumption Scaling**, Chen Li et.al., Paper: [http://arxiv.org/abs/2205.15062v1](http://arxiv.org/abs/2205.15062v1)
-- 2022-05-30, **Deblurring Photographs of Characters Using Deep Neural Networks**, Thomas Germer et.al., Paper: [http://arxiv.org/abs/2205.15053v1](http://arxiv.org/abs/2205.15053v1), Code: **[https://github.com/hhu-machine-learning/hdc2021-psfnn](https://github.com/hhu-machine-learning/hdc2021-psfnn)**
+- 2022-05-31, **Deblurring Photographs of Characters Using Deep Neural Networks**, Thomas Germer et.al., Paper: [http://arxiv.org/abs/2205.15053v2](http://arxiv.org/abs/2205.15053v2), Code: **[https://github.com/hhu-machine-learning/hdc2021-psfnn](https://github.com/hhu-machine-learning/hdc2021-psfnn)**
 - 2022-05-30, **Reconfigurable Intelligent Surface Aided Mobile Edge Computing over Intermittent mmWave Links**, Fatima Ezzahra Airod et.al., Paper: [http://arxiv.org/abs/2205.15052v1](http://arxiv.org/abs/2205.15052v1)
 - 2022-05-30, **Intelligent optoelectronic processor for orbital angular momentum spectrum measurement**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2205.15045v1](http://arxiv.org/abs/2205.15045v1)
 - 2022-05-30, **RLx2: Training a Sparse Deep Reinforcement Learning Model from Scratch**, Yiqin Tan et.al., Paper: [http://arxiv.org/abs/2205.15043v1](http://arxiv.org/abs/2205.15043v1)
@@ -481,7 +481,7 @@
 - 2022-05-30, **Rethinking Saliency Map: An Context-aware Perturbation Method to Explain EEG-based Deep Learning Model**, Hanqi Wang et.al., Paper: [http://arxiv.org/abs/2205.14976v1](http://arxiv.org/abs/2205.14976v1)
 - 2022-05-30, **Knowledge Distillation for 6D Pose Estimation by Keypoint Distribution Alignment**, Shuxuan Guo et.al., Paper: [http://arxiv.org/abs/2205.14971v1](http://arxiv.org/abs/2205.14971v1)
 - 2022-05-30, **Guided Diffusion Model for Adversarial Purification**, Jinyi Wang et.al., Paper: [http://arxiv.org/abs/2205.14969v1](http://arxiv.org/abs/2205.14969v1)
-- 2022-05-30, **PSNet: Fast Data Structuring for Hierarchical Deep Learning on Point Cloud**, Luyang Li et.al., Paper: [http://arxiv.org/abs/2205.14965v1](http://arxiv.org/abs/2205.14965v1), Code: **[https://github.com/lly007/pointstructuringnet](https://github.com/lly007/pointstructuringnet)**
+- 2022-05-31, **PSNet: Fast Data Structuring for Hierarchical Deep Learning on Point Cloud**, Luyang Li et.al., Paper: [http://arxiv.org/abs/2205.14965v2](http://arxiv.org/abs/2205.14965v2), Code: **[https://github.com/lly007/pointstructuringnet](https://github.com/lly007/pointstructuringnet)**
 - 2022-05-30, **FedAUXfdp: Differentially Private One-Shot Federated Distillation**, Haley Hoech et.al., Paper: [http://arxiv.org/abs/2205.14960v1](http://arxiv.org/abs/2205.14960v1)
 - 2022-05-30, **AttentionCode: Ultra-Reliable Feedback Codes for Short-Packet Communications**, Yulin Shao et.al., Paper: [http://arxiv.org/abs/2205.14955v1](http://arxiv.org/abs/2205.14955v1)
 - 2022-05-30, **Edge YOLO: Real-Time Intelligent Object Detection System Based on Edge-Cloud Cooperation in Autonomous Vehicles**, Siyuan Liang et.al., Paper: [http://arxiv.org/abs/2205.14942v1](http://arxiv.org/abs/2205.14942v1)
