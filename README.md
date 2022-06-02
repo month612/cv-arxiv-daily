@@ -1,4 +1,4 @@
-## Updated on 2022.06.01
+## Updated on 2022.06.02
 
 ## SLAM
 
@@ -469,7 +469,7 @@
 |**2022-05-31**|**TUM Autonomous Motorsport: An Autonomous Racing Software for the Indy Autonomous Challenge**|Johannes Betz et.al.|[2205.15979v1](http://arxiv.org/abs/2205.15979v1)|null|
 |**2022-05-31**|**Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Ses**|Yijun Yuan et.al.|[2205.15954v1](http://arxiv.org/abs/2205.15954v1)|null|
 |**2022-05-31**|**Knowledge Graph -- Deep Learning: A Case Study in Question Answering in Aviation Safety Domain**|Ankush Agarwal et.al.|[2205.15952v1](http://arxiv.org/abs/2205.15952v1)|null|
-|**2022-05-31**|**Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues**|Sandhya Singh et.al.|[2205.15951v1](http://arxiv.org/abs/2205.15951v1)|null|
+|**2022-06-01**|**Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues**|Sandhya Singh et.al.|[2205.15951v2](http://arxiv.org/abs/2205.15951v2)|null|
 |**2022-05-31**|**Two-Dimensional Quantum Material Identification via Self-Attention and Soft-labeling in Deep Learning**|Xuan Bac Nguyen et.al.|[2205.15948v1](http://arxiv.org/abs/2205.15948v1)|null|
 |**2022-05-31**|**Hide and Seek: on the Stealthiness of Attacks against Deep Learning Systems**|Zeyan Liu et.al.|[2205.15944v1](http://arxiv.org/abs/2205.15944v1)|null|
 |**2022-05-31**|**Uzbek Sentiment Analysis based on local Restaurant Reviews**|Sanatbek Matlatipov et.al.|[2205.15930v1](http://arxiv.org/abs/2205.15930v1)|null|
@@ -486,16 +486,16 @@
 |**2022-05-31**|**A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud**|Siqiao Xue et.al.|[2205.15795v1](http://arxiv.org/abs/2205.15795v1)|**[link](https://github.com/ilevyfan/meta_rl_scaling)**|
 |**2022-05-31**|**A Survey of Deep Fake Detection for Trial Courts**|Naciye Celebi et.al.|[2205.15792v1](http://arxiv.org/abs/2205.15792v1)|null|
 |**2022-05-31**|**Co-Training for Unsupervised Domain Adaptation of Semantic Segmentation Models**|Jose L. Gómez et.al.|[2205.15781v1](http://arxiv.org/abs/2205.15781v1)|null|
-|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Vastl et.al.|[2205.15764v1](http://arxiv.org/abs/2205.15764v1)|**[link](https://github.com/vastlik/symformer)**|
+|**2022-06-01**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Martin Vastl et.al.|[2205.15764v2](http://arxiv.org/abs/2205.15764v2)|**[link](https://github.com/vastlik/symformer)**|
 |**2022-05-31**|**Exact Feature Collisions in Neural Networks**|Utku Ozbulak et.al.|[2205.15763v1](http://arxiv.org/abs/2205.15763v1)|null|
-|**2022-05-31**|**Non-Iterative Recovery from Nonlinear Observations using Generative Models**|Jiulong Liu et.al.|[2205.15749v1](http://arxiv.org/abs/2205.15749v1)|null|
+|**2022-06-01**|**Non-Iterative Recovery from Nonlinear Observations using Generative Models**|Jiulong Liu et.al.|[2205.15749v2](http://arxiv.org/abs/2205.15749v2)|null|
 |**2022-05-31**|**HyperMAML: Few-Shot Adaptation of Deep Models with Hypernetworks**|M. Przewięźlikowski et.al.|[2205.15745v1](http://arxiv.org/abs/2205.15745v1)|null|
 |**2022-05-31**|**ViNNPruner: Visual Interactive Pruning for Deep Learning**|Udo Schlegel et.al.|[2205.15731v1](http://arxiv.org/abs/2205.15731v1)|null|
 |**2022-05-31**|**One Loss for Quantization: Deep Hashing with Discrete Wasserstein Distributional Matching**|Khoa D. Doan et.al.|[2205.15721v1](http://arxiv.org/abs/2205.15721v1)|null|
 |**2022-05-31**|**Mitigating Dataset Bias by Using Per-sample Gradient**|Sumyeong Ahn et.al.|[2205.15704v1](http://arxiv.org/abs/2205.15704v1)|null|
 |**2022-05-31**|**Lessons Learned from Data-Driven Building Control Experiments: Contrasting Gaussian Process-based MPC, Bilevel DeePC, and Deep Reinforcement Learning**|Loris Di Natale et.al.|[2205.15703v1](http://arxiv.org/abs/2205.15703v1)|null|
 |**2022-05-31**|**A novel approach to rating transition modelling via Machine Learning and SDEs on Lie groups**|Kevin Kamm et.al.|[2205.15699v1](http://arxiv.org/abs/2205.15699v1)|null|
-|**2022-05-31**|**Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets**|Zaishuo Xia et.al.|[2205.15688v1](http://arxiv.org/abs/2205.15688v1)|null|
+|**2022-06-01**|**Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets**|Zaishuo Xia et.al.|[2205.15688v2](http://arxiv.org/abs/2205.15688v2)|null|
 |**2022-05-31**|**Why are NLP Models Fumbling at Elementary Math? A Survey of Deep Learning based Word Problem Solvers**|Sowmya S Sundaram et.al.|[2205.15683v1](http://arxiv.org/abs/2205.15683v1)|null|
 |**2022-05-31**|**Simulation-Based Inference with WALDO: Perfectly Calibrated Confidence Regions Using Any Prediction or Posterior Estimation Algorithm**|Luca Masserano et.al.|[2205.15680v1](http://arxiv.org/abs/2205.15680v1)|**[link](https://github.com/anonymoussoftware/waldo)**|
 |**2022-05-31**|**Intrinsic shapes of Brightest Cluster Galaxies**|Stefano de Nicola et.al.|[2205.15672v1](http://arxiv.org/abs/2205.15672v1)|null|
@@ -3987,7 +3987,7 @@
 |**2022-05-30**|**HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling**|Xiaosong Zhang et.al.|[2205.14949v1](http://arxiv.org/abs/2205.14949v1)|null|
 |**2022-05-28**|**A Closer Look at Self-supervised Lightweight Vision Transformers**|Shaoru Wang et.al.|[2205.14443v1](http://arxiv.org/abs/2205.14443v1)|null|
 |**2022-05-27**|**Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation**|Yixuan Wei et.al.|[2205.14141v1](http://arxiv.org/abs/2205.14141v1)|**[link](https://github.com/SwinTransformer/Feature-Distillation)**|
-|**2022-05-27**|**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**|Siyuan Li et.al.|[2205.13943v1](http://arxiv.org/abs/2205.13943v1)|**[link](https://github.com/Westlake-AI/openmixup)**|
+|**2022-06-01**|**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**|Siyuan Li et.al.|[2205.13943v2](http://arxiv.org/abs/2205.13943v2)|**[link](https://github.com/Westlake-AI/openmixup)**|
 |**2022-05-27**|**Error Bound of Empirical $\ell_2$ Risk Minimization for Noisy Standard and Generalized Phase Retrieval Problems**|Junren Chen et.al.|[2205.13827v1](http://arxiv.org/abs/2205.13827v1)|null|
 |**2022-05-27**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-26**|**Green Hierarchical Vision Transformer for Masked Image Modeling**|Lang Huang et.al.|[2205.13515v1](http://arxiv.org/abs/2205.13515v1)|**[link](https://github.com/layneh/greenmim)**|
