@@ -1,4 +1,4 @@
-## Updated on 2022.06.05
+## Updated on 2022.06.06
 
 ## SLAM
 
@@ -471,12 +471,12 @@
 |**2022-06-02**|**Star Formation and AGN Feedback in the Local Universe: Combining LOFAR and MaNGA**|C. R. Mulcahey et.al.|[2206.01195v1](http://arxiv.org/abs/2206.01195v1)|null|
 |**2022-06-02**|**Deep Learning on Implicit Neural Datasets**|Clinton J. Wang et.al.|[2206.01178v1](http://arxiv.org/abs/2206.01178v1)|null|
 |**2022-06-02**|**Invertible Neural Networks for Graph Prediction**|Chen Xu et.al.|[2206.01163v1](http://arxiv.org/abs/2206.01163v1)|**[link](https://github.com/hamrel-cxu/invertible-graph-neural-network-ignn)**|
-|**2022-06-02**|**Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives**|Jun Li et.al.|[2206.01136v1](http://arxiv.org/abs/2206.01136v1)|null|
+|**2022-06-03**|**Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives**|Jun Li et.al.|[2206.01136v2](http://arxiv.org/abs/2206.01136v2)|null|
 |**2022-06-02**|**Vygotskian Autotelic Artificial Intelligence: Language and Culture Internalization for Human-Like AI**|Cédric Colas et.al.|[2206.01134v1](http://arxiv.org/abs/2206.01134v1)|null|
 |**2022-06-02**|**Comparing Conventional and Deep Feature Models for Classifying Fundus Photography of Hemorrhages**|Tamoor Aziz et.al.|[2206.01118v1](http://arxiv.org/abs/2206.01118v1)|null|
 |**2022-06-02**|**A temporal chrominance trigger for clean-label backdoor attack against anti-spoof rebroadcast detection**|Wei Guo et.al.|[2206.01102v1](http://arxiv.org/abs/2206.01102v1)|null|
 |**2022-06-02**|**A Dual-fusion Semantic Segmentation Framework With GAN For SAR Images**|Donghui Li et.al.|[2206.01096v1](http://arxiv.org/abs/2206.01096v1)|null|
-|**2022-06-02**|**Machine Learning-based Lung and Colon Cancer Detection using Deep Feature Extraction and Ensemble Learning**|Md. Alamin Talukder et.al.|[2206.01088v1](http://arxiv.org/abs/2206.01088v1)|null|
+|**2022-06-03**|**Machine Learning-based Lung and Colon Cancer Detection using Deep Feature Extraction and Ensemble Learning**|Md. Alamin Talukder et.al.|[2206.01088v2](http://arxiv.org/abs/2206.01088v2)|null|
 |**2022-06-02**|**Incorporating Explicit Uncertainty Estimates into Deep Offline Reinforcement Learning**|David Brandfonbrener et.al.|[2206.01085v1](http://arxiv.org/abs/2206.01085v1)|null|
 |**2022-06-02**|**2D-MRI of the Central Nervous System: The effect of a deep learning-based reconstruction pipeline on the overall image quality**|D. E. Gkotsis et.al.|[2206.01082v1](http://arxiv.org/abs/2206.01082v1)|null|
 |**2022-06-02**|**Deep Transformer Q-Networks for Partially Observable Reinforcement Learning**|Kevin Esslinger et.al.|[2206.01078v1](http://arxiv.org/abs/2206.01078v1)|**[link](https://github.com/kevslinger/dtqn)**|
