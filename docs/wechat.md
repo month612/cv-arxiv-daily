@@ -304,6 +304,7 @@
 
 ## Keypoint Detection
 
+- 2022-06-03, **SNAKE: Shape-aware Neural 3D Keypoint Field**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2206.01724v1](http://arxiv.org/abs/2206.01724v1), Code: **[https://github.com/zhongcl-thu/snake](https://github.com/zhongcl-thu/snake)**
 - 2022-05-17, **MulT: An End-to-End Multitask Learning Transformer**, Deblina Bhattacharjee et.al., Paper: [http://arxiv.org/abs/2205.08303v1](http://arxiv.org/abs/2205.08303v1)
 - 2022-05-10, **ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**, Chirag Raman et.al., Paper: [http://arxiv.org/abs/2205.05177v1](http://arxiv.org/abs/2205.05177v1)
 - 2022-04-28, **Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**, Emilio Gomez-Gonzalez et.al., Paper: [http://arxiv.org/abs/2204.14050v1](http://arxiv.org/abs/2204.14050v1)
@@ -454,6 +455,45 @@
 
 ## Deep Learning
 
+- 2022-06-03, **Deep Learning Prediction of Severe Health Risks for Pediatric COVID-19 Patients with a Large Feature Set in 2021 BARDA Data Challenge**, Sajid Mahmud et.al., Paper: [http://arxiv.org/abs/2206.01696v1](http://arxiv.org/abs/2206.01696v1)
+- 2022-06-03, **Toward a realistic model of speech processing in the brain with self-supervised learning**, Juliette Millet et.al., Paper: [http://arxiv.org/abs/2206.01685v1](http://arxiv.org/abs/2206.01685v1)
+- 2022-06-03, **Joint Energy Dispatch and Unit Commitment in Microgrids Based on Deep Reinforcement Learning**, Jiaju Qi et.al., Paper: [http://arxiv.org/abs/2206.01663v1](http://arxiv.org/abs/2206.01663v1)
+- 2022-06-03, **D'ARTAGNAN: Counterfactual Video Generation**, Hadrien Reynaud et.al., Paper: [http://arxiv.org/abs/2206.01651v1](http://arxiv.org/abs/2206.01651v1), Code: **[https://github.com/hreynaud/dartagnan](https://github.com/hreynaud/dartagnan)**
+- 2022-06-03, **Neural Differential Equations for Learning to Program Neural Nets Through Continuous Learning Rules**, Kazuki Irie et.al., Paper: [http://arxiv.org/abs/2206.01649v1](http://arxiv.org/abs/2206.01649v1), Code: **[https://github.com/idsia/neuraldiffeq-fwp](https://github.com/idsia/neuraldiffeq-fwp)**
+- 2022-06-03, **Pruning for Interpretable, Feature-Preserving Circuits in CNNs**, Chris Hamblin et.al., Paper: [http://arxiv.org/abs/2206.01627v1](http://arxiv.org/abs/2206.01627v1)
+- 2022-06-03, **Beyond Tabula Rasa: Reincarnating Reinforcement Learning**, Rishabh Agarwal et.al., Paper: [http://arxiv.org/abs/2206.01626v1](http://arxiv.org/abs/2206.01626v1)
+- 2022-06-03, **A transformer-based synthetic-inflow generator for spatially-developing turbulent boundary layers**, Mustafa Z. Yousif et.al., Paper: [http://arxiv.org/abs/2206.01618v1](http://arxiv.org/abs/2206.01618v1)
+- 2022-06-03, **A Deep-Learning Usability Expansion Model of Ocean Observations**, Ali Muhamed Ali et.al., Paper: [http://arxiv.org/abs/2206.01599v1](http://arxiv.org/abs/2206.01599v1)
+- 2022-06-03, **Convergence Analysis of the Deep Splitting Scheme: the Case of Partial Integro-Differential Equations and the associated FBSDEs with Jumps**, Rüdiger Frey et.al., Paper: [http://arxiv.org/abs/2206.01597v1](http://arxiv.org/abs/2206.01597v1)
+- 2022-06-03, **Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning**, Bertrand Charpentier et.al., Paper: [http://arxiv.org/abs/2206.01558v1](http://arxiv.org/abs/2206.01558v1)
+- 2022-06-03, **A High-Performance Customer Churn Prediction System based on Self-Attention**, Haotian Wu et.al., Paper: [http://arxiv.org/abs/2206.01523v1](http://arxiv.org/abs/2206.01523v1)
+- 2022-06-03, **A Survey on Surrogate-assisted Efficient Neural Architecture Search**, Shiqing Liu et.al., Paper: [http://arxiv.org/abs/2206.01520v1](http://arxiv.org/abs/2206.01520v1)
+- 2022-06-03, **Understanding deep learning via decision boundary**, Shiye Lei et.al., Paper: [http://arxiv.org/abs/2206.01515v1](http://arxiv.org/abs/2206.01515v1)
+- 2022-06-03, **YOLOv5s-GTB: light-weighted and improved YOLOv5s for bridge crack detection**, Xiao Ruiqiang et.al., Paper: [http://arxiv.org/abs/2206.01498v1](http://arxiv.org/abs/2206.01498v1)
+- 2022-06-03, **Causality Learning With Wasserstein Generative Adversarial Networks**, Hristo Petkov et.al., Paper: [http://arxiv.org/abs/2206.01496v1](http://arxiv.org/abs/2206.01496v1)
+- 2022-06-03, **GINK: Graph-based Interaction-aware Kinodynamic Planning via Reinforcement Learning for Autonomous Driving**, Se-Wook Yoo et.al., Paper: [http://arxiv.org/abs/2206.01488v1](http://arxiv.org/abs/2206.01488v1)
+- 2022-06-03, **Distributional loss for convolutional neural network regression and application to GNSS multi-path estimation**, Thomas Gonzalez et.al., Paper: [http://arxiv.org/abs/2206.01473v1](http://arxiv.org/abs/2206.01473v1)
+- 2022-06-03, **Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition**, Paula Delgado-Santos et.al., Paper: [http://arxiv.org/abs/2206.01441v1](http://arxiv.org/abs/2206.01441v1)
+- 2022-06-03, **Learning an Adaptation Function to Assess Image Visual Similarities**, Olivier Risser-Maroix et.al., Paper: [http://arxiv.org/abs/2206.01417v1](http://arxiv.org/abs/2206.01417v1)
+- 2022-06-03, **Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach**, Hiroki Shimomura et.al., Paper: [http://arxiv.org/abs/2206.01414v1](http://arxiv.org/abs/2206.01414v1)
+- 2022-06-03, **MetaLR: Layer-wise Learning Rate based on Meta-Learning for Adaptively Fine-tuning Medical Pre-trained Models**, Yixiong Chen et.al., Paper: [http://arxiv.org/abs/2206.01408v1](http://arxiv.org/abs/2206.01408v1)
+- 2022-06-03, **Regularization-wise double descent: Why it occurs and how to eliminate it**, Fatih Furkan Yilmaz et.al., Paper: [http://arxiv.org/abs/2206.01378v1](http://arxiv.org/abs/2206.01378v1), Code: **[https://github.com/mli-lab/regularization-wise_double_descent](https://github.com/mli-lab/regularization-wise_double_descent)**
+- 2022-06-03, **Supernet Training for Federated Image Classification under System Heterogeneity**, Taehyeon Kim et.al., Paper: [http://arxiv.org/abs/2206.01366v1](http://arxiv.org/abs/2206.01366v1)
+- 2022-06-03, **Robotic Planning under Uncertainty in Spatiotemporal Environments in Expeditionary Science**, Victoria Preston et.al., Paper: [http://arxiv.org/abs/2206.01364v1](http://arxiv.org/abs/2206.01364v1)
+- 2022-06-03, **Detecting Pulmonary Embolism from Computed Tomography Using Convolutional Neural Network**, Chia-Hung Yang et.al., Paper: [http://arxiv.org/abs/2206.01344v1](http://arxiv.org/abs/2206.01344v1)
+- 2022-06-02, **HEX: Human-in-the-loop Explainability via Deep Reinforcement Learning**, Michael T. Lash et.al., Paper: [http://arxiv.org/abs/2206.01343v1](http://arxiv.org/abs/2206.01343v1)
+- 2022-06-02, **Understanding the Role of Nonlinearity in Training Dynamics of Contrastive Learning**, Yuandong Tian et.al., Paper: [http://arxiv.org/abs/2206.01342v1](http://arxiv.org/abs/2206.01342v1)
+- 2022-06-02, **Adding alchemical variables to metadynamics to enhance sampling in free energy calculations**, Wei-Tse Hsu et.al., Paper: [http://arxiv.org/abs/2206.01329v1](http://arxiv.org/abs/2206.01329v1)
+- 2022-06-02, **SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG**, Reinmar J Kobler et.al., Paper: [http://arxiv.org/abs/2206.01323v1](http://arxiv.org/abs/2206.01323v1)
+- 2022-06-02, **H-EMD: A Hierarchical Earth Mover's Distance Method for Instance Segmentation**, Peixian Liang et.al., Paper: [http://arxiv.org/abs/2206.01309v1](http://arxiv.org/abs/2206.01309v1)
+- 2022-06-02, **Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees**, Jue Wang et.al., Paper: [http://arxiv.org/abs/2206.01299v1](http://arxiv.org/abs/2206.01299v1)
+- 2022-06-02, **PNODE: A memory-efficient neural ODE framework based on high-level adjoint differentiation**, Hong Zhang et.al., Paper: [http://arxiv.org/abs/2206.01298v1](http://arxiv.org/abs/2206.01298v1), Code: **[https://github.com/caidao22/pnode](https://github.com/caidao22/pnode)**
+- 2022-06-02, **Reconstructing Quantum States Using Basis-Enhanced Born Machines**, Abigail McClain Gomez et.al., Paper: [http://arxiv.org/abs/2206.01273v1](http://arxiv.org/abs/2206.01273v1)
+- 2022-06-02, **Data-Driven Linear Koopman Embedding for Model-Predictive Power System Control**, Ramij R. Hossain et.al., Paper: [http://arxiv.org/abs/2206.01272v1](http://arxiv.org/abs/2206.01272v1)
+- 2022-06-02, **Deep Learning Architecture Based Approach For 2D-Simulation of Microwave Plasma Interaction**, Mihir Desai et.al., Paper: [http://arxiv.org/abs/2206.01263v1](http://arxiv.org/abs/2206.01263v1)
+- 2022-06-02, **Entangled Residual Mappings**, Mathias Lechner et.al., Paper: [http://arxiv.org/abs/2206.01261v1](http://arxiv.org/abs/2206.01261v1)
+- 2022-06-02, **Multifocus microscopy with optically sectioned axial superresolution**, Florian Ströhl et.al., Paper: [http://arxiv.org/abs/2206.01257v1](http://arxiv.org/abs/2206.01257v1)
+- 2022-06-02, **Stochastic gradient descent introduces an effective landscape-dependent regularization favoring flat solutions**, Ning Yang et.al., Paper: [http://arxiv.org/abs/2206.01246v1](http://arxiv.org/abs/2206.01246v1)
 - 2022-06-02, **Semantic Instance Segmentation of 3D Scenes Through Weak Bounding Box Supervision**, Julian Chibane et.al., Paper: [http://arxiv.org/abs/2206.01203v1](http://arxiv.org/abs/2206.01203v1)
 - 2022-06-02, **A Uniform Retrieval Analysis of Ultra-cool Dwarfs. IV. A Statistical Census from 50 Late-T Dwarfs**, Joseph A Zalesky et.al., Paper: [http://arxiv.org/abs/2206.01199v1](http://arxiv.org/abs/2206.01199v1)
 - 2022-06-02, **Star Formation and AGN Feedback in the Local Universe: Combining LOFAR and MaNGA**, C. R. Mulcahey et.al., Paper: [http://arxiv.org/abs/2206.01195v1](http://arxiv.org/abs/2206.01195v1)
@@ -4069,6 +4109,7 @@
 
 ## non-photorealistic rendering
 
+- 2022-06-03, **Style-Content Disentanglement in Language-Image Pretraining Representations for Zero-Shot Sketch-to-Image Synthesis**, Jan Zuiderveld et.al., Paper: [http://arxiv.org/abs/2206.01661v1](http://arxiv.org/abs/2206.01661v1)
 - 2022-06-02, **Siamese Image Modeling for Self-Supervised Vision Representation Learning**, Chenxin Tao et.al., Paper: [http://arxiv.org/abs/2206.01204v1](http://arxiv.org/abs/2206.01204v1)
 - 2022-06-02, **VL-BEiT: Generative Vision-Language Pretraining**, Hangbo Bao et.al., Paper: [http://arxiv.org/abs/2206.01127v1](http://arxiv.org/abs/2206.01127v1)
 - 2022-06-01, **When happy accidents spark creativity: Bringing collaborative speculation to life with generative AI**, Ziv Epstein et.al., Paper: [http://arxiv.org/abs/2206.00533v1](http://arxiv.org/abs/2206.00533v1)
