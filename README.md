@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-05**|**DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**|Alena Savinykh et.al.|[2206.02199v1](http://arxiv.org/abs/2206.02199v1)|null|
+|**2022-06-04**|**C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**|Erez Posner et.al.|[2206.01961v1](http://arxiv.org/abs/2206.01961v1)|null|
 |**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo et.al.|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|**[link](https://github.com/url-kaist/alterground-lego-loam)**|
 |**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
 |**2022-05-31**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
@@ -467,6 +469,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-06**|**New Strong Gravitational Lenses from the DESI Legacy Imaging Surveys Data Release 9**|C. Storfer et.al.|[2206.02764v1](http://arxiv.org/abs/2206.02764v1)|null|
+|**2022-06-06**|**A Neural Corpus Indexer for Document Retrieval**|Yujing Wang et.al.|[2206.02743v1](http://arxiv.org/abs/2206.02743v1)|null|
+|**2022-06-06**|**People Tracking in Panoramic Video for Guiding Robots**|Alberto Bacchin et.al.|[2206.02735v1](http://arxiv.org/abs/2206.02735v1)|null|
+|**2022-06-06**|**Global Mixup: Eliminating Ambiguity with Clustering**|Xiangjin Xie et.al.|[2206.02734v1](http://arxiv.org/abs/2206.02734v1)|null|
+|**2022-06-06**|**Deep Reinforcement Learning for Cybersecurity Threat Detection and Protection: A Review**|Mohit Sewak et.al.|[2206.02733v1](http://arxiv.org/abs/2206.02733v1)|null|
+|**2022-06-06**|**Perturbation Learning Based Anomaly Detection**|Jinyu Cai et.al.|[2206.02704v1](http://arxiv.org/abs/2206.02704v1)|null|
+|**2022-06-06**|**Real2Sim or Sim2Real: Robotics Visual Insertion using Deep Reinforcement Learning and Real2Sim Policy Adaptation**|Yiwen Chen et.al.|[2206.02679v1](http://arxiv.org/abs/2206.02679v1)|null|
+|**2022-06-06**|**Robust Adversarial Attacks Detection based on Explainable Deep Reinforcement Learning For UAV Guidance and Planning**|Thomas Hickling et.al.|[2206.02670v1](http://arxiv.org/abs/2206.02670v1)|null|
+|**2022-06-06**|**Learning with Capsules: A Survey**|Fabio De Sousa Ribeiro et.al.|[2206.02664v1](http://arxiv.org/abs/2206.02664v1)|null|
+|**2022-06-06**|**Robust Fine-Tuning of Deep Neural Networks with Hessian-based Generalization Guarantees**|Haotian Ju et.al.|[2206.02659v1](http://arxiv.org/abs/2206.02659v1)|null|
+|**2022-06-06**|**Continuous-Time Analog Filters for Audio Edge Intelligence: Review and Analysis on Design Techniques**|Kwantae Kim et.al.|[2206.02639v1](http://arxiv.org/abs/2206.02639v1)|null|
+|**2022-06-06**|**Hardware-accelerated Mars Sample Localization via deep transfer learning from photorealistic simulations**|Raúl Castilla-Arquillo et.al.|[2206.02622v1](http://arxiv.org/abs/2206.02622v1)|**[link](https://github.com/spaceuma/marssamplelocalization)**|
+|**2022-06-06**|**Per-Instance Privacy Accounting for Differentially Private Stochastic Gradient Descent**|Da Yu et.al.|[2206.02617v1](http://arxiv.org/abs/2206.02617v1)|null|
+|**2022-06-06**|**Real-World Image Super-Resolution by Exclusionary Dual-Learning**|Hao Li et.al.|[2206.02609v1](http://arxiv.org/abs/2206.02609v1)|**[link](https://github.com/house-leo/rwsr-edl)**|
+|**2022-06-06**|**[Reproducibility Report] Explainable Deep One-Class Classification**|Joao P. C. Bertoldo et.al.|[2206.02598v1](http://arxiv.org/abs/2206.02598v1)|null|
+|**2022-06-06**|**A Robust Deep Learning Enabled Semantic Communication System for Text**|Xiang Peng et.al.|[2206.02596v1](http://arxiv.org/abs/2206.02596v1)|null|
+|**2022-06-06**|**PCPT and ACPT: Copyright Protection and Traceability Scheme for DNN Model**|Xuefeng Fan et.al.|[2206.02541v1](http://arxiv.org/abs/2206.02541v1)|null|
+|**2022-06-06**|**Certified Robustness in Federated Learning**|Motasem Alfarra et.al.|[2206.02535v1](http://arxiv.org/abs/2206.02535v1)|null|
+|**2022-06-06**|**Transfer Learning based Search Space Design for Hyperparameter Tuning**|Yang Li et.al.|[2206.02511v1](http://arxiv.org/abs/2206.02511v1)|null|
+|**2022-06-06**|**Detecting Interlocutor Confusion in Situated Human-Avatar Dialogue: A Pilot Study**|Na Li et.al.|[2206.02436v1](http://arxiv.org/abs/2206.02436v1)|null|
+|**2022-06-06**|**Towards Responsible AI for Financial Transactions**|Charl Maree et.al.|[2206.02419v1](http://arxiv.org/abs/2206.02419v1)|null|
+|**2022-06-06**|**A Simple yet Effective Method for Graph Classification**|Junran Wu et.al.|[2206.02404v1](http://arxiv.org/abs/2206.02404v1)|null|
+|**2022-06-06**|**Deep learning assisted jet tomography for the study of Mach cones in QGP**|Zhong Yang et.al.|[2206.02393v1](http://arxiv.org/abs/2206.02393v1)|null|
+|**2022-06-06**|**Semi-Supervised Segmentation of Mitochondria from Electron Microscopy Images Using Spatial Continuity**|Yunpeng Xiao et.al.|[2206.02392v1](http://arxiv.org/abs/2206.02392v1)|null|
+|**2022-06-06**|**Adaptive Rollout Length for Model-Based RL using Model-Free Deep RL**|Abhinav Bhatia et.al.|[2206.02380v1](http://arxiv.org/abs/2206.02380v1)|null|
+|**2022-06-06**|**CorticalFlow: A Diffeomorphic Mesh Deformation Module for Cortical Surface Reconstruction**|Léo Lebrat et.al.|[2206.02374v1](http://arxiv.org/abs/2206.02374v1)|null|
+|**2022-06-06**|**Implementation of a Modified U-Net for Medical Image Segmentation on Edge Devices**|Owais Ali et.al.|[2206.02358v1](http://arxiv.org/abs/2206.02358v1)|null|
+|**2022-06-06**|**Anomaly Detection with Test Time Augmentation and Consistency Evaluation**|Haowei He et.al.|[2206.02345v1](http://arxiv.org/abs/2206.02345v1)|null|
+|**2022-06-06**|**WHU-Stereo: A Challenging Benchmark for Stereo Matching of High-Resolution Satellite Images**|Shenhong Li et.al.|[2206.02342v1](http://arxiv.org/abs/2206.02342v1)|**[link](https://github.com/sheng029/whu-stereo)**|
+|**2022-06-06**|**Evaluation-oriented Knowledge Distillation for Deep Face Recognition**|Yuge Huang et.al.|[2206.02325v1](http://arxiv.org/abs/2206.02325v1)|**[link](https://github.com/Tencent/TFace)**|
+|**2022-06-05**|**AugLoss: A Learning Methodology for Real-World Dataset Corruption**|Kyle Otstot et.al.|[2206.02286v1](http://arxiv.org/abs/2206.02286v1)|null|
+|**2022-06-05**|**Tagged-MRI2Audio with Attention Guided Heterogeneous Translator**|Xiaofeng Liu et.al.|[2206.02284v1](http://arxiv.org/abs/2206.02284v1)|null|
+|**2022-06-05**|**Estimating Building Energy Efficiency From Street View Imagery, Aerial Imagery, and Land Surface Temperature Data**|Kevin Mayer et.al.|[2206.02270v1](http://arxiv.org/abs/2206.02270v1)|null|
+|**2022-06-05**|**Towards Individual Grevy's Zebra Identification via Deep 3D Fitting and Metric Learning**|Maria Stennett et.al.|[2206.02261v1](http://arxiv.org/abs/2206.02261v1)|null|
+|**2022-06-05**|**Two Decades of Bengali Handwritten Digit Recognition: A Survey**|A. B. M. Ashikur Rahman et.al.|[2206.02234v1](http://arxiv.org/abs/2206.02234v1)|null|
+|**2022-06-05**|**U(1) Symmetry-breaking Observed in Generic CNN Bottleneck Layers**|Louis-François Bouchard et.al.|[2206.02220v1](http://arxiv.org/abs/2206.02220v1)|null|
+|**2022-06-05**|**Statistical Deep Learning for Spatial and Spatio-Temporal Data**|Christopher K. Wikle et.al.|[2206.02218v1](http://arxiv.org/abs/2206.02218v1)|null|
+|**2022-06-05**|**Variable-rate hierarchical CPC leads to acoustic unit discovery in speech**|Santiago Cuervo et.al.|[2206.02211v1](http://arxiv.org/abs/2206.02211v1)|**[link](https://github.com/chorowski-lab/hcpc)**|
+|**2022-06-05**|**Performance Comparison of Simple Transformer and Res-CNN-BiLSTM for Cyberbullying Classification**|Raunak Joshi et.al.|[2206.02206v1](http://arxiv.org/abs/2206.02206v1)|null|
+|**2022-06-05**|**3D Convolutional with Attention for Action Recognition**|Labina Shrestha et.al.|[2206.02203v1](http://arxiv.org/abs/2206.02203v1)|null|
+|**2022-06-05**|**FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction**|Qiao Feng et.al.|[2206.02194v1](http://arxiv.org/abs/2206.02194v1)|null|
+|**2022-06-05**|**A Survey on Deep Learning based Channel Estimation in Doubly Dispersive Environments**|Abdul Karim Gizzini et.al.|[2206.02165v1](http://arxiv.org/abs/2206.02165v1)|null|
+|**2022-06-05**|**Vanilla Feature Distillation for Improving the Accuracy-Robustness Trade-Off in Adversarial Training**|Guodong Cao et.al.|[2206.02158v1](http://arxiv.org/abs/2206.02158v1)|null|
+|**2022-06-05**|**Which models are innately best at uncertainty estimation?**|Ido Galil et.al.|[2206.02152v1](http://arxiv.org/abs/2206.02152v1)|null|
+|**2022-06-05**|**DeeprETA: An ETA Post-processing System at Scale**|Xinyu Hu et.al.|[2206.02127v1](http://arxiv.org/abs/2206.02127v1)|null|
+|**2022-06-05**|**Learning Dynamics and Generalization in Reinforcement Learning**|Clare Lyle et.al.|[2206.02126v1](http://arxiv.org/abs/2206.02126v1)|null|
+|**2022-06-05**|**Computer Vision-based Characterization of Large-scale Jet Flames using a Synthetic Infrared Image Generation Approach**|Carmina Pérez-Guerrero et.al.|[2206.02110v1](http://arxiv.org/abs/2206.02110v1)|null|
+|**2022-06-05**|**Interpretable Mixture of Experts for Structured Data**|Aya Abdelsalam Ismail et.al.|[2206.02107v1](http://arxiv.org/abs/2206.02107v1)|null|
+|**2022-06-05**|**Search Space Adaptation for Differentiable Neural Architecture Search in Image Classification**|Youngkee Kim et.al.|[2206.02098v1](http://arxiv.org/abs/2206.02098v1)|null|
+|**2022-06-05**|**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**|Minghao Xu et.al.|[2206.02096v1](http://arxiv.org/abs/2206.02096v1)|null|
 |**2022-06-03**|**Deep Learning Prediction of Severe Health Risks for Pediatric COVID-19 Patients with a Large Feature Set in 2021 BARDA Data Challenge**|Sajid Mahmud et.al.|[2206.01696v1](http://arxiv.org/abs/2206.01696v1)|null|
 |**2022-06-03**|**Toward a realistic model of speech processing in the brain with self-supervised learning**|Juliette Millet et.al.|[2206.01685v1](http://arxiv.org/abs/2206.01685v1)|null|
 |**2022-06-03**|**Joint Energy Dispatch and Unit Commitment in Microgrids Based on Deep Reinforcement Learning**|Jiaju Qi et.al.|[2206.01663v1](http://arxiv.org/abs/2206.01663v1)|null|
@@ -4049,7 +4101,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-02**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v1](http://arxiv.org/abs/2206.00997v1)|null|
+|**2022-06-02**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v1](http://arxiv.org/abs/2206.00997v1)|**[link](https://github.com/rpartsey/pointgoal-navigation)**|
 |**2022-05-26**|**Inertially Assisted Semi-Direct Visual Odometry for Fixed Wing Autonomous Unmanned Air Vehicles**|Eduardo Gallo et.al.|[2205.13242v1](http://arxiv.org/abs/2205.13242v1)|null|
 |**2022-05-17**|**DynPL-SVO: A New Method Using Point and Line Features for Stereo Visual Odometry in Dynamic Scenes**|Xiaoguang Ma et.al.|[2205.08207v1](http://arxiv.org/abs/2205.08207v1)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
