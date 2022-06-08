@@ -1,4 +1,4 @@
-> Updated on 2022.06.07
+> Updated on 2022.06.08
 
 ## SLAM
 
@@ -48,7 +48,7 @@
 - 2022-03-31, **Curiosity Driven Self-supervised Tactile Exploration of Unknown Objects**, Yujie Lu et.al., Paper: [http://arxiv.org/abs/2204.00035v1](http://arxiv.org/abs/2204.00035v1)
 - 2022-03-30, **GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios**, Chih-Yuan Chiu et.al., Paper: [http://arxiv.org/abs/2203.16690v1](http://arxiv.org/abs/2203.16690v1)
 - 2022-03-29, **Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**, Mostafa Osman et.al., Paper: [http://arxiv.org/abs/2203.15866v1](http://arxiv.org/abs/2203.15866v1)
-- 2022-03-29, **Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**, Mingjun Li et.al., Paper: [http://arxiv.org/abs/2203.15439v1](http://arxiv.org/abs/2203.15439v1)
+- 2022-06-07, **Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**, Mingjun Li et.al., Paper: [http://arxiv.org/abs/2203.15439v2](http://arxiv.org/abs/2203.15439v2)
 - 2022-03-29, **Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**, Pranay Mathur et.al., Paper: [http://arxiv.org/abs/2203.15272v1](http://arxiv.org/abs/2203.15272v1)
 - 2022-03-28, **Are High-Resolution Event Cameras Really Needed?**, Daniel Gehrig et.al., Paper: [http://arxiv.org/abs/2203.14672v1](http://arxiv.org/abs/2203.14672v1)
 - 2022-03-25, **Spectral Measurement Sparsification for Pose-Graph SLAM**, Kevin J. Doherty et.al., Paper: [http://arxiv.org/abs/2203.13897v1](http://arxiv.org/abs/2203.13897v1), Code: **[https://github.com/MarineRoboticsGroup/mac](https://github.com/MarineRoboticsGroup/mac)**
@@ -464,12 +464,12 @@
 - 2022-06-06, **Deep Reinforcement Learning for Cybersecurity Threat Detection and Protection: A Review**, Mohit Sewak et.al., Paper: [http://arxiv.org/abs/2206.02733v1](http://arxiv.org/abs/2206.02733v1)
 - 2022-06-06, **Perturbation Learning Based Anomaly Detection**, Jinyu Cai et.al., Paper: [http://arxiv.org/abs/2206.02704v1](http://arxiv.org/abs/2206.02704v1)
 - 2022-06-06, **Real2Sim or Sim2Real: Robotics Visual Insertion using Deep Reinforcement Learning and Real2Sim Policy Adaptation**, Yiwen Chen et.al., Paper: [http://arxiv.org/abs/2206.02679v1](http://arxiv.org/abs/2206.02679v1)
-- 2022-06-06, **Robust Adversarial Attacks Detection based on Explainable Deep Reinforcement Learning For UAV Guidance and Planning**, Thomas Hickling et.al., Paper: [http://arxiv.org/abs/2206.02670v1](http://arxiv.org/abs/2206.02670v1)
+- 2022-06-07, **Robust Adversarial Attacks Detection based on Explainable Deep Reinforcement Learning For UAV Guidance and Planning**, Thomas Hickling et.al., Paper: [http://arxiv.org/abs/2206.02670v2](http://arxiv.org/abs/2206.02670v2)
 - 2022-06-06, **Learning with Capsules: A Survey**, Fabio De Sousa Ribeiro et.al., Paper: [http://arxiv.org/abs/2206.02664v1](http://arxiv.org/abs/2206.02664v1)
 - 2022-06-06, **Robust Fine-Tuning of Deep Neural Networks with Hessian-based Generalization Guarantees**, Haotian Ju et.al., Paper: [http://arxiv.org/abs/2206.02659v1](http://arxiv.org/abs/2206.02659v1)
 - 2022-06-06, **Continuous-Time Analog Filters for Audio Edge Intelligence: Review and Analysis on Design Techniques**, Kwantae Kim et.al., Paper: [http://arxiv.org/abs/2206.02639v1](http://arxiv.org/abs/2206.02639v1)
 - 2022-06-06, **Hardware-accelerated Mars Sample Localization via deep transfer learning from photorealistic simulations**, Raúl Castilla-Arquillo et.al., Paper: [http://arxiv.org/abs/2206.02622v1](http://arxiv.org/abs/2206.02622v1), Code: **[https://github.com/spaceuma/marssamplelocalization](https://github.com/spaceuma/marssamplelocalization)**
-- 2022-06-06, **Per-Instance Privacy Accounting for Differentially Private Stochastic Gradient Descent**, Da Yu et.al., Paper: [http://arxiv.org/abs/2206.02617v1](http://arxiv.org/abs/2206.02617v1)
+- 2022-06-07, **Per-Instance Privacy Accounting for Differentially Private Stochastic Gradient Descent**, Da Yu et.al., Paper: [http://arxiv.org/abs/2206.02617v2](http://arxiv.org/abs/2206.02617v2)
 - 2022-06-06, **Real-World Image Super-Resolution by Exclusionary Dual-Learning**, Hao Li et.al., Paper: [http://arxiv.org/abs/2206.02609v1](http://arxiv.org/abs/2206.02609v1), Code: **[https://github.com/house-leo/rwsr-edl](https://github.com/house-leo/rwsr-edl)**
 - 2022-06-06, **[Reproducibility Report] Explainable Deep One-Class Classification**, Joao P. C. Bertoldo et.al., Paper: [http://arxiv.org/abs/2206.02598v1](http://arxiv.org/abs/2206.02598v1)
 - 2022-06-06, **A Robust Deep Learning Enabled Semantic Communication System for Text**, Xiang Peng et.al., Paper: [http://arxiv.org/abs/2206.02596v1](http://arxiv.org/abs/2206.02596v1)
@@ -481,7 +481,7 @@
 - 2022-06-06, **A Simple yet Effective Method for Graph Classification**, Junran Wu et.al., Paper: [http://arxiv.org/abs/2206.02404v1](http://arxiv.org/abs/2206.02404v1)
 - 2022-06-06, **Deep learning assisted jet tomography for the study of Mach cones in QGP**, Zhong Yang et.al., Paper: [http://arxiv.org/abs/2206.02393v1](http://arxiv.org/abs/2206.02393v1)
 - 2022-06-06, **Semi-Supervised Segmentation of Mitochondria from Electron Microscopy Images Using Spatial Continuity**, Yunpeng Xiao et.al., Paper: [http://arxiv.org/abs/2206.02392v1](http://arxiv.org/abs/2206.02392v1)
-- 2022-06-06, **Adaptive Rollout Length for Model-Based RL using Model-Free Deep RL**, Abhinav Bhatia et.al., Paper: [http://arxiv.org/abs/2206.02380v1](http://arxiv.org/abs/2206.02380v1)
+- 2022-06-07, **Adaptive Rollout Length for Model-Based RL Using Model-Free Deep RL**, Abhinav Bhatia et.al., Paper: [http://arxiv.org/abs/2206.02380v2](http://arxiv.org/abs/2206.02380v2)
 - 2022-06-06, **CorticalFlow: A Diffeomorphic Mesh Deformation Module for Cortical Surface Reconstruction**, Léo Lebrat et.al., Paper: [http://arxiv.org/abs/2206.02374v1](http://arxiv.org/abs/2206.02374v1)
 - 2022-06-06, **Implementation of a Modified U-Net for Medical Image Segmentation on Edge Devices**, Owais Ali et.al., Paper: [http://arxiv.org/abs/2206.02358v1](http://arxiv.org/abs/2206.02358v1)
 - 2022-06-06, **Anomaly Detection with Test Time Augmentation and Consistency Evaluation**, Haowei He et.al., Paper: [http://arxiv.org/abs/2206.02345v1](http://arxiv.org/abs/2206.02345v1)
@@ -494,7 +494,7 @@
 - 2022-06-05, **Two Decades of Bengali Handwritten Digit Recognition: A Survey**, A. B. M. Ashikur Rahman et.al., Paper: [http://arxiv.org/abs/2206.02234v1](http://arxiv.org/abs/2206.02234v1)
 - 2022-06-05, **U(1) Symmetry-breaking Observed in Generic CNN Bottleneck Layers**, Louis-François Bouchard et.al., Paper: [http://arxiv.org/abs/2206.02220v1](http://arxiv.org/abs/2206.02220v1)
 - 2022-06-05, **Statistical Deep Learning for Spatial and Spatio-Temporal Data**, Christopher K. Wikle et.al., Paper: [http://arxiv.org/abs/2206.02218v1](http://arxiv.org/abs/2206.02218v1)
-- 2022-06-05, **Variable-rate hierarchical CPC leads to acoustic unit discovery in speech**, Santiago Cuervo et.al., Paper: [http://arxiv.org/abs/2206.02211v1](http://arxiv.org/abs/2206.02211v1), Code: **[https://github.com/chorowski-lab/hcpc](https://github.com/chorowski-lab/hcpc)**
+- 2022-06-07, **Variable-rate hierarchical CPC leads to acoustic unit discovery in speech**, Santiago Cuervo et.al., Paper: [http://arxiv.org/abs/2206.02211v2](http://arxiv.org/abs/2206.02211v2), Code: **[https://github.com/chorowski-lab/hcpc](https://github.com/chorowski-lab/hcpc)**
 - 2022-06-05, **Performance Comparison of Simple Transformer and Res-CNN-BiLSTM for Cyberbullying Classification**, Raunak Joshi et.al., Paper: [http://arxiv.org/abs/2206.02206v1](http://arxiv.org/abs/2206.02206v1)
 - 2022-06-05, **3D Convolutional with Attention for Action Recognition**, Labina Shrestha et.al., Paper: [http://arxiv.org/abs/2206.02203v1](http://arxiv.org/abs/2206.02203v1)
 - 2022-06-05, **FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction**, Qiao Feng et.al., Paper: [http://arxiv.org/abs/2206.02194v1](http://arxiv.org/abs/2206.02194v1)
@@ -4087,7 +4087,7 @@
 
 ## Visual Odometry
 
-- 2022-06-02, **Is Mapping Necessary for Realistic PointGoal Navigation?**, Ruslan Partsey et.al., Paper: [http://arxiv.org/abs/2206.00997v1](http://arxiv.org/abs/2206.00997v1), Code: **[https://github.com/rpartsey/pointgoal-navigation](https://github.com/rpartsey/pointgoal-navigation)**
+- 2022-06-07, **Is Mapping Necessary for Realistic PointGoal Navigation?**, Ruslan Partsey et.al., Paper: [http://arxiv.org/abs/2206.00997v2](http://arxiv.org/abs/2206.00997v2), Code: **[https://github.com/rpartsey/pointgoal-navigation](https://github.com/rpartsey/pointgoal-navigation)**
 - 2022-05-26, **Inertially Assisted Semi-Direct Visual Odometry for Fixed Wing Autonomous Unmanned Air Vehicles**, Eduardo Gallo et.al., Paper: [http://arxiv.org/abs/2205.13242v1](http://arxiv.org/abs/2205.13242v1)
 - 2022-05-17, **DynPL-SVO: A New Method Using Point and Line Features for Stereo Visual Odometry in Dynamic Scenes**, Xiaoguang Ma et.al., Paper: [http://arxiv.org/abs/2205.08207v1](http://arxiv.org/abs/2205.08207v1)
 - 2022-05-12, **Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2205.05916v1](http://arxiv.org/abs/2205.05916v1), Code: **[https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**
