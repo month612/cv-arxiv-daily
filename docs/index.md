@@ -495,6 +495,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-08**|**Neural Collapse: A Review on Modelling Principles and Generalization**|Vignesh Kothapalli et.al.|[2206.04041v1](http://arxiv.org/abs/2206.04041v1)|null|
+|**2022-06-07**|**Improving trajectory calculations using deep learning inspired single image superresolution**|Rüdiger Brecht et.al.|[2206.04015v1](http://arxiv.org/abs/2206.04015v1)|null|
+|**2022-06-08**|**Out-of-Distribution Detection with Class Ratio Estimation**|Mingtian Zhang et.al.|[2206.03955v1](http://arxiv.org/abs/2206.03955v1)|null|
+|**2022-06-07**|**Interpretability of artificial neural network models in artificial Intelligence vs. neuroscience**|Kohitij Kar et.al.|[2206.03951v1](http://arxiv.org/abs/2206.03951v1)|null|
+|**2022-06-08**|**Boundary between noise and information applied to filtering neural network weight matrices**|Max Staats et.al.|[2206.03927v1](http://arxiv.org/abs/2206.03927v1)|null|
+|**2022-06-08**|**Constraints to neutron-star kicks in High-Mass X-ray Binaries with Gaia EDR3**|Francis Fortin et.al.|[2206.03904v1](http://arxiv.org/abs/2206.03904v1)|null|
+|**2022-06-08**|**Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-Recurrence Brain Tumor MRI Scans**|Tony C. W. Mok et.al.|[2206.03900v1](http://arxiv.org/abs/2206.03900v1)|**[link](https://github.com/cwmok/dirac)**|
+|**2022-06-07**|**FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning**|Meisam Hejazinia Dzmitry Huba et.al.|[2206.03852v1](http://arxiv.org/abs/2206.03852v1)|null|
+|**2022-06-08**|**SUPER-IVIM-DC: Intra-voxel incoherent motion based Fetal lung maturity assessment from limited DWI data using supervised learning coupled with data-consistency**|Noam Korngut et.al.|[2206.03820v1](http://arxiv.org/abs/2206.03820v1)|null|
+|**2022-06-08**|**Dual Windows Are Significant: Learning from Mediastinal Window and Focusing on Lung Window**|Qiuli Wang et.al.|[2206.03803v1](http://arxiv.org/abs/2206.03803v1)|null|
+|**2022-06-08**|**Action Noise in Off-Policy Deep Reinforcement Learning: Impact on Exploration and Performance**|Jakob Hollenstein et.al.|[2206.03787v1](http://arxiv.org/abs/2206.03787v1)|null|
+|**2022-06-08**|**Learning Digital Terrain Models from Point Clouds: ALS2DTM Dataset and Rasterization-based GAN**|Hoàng-Ân Lê et.al.|[2206.03778v1](http://arxiv.org/abs/2206.03778v1)|null|
+|**2022-06-08**|**Mixed-Timescale Deep-Unfolding for Joint Channel Estimation and Hybrid Beamforming**|Kai Kang et.al.|[2206.03755v1](http://arxiv.org/abs/2206.03755v1)|null|
+|**2022-06-08**|**Wavelet Regularization Benefits Adversarial Training**|Jun Yan et.al.|[2206.03727v1](http://arxiv.org/abs/2206.03727v1)|**[link](https://github.com/momo1986/adversarialwavelettraining)**|
+|**2022-06-08**|**Hub-Pathway: Transfer Learning from A Hub of Pre-trained Models**|Yang Shu et.al.|[2206.03726v1](http://arxiv.org/abs/2206.03726v1)|null|
+|**2022-06-08**|**Latent Boundary-guided Adversarial Training**|Xiaowei Zhou et.al.|[2206.03717v1](http://arxiv.org/abs/2206.03717v1)|**[link](https://github.com/zhouxiaowei1120/ladder)**|
+|**2022-06-08**|**Hypernetwork-based Personalized Federated Learning for Multi-Institutional CT Imaging**|Ziyuan Yang et.al.|[2206.03709v1](http://arxiv.org/abs/2206.03709v1)|null|
+|**2022-06-08**|**Metric Based Few-Shot Graph Classification**|Donato Crisostomi et.al.|[2206.03695v1](http://arxiv.org/abs/2206.03695v1)|**[link](https://github.com/crisostomi/metric-few-shot-graph)**|
+|**2022-06-08**|**Robust Deep Ensemble Method for Real-world Image Denoising**|Pengju Liu et.al.|[2206.03691v1](http://arxiv.org/abs/2206.03691v1)|**[link](https://github.com/lpj0/bde)**|
+|**2022-06-08**|**Identifying good directions to escape the NTK regime and efficiently learn low-degree plus sparse polynomials**|Eshaan Nichani et.al.|[2206.03688v1](http://arxiv.org/abs/2206.03688v1)|null|
+|**2022-06-08**|**Semi-supervised MIMO Detection Using Cycle-consistent Generative Adversarial Network**|Hongzhi Zhu et.al.|[2206.03686v1](http://arxiv.org/abs/2206.03686v1)|null|
+|**2022-06-08**|**Progress Report: A Deep Learning Guided Exploration of Affine Unimodular Loop Transformations**|Massinissa Merouani et.al.|[2206.03684v1](http://arxiv.org/abs/2206.03684v1)|null|
+|**2022-06-08**|**UHD Image Deblurring via Multi-scale Cubic-Mixer**|Zhuoran Zheng et.al.|[2206.03678v1](http://arxiv.org/abs/2206.03678v1)|null|
+|**2022-06-08**|**Toward Certified Robustness Against Real-World Distribution Shifts**|Haoze Wu et.al.|[2206.03669v1](http://arxiv.org/abs/2206.03669v1)|null|
+|**2022-06-08**|**One Hyper-Initializer for All Network Architectures in Medical Image Analysis**|Fangxin Shang et.al.|[2206.03661v1](http://arxiv.org/abs/2206.03661v1)|null|
+|**2022-06-08**|**Solving the Spike Feature Information Vanishing Problem in Spiking Deep Q Network with Potential Based Normalization**|Yinqian Sun et.al.|[2206.03654v1](http://arxiv.org/abs/2206.03654v1)|null|
+|**2022-06-08**|**Exploring accurate potential energy surfaces via integrating variational quantum eigensovler with machine learning**|Yanxian Tao et.al.|[2206.03637v1](http://arxiv.org/abs/2206.03637v1)|null|
+|**2022-06-08**|**Dap-FL: Federated Learning flourishes by adaptive tuning and secure aggregation**|Qian Chen et.al.|[2206.03623v1](http://arxiv.org/abs/2206.03623v1)|null|
+|**2022-06-07**|**Predictive Modeling of Charge Levels for Battery Electric Vehicles using CNN EfficientNet and IGTD Algorithm**|Seongwoo Choi et.al.|[2206.03612v1](http://arxiv.org/abs/2206.03612v1)|null|
+|**2022-06-07**|**Towards Scalable Hyperbolic Neural Networks using Taylor Series Approximations**|Nurendra Choudhary et.al.|[2206.03610v1](http://arxiv.org/abs/2206.03610v1)|null|
+|**2022-06-07**|**A new method incorporating deep learning with shape priors for left ventricular segmentation in myocardial perfusion SPECT images**|Fubao Zhu et.al.|[2206.03603v1](http://arxiv.org/abs/2206.03603v1)|null|
+|**2022-06-07**|**Neural Network Compression via Effective Filter Analysis and Hierarchical Pruning**|Ziqi Zhou et.al.|[2206.03596v1](http://arxiv.org/abs/2206.03596v1)|null|
+|**2022-06-07**|**Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks**|Yang Shi et.al.|[2206.03545v1](http://arxiv.org/abs/2206.03545v1)|null|
+|**2022-06-07**|**Supermassive Black Holes at High Redshift are Expected to be Obscured by their Massive Host Galaxies' Inter Stellar Medium**|R. Gilli et.al.|[2206.03508v1](http://arxiv.org/abs/2206.03508v1)|null|
 |**2022-06-07**|**Short Blocklength Wiretap Channel Codes via Deep Learning: Design and Performance Evaluation**|Vidhi Rana et.al.|[2206.03477v1](http://arxiv.org/abs/2206.03477v1)|null|
 |**2022-06-07**|**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models**|Walter H. L. Pinaya et.al.|[2206.03461v1](http://arxiv.org/abs/2206.03461v1)|null|
 |**2022-06-07**|**Combining physics-based and data-driven techniques for reliable hybrid analysis and modeling using the corrective source term approach**|Sindre Stenen Blakseth et.al.|[2206.03451v1](http://arxiv.org/abs/2206.03451v1)|null|
