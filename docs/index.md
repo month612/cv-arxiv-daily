@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.08
+## Updated on 2022.06.09
 
 ## SLAM
 
@@ -519,10 +519,10 @@ layout: default
 |**2022-06-07**|**6G-AUTOR: Autonomic CSI-Free Transceiver via Realtime On-Device Signal Analytics**|Shih-Chun Lin et.al.|[2206.03250v1](http://arxiv.org/abs/2206.03250v1)|null|
 |**2022-06-07**|**Towards better Interpretable and Generalizable AD detection using Collective Artificial Intelligence**|Huy-Dung Nguyen et.al.|[2206.03247v1](http://arxiv.org/abs/2206.03247v1)|null|
 |**2022-06-07**|**Deep Neural Patchworks: Coping with Large Segmentation Tasks**|Marco Reisert et.al.|[2206.03210v1](http://arxiv.org/abs/2206.03210v1)|null|
-|**2022-06-07**|**From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation**|Reduan Achtibat et.al.|[2206.03208v1](http://arxiv.org/abs/2206.03208v1)|null|
+|**2022-06-07**|**From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation**|Reduan Achtibat et.al.|[2206.03208v1](http://arxiv.org/abs/2206.03208v1)|**[link](https://github.com/rachtibat/zennit-crp)**|
 |**2022-06-07**|**FlexLip: A Controllable Text-to-Lip System**|Dan Oneata et.al.|[2206.03206v1](http://arxiv.org/abs/2206.03206v1)|null|
 |**2022-06-07**|**Generalized Data Distribution Iteration**|Jiajun Fan et.al.|[2206.03192v1](http://arxiv.org/abs/2206.03192v1)|null|
-|**2022-06-07**|**TSFEDL: A Python Library for Time Series Spatio-Temporal Feature Extraction and Prediction using Deep Learning (with Appendices on Detailed Network Architectures and Experimental Cases of Study)**|Ignacio Aguilera-Martos et.al.|[2206.03179v1](http://arxiv.org/abs/2206.03179v1)|null|
+|**2022-06-08**|**TSFEDL: A Python Library for Time Series Spatio-Temporal Feature Extraction and Prediction using Deep Learning (with Appendices on Detailed Network Architectures and Experimental Cases of Study)**|Ignacio Aguilera-Martos et.al.|[2206.03179v2](http://arxiv.org/abs/2206.03179v2)|null|
 |**2022-06-07**|**Fooling Explanations in Text Classifiers**|Adam Ivankay et.al.|[2206.03178v1](http://arxiv.org/abs/2206.03178v1)|null|
 |**2022-06-07**|**Decentralized Low-Latency Collaborative Inference via Ensembles on the Edge**|May Malka et.al.|[2206.03165v1](http://arxiv.org/abs/2206.03165v1)|**[link](https://github.com/maymalka10/ensembles-on-the-edge)**|
 |**2022-06-07**|**Wavelet Prior Attention Learning in Axial Inpainting Network**|Chenjie Cao et.al.|[2206.03113v1](http://arxiv.org/abs/2206.03113v1)|null|
@@ -535,7 +535,7 @@ layout: default
 |**2022-06-07**|**An Empirical Study of IoT Security Aspects at Sentence-Level in Developer Textual Discussions**|Nibir Chandra Mandal et.al.|[2206.03079v1](http://arxiv.org/abs/2206.03079v1)|null|
 |**2022-06-07**|**A Sequential Metamorphic Testing Framework for Understanding Automated Driving Systems**|Quang-Hung Luu et.al.|[2206.03075v1](http://arxiv.org/abs/2206.03075v1)|null|
 |**2022-06-07**|**Exploration of Systolic-Vector Architecture with Resource Scheduling for Dynamic ML Workloads**|Jung-Hoon Kim et.al.|[2206.03060v1](http://arxiv.org/abs/2206.03060v1)|null|
-|**2022-06-07**|**Deep Learning Techniques for Visual Counting**|Luca Ciampi et.al.|[2206.03033v1](http://arxiv.org/abs/2206.03033v1)|null|
+|**2022-06-08**|**Deep Learning Techniques for Visual Counting**|Luca Ciampi et.al.|[2206.03033v2](http://arxiv.org/abs/2206.03033v2)|null|
 |**2022-06-07**|**Intelligent Circuit Design and Implementation with Machine Learning**|Zhiyao Xie et.al.|[2206.03032v1](http://arxiv.org/abs/2206.03032v1)|null|
 |**2022-06-07**|**Explainability in Mechanism Design: Recent Advances and the Road Ahead**|Sharadhi Alape Suryanarayana et.al.|[2206.03031v1](http://arxiv.org/abs/2206.03031v1)|null|
 |**2022-06-07**|**Deep Learning Metric Detectors in General Relativity**|Ryota Katsube et.al.|[2206.03006v1](http://arxiv.org/abs/2206.03006v1)|null|
@@ -4205,7 +4205,7 @@ layout: default
 |**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
 |**2022-05-08**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v3](http://arxiv.org/abs/2112.06180v3)|null|
 |**2021-12-08**|**GPCO: An Unsupervised Green Point Cloud Odometry Method**|Pranav Kadam et.al.|[2112.04054v1](http://arxiv.org/abs/2112.04054v1)|null|
-|**2021-12-06**|**3D Hierarchical Refinement and Augmentation for Unsupervised Learning of Depth and Pose from Monocular Video**|Guangming Wang et.al.|[2112.03045v1](http://arxiv.org/abs/2112.03045v1)|null|
+|**2022-06-08**|**3D Hierarchical Refinement and Augmentation for Unsupervised Learning of Depth and Pose from Monocular Video**|Guangming Wang et.al.|[2112.03045v2](http://arxiv.org/abs/2112.03045v2)|null|
 |**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|**[link](https://github.com/irvlab/direct_stereo_slam)**|
 |**2021-11-22**|**Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment**|Yijun Cao et.al.|[2111.11141v1](http://arxiv.org/abs/2111.11141v1)|null|
 |**2021-11-14**|**TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo**|Lukas Koestler et.al.|[2111.07418v1](http://arxiv.org/abs/2111.07418v1)|**[link](https://github.com/tum-vision/tandem)**|
