@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg et.al.|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
 |**2022-06-07**|**Robot Self-Calibration Using Actuated 3D Sensors**|Arne Peters et.al.|[2206.03430v1](http://arxiv.org/abs/2206.03430v1)|null|
 |**2022-06-07**|**Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map**|Haodong Yuan et.al.|[2206.03062v1](http://arxiv.org/abs/2206.03062v1)|null|
 |**2022-06-05**|**DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**|Alena Savinykh et.al.|[2206.02199v1](http://arxiv.org/abs/2206.02199v1)|null|
@@ -316,6 +317,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
 |**2022-05-17**|**MulT: An End-to-End Multitask Learning Transformer**|Deblina Bhattacharjee et.al.|[2205.08303v1](http://arxiv.org/abs/2205.08303v1)|null|
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
@@ -471,6 +473,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**Overcoming the Spectral Bias of Neural Value Approximation**|Ge Yang et.al.|[2206.04672v1](http://arxiv.org/abs/2206.04672v1)|null|
+|**2022-06-09**|**Open Challenges in Deep Stereo: the Booster Dataset**|Pierluigi Zama Ramirez et.al.|[2206.04671v1](http://arxiv.org/abs/2206.04671v1)|null|
+|**2022-06-09**|**AGConv: Adaptive Graph Convolution on 3D Point Clouds**|Mingqiang Wei et.al.|[2206.04665v1](http://arxiv.org/abs/2206.04665v1)|**[link](https://github.com/hrzhou2/adaptconv-master)**|
+|**2022-06-09**|**Towards Layer-wise Image Vectorization**|Xu Ma et.al.|[2206.04655v1](http://arxiv.org/abs/2206.04655v1)|**[link](https://github.com/picsart-ai-research/live-layerwise-image-vectorization)**|
+|**2022-06-09**|**Probability flow solution of the Fokker-Planck equation**|Nicholas M. Boffi et.al.|[2206.04642v1](http://arxiv.org/abs/2206.04642v1)|null|
+|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v1](http://arxiv.org/abs/2206.04615v1)|**[link](https://github.com/google/BIG-bench)**|
+|**2022-06-09**|**Benefits of Overparameterized Convolutional Residual Networks: Function Approximation under Smoothness Constraint**|Hao Liu et.al.|[2206.04569v1](http://arxiv.org/abs/2206.04569v1)|null|
+|**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg et.al.|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
+|**2022-06-09**|**Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**|Hamid Nasiri et.al.|[2206.04548v1](http://arxiv.org/abs/2206.04548v1)|null|
+|**2022-06-09**|**DogTouch: CNN-based Recognition of Surface Textures by Quadruped Robot with High Density Tactile Sensors**|Nipun Dhananjaya Weerakkodi Mudalige et.al.|[2206.04533v1](http://arxiv.org/abs/2206.04533v1)|null|
+|**2022-06-09**|**A deep learning method for the trajectory reconstruction of cosmic rays with the DAMPE mission**|Andrii Tykhonov et.al.|[2206.04532v1](http://arxiv.org/abs/2206.04532v1)|null|
+|**2022-06-09**|**DORA: Exploring outlier representations in Deep Neural Networks**|Kirill Bykov et.al.|[2206.04530v1](http://arxiv.org/abs/2206.04530v1)|null|
+|**2022-06-09**|**Efficient Human Pose Estimation via 3D Event Point Cloud**|Jiaan Chen et.al.|[2206.04511v1](http://arxiv.org/abs/2206.04511v1)|null|
+|**2022-06-09**|**Redundancy in Deep Linear Neural Networks**|Oriel BenShmuel et.al.|[2206.04490v1](http://arxiv.org/abs/2206.04490v1)|null|
+|**2022-06-09**|**Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**|Yi Yang et.al.|[2206.04486v1](http://arxiv.org/abs/2206.04486v1)|null|
+|**2022-06-09**|**BSM loss: A superior way in modeling aleatory uncertainty of fine_grained classification**|Shuang Ge et.al.|[2206.04479v1](http://arxiv.org/abs/2206.04479v1)|null|
+|**2022-06-09**|**Early Transferability of Adversarial Examples in Deep Neural Networks**|Oriel BenShmuel et.al.|[2206.04472v1](http://arxiv.org/abs/2206.04472v1)|null|
+|**2022-06-09**|**Meet You Halfway: Explaining Deep Learning Mysteries**|Oriel BenShmuel et.al.|[2206.04463v1](http://arxiv.org/abs/2206.04463v1)|null|
+|**2022-06-09**|**SDQ: Stochastic Differentiable Quantization with Mixed Precision**|Xijie Huang et.al.|[2206.04459v1](http://arxiv.org/abs/2206.04459v1)|null|
+|**2022-06-09**|**Seamless Accurate Positioning in Deep Urban Area based on Mode Switching Between DGNSS and Multipath Mitigation Positioning**|Yongjun Lee et.al.|[2206.04457v1](http://arxiv.org/abs/2206.04457v1)|null|
+|**2022-06-09**|**Deep kernelization for the Tree Bisection and Reconnnect (TBR) distance in phylogenetics**|Steven Kelk et.al.|[2206.04451v1](http://arxiv.org/abs/2206.04451v1)|null|
+|**2022-06-09**|**Convolutional Dictionary Learning by End-To-End Training of Iterative Neural Networks**|Andreas Kofler et.al.|[2206.04447v1](http://arxiv.org/abs/2206.04447v1)|null|
+|**2022-06-09**|**On Scaling of Hall-Effect Thrusters Using Neural Nets**|Yegor V. Plyashkov et.al.|[2206.04440v1](http://arxiv.org/abs/2206.04440v1)|null|
+|**2022-06-09**|**Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk**|Chengyang Ying et.al.|[2206.04436v1](http://arxiv.org/abs/2206.04436v1)|null|
+|**2022-06-09**|**Cluster Builder -- A DSL to Deploy a Parallel Application Over a Workstation Cluster**|Jon Kerridge et.al.|[2206.04429v1](http://arxiv.org/abs/2206.04429v1)|null|
+|**2022-06-09**|**Multiple Instance Learning for Digital Pathology: A Review on the State-of-the-Art, Limitations & Future Potential**|Michael Gadermayr et.al.|[2206.04425v1](http://arxiv.org/abs/2206.04425v1)|null|
+|**2022-06-09**|**Learning to generalize Dispatching rules on the Job Shop Scheduling**|Zangir Iklassov et.al.|[2206.04423v1](http://arxiv.org/abs/2206.04423v1)|null|
+|**2022-06-09**|**Deep Meta-learning in Recommendation Systems: A Survey**|Chunyang Wang et.al.|[2206.04415v1](http://arxiv.org/abs/2206.04415v1)|null|
+|**2022-06-09**|**Depression Recognition using Remote Photoplethysmography from Facial Videos**|Constantino Álvarez Casado et.al.|[2206.04399v1](http://arxiv.org/abs/2206.04399v1)|null|
+|**2022-06-09**|**Xplique: A Deep Learning Explainability Toolbox**|Thomas Fel et.al.|[2206.04394v1](http://arxiv.org/abs/2206.04394v1)|**[link](https://github.com/deel-ai/xplique)**|
+|**2022-06-09**|**Ozone mini-hole in winter 2015/2016 over Siberia: Characteristic features and relationship to atmospheric blocking**|I. I. Mokhov et.al.|[2206.04389v1](http://arxiv.org/abs/2206.04389v1)|null|
+|**2022-06-09**|**Only-Train-Once MR Fingerprinting for Magnetization Transfer Contrast Quantification**|Beomgu Kang et.al.|[2206.04383v1](http://arxiv.org/abs/2206.04383v1)|null|
+|**2022-06-09**|**Uncovering bias in the PlantVillage dataset**|Mehmet Alican Noyan et.al.|[2206.04374v1](http://arxiv.org/abs/2206.04374v1)|**[link](https://github.com/Ipsumio/plantvillage_bias)**|
+|**2022-06-09**|**CARLA-GeAR: a Dataset Generator for a Systematic Evaluation of Adversarial Robustness of Vision Models**|Federico Nesti et.al.|[2206.04365v1](http://arxiv.org/abs/2206.04365v1)|null|
+|**2022-06-09**|**Deep Neural Network for Blind Visual Quality Assessment of 4K Content**|Wei Lu et.al.|[2206.04363v1](http://arxiv.org/abs/2206.04363v1)|null|
+|**2022-06-09**|**Model Degradation Hinders Deep Graph Neural Networks**|Wentao Zhang et.al.|[2206.04361v1](http://arxiv.org/abs/2206.04361v1)|null|
+|**2022-06-09**|**Trajectory-dependent Generalization Bounds for Deep Neural Networks via Fractional Brownian Motion**|Chengli Tan et.al.|[2206.04359v1](http://arxiv.org/abs/2206.04359v1)|null|
+|**2022-06-09**|**Deep radiomic signature with immune cell markers predicts the survival of glioma patients**|Ahmad Chaddad et.al.|[2206.04349v1](http://arxiv.org/abs/2206.04349v1)|null|
+|**2022-06-09**|**Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation**|Shangqi Gao et.al.|[2206.04336v1](http://arxiv.org/abs/2206.04336v1)|null|
+|**2022-06-09**|**Blind Surveillance Image Quality Assessment via Deep Neural Network Combined with the Visual Saliency**|Wei Lu et.al.|[2206.04318v1](http://arxiv.org/abs/2206.04318v1)|null|
+|**2022-06-09**|**Unveiling Transformers with LEGO: a synthetic reasoning task**|Yi Zhang et.al.|[2206.04301v1](http://arxiv.org/abs/2206.04301v1)|null|
+|**2022-06-09**|**Reconstruct Face from Features Using GAN Generator as a Distribution Constraint**|Xingbo Dong et.al.|[2206.04295v1](http://arxiv.org/abs/2206.04295v1)|null|
+|**2022-06-09**|**A No-Reference Deep Learning Quality Assessment Method for Super-resolution Images Based on Frequency Maps**|Zicheng Zhang et.al.|[2206.04289v1](http://arxiv.org/abs/2206.04289v1)|null|
+|**2022-06-09**|**STEM image analysis based on deep learning: identification of vacancy defects and polymorphs of ${MoS_2}$**|Kihyun Lee et.al.|[2206.04272v1](http://arxiv.org/abs/2206.04272v1)|null|
+|**2022-06-09**|**DeepVerge: Classification of Roadside Verge Biodiversity and Conservation Potential**|Andrew Perrett et.al.|[2206.04271v1](http://arxiv.org/abs/2206.04271v1)|null|
+|**2022-06-09**|**An Optimization Method-Assisted Ensemble Deep Reinforcement Learning Algorithm to Solve Unit Commitment Problems**|Jingtao Qin et.al.|[2206.04249v1](http://arxiv.org/abs/2206.04249v1)|null|
+|**2022-06-09**|**SwinCheX: Multi-label classification on chest X-ray images with transformers**|Sina Taslimi et.al.|[2206.04246v1](http://arxiv.org/abs/2206.04246v1)|null|
+|**2022-06-09**|**Cardiac Adipose Tissue Segmentation via Image-Level Annotations**|Ziyi Huang et.al.|[2206.04238v1](http://arxiv.org/abs/2206.04238v1)|null|
+|**2022-06-09**|**Analytical Composition of Differential Privacy via the Edgeworth Accountant**|Hua Wang et.al.|[2206.04236v1](http://arxiv.org/abs/2206.04236v1)|**[link](https://github.com/huawang-wharton/edgeworthaccountant)**|
+|**2022-06-09**|**Deep Surrogate Assisted Generation of Environments**|Varun Bhatt et.al.|[2206.04199v1](http://arxiv.org/abs/2206.04199v1)|null|
 |**2022-06-08**|**Neural Collapse: A Review on Modelling Principles and Generalization**|Vignesh Kothapalli et.al.|[2206.04041v1](http://arxiv.org/abs/2206.04041v1)|null|
 |**2022-06-07**|**Improving trajectory calculations using deep learning inspired single image superresolution**|Rüdiger Brecht et.al.|[2206.04015v1](http://arxiv.org/abs/2206.04015v1)|**[link](https://github.com/rudigerbrecht/improving-trajectory-calculations-using-sisr)**|
 |**2022-06-08**|**Out-of-Distribution Detection with Class Ratio Estimation**|Mingtian Zhang et.al.|[2206.03955v1](http://arxiv.org/abs/2206.03955v1)|null|
@@ -4263,6 +4315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**On Data Scaling in Masked Image Modeling**|Zhenda Xie et.al.|[2206.04664v1](http://arxiv.org/abs/2206.04664v1)|null|
 |**2022-06-03**|**Style-Content Disentanglement in Language-Image Pretraining Representations for Zero-Shot Sketch-to-Image Synthesis**|Jan Zuiderveld et.al.|[2206.01661v1](http://arxiv.org/abs/2206.01661v1)|null|
 |**2022-06-02**|**Siamese Image Modeling for Self-Supervised Vision Representation Learning**|Chenxin Tao et.al.|[2206.01204v1](http://arxiv.org/abs/2206.01204v1)|null|
 |**2022-06-02**|**VL-BEiT: Generative Vision-Language Pretraining**|Hangbo Bao et.al.|[2206.01127v1](http://arxiv.org/abs/2206.01127v1)|null|
