@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.12
+## Updated on 2022.06.13
 
 ## SLAM
 
@@ -502,7 +502,7 @@ layout: default
 |**2022-06-09**|**AGConv: Adaptive Graph Convolution on 3D Point Clouds**|Mingqiang Wei et.al.|[2206.04665v1](http://arxiv.org/abs/2206.04665v1)|**[link](https://github.com/hrzhou2/adaptconv-master)**|
 |**2022-06-09**|**Towards Layer-wise Image Vectorization**|Xu Ma et.al.|[2206.04655v1](http://arxiv.org/abs/2206.04655v1)|**[link](https://github.com/picsart-ai-research/live-layerwise-image-vectorization)**|
 |**2022-06-09**|**Probability flow solution of the Fokker-Planck equation**|Nicholas M. Boffi et.al.|[2206.04642v1](http://arxiv.org/abs/2206.04642v1)|null|
-|**2022-06-09**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v1](http://arxiv.org/abs/2206.04615v1)|**[link](https://github.com/google/BIG-bench)**|
+|**2022-06-10**|**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**|Aarohi Srivastava et.al.|[2206.04615v2](http://arxiv.org/abs/2206.04615v2)|**[link](https://github.com/google/BIG-bench)**|
 |**2022-06-09**|**Benefits of Overparameterized Convolutional Residual Networks: Function Approximation under Smoothness Constraint**|Hao Liu et.al.|[2206.04569v1](http://arxiv.org/abs/2206.04569v1)|null|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg et.al.|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
 |**2022-06-09**|**Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**|Hamid Nasiri et.al.|[2206.04548v1](http://arxiv.org/abs/2206.04548v1)|**[link](https://github.com/gha7all/covid19-automated-detection)**|
