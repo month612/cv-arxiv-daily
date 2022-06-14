@@ -1,8 +1,8 @@
-> Updated on 2022.06.13
+> Updated on 2022.06.14
 
 ## SLAM
 
-- 2022-06-10, **Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**, Javier Cremona et.al., Paper: [http://arxiv.org/abs/2206.05066v1](http://arxiv.org/abs/2206.05066v1)
+- 2022-06-10, **Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**, Javier Cremona et.al., Paper: [http://arxiv.org/abs/2206.05066v1](http://arxiv.org/abs/2206.05066v1), Code: **[https://github.com/cifasis/slam_agricultural_evaluation](https://github.com/cifasis/slam_agricultural_evaluation)**
 - 2022-06-09, **SparseFormer: Attention-based Depth Completion Network**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2206.04557v1](http://arxiv.org/abs/2206.04557v1)
 - 2022-06-07, **Robot Self-Calibration Using Actuated 3D Sensors**, Arne Peters et.al., Paper: [http://arxiv.org/abs/2206.03430v1](http://arxiv.org/abs/2206.03430v1)
 - 2022-06-07, **Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map**, Haodong Yuan et.al., Paper: [http://arxiv.org/abs/2206.03062v1](http://arxiv.org/abs/2206.03062v1)
@@ -462,7 +462,7 @@
 
 ## Deep Learning
 
-- 2022-06-10, **StructCoder: Structure-Aware Transformer for Code Generation**, Sindhu Tipirneni et.al., Paper: [http://arxiv.org/abs/2206.05239v1](http://arxiv.org/abs/2206.05239v1)
+- 2022-06-10, **StructCoder: Structure-Aware Transformer for Code Generation**, Sindhu Tipirneni et.al., Paper: [http://arxiv.org/abs/2206.05239v1](http://arxiv.org/abs/2206.05239v1), Code: **[https://github.com/reddy-lab-code-research/structcoder](https://github.com/reddy-lab-code-research/structcoder)**
 - 2022-06-10, **A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction**, Wonseok Hwang et.al., Paper: [http://arxiv.org/abs/2206.05224v1](http://arxiv.org/abs/2206.05224v1), Code: **[https://github.com/lbox-kr/lbox-open](https://github.com/lbox-kr/lbox-open)**
 - 2022-06-10, **Proton hot spots and exclusive vector meson production**, S. Demirci et.al., Paper: [http://arxiv.org/abs/2206.05207v1](http://arxiv.org/abs/2206.05207v1)
 - 2022-06-10, **Amplification of wave groups in the forced nonlinear Schrödinger equation**, Montri Maleewong et.al., Paper: [http://arxiv.org/abs/2206.05197v1](http://arxiv.org/abs/2206.05197v1)
@@ -470,7 +470,7 @@
 - 2022-06-10, **GD-VAEs: Geometric Dynamic Variational Autoencoders for Learning Nonlinear Dynamics and Dimension Reductions**, Ryan Lopez et.al., Paper: [http://arxiv.org/abs/2206.05183v1](http://arxiv.org/abs/2206.05183v1)
 - 2022-06-10, **Teacher Perception of Automatically Extracted Grammar Concepts for L2 Language Learning**, Aditi Chaudhary et.al., Paper: [http://arxiv.org/abs/2206.05154v1](http://arxiv.org/abs/2206.05154v1)
 - 2022-06-10, **Weakly-supervised segmentation using inherently-explainable classification models and their application to brain tumour classification**, Soumick Chatterjee et.al., Paper: [http://arxiv.org/abs/2206.05148v1](http://arxiv.org/abs/2206.05148v1)
-- 2022-06-10, **Fast Deep Autoencoder for Federated learning**, David Novoa-Paradela et.al., Paper: [http://arxiv.org/abs/2206.05136v1](http://arxiv.org/abs/2206.05136v1)
+- 2022-06-13, **Fast Deep Autoencoder for Federated learning**, David Novoa-Paradela et.al., Paper: [http://arxiv.org/abs/2206.05136v2](http://arxiv.org/abs/2206.05136v2)
 - 2022-06-10, **Real-time Hyper-Dimensional Reconfiguration at the Edge using Hardware Accelerators**, Indhumathi Kandaswamy et.al., Paper: [http://arxiv.org/abs/2206.05128v1](http://arxiv.org/abs/2206.05128v1)
 - 2022-06-10, **REKnow: Enhanced Knowledge for Joint Entity and Relation Extraction**, Sheng Zhang et.al., Paper: [http://arxiv.org/abs/2206.05123v1](http://arxiv.org/abs/2206.05123v1)
 - 2022-06-10, **Deep Multi-Agent Reinforcement Learning with Hybrid Action Spaces based on Maximum Entropy**, Hongzhi Hua et.al., Paper: [http://arxiv.org/abs/2206.05108v1](http://arxiv.org/abs/2206.05108v1)
@@ -494,14 +494,14 @@
 - 2022-06-10, **Multi-fidelity Hierarchical Neural Processes**, Dongxia Wu et.al., Paper: [http://arxiv.org/abs/2206.04872v1](http://arxiv.org/abs/2206.04872v1)
 - 2022-06-10, **Binarizing Split Learning for Data Privacy Enhancement and Computation Reduction**, Ngoc Duy Pham et.al., Paper: [http://arxiv.org/abs/2206.04864v1](http://arxiv.org/abs/2206.04864v1)
 - 2022-06-10, **Beyond the Gates of Euclidean Space: Temporal-Discrimination-Fusions and Attention-based Graph Neural Network for Human Activity Recognition**, Nafees Ahmad et.al., Paper: [http://arxiv.org/abs/2206.04855v1](http://arxiv.org/abs/2206.04855v1)
-- 2022-06-10, **Masked Autoencoders are Robust Data Augmentors**, Haohang Xu et.al., Paper: [http://arxiv.org/abs/2206.04846v1](http://arxiv.org/abs/2206.04846v1)
+- 2022-06-10, **Masked Autoencoders are Robust Data Augmentors**, Haohang Xu et.al., Paper: [http://arxiv.org/abs/2206.04846v1](http://arxiv.org/abs/2206.04846v1), Code: **[https://github.com/haohang96/mra](https://github.com/haohang96/mra)**
 - 2022-06-10, **Training Neural Networks using SAT solvers**, Subham S. Sahoo et.al., Paper: [http://arxiv.org/abs/2206.04833v1](http://arxiv.org/abs/2206.04833v1)
-- 2022-06-10, **Membership Inference via Backdooring**, Hongsheng Hu et.al., Paper: [http://arxiv.org/abs/2206.04823v1](http://arxiv.org/abs/2206.04823v1)
+- 2022-06-10, **Membership Inference via Backdooring**, Hongsheng Hu et.al., Paper: [http://arxiv.org/abs/2206.04823v1](http://arxiv.org/abs/2206.04823v1), Code: **[https://github.com/hongshenghu/membership-inference-via-backdooring](https://github.com/hongshenghu/membership-inference-via-backdooring)**
 - 2022-06-09, **Deep learning-enhanced ensemble-based data assimilation for high-dimensional nonlinear dynamical systems**, Ashesh Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2206.04811v1](http://arxiv.org/abs/2206.04811v1)
 - 2022-06-09, **Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream**, Susik Yoon et.al., Paper: [http://arxiv.org/abs/2206.04792v1](http://arxiv.org/abs/2206.04792v1)
 - 2022-06-09, **ReFace: Real-time Adversarial Attacks on Face Recognition Systems**, Shehzeen Hussain et.al., Paper: [http://arxiv.org/abs/2206.04783v1](http://arxiv.org/abs/2206.04783v1)
 - 2022-06-09, **What should AI see? Using the Public's Opinion to Determine the Perception of an AI**, Robin Chan et.al., Paper: [http://arxiv.org/abs/2206.04776v1](http://arxiv.org/abs/2206.04776v1)
-- 2022-06-09, **AI-MIA: COVID-19 Detection & Severity Analysis through Medical Imaging**, Dimitrios Kollias et.al., Paper: [http://arxiv.org/abs/2206.04732v1](http://arxiv.org/abs/2206.04732v1)
+- 2022-06-13, **AI-MIA: COVID-19 Detection & Severity Analysis through Medical Imaging**, Dimitrios Kollias et.al., Paper: [http://arxiv.org/abs/2206.04732v2](http://arxiv.org/abs/2206.04732v2)
 - 2022-06-09, **EMPRESS. IX. Extremely Metal-Poor Galaxies are Very Gas-Rich Dispersion-Dominated Systems: Will JWST Witness Gaseous Turbulent High-z Primordial Galaxies?**, Yuki Isobe et.al., Paper: [http://arxiv.org/abs/2206.04709v1](http://arxiv.org/abs/2206.04709v1)
 - 2022-06-09, **Overcoming the Spectral Bias of Neural Value Approximation**, Ge Yang et.al., Paper: [http://arxiv.org/abs/2206.04672v1](http://arxiv.org/abs/2206.04672v1)
 - 2022-06-09, **Open Challenges in Deep Stereo: the Booster Dataset**, Pierluigi Zama Ramirez et.al., Paper: [http://arxiv.org/abs/2206.04671v1](http://arxiv.org/abs/2206.04671v1)
@@ -4341,7 +4341,7 @@
 
 ## non-photorealistic rendering
 
-- 2022-06-10, **Masked Autoencoders are Robust Data Augmentors**, Haohang Xu et.al., Paper: [http://arxiv.org/abs/2206.04846v1](http://arxiv.org/abs/2206.04846v1)
+- 2022-06-10, **Masked Autoencoders are Robust Data Augmentors**, Haohang Xu et.al., Paper: [http://arxiv.org/abs/2206.04846v1](http://arxiv.org/abs/2206.04846v1), Code: **[https://github.com/haohang96/mra](https://github.com/haohang96/mra)**
 - 2022-06-09, **On Data Scaling in Masked Image Modeling**, Zhenda Xie et.al., Paper: [http://arxiv.org/abs/2206.04664v1](http://arxiv.org/abs/2206.04664v1)
 - 2022-06-03, **Style-Content Disentanglement in Language-Image Pretraining Representations for Zero-Shot Sketch-to-Image Synthesis**, Jan Zuiderveld et.al., Paper: [http://arxiv.org/abs/2206.01661v1](http://arxiv.org/abs/2206.01661v1)
 - 2022-06-02, **Siamese Image Modeling for Self-Supervised Vision Representation Learning**, Chenxin Tao et.al., Paper: [http://arxiv.org/abs/2206.01204v1](http://arxiv.org/abs/2206.01204v1)
