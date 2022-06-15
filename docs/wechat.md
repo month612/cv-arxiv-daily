@@ -1,4 +1,4 @@
-> Updated on 2022.06.14
+> Updated on 2022.06.15
 
 ## SLAM
 
@@ -472,12 +472,12 @@
 - 2022-06-13, **MMMNA-Net for Overall Survival Time Prediction of Brain Tumor Patients**, Wen Tang et.al., Paper: [http://arxiv.org/abs/2206.06267v1](http://arxiv.org/abs/2206.06267v1), Code: **[https://github.com/tangwen920812/mmmna-net](https://github.com/tangwen920812/mmmna-net)**
 - 2022-06-13, **Automatic Polyp Segmentation with Multiple Kernel Dilated Convolution Network**, Nikhil Kumar Tomar et.al., Paper: [http://arxiv.org/abs/2206.06264v1](http://arxiv.org/abs/2206.06264v1), Code: **[https://github.com/nikhilroxtomar/mkdcnet](https://github.com/nikhilroxtomar/mkdcnet)**
 - 2022-06-13, **Distributed Adversarial Training to Robustify Deep Neural Networks at Scale**, Gaoyuan Zhang et.al., Paper: [http://arxiv.org/abs/2206.06257v1](http://arxiv.org/abs/2206.06257v1), Code: **[https://github.com/dat-2022/dat](https://github.com/dat-2022/dat)**
-- 2022-06-13, **Energy Consumption Analysis of pruned Semantic Segmentation Networks on an Embedded GPU**, Hugo Tessier et.al., Paper: [http://arxiv.org/abs/2206.06255v1](http://arxiv.org/abs/2206.06255v1)
+- 2022-06-13, **Energy Consumption Analysis of pruned Semantic Segmentation Networks on an Embedded GPU**, Hugo Tessier et.al., Paper: [http://arxiv.org/abs/2206.06255v1](http://arxiv.org/abs/2206.06255v1), Code: **[https://github.com/hugotessier-lab/neural-network-shrinking](https://github.com/hugotessier-lab/neural-network-shrinking)**
 - 2022-06-13, **RPLHR-CT Dataset and Transformer Baseline for Volumetric Super-Resolution from CT Scans**, Pengxin Yu et.al., Paper: [http://arxiv.org/abs/2206.06253v1](http://arxiv.org/abs/2206.06253v1), Code: **[https://github.com/smilenaxx/rplhr-ct](https://github.com/smilenaxx/rplhr-ct)**
 - 2022-06-13, **Prostate Cancer Malignancy Detection and localization from mpMRI using auto-Deep Learning: One Step Closer to Clinical Utilization**, Weiwei Zong et.al., Paper: [http://arxiv.org/abs/2206.06235v1](http://arxiv.org/abs/2206.06235v1)
 - 2022-06-13, **Towards Understanding Sharpness-Aware Minimization**, Maksym Andriushchenko et.al., Paper: [http://arxiv.org/abs/2206.06232v1](http://arxiv.org/abs/2206.06232v1), Code: **[https://github.com/tml-epfl/understanding-sam](https://github.com/tml-epfl/understanding-sam)**
 - 2022-06-13, **Learning a Degradation-Adaptive Network for Light Field Image Super-Resolution**, Yingqian Wang et.al., Paper: [http://arxiv.org/abs/2206.06214v1](http://arxiv.org/abs/2206.06214v1), Code: **[https://github.com/yingqianwang/lf-danet](https://github.com/yingqianwang/lf-danet)**
-- 2022-06-13, **Constraint Guided Gradient Descent: Guided Training with Inequality Constraints**, Quinten Van Baelen Peter Karsmakers et.al., Paper: [http://arxiv.org/abs/2206.06202v1](http://arxiv.org/abs/2206.06202v1), Code: **[https://github.com/kuleuvenadvise/cggd](https://github.com/kuleuvenadvise/cggd)**
+- 2022-06-14, **Constraint Guided Gradient Descent: Guided Training with Inequality Constraints**, Quinten Van Baelen et.al., Paper: [http://arxiv.org/abs/2206.06202v2](http://arxiv.org/abs/2206.06202v2), Code: **[https://github.com/kuleuvenadvise/cggd](https://github.com/kuleuvenadvise/cggd)**
 - 2022-06-13, **AmbiSep: Ambisonic-to-Ambisonic Reverberant Speech Separation Using Transformer Networks**, Adrian Herzog et.al., Paper: [http://arxiv.org/abs/2206.06184v1](http://arxiv.org/abs/2206.06184v1)
 - 2022-06-13, **Transductive CLIP with Class-Conditional Contrastive Learning**, Junchu Huang et.al., Paper: [http://arxiv.org/abs/2206.06177v1](http://arxiv.org/abs/2206.06177v1)
 - 2022-06-13, **Robust Time Series Denoising with Learnable Wavelet Packet Transform**, Gaetan Frusque et.al., Paper: [http://arxiv.org/abs/2206.06126v1](http://arxiv.org/abs/2206.06126v1)
@@ -492,12 +492,12 @@
 - 2022-06-13, **Optical spectroscopy of the Be/black hole binary MWC656 -- interaction of a black hole with a circumstellar disc**, R. K. Zamanov et.al., Paper: [http://arxiv.org/abs/2206.06013v1](http://arxiv.org/abs/2206.06013v1)
 - 2022-06-13, **Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks**, Leonie von Wahl et.al., Paper: [http://arxiv.org/abs/2206.06011v1](http://arxiv.org/abs/2206.06011v1), Code: **[https://github.com/ashusao/pcrl](https://github.com/ashusao/pcrl)**
 - 2022-06-13, **Analysis of function approximation and stability of general DNNs in directed acyclic graphs using un-rectifying analysis**, Wen-Liang Hwang et.al., Paper: [http://arxiv.org/abs/2206.05997v1](http://arxiv.org/abs/2206.05997v1)
-- 2022-06-13, **Efficient Human-in-the-loop System for Guiding DNNs Attention**, Yi He et.al., Paper: [http://arxiv.org/abs/2206.05981v1](http://arxiv.org/abs/2206.05981v1)
+- 2022-06-14, **Efficient Human-in-the-loop System for Guiding DNNs Attention**, Yi He et.al., Paper: [http://arxiv.org/abs/2206.05981v2](http://arxiv.org/abs/2206.05981v2)
 - 2022-06-13, **Deep Neural Network Based Accelerated Failure Time Models using Rank Loss**, Gwangsu Kim et.al., Paper: [http://arxiv.org/abs/2206.05974v1](http://arxiv.org/abs/2206.05974v1)
 - 2022-06-13, **GoToNet: Fast Monocular Scene Exposure and Exploration**, Tom Avrech et.al., Paper: [http://arxiv.org/abs/2206.05967v1](http://arxiv.org/abs/2206.05967v1)
-- 2022-06-13, **ATDN vSLAM: An all-through Deep Learning-Based Solution for Visual Simultaneous Localization and Mapping**, Mátyás Szántó et.al., Paper: [http://arxiv.org/abs/2206.05963v1](http://arxiv.org/abs/2206.05963v1)
+- 2022-06-14, **ATDN vSLAM: An all-through Deep Learning-Based Solution for Visual Simultaneous Localization and Mapping**, Mátyás Szántó et.al., Paper: [http://arxiv.org/abs/2206.05963v2](http://arxiv.org/abs/2206.05963v2)
 - 2022-06-13, **Scalable Exploration for Neural Online Learning to Rank with Perturbed Feedback**, Yiling Jia et.al., Paper: [http://arxiv.org/abs/2206.05954v1](http://arxiv.org/abs/2206.05954v1)
-- 2022-06-13, **Data-Driven Denoising of Accelerometer Signals**, Daniel Engelsman et.al., Paper: [http://arxiv.org/abs/2206.05937v1](http://arxiv.org/abs/2206.05937v1)
+- 2022-06-13, **Data-Driven Denoising of Accelerometer Signals**, Daniel Engelsman et.al., Paper: [http://arxiv.org/abs/2206.05937v1](http://arxiv.org/abs/2206.05937v1), Code: **[https://github.com/ansfl/MEMS-IMU-Denoising](https://github.com/ansfl/MEMS-IMU-Denoising)**
 - 2022-06-13, **Safe-FinRL: A Low Bias and Variance Deep Reinforcement Learning Implementation for High-Freq Stock Trading**, Zitao Song et.al., Paper: [http://arxiv.org/abs/2206.05910v1](http://arxiv.org/abs/2206.05910v1)
 - 2022-06-13, **Geometrically Guided Integrated Gradients**, Md Mahfuzur Rahman et.al., Paper: [http://arxiv.org/abs/2206.05903v1](http://arxiv.org/abs/2206.05903v1)
 - 2022-06-13, **GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**, Lin Tian et.al., Paper: [http://arxiv.org/abs/2206.05897v1](http://arxiv.org/abs/2206.05897v1)

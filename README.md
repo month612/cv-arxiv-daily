@@ -1,4 +1,4 @@
-## Updated on 2022.06.14
+## Updated on 2022.06.15
 
 ## SLAM
 
@@ -484,12 +484,12 @@
 |**2022-06-13**|**MMMNA-Net for Overall Survival Time Prediction of Brain Tumor Patients**|Wen Tang et.al.|[2206.06267v1](http://arxiv.org/abs/2206.06267v1)|**[link](https://github.com/tangwen920812/mmmna-net)**|
 |**2022-06-13**|**Automatic Polyp Segmentation with Multiple Kernel Dilated Convolution Network**|Nikhil Kumar Tomar et.al.|[2206.06264v1](http://arxiv.org/abs/2206.06264v1)|**[link](https://github.com/nikhilroxtomar/mkdcnet)**|
 |**2022-06-13**|**Distributed Adversarial Training to Robustify Deep Neural Networks at Scale**|Gaoyuan Zhang et.al.|[2206.06257v1](http://arxiv.org/abs/2206.06257v1)|**[link](https://github.com/dat-2022/dat)**|
-|**2022-06-13**|**Energy Consumption Analysis of pruned Semantic Segmentation Networks on an Embedded GPU**|Hugo Tessier et.al.|[2206.06255v1](http://arxiv.org/abs/2206.06255v1)|null|
+|**2022-06-13**|**Energy Consumption Analysis of pruned Semantic Segmentation Networks on an Embedded GPU**|Hugo Tessier et.al.|[2206.06255v1](http://arxiv.org/abs/2206.06255v1)|**[link](https://github.com/hugotessier-lab/neural-network-shrinking)**|
 |**2022-06-13**|**RPLHR-CT Dataset and Transformer Baseline for Volumetric Super-Resolution from CT Scans**|Pengxin Yu et.al.|[2206.06253v1](http://arxiv.org/abs/2206.06253v1)|**[link](https://github.com/smilenaxx/rplhr-ct)**|
 |**2022-06-13**|**Prostate Cancer Malignancy Detection and localization from mpMRI using auto-Deep Learning: One Step Closer to Clinical Utilization**|Weiwei Zong et.al.|[2206.06235v1](http://arxiv.org/abs/2206.06235v1)|null|
 |**2022-06-13**|**Towards Understanding Sharpness-Aware Minimization**|Maksym Andriushchenko et.al.|[2206.06232v1](http://arxiv.org/abs/2206.06232v1)|**[link](https://github.com/tml-epfl/understanding-sam)**|
 |**2022-06-13**|**Learning a Degradation-Adaptive Network for Light Field Image Super-Resolution**|Yingqian Wang et.al.|[2206.06214v1](http://arxiv.org/abs/2206.06214v1)|**[link](https://github.com/yingqianwang/lf-danet)**|
-|**2022-06-13**|**Constraint Guided Gradient Descent: Guided Training with Inequality Constraints**|Quinten Van Baelen Peter Karsmakers et.al.|[2206.06202v1](http://arxiv.org/abs/2206.06202v1)|**[link](https://github.com/kuleuvenadvise/cggd)**|
+|**2022-06-14**|**Constraint Guided Gradient Descent: Guided Training with Inequality Constraints**|Quinten Van Baelen et.al.|[2206.06202v2](http://arxiv.org/abs/2206.06202v2)|**[link](https://github.com/kuleuvenadvise/cggd)**|
 |**2022-06-13**|**AmbiSep: Ambisonic-to-Ambisonic Reverberant Speech Separation Using Transformer Networks**|Adrian Herzog et.al.|[2206.06184v1](http://arxiv.org/abs/2206.06184v1)|null|
 |**2022-06-13**|**Transductive CLIP with Class-Conditional Contrastive Learning**|Junchu Huang et.al.|[2206.06177v1](http://arxiv.org/abs/2206.06177v1)|null|
 |**2022-06-13**|**Robust Time Series Denoising with Learnable Wavelet Packet Transform**|Gaetan Frusque et.al.|[2206.06126v1](http://arxiv.org/abs/2206.06126v1)|null|
@@ -504,12 +504,12 @@
 |**2022-06-13**|**Optical spectroscopy of the Be/black hole binary MWC656 -- interaction of a black hole with a circumstellar disc**|R. K. Zamanov et.al.|[2206.06013v1](http://arxiv.org/abs/2206.06013v1)|null|
 |**2022-06-13**|**Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks**|Leonie von Wahl et.al.|[2206.06011v1](http://arxiv.org/abs/2206.06011v1)|**[link](https://github.com/ashusao/pcrl)**|
 |**2022-06-13**|**Analysis of function approximation and stability of general DNNs in directed acyclic graphs using un-rectifying analysis**|Wen-Liang Hwang et.al.|[2206.05997v1](http://arxiv.org/abs/2206.05997v1)|null|
-|**2022-06-13**|**Efficient Human-in-the-loop System for Guiding DNNs Attention**|Yi He et.al.|[2206.05981v1](http://arxiv.org/abs/2206.05981v1)|null|
+|**2022-06-14**|**Efficient Human-in-the-loop System for Guiding DNNs Attention**|Yi He et.al.|[2206.05981v2](http://arxiv.org/abs/2206.05981v2)|null|
 |**2022-06-13**|**Deep Neural Network Based Accelerated Failure Time Models using Rank Loss**|Gwangsu Kim et.al.|[2206.05974v1](http://arxiv.org/abs/2206.05974v1)|null|
 |**2022-06-13**|**GoToNet: Fast Monocular Scene Exposure and Exploration**|Tom Avrech et.al.|[2206.05967v1](http://arxiv.org/abs/2206.05967v1)|null|
-|**2022-06-13**|**ATDN vSLAM: An all-through Deep Learning-Based Solution for Visual Simultaneous Localization and Mapping**|Mátyás Szántó et.al.|[2206.05963v1](http://arxiv.org/abs/2206.05963v1)|null|
+|**2022-06-14**|**ATDN vSLAM: An all-through Deep Learning-Based Solution for Visual Simultaneous Localization and Mapping**|Mátyás Szántó et.al.|[2206.05963v2](http://arxiv.org/abs/2206.05963v2)|null|
 |**2022-06-13**|**Scalable Exploration for Neural Online Learning to Rank with Perturbed Feedback**|Yiling Jia et.al.|[2206.05954v1](http://arxiv.org/abs/2206.05954v1)|null|
-|**2022-06-13**|**Data-Driven Denoising of Accelerometer Signals**|Daniel Engelsman et.al.|[2206.05937v1](http://arxiv.org/abs/2206.05937v1)|null|
+|**2022-06-13**|**Data-Driven Denoising of Accelerometer Signals**|Daniel Engelsman et.al.|[2206.05937v1](http://arxiv.org/abs/2206.05937v1)|**[link](https://github.com/ansfl/MEMS-IMU-Denoising)**|
 |**2022-06-13**|**Safe-FinRL: A Low Bias and Variance Deep Reinforcement Learning Implementation for High-Freq Stock Trading**|Zitao Song et.al.|[2206.05910v1](http://arxiv.org/abs/2206.05910v1)|null|
 |**2022-06-13**|**Geometrically Guided Integrated Gradients**|Md Mahfuzur Rahman et.al.|[2206.05903v1](http://arxiv.org/abs/2206.05903v1)|null|
 |**2022-06-13**|**GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**|Lin Tian et.al.|[2206.05897v1](http://arxiv.org/abs/2206.05897v1)|null|
