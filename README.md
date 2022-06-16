@@ -1,4 +1,4 @@
-## Updated on 2022.06.15
+## Updated on 2022.06.16
 
 ## SLAM
 
@@ -486,7 +486,7 @@
 |**2022-06-14**|**Scaling ResNets in the Large-depth Regime**|Pierre Marion et.al.|[2206.06929v1](http://arxiv.org/abs/2206.06929v1)|**[link](https://github.com/pierremarion23/scaling-resnets)**|
 |**2022-06-14**|**Evaluating histopathology transfer learning with ChampKit**|Jakub R. Kaczmarzyk et.al.|[2206.06862v1](http://arxiv.org/abs/2206.06862v1)|**[link](https://github.com/kaczmarj/champkit)**|
 |**2022-06-14**|**Fully Automated Assessment of Cardiac Coverage in Cine Cardiovascular Magnetic Resonance Images using an Explainable Deep Visual Salient Region Detection Model**|Shahabedin Nabavi et.al.|[2206.06844v1](http://arxiv.org/abs/2206.06844v1)|null|
-|**2022-06-14**|**Variance Reduction for Policy-Gradient Methods via Empirical Variance Minimization**|Kaledin Maxim et.al.|[2206.06827v1](http://arxiv.org/abs/2206.06827v1)|null|
+|**2022-06-15**|**Variance Reduction for Policy-Gradient Methods via Empirical Variance Minimization**|Maxim Kaledin et.al.|[2206.06827v2](http://arxiv.org/abs/2206.06827v2)|null|
 |**2022-06-14**|**Asymmetric Dual-Decoder U-Net for Joint Rain and Haze Removal**|Yuan Feng et.al.|[2206.06803v1](http://arxiv.org/abs/2206.06803v1)|null|
 |**2022-06-14**|**Peripheral Vision Transformer**|Juhong Min et.al.|[2206.06801v1](http://arxiv.org/abs/2206.06801v1)|null|
 |**2022-06-14**|**RoSGAS: Adaptive Social Bot Detection with Reinforced Self-Supervised GNN Architecture Search**|Yingguang Yang et.al.|[2206.06757v1](http://arxiv.org/abs/2206.06757v1)|null|
