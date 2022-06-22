@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-07**|**Scale-Variant Robust Kernel Optimization for Non-linear Least Squares Problems**|Shounak Das et.al.|[2206.10305v1](http://arxiv.org/abs/2206.10305v1)|null|
+|**2022-06-21**|**Object Structural Points Representation for Graph-based Semantic Monocular Localization and Mapping**|Davide Tateo et.al.|[2206.10263v1](http://arxiv.org/abs/2206.10263v1)|**[link](https://github.com/airlab-polimi/c-slam)**|
+|**2022-06-20**|**Data Fusion for Radio Frequency SLAM with Robust Sampling**|Erik Leitinger et.al.|[2206.09746v1](http://arxiv.org/abs/2206.09746v1)|null|
+|**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
 |**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
 |**2022-06-17**|**An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions**|Yijun Yuan et.al.|[2206.08712v1](http://arxiv.org/abs/2206.08712v1)|**[link](https://github.com/jarrome/imt_mapping)**|
 |**2022-06-13**|**ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy**|Hao Bai et.al.|[2206.06435v1](http://arxiv.org/abs/2206.06435v1)|null|
@@ -348,6 +352,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-21**|**KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**|Xuanhan Wang et.al.|[2206.10090v1](http://arxiv.org/abs/2206.10090v1)|**[link](https://github.com/stoa-xh91/humandensepose)**|
+|**2022-06-20**|**Self-Supervised Consistent Quantization for Fully Unsupervised Image Retrieval**|Guile Wu et.al.|[2206.09806v1](http://arxiv.org/abs/2206.09806v1)|null|
 |**2022-06-15**|**A Unified Sequence Interface for Vision Tasks**|Ting Chen et.al.|[2206.07669v1](http://arxiv.org/abs/2206.07669v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
@@ -507,6 +513,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-21**|**Robust SDE-Based Variational Formulations for Solving Linear PDEs via Deep Learning**|Lorenz Richter et.al.|[2206.10588v1](http://arxiv.org/abs/2206.10588v1)|**[link](https://github.com/juliusberner/robust_kolmogorov)**|
+|**2022-06-21**|**Guiding Visual Attention in Deep Convolutional Neural Networks Based on Human Eye Movements**|Leonard E. van Dyck et.al.|[2206.10587v1](http://arxiv.org/abs/2206.10587v1)|null|
+|**2022-06-21**|**Gradient-Enhanced Physics-Informed Neural Networks for Power Systems Operational Support**|Mostafa Mohammadian et.al.|[2206.10579v1](http://arxiv.org/abs/2206.10579v1)|null|
+|**2022-06-21**|**Ensembling over Classifiers: a Bias-Variance Perspective**|Neha Gupta et.al.|[2206.10566v1](http://arxiv.org/abs/2206.10566v1)|null|
+|**2022-06-21**|**Uncertainty Quantification for Competency Assessment of Autonomous Agents**|Aastha Acharya et.al.|[2206.10553v1](http://arxiv.org/abs/2206.10553v1)|null|
+|**2022-06-21**|**Faster Diffusion Cardiac MRI with Deep Learning-based breath hold reduction**|Michael Tanzer et.al.|[2206.10543v1](http://arxiv.org/abs/2206.10543v1)|null|
+|**2022-06-21**|**Neural network analysis of X-ray polarimeter data**|Abel L. Peirson et.al.|[2206.10537v1](http://arxiv.org/abs/2206.10537v1)|null|
+|**2022-06-21**|**Neural Transformers for Intraductal Papillary Mucosal Neoplasms (IPMN) Classification in MRI images**|Federica Proietto Salanitri et.al.|[2206.10531v1](http://arxiv.org/abs/2206.10531v1)|null|
+|**2022-06-21**|**QuantFace: Towards Lightweight Face Recognition by Synthetic Data Low-bit Quantization**|Fadi Boutros et.al.|[2206.10526v1](http://arxiv.org/abs/2206.10526v1)|null|
+|**2022-06-21**|**SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data**|Fadi Boutros et.al.|[2206.10520v1](http://arxiv.org/abs/2206.10520v1)|null|
+|**2022-06-21**|**Survival Kernets: Scalable and Interpretable Deep Kernel Survival Analysis with an Accuracy Guarantee**|George H. Chen et.al.|[2206.10477v1](http://arxiv.org/abs/2206.10477v1)|**[link](https://github.com/georgehc/survival-kernets)**|
+|**2022-06-21**|**NorBERT: NetwOrk Representations through BERT for Network Analysis and Management**|Franck Le et.al.|[2206.10472v1](http://arxiv.org/abs/2206.10472v1)|null|
+|**2022-06-21**|**Hybridization of evolutionary algorithm and deep reinforcement learning for multi-objective orienteering optimization**|Wei Liu et.al.|[2206.10464v1](http://arxiv.org/abs/2206.10464v1)|null|
+|**2022-06-21**|**An Automatic and Efficient BERT Pruning for Edge AI Systems**|Shaoyi Huang et.al.|[2206.10461v1](http://arxiv.org/abs/2206.10461v1)|null|
+|**2022-06-21**|**Winning the Lottery Ahead of Time: Efficient Early Network Pruning**|John Rachwan et.al.|[2206.10451v1](http://arxiv.org/abs/2206.10451v1)|null|
+|**2022-06-21**|**Deep dive into Interledger: Understanding the Interledger ecosystem**|Lucian Trestioreanu et.al.|[2206.10446v1](http://arxiv.org/abs/2206.10446v1)|null|
+|**2022-06-21**|**MEStereo-Du2CNN: A Novel Dual Channel CNN for Learning Robust Depth Estimates from Multi-exposure Stereo Images for HDR 3D Applications**|Rohit Choudhary et.al.|[2206.10375v1](http://arxiv.org/abs/2206.10375v1)|null|
+|**2022-06-21**|**Supervised learning of random quantum circuits via scalable neural networks**|S. Cantori et.al.|[2206.10348v1](http://arxiv.org/abs/2206.10348v1)|**[link](https://github.com/simonecantori/supervised-learning-of-quantum-circuits)**|
+|**2022-06-21**|**Marginal Tail-Adaptive Normalizing Flows**|Mike Laszkiewicz et.al.|[2206.10311v1](http://arxiv.org/abs/2206.10311v1)|**[link](https://github.com/mikelasz/marginaltailadaptiveflow)**|
+|**2022-06-21**|**Using the Polar Transform for Efficient Deep Learning-Based Aorta Segmentation in CTA Images**|Marin Benčević et.al.|[2206.10294v1](http://arxiv.org/abs/2206.10294v1)|**[link](https://github.com/marinbenc/medical-polar-training)**|
+|**2022-06-21**|**Interpretable Deep Causal Learning for Moderation Effects**|Alberto Caron et.al.|[2206.10261v1](http://arxiv.org/abs/2206.10261v1)|null|
+|**2022-06-21**|**Incorporating Voice Instructions in Model-Based Reinforcement Learning for Self-Driving Cars**|Mingze Wang et.al.|[2206.10249v1](http://arxiv.org/abs/2206.10249v1)|null|
+|**2022-06-21**|**Deep Active Latent Surfaces for Medical Geometries**|Patrick M. Jensen et.al.|[2206.10241v1](http://arxiv.org/abs/2206.10241v1)|null|
+|**2022-06-21**|**Fluctuation-driven initialization for spiking neural network training**|Julian Rossbroich et.al.|[2206.10226v1](http://arxiv.org/abs/2206.10226v1)|null|
+|**2022-06-21**|**Enabling Capsule Networks at the Edge through Approximate Softmax and Squash Operations**|Alberto Marchisio et.al.|[2206.10200v1](http://arxiv.org/abs/2206.10200v1)|null|
+|**2022-06-21**|**TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2206.10177v1](http://arxiv.org/abs/2206.10177v1)|null|
+|**2022-06-21**|**Investigating S-type asteroid surfaces through reflectance spectra of Ordinary Chondrites**|J. Eschrig et.al.|[2206.10172v1](http://arxiv.org/abs/2206.10172v1)|null|
+|**2022-06-21**|**Review Neural Networks about Image Transformation Based on IGC Learning Framework with Annotated Information**|Yuanjie Yan et.al.|[2206.10155v1](http://arxiv.org/abs/2206.10155v1)|null|
+|**2022-06-21**|**Diffractive Interconnects: All-Optical Permutation Operation Using Diffractive Networks**|Deniz Mengu et.al.|[2206.10152v1](http://arxiv.org/abs/2206.10152v1)|null|
+|**2022-06-21**|**Deep Learning Eliminates Massive Dust Storms from Images of Tianwen-1**|Hongyu Li et.al.|[2206.10145v1](http://arxiv.org/abs/2206.10145v1)|null|
+|**2022-06-21**|**Open-Source Framework for Encrypted Internet and Malicious Traffic Classification**|Ofek Bader et.al.|[2206.10144v1](http://arxiv.org/abs/2206.10144v1)|null|
+|**2022-06-21**|**Automatic Concept Extraction for Concept Bottleneck-based Video Classification**|Jeya Vikranth Jeyakumar et.al.|[2206.10129v1](http://arxiv.org/abs/2206.10129v1)|null|
+|**2022-06-21**|**Finite Expression Method for Solving High-Dimensional Partial Differential Equations**|Senwei Liang et.al.|[2206.10121v1](http://arxiv.org/abs/2206.10121v1)|null|
+|**2022-06-21**|**Transformers Improve Breast Cancer Diagnosis from Unregistered Multi-View Mammograms**|Xuxin Chen et.al.|[2206.10096v1](http://arxiv.org/abs/2206.10096v1)|null|
+|**2022-06-21**|**DeePKS+ABACUS as a Bridge between Expensive Quantum Mechanical Models and Machine Learning Potentials**|Wenfei Li et.al.|[2206.10093v1](http://arxiv.org/abs/2206.10093v1)|null|
+|**2022-06-21**|**The Manifold Scattering Transform for High-Dimensional Point Cloud Data**|Joyce Chew et.al.|[2206.10078v1](http://arxiv.org/abs/2206.10078v1)|null|
+|**2022-06-21**|**Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum**|Junlin Wu et.al.|[2206.10057v1](http://arxiv.org/abs/2206.10057v1)|**[link](https://github.com/jlwu002/bcl)**|
+|**2022-06-20**|**Identifiability of deep generative models under mixture priors without auxiliary information**|Bohdan Kivva et.al.|[2206.10044v1](http://arxiv.org/abs/2206.10044v1)|null|
+|**2022-06-20**|**Slowly cooling white dwarfs in NGC 6752**|J. Chen et.al.|[2206.10039v1](http://arxiv.org/abs/2206.10039v1)|null|
+|**2022-06-20**|**Deep Learning Models on CPUs: A Methodology for Efficient Training**|Quchen Fu et.al.|[2206.10034v1](http://arxiv.org/abs/2206.10034v1)|null|
+|**2022-06-20**|**DNA: Proximal Policy Optimization with a Dual Network Architecture**|Mathew Aitchison et.al.|[2206.10027v1](http://arxiv.org/abs/2206.10027v1)|null|
+|**2022-06-20**|**Deep Partial Least Squares for Empirical Asset Pricing**|Matthew F. Dixon et.al.|[2206.10014v1](http://arxiv.org/abs/2206.10014v1)|**[link](https://github.com/kem975/deep_partial_least_squares)**|
+|**2022-06-20**|**Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments**|Jinkun Lin et.al.|[2206.10013v1](http://arxiv.org/abs/2206.10013v1)|null|
+|**2022-06-20**|**Limitations of the NTK for Understanding Generalization in Deep Learning**|Nikhil Vyas et.al.|[2206.10012v1](http://arxiv.org/abs/2206.10012v1)|null|
+|**2022-06-20**|**When Does Re-initialization Work?**|Sheheryar Zaidi et.al.|[2206.10011v1](http://arxiv.org/abs/2206.10011v1)|null|
+|**2022-06-20**|**A detailed analysis of the Gl 486 planetary system**|J. A. Caballero et.al.|[2206.09990v1](http://arxiv.org/abs/2206.09990v1)|null|
+|**2022-06-20**|**A Langevin-like Sampler for Discrete Distributions**|Ruqi Zhang et.al.|[2206.09914v1](http://arxiv.org/abs/2206.09914v1)|**[link](https://github.com/ruqizhang/discrete-langevin)**|
+|**2022-06-20**|**Low-Precision Stochastic Gradient Langevin Dynamics**|Ruqi Zhang et.al.|[2206.09909v1](http://arxiv.org/abs/2206.09909v1)|**[link](https://github.com/ruqizhang/low-precision-sgld)**|
+|**2022-06-20**|**Learning Optimal Flows for Non-Equilibrium Importance Sampling**|Yu Cao et.al.|[2206.09908v1](http://arxiv.org/abs/2206.09908v1)|**[link](https://github.com/yucaoyc/neis)**|
+|**2022-06-20**|**ORFD: A Dataset and Benchmark for Off-Road Freespace Detection**|Chen Min et.al.|[2206.09907v1](http://arxiv.org/abs/2206.09907v1)|**[link](https://github.com/chaytonmin/OFF-Net)**|
 |**2022-06-17**|**The metal content of the circumgalactic medium around star-forming galaxies at z $\sim$ 2.6 as revealed by the VIMOS Ultra-Deep Survey**|H. Méndez-Hernández et.al.|[2206.08923v1](http://arxiv.org/abs/2206.08923v1)|null|
 |**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v1](http://arxiv.org/abs/2206.08900v1)|null|
 |**2022-06-17**|**Evolution through Large Models**|Joel Lehman et.al.|[2206.08896v1](http://arxiv.org/abs/2206.08896v1)|null|
@@ -4633,6 +4689,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-21**|**SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders**|Gang Li et.al.|[2206.10207v1](http://arxiv.org/abs/2206.10207v1)|null|
+|**2022-06-19**|**Extended field-of-view speckle-correlation imaging by estimating autocorrelation**|Yuto Endo et.al.|[2206.09417v1](http://arxiv.org/abs/2206.09417v1)|null|
 |**2022-06-15**|**Masked Frequency Modeling for Self-Supervised Visual Pre-Training**|Jiahao Xie et.al.|[2206.07706v1](http://arxiv.org/abs/2206.07706v1)|null|
 |**2022-06-15**|**Protecting local and global symmetries in simulating 1+1-D non-abelian gauge theories**|Emil Mathew et.al.|[2206.07444v1](http://arxiv.org/abs/2206.07444v1)|null|
 |**2022-06-15**|**Rethinking Generalization in Few-Shot Classification**|Markus Hiller et.al.|[2206.07267v1](http://arxiv.org/abs/2206.07267v1)|**[link](https://github.com/mrkshllr/FewTURE)**|
@@ -4659,7 +4717,7 @@ layout: default
 |**2022-05-23**|**Generalization Gap in Amortized Inference**|Mingtian Zhang et.al.|[2205.11640v1](http://arxiv.org/abs/2205.11640v1)|**[link](https://github.com/zmtomorrow/generalizationgapinamortizedinference)**|
 |**2022-05-23**|**Utilizing Language-Image Pretraining for Efficient and Robust Bilingual Word Alignment**|Tuan Dinh et.al.|[2205.11616v1](http://arxiv.org/abs/2205.11616v1)|null|
 |**2022-05-23**|**Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**|Chitwan Saharia et.al.|[2205.11487v1](http://arxiv.org/abs/2205.11487v1)|null|
-|**2022-06-21**|**GR-GAN: Gradual Refinement Text-to-image Generation**|Bo Yang et.al.|[2205.11273v2](http://arxiv.org/abs/2205.11273v2)|null|
+|**2022-06-21**|**GR-GAN: Gradual Refinement Text-to-image Generation**|Bo Yang et.al.|[2205.11273v2](http://arxiv.org/abs/2205.11273v2)|**[link](https://github.com/boo-18/gr-gan)**|
 |**2022-05-21**|**Improvements to Self-Supervised Representation Learning for Masked Image Modeling**|Jiawei Mao et.al.|[2205.10546v1](http://arxiv.org/abs/2205.10546v1)|null|
 |**2022-05-19**|**Masked Image Modeling with Denoising Contrast**|Kun Yi et.al.|[2205.09616v1](http://arxiv.org/abs/2205.09616v1)|null|
 |**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
