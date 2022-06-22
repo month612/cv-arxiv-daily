@@ -1,4 +1,4 @@
-> Updated on 2022.06.21
+> Updated on 2022.06.22
 
 ## SLAM
 
@@ -269,7 +269,7 @@
 - 2022-02-25, **CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2202.01938v2](http://arxiv.org/abs/2202.01938v2)
 - 2022-02-03, **Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**, Andrea Vallone et.al., Paper: [http://arxiv.org/abs/2202.01821v1](http://arxiv.org/abs/2202.01821v1)
 - 2022-02-02, **Training Semantic Descriptors for Image-Based Localization**, Ibrahim Cinaroglu et.al., Paper: [http://arxiv.org/abs/2202.01212v1](http://arxiv.org/abs/2202.01212v1)
-- 2022-01-31, **Hydra: A Real-time Spatial Perception Engine for 3D Scene Graph Construction and Optimization**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2201.13360v1](http://arxiv.org/abs/2201.13360v1)
+- 2022-06-20, **Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2201.13360v2](http://arxiv.org/abs/2201.13360v2)
 - 2022-01-31, **Rigidity Preserving Image Transformations and Equivariance in Perspective**, Lucas Brynte et.al., Paper: [http://arxiv.org/abs/2201.13065v1](http://arxiv.org/abs/2201.13065v1)
 - 2022-01-25, **Learning Semantics for Visual Place Recognition through Multi-Scale Attention**, Valerio Paolicelli et.al., Paper: [http://arxiv.org/abs/2201.09701v2](http://arxiv.org/abs/2201.09701v2), Code: **[https://github.com/valeriopaolicelli/SegVPR](https://github.com/valeriopaolicelli/SegVPR)**
 - 2022-01-22, **Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2201.09048v1](http://arxiv.org/abs/2201.09048v1), Code: **[https://github.com/zhengxi-git/phase-slam](https://github.com/zhengxi-git/phase-slam)**
@@ -482,7 +482,7 @@
 - 2022-06-17, **SMPL: Simulated Industrial Manufacturing and Process Control Learning Environments**, Mohan Zhang et.al., Paper: [http://arxiv.org/abs/2206.08851v1](http://arxiv.org/abs/2206.08851v1), Code: **[https://github.com/smpl-env/smpl](https://github.com/smpl-env/smpl)**
 - 2022-06-17, **Decentralized adaptive clustering of deep nets is beneficial for client collaboration**, Edvin Listo Zec et.al., Paper: [http://arxiv.org/abs/2206.08839v1](http://arxiv.org/abs/2206.08839v1), Code: **[https://github.com/edvinli/dac](https://github.com/edvinli/dac)**
 - 2022-06-17, **A Comparative Study of Confidence Calibration in Deep Learning: From Computer Vision to Medical Imaging**, Riqiang Gao et.al., Paper: [http://arxiv.org/abs/2206.08833v1](http://arxiv.org/abs/2206.08833v1)
-- 2022-06-17, **Comparison of Physics-Informed Deep Learning and Deterministic Control Algorithms for Nonlinear van der Pol Dynamics Control**, Hanfeng Zhai et.al., Paper: [http://arxiv.org/abs/2206.08831v1](http://arxiv.org/abs/2206.08831v1)
+- 2022-06-17, **Comparison of Physics-Informed Deep Learning and Deterministic Control Algorithms for Nonlinear van der Pol Dynamics Control**, Hanfeng Zhai et.al., Paper: [http://arxiv.org/abs/2206.08831v1](http://arxiv.org/abs/2206.08831v1), Code: **[https://github.com/hanfengzhai/PIDOC](https://github.com/hanfengzhai/PIDOC)**
 - 2022-06-17, **Multimodal Attention-based Deep Learning for Alzheimer's Disease Diagnosis**, Michal Golovanevsky et.al., Paper: [http://arxiv.org/abs/2206.08826v1](http://arxiv.org/abs/2206.08826v1), Code: **[https://github.com/rsinghlab/maddi](https://github.com/rsinghlab/maddi)**
 - 2022-06-17, **Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets**, Hongxin Wei et.al., Paper: [http://arxiv.org/abs/2206.08802v1](http://arxiv.org/abs/2206.08802v1), Code: **[https://github.com/hongxin001/logitnorm_ood](https://github.com/hongxin001/logitnorm_ood)**
 - 2022-06-17, **Self-supervised deep visual servoing for high precision peg-in-hole insertion**, Rasmus Laurvig Haugaard et.al., Paper: [http://arxiv.org/abs/2206.08800v1](http://arxiv.org/abs/2206.08800v1)
@@ -4604,7 +4604,7 @@
 - 2022-06-03, **Style-Content Disentanglement in Language-Image Pretraining Representations for Zero-Shot Sketch-to-Image Synthesis**, Jan Zuiderveld et.al., Paper: [http://arxiv.org/abs/2206.01661v1](http://arxiv.org/abs/2206.01661v1)
 - 2022-06-02, **Siamese Image Modeling for Self-Supervised Vision Representation Learning**, Chenxin Tao et.al., Paper: [http://arxiv.org/abs/2206.01204v1](http://arxiv.org/abs/2206.01204v1)
 - 2022-06-02, **VL-BEiT: Generative Vision-Language Pretraining**, Hangbo Bao et.al., Paper: [http://arxiv.org/abs/2206.01127v1](http://arxiv.org/abs/2206.01127v1)
-- 2022-06-01, **When happy accidents spark creativity: Bringing collaborative speculation to life with generative AI**, Ziv Epstein et.al., Paper: [http://arxiv.org/abs/2206.00533v1](http://arxiv.org/abs/2206.00533v1)
+- 2022-06-17, **When happy accidents spark creativity: Bringing collaborative speculation to life with generative AI**, Ziv Epstein et.al., Paper: [http://arxiv.org/abs/2206.00533v2](http://arxiv.org/abs/2206.00533v2)
 - 2022-06-01, **MaskOCR: Text Recognition with Masked Encoder-Decoder Pretraining**, Pengyuan Lyu et.al., Paper: [http://arxiv.org/abs/2206.00311v1](http://arxiv.org/abs/2206.00311v1)
 - 2022-05-31, **CropMix: Sampling a Rich Input Distribution via Multi-Scale Cropping**, Junlin Han et.al., Paper: [http://arxiv.org/abs/2205.15955v1](http://arxiv.org/abs/2205.15955v1), Code: **[https://github.com/junlinhan/cropmix](https://github.com/junlinhan/cropmix)**
 - 2022-05-29, **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers**, Wenyi Hong et.al., Paper: [http://arxiv.org/abs/2205.15868v1](http://arxiv.org/abs/2205.15868v1), Code: **[https://github.com/thudm/cogvideo](https://github.com/thudm/cogvideo)**
@@ -4619,7 +4619,7 @@
 - 2022-05-23, **Generalization Gap in Amortized Inference**, Mingtian Zhang et.al., Paper: [http://arxiv.org/abs/2205.11640v1](http://arxiv.org/abs/2205.11640v1), Code: **[https://github.com/zmtomorrow/generalizationgapinamortizedinference](https://github.com/zmtomorrow/generalizationgapinamortizedinference)**
 - 2022-05-23, **Utilizing Language-Image Pretraining for Efficient and Robust Bilingual Word Alignment**, Tuan Dinh et.al., Paper: [http://arxiv.org/abs/2205.11616v1](http://arxiv.org/abs/2205.11616v1)
 - 2022-05-23, **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**, Chitwan Saharia et.al., Paper: [http://arxiv.org/abs/2205.11487v1](http://arxiv.org/abs/2205.11487v1)
-- 2022-05-23, **GR-GAN: Gradual Refinement Text-to-image Generation**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2205.11273v1](http://arxiv.org/abs/2205.11273v1)
+- 2022-06-21, **GR-GAN: Gradual Refinement Text-to-image Generation**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2205.11273v2](http://arxiv.org/abs/2205.11273v2)
 - 2022-05-21, **Improvements to Self-Supervised Representation Learning for Masked Image Modeling**, Jiawei Mao et.al., Paper: [http://arxiv.org/abs/2205.10546v1](http://arxiv.org/abs/2205.10546v1)
 - 2022-05-19, **Masked Image Modeling with Denoising Contrast**, Kun Yi et.al., Paper: [http://arxiv.org/abs/2205.09616v1](http://arxiv.org/abs/2205.09616v1)
 - 2022-05-11, **An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**, Gokul Karthik Kumar et.al., Paper: [http://arxiv.org/abs/2205.05543v1](http://arxiv.org/abs/2205.05543v1), Code: **[https://github.com/gokulkarthik/deformable-detr](https://github.com/gokulkarthik/deformable-detr)**
