@@ -489,6 +489,41 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-22**|**Concentration inequalities and optimal number of layers for stochastic deep neural networks**|Michele Caprio et.al.|[2206.11241v1](http://arxiv.org/abs/2206.11241v1)|null|
+|**2022-06-22**|**Learning Optimal Treatment Strategies for Sepsis Using Offline Reinforcement Learning in Continuous Space**|Zeyu Wang et.al.|[2206.11190v1](http://arxiv.org/abs/2206.11190v1)|null|
+|**2022-06-22**|**Towards Unsupervised Content Disentanglement in Sentence Representations via Syntactic Roles**|Ghazi Felhi et.al.|[2206.11184v1](http://arxiv.org/abs/2206.11184v1)|null|
+|**2022-06-22**|**On the Role of Spatial, Spectral, and Temporal Processing for DNN-based Non-linear Multi-channel Speech Enhancement**|Kristina Tesch et.al.|[2206.11181v1](http://arxiv.org/abs/2206.11181v1)|null|
+|**2022-06-22**|**Optimal transport meets noisy label robust loss and MixUp regularization for domain adaptation**|Kilian Fatras et.al.|[2206.11180v1](http://arxiv.org/abs/2206.11180v1)|null|
+|**2022-06-22**|**Neural Inverse Transform Sampler**|Henry Li et.al.|[2206.11172v1](http://arxiv.org/abs/2206.11172v1)|null|
+|**2022-06-22**|**Near-optimal control of dynamical systems with neural ordinary differential equations**|Lucas Böttcher et.al.|[2206.11120v1](http://arxiv.org/abs/2206.11120v1)|**[link](https://gitlab.com/computationalscience/near-optimal-control)**|
+|**2022-06-22**|**ICC++: Explainable Image Retrieval for Art Historical Corpora using Image Composition Canvas**|Prathmesh Madhu et.al.|[2206.11115v1](http://arxiv.org/abs/2206.11115v1)|null|
+|**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v1](http://arxiv.org/abs/2206.11081v1)|null|
+|**2022-06-22**|**AlphaMLDigger: A Novel Machine Learning Solution to Explore Excess Return on Investment**|Jimei Shen et.al.|[2206.11072v1](http://arxiv.org/abs/2206.11072v1)|null|
+|**2022-06-22**|**Automated GI tract segmentation using deep learning**|Manhar Sharma et.al.|[2206.11048v1](http://arxiv.org/abs/2206.11048v1)|null|
+|**2022-06-22**|**Heterogeneous Graph Neural Networks for Software Effort Estimation**|Hung Phan et.al.|[2206.11023v1](http://arxiv.org/abs/2206.11023v1)|null|
+|**2022-06-22**|**Neural Networks as Paths through the Space of Representations**|Richard D. Lange et.al.|[2206.10999v1](http://arxiv.org/abs/2206.10999v1)|null|
+|**2022-06-22**|**Is there a sub-parsec-scale jet base in the nearby dwarf galaxy NGC 4395?**|Jun Yang et.al.|[2206.10964v1](http://arxiv.org/abs/2206.10964v1)|null|
+|**2022-06-22**|**Influence of uncertainty estimation techniques on false-positive reduction in liver lesion detection**|Ishaan Bhat et.al.|[2206.10911v1](http://arxiv.org/abs/2206.10911v1)|null|
+|**2022-06-22**|**Model-Driven Deep Learning-Based MIMO-OFDM Detector: Design, Simulation, and Experimental Results**|Xingyu Zhou et.al.|[2206.10909v1](http://arxiv.org/abs/2206.10909v1)|null|
+|**2022-06-22**|**Neural networks for a quick access to a digital twin of scanning physical properties measurements**|Kensei Terashima et.al.|[2206.10908v1](http://arxiv.org/abs/2206.10908v1)|null|
+|**2022-06-22**|**Calibrating the momentum-width of a trapped Bose-Einstein condensate by one-dimensional optical lattice pulse sequences**|Angang Liang et.al.|[2206.10907v1](http://arxiv.org/abs/2206.10907v1)|null|
+|**2022-06-22**|**KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination**|Stefano Esposito et.al.|[2206.10885v1](http://arxiv.org/abs/2206.10885v1)|null|
+|**2022-06-22**|**Robust Universal Adversarial Perturbations**|Changming Xu et.al.|[2206.10858v1](http://arxiv.org/abs/2206.10858v1)|null|
+|**2022-06-22**|**MultiEarth 2022 Deforestation Challenge -- ForestGump**|Dongoo Lee et.al.|[2206.10831v1](http://arxiv.org/abs/2206.10831v1)|null|
+|**2022-06-22**|**Efficient Interdependent Systems Recovery Modeling with DeepONets**|Somayajulu L. N. Dhulipala et.al.|[2206.10829v1](http://arxiv.org/abs/2206.10829v1)|null|
+|**2022-06-22**|**Deep learning for improved keV-scale recoil identification in high resolution gas time projection chambers**|J. Schueler et.al.|[2206.10822v1](http://arxiv.org/abs/2206.10822v1)|null|
+|**2022-06-22**|**Fighting Fire with Fire: Avoiding DNN Shortcuts through Priming**|Chuan Wen et.al.|[2206.10816v1](http://arxiv.org/abs/2206.10816v1)|null|
+|**2022-06-22**|**LECA: A Learned Approach for Efficient Cover-agnostic Watermarking**|Xiyang Luo et.al.|[2206.10813v1](http://arxiv.org/abs/2206.10813v1)|null|
+|**2022-06-22**|**No Attention is Needed: Grouped Spatial-temporal Shift for Simple and Efficient Video Restorers**|Dasong Li et.al.|[2206.10810v1](http://arxiv.org/abs/2206.10810v1)|null|
+|**2022-06-22**|**A bottom-up search for Lyman-continuum leakage in the Hubble Ultra Deep Field**|T. Emil Rivera-Thorsen et.al.|[2206.10799v1](http://arxiv.org/abs/2206.10799v1)|null|
+|**2022-06-22**|**Federated Latent Class Regression for Hierarchical Data**|Bin Yang et.al.|[2206.10783v1](http://arxiv.org/abs/2206.10783v1)|null|
+|**2022-06-22**|**Towards Ground Truth for Single Image Deraining**|Yunhao Ba et.al.|[2206.10779v1](http://arxiv.org/abs/2206.10779v1)|null|
+|**2022-06-21**|**Deep Metric Color Embeddings for Splicing Localization in Severely Degraded Images**|Benjamin Hadwiger et.al.|[2206.10737v1](http://arxiv.org/abs/2206.10737v1)|null|
+|**2022-06-21**|**Longitudinal Prognosis of Parkinsons Outcomes using Causal Connectivity**|Cooper J. Mellema et.al.|[2206.10700v1](http://arxiv.org/abs/2206.10700v1)|null|
+|**2022-06-21**|**Epicasting: An Ensemble Wavelet Neural Network (EWNet) for Forecasting Epidemics**|Madhurima Panja et.al.|[2206.10696v1](http://arxiv.org/abs/2206.10696v1)|**[link](https://github.com/mad-stat/epicasting)**|
+|**2022-06-21**|**A consistent and flexible framework for deep matrix factorizations**|Pierre De Handschutter et.al.|[2206.10693v1](http://arxiv.org/abs/2206.10693v1)|null|
+|**2022-06-21**|**BOSS: A Benchmark for Human Belief Prediction in Object-context Scenarios**|Jiafei Duan et.al.|[2206.10665v1](http://arxiv.org/abs/2206.10665v1)|null|
+|**2022-06-21**|**On the Maximum Hessian Eigenvalue and Generalization**|Simran Kaur et.al.|[2206.10654v1](http://arxiv.org/abs/2206.10654v1)|null|
 |**2022-06-21**|**Robust SDE-Based Variational Formulations for Solving Linear PDEs via Deep Learning**|Lorenz Richter et.al.|[2206.10588v1](http://arxiv.org/abs/2206.10588v1)|**[link](https://github.com/juliusberner/robust_kolmogorov)**|
 |**2022-06-21**|**Guiding Visual Attention in Deep Convolutional Neural Networks Based on Human Eye Movements**|Leonard E. van Dyck et.al.|[2206.10587v1](http://arxiv.org/abs/2206.10587v1)|null|
 |**2022-06-21**|**Gradient-Enhanced Physics-Informed Neural Networks for Power Systems Operational Support**|Mostafa Mohammadian et.al.|[2206.10579v1](http://arxiv.org/abs/2206.10579v1)|null|
