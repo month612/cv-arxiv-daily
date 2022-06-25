@@ -493,7 +493,7 @@
 - 2022-06-23, **Reinforcement Learning under Partial Observability Guided by Learned Environment Models**, Edi Muskardin et.al., Paper: [http://arxiv.org/abs/2206.11708v1](http://arxiv.org/abs/2206.11708v1)
 - 2022-06-23, **The SJTU X-LANCE Lab System for CNSRC 2022**, Zhengyang Chen et.al., Paper: [http://arxiv.org/abs/2206.11699v1](http://arxiv.org/abs/2206.11699v1)
 - 2022-06-23, **Short-range forecasts of global precipitation using using deep learning-augmented numerical weather prediction**, Manmeet Singh et.al., Paper: [http://arxiv.org/abs/2206.11669v1](http://arxiv.org/abs/2206.11669v1)
-- 2022-06-23, **Optimizing Two-way Partial AUC with an End-to-end Framework**, Zhiyong Yang et.al., Paper: [http://arxiv.org/abs/2206.11655v1](http://arxiv.org/abs/2206.11655v1)
+- 2022-06-23, **Optimizing Two-way Partial AUC with an End-to-end Framework**, Zhiyong Yang et.al., Paper: [http://arxiv.org/abs/2206.11655v1](http://arxiv.org/abs/2206.11655v1), Code: **[https://github.com/statusrank/XCurve](https://github.com/statusrank/XCurve)**
 - 2022-06-23, **Frequency Dependent Sound Event Detection for DCASE 2022 Challenge Task 4**, Hyeonuk Nam et.al., Paper: [http://arxiv.org/abs/2206.11645v1](http://arxiv.org/abs/2206.11645v1), Code: **[https://github.com/frednam93/FDY-SED](https://github.com/frednam93/FDY-SED)**
 - 2022-06-23, **Formant Estimation and Tracking using Probabilistic Heat-Maps**, Yosi Shrem et.al., Paper: [http://arxiv.org/abs/2206.11632v1](http://arxiv.org/abs/2206.11632v1)
 - 2022-06-23, **Global Sensing and Measurements Reuse for Image Compressed Sensing**, Zi-En Fan et.al., Paper: [http://arxiv.org/abs/2206.11629v1](http://arxiv.org/abs/2206.11629v1), Code: **[https://github.com/fze0012/mr-ccsnet](https://github.com/fze0012/mr-ccsnet)**
