@@ -1,4 +1,4 @@
-## Updated on 2022.06.24
+## Updated on 2022.06.25
 
 ## SLAM
 
@@ -4765,7 +4765,7 @@
 |**2022-05-27**|**Error Bound of Empirical $\ell_2$ Risk Minimization for Noisy Standard and Generalized Phase Retrieval Problems**|Junren Chen et.al.|[2205.13827v1](http://arxiv.org/abs/2205.13827v1)|null|
 |**2022-05-27**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-26**|**Green Hierarchical Vision Transformer for Masked Image Modeling**|Lang Huang et.al.|[2205.13515v1](http://arxiv.org/abs/2205.13515v1)|**[link](https://github.com/layneh/greenmim)**|
-|**2022-05-28**|**MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning**|Jihao Liu et.al.|[2205.13137v2](http://arxiv.org/abs/2205.13137v2)|null|
+|**2022-05-28**|**MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning**|Jihao Liu et.al.|[2205.13137v2](http://arxiv.org/abs/2205.13137v2)|**[link](https://github.com/sense-x/mixmim)**|
 |**2022-05-23**|**Generalization Gap in Amortized Inference**|Mingtian Zhang et.al.|[2205.11640v1](http://arxiv.org/abs/2205.11640v1)|**[link](https://github.com/zmtomorrow/generalizationgapinamortizedinference)**|
 |**2022-05-23**|**Utilizing Language-Image Pretraining for Efficient and Robust Bilingual Word Alignment**|Tuan Dinh et.al.|[2205.11616v1](http://arxiv.org/abs/2205.11616v1)|null|
 |**2022-05-23**|**Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**|Chitwan Saharia et.al.|[2205.11487v1](http://arxiv.org/abs/2205.11487v1)|null|
