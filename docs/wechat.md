@@ -1,4 +1,4 @@
-> Updated on 2022.06.26
+> Updated on 2022.06.27
 
 ## SLAM
 
@@ -157,7 +157,7 @@
 
 ## SFM
 
-- 2022-06-23, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v1](http://arxiv.org/abs/2206.11499v1)
+- 2022-06-24, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v2](http://arxiv.org/abs/2206.11499v2)
 - 2022-06-13, **TC-SfM: Robust Track-Community-Based Structure-from-Motion**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2206.05866v1](http://arxiv.org/abs/2206.05866v1)
 - 2022-06-10, **EigenFairing: 3D Model Fairing using Image Coherence**, Pragyana Mishra et.al., Paper: [http://arxiv.org/abs/2206.05309v1](http://arxiv.org/abs/2206.05309v1)
 - 2022-06-01, **Semantic Room Wireframe Detection from a Single View**, David Gillsjö et.al., Paper: [http://arxiv.org/abs/2206.00491v1](http://arxiv.org/abs/2206.00491v1), Code: **[https://github.com/davidgillsjo/srw-net](https://github.com/davidgillsjo/srw-net)**
@@ -492,7 +492,7 @@
 - 2022-06-23, **Deep Reinforcement Learning-Assisted Federated Learning for Robust Short-term Utility Demand Forecasting in Electricity Wholesale Markets**, Chenghao Huang et.al., Paper: [http://arxiv.org/abs/2206.11715v1](http://arxiv.org/abs/2206.11715v1)
 - 2022-06-23, **Reinforcement Learning under Partial Observability Guided by Learned Environment Models**, Edi Muskardin et.al., Paper: [http://arxiv.org/abs/2206.11708v1](http://arxiv.org/abs/2206.11708v1)
 - 2022-06-23, **The SJTU X-LANCE Lab System for CNSRC 2022**, Zhengyang Chen et.al., Paper: [http://arxiv.org/abs/2206.11699v1](http://arxiv.org/abs/2206.11699v1)
-- 2022-06-23, **Short-range forecasts of global precipitation using using deep learning-augmented numerical weather prediction**, Manmeet Singh et.al., Paper: [http://arxiv.org/abs/2206.11669v1](http://arxiv.org/abs/2206.11669v1)
+- 2022-06-24, **Short-range forecasts of global precipitation using deep learning-augmented numerical weather prediction**, Manmeet Singh et.al., Paper: [http://arxiv.org/abs/2206.11669v2](http://arxiv.org/abs/2206.11669v2)
 - 2022-06-23, **Optimizing Two-way Partial AUC with an End-to-end Framework**, Zhiyong Yang et.al., Paper: [http://arxiv.org/abs/2206.11655v1](http://arxiv.org/abs/2206.11655v1), Code: **[https://github.com/statusrank/XCurve](https://github.com/statusrank/XCurve)**
 - 2022-06-23, **Frequency Dependent Sound Event Detection for DCASE 2022 Challenge Task 4**, Hyeonuk Nam et.al., Paper: [http://arxiv.org/abs/2206.11645v1](http://arxiv.org/abs/2206.11645v1), Code: **[https://github.com/frednam93/FDY-SED](https://github.com/frednam93/FDY-SED)**
 - 2022-06-23, **Formant Estimation and Tracking using Probabilistic Heat-Maps**, Yosi Shrem et.al., Paper: [http://arxiv.org/abs/2206.11632v1](http://arxiv.org/abs/2206.11632v1)
@@ -526,7 +526,7 @@
 - 2022-06-22, **Neural Inverse Transform Sampler**, Henry Li et.al., Paper: [http://arxiv.org/abs/2206.11172v1](http://arxiv.org/abs/2206.11172v1)
 - 2022-06-22, **Near-optimal control of dynamical systems with neural ordinary differential equations**, Lucas Böttcher et.al., Paper: [http://arxiv.org/abs/2206.11120v1](http://arxiv.org/abs/2206.11120v1), Code: **[https://gitlab.com/computationalscience/near-optimal-control](https://gitlab.com/computationalscience/near-optimal-control)**
 - 2022-06-22, **ICC++: Explainable Image Retrieval for Art Historical Corpora using Image Composition Canvas**, Prathmesh Madhu et.al., Paper: [http://arxiv.org/abs/2206.11115v1](http://arxiv.org/abs/2206.11115v1)
-- 2022-06-22, **Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**, Hongjoon Ahn et.al., Paper: [http://arxiv.org/abs/2206.11081v1](http://arxiv.org/abs/2206.11081v1)
+- 2022-06-24, **Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**, Hongjoon Ahn et.al., Paper: [http://arxiv.org/abs/2206.11081v2](http://arxiv.org/abs/2206.11081v2)
 - 2022-06-22, **AlphaMLDigger: A Novel Machine Learning Solution to Explore Excess Return on Investment**, Jimei Shen et.al., Paper: [http://arxiv.org/abs/2206.11072v1](http://arxiv.org/abs/2206.11072v1)
 - 2022-06-22, **Automated GI tract segmentation using deep learning**, Manhar Sharma et.al., Paper: [http://arxiv.org/abs/2206.11048v1](http://arxiv.org/abs/2206.11048v1)
 - 2022-06-22, **Heterogeneous Graph Neural Networks for Software Effort Estimation**, Hung Phan et.al., Paper: [http://arxiv.org/abs/2206.11023v1](http://arxiv.org/abs/2206.11023v1)
