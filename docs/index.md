@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.27
+## Updated on 2022.06.28
 
 ## SLAM
 
@@ -282,7 +282,7 @@ layout: default
 |**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
 |**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
 |**2022-03-31**|**Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**|Semih Orhan et.al.|[2203.16945v1](http://arxiv.org/abs/2203.16945v1)|null|
-|**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
+|**2022-06-26**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v2](http://arxiv.org/abs/2203.16291v2)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
 |**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
 |**2022-04-01**|**A Simulation Benchmark for Vision-based Autonomous Navigation**|Lauri Suomela et.al.|[2203.13048v2](http://arxiv.org/abs/2203.13048v2)|**[link](https://github.com/lasuomela/carla_vloc_benchmark)**|
 |**2022-03-24**|**Is Geometry Enough for Matching in Visual Localization?**|Qunjie Zhou et.al.|[2203.12979v1](http://arxiv.org/abs/2203.12979v1)|null|
@@ -447,7 +447,7 @@ layout: default
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870v1](http://arxiv.org/abs/2204.08870v1)|**[link](https://github.com/ucuapps/openglue)**|
 |**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|**[link](https://github.com/bluedream1121/REKD)**|
 |**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen et.al.|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|**[link](https://github.com/astro-data-lab/starshade-xy)**|
-|**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
+|**2022-06-26**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v2](http://arxiv.org/abs/2203.16291v2)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
 |**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
 |**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|**[link](https://github.com/martyushev/eliminationtemplates)**|
@@ -517,7 +517,7 @@ layout: default
 |**2022-06-24**|**Out of distribution robustness with pre-trained Bayesian neural networks**|Xi Wang et.al.|[2206.12361v1](http://arxiv.org/abs/2206.12361v1)|null|
 |**2022-06-24**|**HM3D-ABO: A Photo-realistic Dataset for Object-centric Multi-view 3D Reconstruction**|Zhenpei Yang et.al.|[2206.12356v1](http://arxiv.org/abs/2206.12356v1)|**[link](https://github.com/zhenpeiyang/hm3d-abo)**|
 |**2022-06-24**|**Segmentation-free PVC for Cardiac SPECT using a Densely-connected Multi-dimensional Dynamic Network**|Huidong Xie et.al.|[2206.12344v1](http://arxiv.org/abs/2206.12344v1)|null|
-|**2022-06-24**|**Deep Generation of Heterogeneous Networks**|Chen Ling et.al.|[2206.12336v1](http://arxiv.org/abs/2206.12336v1)|null|
+|**2022-06-24**|**Deep Generation of Heterogeneous Networks**|Chen Ling et.al.|[2206.12336v1](http://arxiv.org/abs/2206.12336v1)|**[link](https://github.com/lingchen0331/hgen)**|
 |**2022-06-24**|**Toward multi-target self-organizing pursuit in a partially observable Markov game**|Lijun Sun et.al.|[2206.12330v1](http://arxiv.org/abs/2206.12330v1)|**[link](https://github.com/lijunsun90/pursuitfsc2)**|
 |**2022-06-24**|**Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems**|Chen Ling et.al.|[2206.12327v1](http://arxiv.org/abs/2206.12327v1)|**[link](https://github.com/triplej0079/slvae)**|
 |**2022-06-24**|**ModLaNets: Learning Generalisable Dynamics via Modularity and Physical Inductive Bias**|Yupu Lu et.al.|[2206.12325v1](http://arxiv.org/abs/2206.12325v1)|null|
@@ -553,14 +553,14 @@ layout: default
 |**2022-06-23**|**The Dark Energy Camera Plane Survey 2 (DECaPS2): More Sky, Less Bias, and Better Uncertainties**|A. K. Saydjari et.al.|[2206.11909v1](http://arxiv.org/abs/2206.11909v1)|null|
 |**2022-06-23**|**On the Parameterization and Initialization of Diagonal State Space Models**|Albert Gu et.al.|[2206.11893v1](http://arxiv.org/abs/2206.11893v1)|null|
 |**2022-06-23**|**Design Exploration and Security Assessment of PUF-on-PUF Implementations**|Kleber Stangherlin et.al.|[2206.11840v1](http://arxiv.org/abs/2206.11840v1)|null|
-|**2022-06-23**|**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**|An Wang et.al.|[2206.11804v1](http://arxiv.org/abs/2206.11804v1)|**[link](https://github.com/lofrienger/single_surgicalscene_for_segmentation)**|
-|**2022-06-23**|**Authentication of Copy Detection Patterns under Machine Learning Attacks: A Supervised Approach**|Brian Pulfer et.al.|[2206.11793v1](http://arxiv.org/abs/2206.11793v1)|null|
+|**2022-06-27**|**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**|An Wang et.al.|[2206.11804v2](http://arxiv.org/abs/2206.11804v2)|**[link](https://github.com/lofrienger/single_surgicalscene_for_segmentation)**|
+|**2022-06-25**|**Authentication of Copy Detection Patterns under Machine Learning Attacks: A Supervised Approach**|Brian Pulfer et.al.|[2206.11793v2](http://arxiv.org/abs/2206.11793v2)|null|
 |**2022-06-23**|**Two-dimensional total absorption spectroscopy with conditional generative adversarial networks**|Cade Dembski et.al.|[2206.11792v1](http://arxiv.org/abs/2206.11792v1)|**[link](https://github.com/alpha-davidson/sun_cgan)**|
 |**2022-06-23**|**The Super-Massive Black Hole close environment in Active Galactic Nuclei**|W. Alston et.al.|[2206.11790v1](http://arxiv.org/abs/2206.11790v1)|null|
 |**2022-06-23**|**Single-phase deep learning in cortico-cortical networks**|Will Greedy et.al.|[2206.11769v1](http://arxiv.org/abs/2206.11769v1)|null|
 |**2022-06-23**|**What makes you, you? Analyzing Recognition by Swapping Face Parts**|Claudio Ferrari et.al.|[2206.11759v1](http://arxiv.org/abs/2206.11759v1)|null|
 |**2022-06-23**|**Inclusive and semi-inclusive production of spin-3/2 hadrons in $e^+e^-$ annihilation**|Jing Zhao et.al.|[2206.11742v1](http://arxiv.org/abs/2206.11742v1)|null|
-|**2022-06-23**|**Evidence fusion with contextual discounting for multi-modality medical image segmentation**|Ling Huang et.al.|[2206.11739v1](http://arxiv.org/abs/2206.11739v1)|**[link](https://github.com/iweisskohl/evidence-fusion-with-contextual-discounting)**|
+|**2022-06-27**|**Evidence fusion with contextual discounting for multi-modality medical image segmentation**|Ling Huang et.al.|[2206.11739v2](http://arxiv.org/abs/2206.11739v2)|**[link](https://github.com/iweisskohl/evidence-fusion-with-contextual-discounting)**|
 |**2022-06-23**|**Self-Supervised Training with Autoencoders for Visual Anomaly Detection**|Alexander Bauer et.al.|[2206.11723v1](http://arxiv.org/abs/2206.11723v1)|null|
 |**2022-06-23**|**Deep Reinforcement Learning-Assisted Federated Learning for Robust Short-term Utility Demand Forecasting in Electricity Wholesale Markets**|Chenghao Huang et.al.|[2206.11715v1](http://arxiv.org/abs/2206.11715v1)|null|
 |**2022-06-23**|**Reinforcement Learning under Partial Observability Guided by Learned Environment Models**|Edi Muskardin et.al.|[2206.11708v1](http://arxiv.org/abs/2206.11708v1)|null|
@@ -4802,7 +4802,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-06-21**|**SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders**|Gang Li et.al.|[2206.10207v1](http://arxiv.org/abs/2206.10207v1)|null|
+|**2022-06-25**|**SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders**|Gang Li et.al.|[2206.10207v2](http://arxiv.org/abs/2206.10207v2)|null|
 |**2022-06-19**|**Extended field-of-view speckle-correlation imaging by estimating autocorrelation**|Yuto Endo et.al.|[2206.09417v1](http://arxiv.org/abs/2206.09417v1)|null|
 |**2022-06-15**|**Masked Frequency Modeling for Self-Supervised Visual Pre-Training**|Jiahao Xie et.al.|[2206.07706v1](http://arxiv.org/abs/2206.07706v1)|null|
 |**2022-06-15**|**Protecting local and global symmetries in simulating 1+1-D non-abelian gauge theories**|Emil Mathew et.al.|[2206.07444v1](http://arxiv.org/abs/2206.07444v1)|null|
