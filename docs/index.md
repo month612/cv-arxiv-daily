@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.28
+## Updated on 2022.06.29
 
 ## SLAM
 
@@ -529,17 +529,17 @@ layout: default
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
 |**2022-06-27**|**Transfer Learning via Test-Time Neural Networks Aggregation**|Bruno Casella et.al.|[2206.13399v1](http://arxiv.org/abs/2206.13399v1)|null|
 |**2022-06-27**|**Guillotine Regularization: Improving Deep Networks Generalization by Removing their Head**|Florian Bordes et.al.|[2206.13378v1](http://arxiv.org/abs/2206.13378v1)|null|
-|**2022-06-27**|**Distributional Gaussian Processes Layers for Out-of-Distribution Detection**|Sebastian G. Popescu et.al.|[2206.13346v1](http://arxiv.org/abs/2206.13346v1)|null|
+|**2022-06-27**|**Distributional Gaussian Processes Layers for Out-of-Distribution Detection**|Sebastian G. Popescu et.al.|[2206.13346v1](http://arxiv.org/abs/2206.13346v1)|**[link](https://github.com/sebastianpopescu/distgp_layers)**|
 |**2022-06-27**|**A fully differentiable ligand pose optimization framework guided by deep learning and traditional scoring functions**|Zechen Wang et.al.|[2206.13345v1](http://arxiv.org/abs/2206.13345v1)|null|
 |**2022-06-27**|**Measurement of the cross-section ratio $σ_{ψ(2S )}/σ_{J/ψ(1S )}$ in exclusive photoproduction at HERA**|ZEUS Collaboration et.al.|[2206.13343v1](http://arxiv.org/abs/2206.13343v1)|null|
 |**2022-06-27**|**BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT**|Chi Yu et.al.|[2206.13325v1](http://arxiv.org/abs/2206.13325v1)|**[link](https://github.com/NTDXYG/BASHEXPLAINER)**|
-|**2022-06-27**|**Key-frame Guided Network for Thyroid Nodule Recognition using Ultrasound Videos**|Yuchen Wang et.al.|[2206.13318v1](http://arxiv.org/abs/2206.13318v1)|null|
+|**2022-06-28**|**Key-frame Guided Network for Thyroid Nodule Recognition using Ultrasound Videos**|Yuchen Wang et.al.|[2206.13318v2](http://arxiv.org/abs/2206.13318v2)|**[link](https://github.com/neuronxjtu/kfgnet)**|
 |**2022-06-27**|**Insights into Deep Non-linear Filters for Improved Multi-channel Speech Enhancement**|Kristina Tesch et.al.|[2206.13310v1](http://arxiv.org/abs/2206.13310v1)|**[link](https://github.com/sp-uhh/deep-non-linear-filter)**|
 |**2022-06-27**|**Deep transformation models for functional outcome prediction after acute ischemic stroke**|Lisa Herzog et.al.|[2206.13302v1](http://arxiv.org/abs/2206.13302v1)|null|
-|**2022-06-27**|**Diffusion Deformable Model for 4D Temporal Medical Image Generation**|Boah Kim et.al.|[2206.13295v1](http://arxiv.org/abs/2206.13295v1)|null|
+|**2022-06-27**|**Diffusion Deformable Model for 4D Temporal Medical Image Generation**|Boah Kim et.al.|[2206.13295v1](http://arxiv.org/abs/2206.13295v1)|**[link](https://github.com/torchddm/ddm)**|
 |**2022-06-27**|**Theoretical analysis of Adam using hyperparameters close to one without Lipschitz smoothness**|Hideaki Iiduka et.al.|[2206.13290v1](http://arxiv.org/abs/2206.13290v1)|null|
 |**2022-06-27**|**Linguistic Correlation Analysis: Discovering Salient Neurons in deepNLP models**|Nadir Durrani et.al.|[2206.13288v1](http://arxiv.org/abs/2206.13288v1)|null|
-|**2022-06-27**|**Expressive power of binary and ternary neural networks**|Aleksandr Beknazaryan et.al.|[2206.13280v1](http://arxiv.org/abs/2206.13280v1)|null|
+|**2022-06-28**|**Expressive power of binary and ternary neural networks**|Aleksandr Beknazaryan et.al.|[2206.13280v2](http://arxiv.org/abs/2206.13280v2)|null|
 |**2022-06-27**|**Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data**|Julian Lemmel et.al.|[2206.13274v1](http://arxiv.org/abs/2206.13274v1)|null|
 |**2022-06-27**|**Learning with Weak Annotations for Robust Maritime Obstacle Detection**|Lojze Žust et.al.|[2206.13263v1](http://arxiv.org/abs/2206.13263v1)|**[link](https://github.com/lojzezust/slr)**|
 |**2022-06-27**|**Regularization of Inverse Problems: Deep Equilibrium Models versus Bilevel Learning**|Danilo Riccio et.al.|[2206.13193v1](http://arxiv.org/abs/2206.13193v1)|null|
@@ -4879,7 +4879,7 @@ layout: default
 |**2022-05-28**|**A Closer Look at Self-supervised Lightweight Vision Transformers**|Shaoru Wang et.al.|[2205.14443v1](http://arxiv.org/abs/2205.14443v1)|null|
 |**2022-05-27**|**Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation**|Yixuan Wei et.al.|[2205.14141v1](http://arxiv.org/abs/2205.14141v1)|**[link](https://github.com/SwinTransformer/Feature-Distillation)**|
 |**2022-06-01**|**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**|Siyuan Li et.al.|[2205.13943v2](http://arxiv.org/abs/2205.13943v2)|**[link](https://github.com/Westlake-AI/openmixup)**|
-|**2022-05-27**|**Error Bound of Empirical $\ell_2$ Risk Minimization for Noisy Standard and Generalized Phase Retrieval Problems**|Junren Chen et.al.|[2205.13827v1](http://arxiv.org/abs/2205.13827v1)|null|
+|**2022-06-28**|**Error Bound of Empirical $\ell_2$ Risk Minimization for Noisy Standard and Generalized Phase Retrieval Problems**|Junren Chen et.al.|[2205.13827v2](http://arxiv.org/abs/2205.13827v2)|null|
 |**2022-05-27**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-26**|**Green Hierarchical Vision Transformer for Masked Image Modeling**|Lang Huang et.al.|[2205.13515v1](http://arxiv.org/abs/2205.13515v1)|**[link](https://github.com/layneh/greenmim)**|
 |**2022-05-28**|**MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning**|Jihao Liu et.al.|[2205.13137v2](http://arxiv.org/abs/2205.13137v2)|**[link](https://github.com/sense-x/mixmim)**|
