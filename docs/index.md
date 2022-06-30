@@ -521,6 +521,49 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-29**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798v1](http://arxiv.org/abs/2206.14798v1)|null|
+|**2022-06-29**|**Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5**|Sian Jin et.al.|[2206.14761v1](http://arxiv.org/abs/2206.14761v1)|null|
+|**2022-06-29**|**Modeling Teams Performance Using Deep Representational Learning on Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
+|**2022-06-29**|**DrumGAN VST: A Plugin for Drum Sound Analysis/Synthesis With Autoencoding Generative Adversarial Networks**|Javier Nistal et.al.|[2206.14723v1](http://arxiv.org/abs/2206.14723v1)|null|
+|**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
+|**2022-06-29**|**CONVIQT: Contrastive Video Quality Estimator**|Pavan C. Madhusudana et.al.|[2206.14713v1](http://arxiv.org/abs/2206.14713v1)|**[link](https://github.com/pavancm/conviqt)**|
+|**2022-06-29**|**An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations**|Florent Bonnet et.al.|[2206.14709v1](http://arxiv.org/abs/2206.14709v1)|null|
+|**2022-06-29**|**Deep Learning-Based Attenuation and Scatter Correction of Brain 18F-FDG PET Images in the Image Domain**|Reza Jahangir et.al.|[2206.14673v1](http://arxiv.org/abs/2206.14673v1)|null|
+|**2022-06-29**|**Deep Learning for Spin-Orbit Torque Characterizations with a Projected Vector Field Magnet**|Chao-Chung Huang et.al.|[2206.14670v1](http://arxiv.org/abs/2206.14670v1)|null|
+|**2022-06-29**|**Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning**|Anthony Coache et.al.|[2206.14666v1](http://arxiv.org/abs/2206.14666v1)|**[link](https://github.com/acoache/rl-elicitabledynamicrisk)**|
+|**2022-06-29**|**DDKtor: Automatic Diadochokinetic Speech Analysis**|Yael Segal et.al.|[2206.14639v1](http://arxiv.org/abs/2206.14639v1)|null|
+|**2022-06-29**|**Uncertainty-aware Panoptic Segmentation**|Kshitij Sirohi et.al.|[2206.14554v1](http://arxiv.org/abs/2206.14554v1)|null|
+|**2022-06-29**|**Deep Active Visual Attention for Real-time Robot Motion Generation: Emergence of Tool-body Assimilation and Adaptive Tool-use**|Hyogo Hiruma et.al.|[2206.14530v1](http://arxiv.org/abs/2206.14530v1)|null|
+|**2022-06-29**|**A light-weight full-band speech enhancement model**|Qinwen Hu et.al.|[2206.14524v1](http://arxiv.org/abs/2206.14524v1)|null|
+|**2022-06-29**|**Supervised Deep Hashing for High-dimensional and Heterogeneous Case-based Reasoning**|Qi Zhang et.al.|[2206.14523v1](http://arxiv.org/abs/2206.14523v1)|null|
+|**2022-06-29**|**Reconstruction of interactions in the ProtoDUNE-SP detector with Pandora**|DUNE Collaboration et.al.|[2206.14521v1](http://arxiv.org/abs/2206.14521v1)|null|
+|**2022-06-29**|**GERNERMED++: Transfer Learning in German Medical NLP**|Johann Frei et.al.|[2206.14504v1](http://arxiv.org/abs/2206.14504v1)|**[link](https://github.com/frankkramer-lab/gernermed-pp)**|
+|**2022-06-29**|**Auto-Encoder-Extreme Learning Machine Model for Boiler NOx Emission Concentration Prediction**|Zhenhao Tang et.al.|[2206.14496v1](http://arxiv.org/abs/2206.14496v1)|null|
+|**2022-06-29**|**Beyond neural scaling laws: beating power law scaling via data pruning**|Ben Sorscher et.al.|[2206.14486v1](http://arxiv.org/abs/2206.14486v1)|null|
+|**2022-06-29**|**DeepMB: Deep neural network for real-time model-based optoacoustic image reconstruction with adjustable speed of sound**|Christoph Dehner et.al.|[2206.14485v1](http://arxiv.org/abs/2206.14485v1)|null|
+|**2022-06-29**|**Data augmentation for learning predictive models on EEG: a systematic comparison**|Cédric Rommel et.al.|[2206.14483v1](http://arxiv.org/abs/2206.14483v1)|null|
+|**2022-06-29**|**Adversarial Ensemble Training by Jointly Learning Label Dependencies and Member Models**|Lele Wang et.al.|[2206.14477v1](http://arxiv.org/abs/2206.14477v1)|**[link](https://github.com/zjlab-ammi/lsd)**|
+|**2022-06-29**|**SPI-GAN: Distilling Score-based Generative Models with Straight-Path Interpolations**|Jinsung Jeon et.al.|[2206.14464v1](http://arxiv.org/abs/2206.14464v1)|null|
+|**2022-06-29**|**Deep Multiple Instance Learning For Forecasting Stock Trends Using Financial News**|Yiqi Deng et.al.|[2206.14452v1](http://arxiv.org/abs/2206.14452v1)|null|
+|**2022-06-29**|**Search for close encounters of stars with the Solar System using Gaia DR3 catalog**|Vadim Bobylev et.al.|[2206.14443v1](http://arxiv.org/abs/2206.14443v1)|null|
+|**2022-06-29**|**MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation**|Yash Sharma et.al.|[2206.14437v1](http://arxiv.org/abs/2206.14437v1)|null|
+|**2022-06-29**|**C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation**|Xian Lin et.al.|[2206.14409v1](http://arxiv.org/abs/2206.14409v1)|**[link](https://github.com/xianlin7/c2ftrans)**|
+|**2022-06-29**|**GreenBIQA: A Lightweight Blind Image Quality Assessment Method**|Zhanxuan Mei et.al.|[2206.14400v1](http://arxiv.org/abs/2206.14400v1)|null|
+|**2022-06-29**|**Overview of Deep Learning-based CSI Feedback in Massive MIMO Systems**|Jiajia Guo et.al.|[2206.14383v1](http://arxiv.org/abs/2206.14383v1)|null|
+|**2022-06-29**|**Theoretical Perspectives on Deep Learning Methods in Inverse Problems**|Jonathan Scarlett et.al.|[2206.14373v1](http://arxiv.org/abs/2206.14373v1)|null|
+|**2022-06-29**|**AAE: An Active Auto-Estimator for Improving Graph Storage**|Yu Yan et.al.|[2206.14363v1](http://arxiv.org/abs/2206.14363v1)|null|
+|**2022-06-29**|**Comparing Conventional Pitch Detection Algorithms with a Neural Network Approach**|Anja Kroon et.al.|[2206.14357v1](http://arxiv.org/abs/2206.14357v1)|null|
+|**2022-06-29**|**Convolutional Neural Network Based Partial Face Detection**|Md. Towfiqul Islam et.al.|[2206.14350v1](http://arxiv.org/abs/2206.14350v1)|null|
+|**2022-06-29**|**A Deep Learning Approach to Create DNS Amplification Attacks**|Jared Mathews et.al.|[2206.14346v1](http://arxiv.org/abs/2206.14346v1)|null|
+|**2022-06-28**|**On the Rényi Cross-Entropy**|Ferenc Cole Thierrin et.al.|[2206.14329v1](http://arxiv.org/abs/2206.14329v1)|null|
+|**2022-06-28**|**An Empirical Study of Challenges in Converting Deep Learning Models**|Moses Openja et.al.|[2206.14322v1](http://arxiv.org/abs/2206.14322v1)|**[link](https://github.com/convertingdlmodels-icsme2022/replicationpackage)**|
+|**2022-06-28**|**Multistep Automated Data Labelling Procedure (MADLaP) for Thyroid Nodules on Ultrasound: An Artificial Intelligence Approach for Automating Image Annotation**|Jikai Zhang et.al.|[2206.14305v1](http://arxiv.org/abs/2206.14305v1)|null|
+|**2022-06-28**|**Left Heavy Tails and the Effectiveness of the Policy and Value Networks in DNN-based best-first search for Sokoban Planning**|Dieqiao Feng et.al.|[2206.14298v1](http://arxiv.org/abs/2206.14298v1)|null|
+|**2022-06-28**|**Applications of Reinforcement Learning in Finance -- Trading with a Double Deep Q-Network**|Frensi Zejnullahu et.al.|[2206.14267v1](http://arxiv.org/abs/2206.14267v1)|null|
+|**2022-06-28**|**Semi-supervised Contrastive Outlier removal for Pseudo Expectation Maximization (SCOPE)**|Sumeet Menon et.al.|[2206.14261v1](http://arxiv.org/abs/2206.14261v1)|null|
+|**2022-06-28**|**Low star-formation activity and low gas content of quiescent galaxies at $z=$ 3.5-4.0 constrained with ALMA**|Tomoko L. Suzuki et.al.|[2206.14238v1](http://arxiv.org/abs/2206.14238v1)|null|
+|**2022-06-28**|**Physical properties of more than one thousand brightest cluster galaxies detected in the Canada France Hawaii Telescope Legacy Survey**|Aline Chu et.al.|[2206.14209v1](http://arxiv.org/abs/2206.14209v1)|null|
+|**2022-06-28**|**Latent Combinational Game Design**|Anurag Sarkar et.al.|[2206.14203v1](http://arxiv.org/abs/2206.14203v1)|null|
 |**2022-06-28**|**DayDreamer: World Models for Physical Robot Learning**|Philipp Wu et.al.|[2206.14176v1](http://arxiv.org/abs/2206.14176v1)|null|
 |**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
 |**2022-06-28**|**Mapping charge capture and acceleration in a plasma wakefield of a proton bunch using variable emittance electron beam injection**|E. Granados et.al.|[2206.14075v1](http://arxiv.org/abs/2206.14075v1)|null|
