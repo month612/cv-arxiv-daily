@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.30
+## Updated on 2022.07.01
 
 ## SLAM
 
@@ -527,11 +527,11 @@ layout: default
 |**2022-06-29**|**DrumGAN VST: A Plugin for Drum Sound Analysis/Synthesis With Autoencoding Generative Adversarial Networks**|Javier Nistal et.al.|[2206.14723v1](http://arxiv.org/abs/2206.14723v1)|null|
 |**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
 |**2022-06-29**|**CONVIQT: Contrastive Video Quality Estimator**|Pavan C. Madhusudana et.al.|[2206.14713v1](http://arxiv.org/abs/2206.14713v1)|**[link](https://github.com/pavancm/conviqt)**|
-|**2022-06-29**|**An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations**|Florent Bonnet et.al.|[2206.14709v1](http://arxiv.org/abs/2206.14709v1)|null|
+|**2022-06-29**|**An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations**|Florent Bonnet et.al.|[2206.14709v1](http://arxiv.org/abs/2206.14709v1)|**[link](https://github.com/extrality/iclr_naca_dataset_v0)**|
 |**2022-06-29**|**Deep Learning-Based Attenuation and Scatter Correction of Brain 18F-FDG PET Images in the Image Domain**|Reza Jahangir et.al.|[2206.14673v1](http://arxiv.org/abs/2206.14673v1)|null|
 |**2022-06-29**|**Deep Learning for Spin-Orbit Torque Characterizations with a Projected Vector Field Magnet**|Chao-Chung Huang et.al.|[2206.14670v1](http://arxiv.org/abs/2206.14670v1)|null|
 |**2022-06-29**|**Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning**|Anthony Coache et.al.|[2206.14666v1](http://arxiv.org/abs/2206.14666v1)|**[link](https://github.com/acoache/rl-elicitabledynamicrisk)**|
-|**2022-06-29**|**DDKtor: Automatic Diadochokinetic Speech Analysis**|Yael Segal et.al.|[2206.14639v1](http://arxiv.org/abs/2206.14639v1)|null|
+|**2022-06-29**|**DDKtor: Automatic Diadochokinetic Speech Analysis**|Yael Segal et.al.|[2206.14639v1](http://arxiv.org/abs/2206.14639v1)|**[link](https://github.com/mlspeech/ddktor)**|
 |**2022-06-29**|**Uncertainty-aware Panoptic Segmentation**|Kshitij Sirohi et.al.|[2206.14554v1](http://arxiv.org/abs/2206.14554v1)|null|
 |**2022-06-29**|**Deep Active Visual Attention for Real-time Robot Motion Generation: Emergence of Tool-body Assimilation and Adaptive Tool-use**|Hyogo Hiruma et.al.|[2206.14530v1](http://arxiv.org/abs/2206.14530v1)|null|
 |**2022-06-29**|**A light-weight full-band speech enhancement model**|Qinwen Hu et.al.|[2206.14524v1](http://arxiv.org/abs/2206.14524v1)|null|
@@ -555,7 +555,7 @@ layout: default
 |**2022-06-29**|**Comparing Conventional Pitch Detection Algorithms with a Neural Network Approach**|Anja Kroon et.al.|[2206.14357v1](http://arxiv.org/abs/2206.14357v1)|null|
 |**2022-06-29**|**Convolutional Neural Network Based Partial Face Detection**|Md. Towfiqul Islam et.al.|[2206.14350v1](http://arxiv.org/abs/2206.14350v1)|null|
 |**2022-06-29**|**A Deep Learning Approach to Create DNS Amplification Attacks**|Jared Mathews et.al.|[2206.14346v1](http://arxiv.org/abs/2206.14346v1)|null|
-|**2022-06-28**|**On the Rényi Cross-Entropy**|Ferenc Cole Thierrin et.al.|[2206.14329v1](http://arxiv.org/abs/2206.14329v1)|null|
+|**2022-06-30**|**On the Rényi Cross-Entropy**|Ferenc Cole Thierrin et.al.|[2206.14329v2](http://arxiv.org/abs/2206.14329v2)|null|
 |**2022-06-28**|**An Empirical Study of Challenges in Converting Deep Learning Models**|Moses Openja et.al.|[2206.14322v1](http://arxiv.org/abs/2206.14322v1)|**[link](https://github.com/convertingdlmodels-icsme2022/replicationpackage)**|
 |**2022-06-28**|**Multistep Automated Data Labelling Procedure (MADLaP) for Thyroid Nodules on Ultrasound: An Artificial Intelligence Approach for Automating Image Annotation**|Jikai Zhang et.al.|[2206.14305v1](http://arxiv.org/abs/2206.14305v1)|null|
 |**2022-06-28**|**Left Heavy Tails and the Effectiveness of the Policy and Value Networks in DNN-based best-first search for Sokoban Planning**|Dieqiao Feng et.al.|[2206.14298v1](http://arxiv.org/abs/2206.14298v1)|null|
