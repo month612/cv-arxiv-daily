@@ -505,7 +505,7 @@
 |**2022-06-30**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
 |**2022-06-30**|**Faro: A framework for measuring the scientific performance of petascale Rubin Observatory data products**|Leanne P. Guy et.al.|[2206.15447v1](http://arxiv.org/abs/2206.15447v1)|null|
 |**2022-06-30**|**Learning Functions on Multiple Sets using Multi-Set Transformers**|Kira Selby et.al.|[2206.15444v1](http://arxiv.org/abs/2206.15444v1)|**[link](https://github.com/krylea/partial-invariance)**|
-|**2022-06-30**|**Randomized K-FACs: Speeding up K-FAC with Randomized Numerical Linear Algebra**|Constantin Octavian Puiu et.al.|[2206.15397v1](http://arxiv.org/abs/2206.15397v1)|null|
+|**2022-06-30**|**Randomized K-FACs: Speeding up K-FAC with Randomized Numerical Linear Algebra**|Constantin Octavian Puiu et.al.|[2206.15397v1](http://arxiv.org/abs/2206.15397v1)|**[link](https://github.com/constantinpuiu/randomized-kfacs)**|
 |**2022-06-30**|**Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning**|Julien Perolat et.al.|[2206.15378v1](http://arxiv.org/abs/2206.15378v1)|null|
 |**2022-06-30**|**Improving the Generalization of Supervised Models**|Mert Bulent Sariyildiz et.al.|[2206.15369v1](http://arxiv.org/abs/2206.15369v1)|null|
 |**2022-06-30**|**Reinforcement Learning of Control Strategies for Reducing Skin Friction Drag in a Fully Developed Channel Flow**|Takahiro Sonoda et.al.|[2206.15355v1](http://arxiv.org/abs/2206.15355v1)|null|
@@ -524,7 +524,7 @@
 |**2022-06-30**|**InsMix: Towards Realistic Generative Data Augmentation for Nuclei Instance Segmentation**|Yi Lin et.al.|[2206.15134v1](http://arxiv.org/abs/2206.15134v1)|null|
 |**2022-06-30**|**Radio Galaxy Classification with wGAN-Supported Augmentation**|Janis Kummer et.al.|[2206.15131v1](http://arxiv.org/abs/2206.15131v1)|null|
 |**2022-06-30**|**Detecting and Recovering Adversarial Examples from Extracting Non-robust and Highly Predictive Adversarial Perturbations**|Mingyu Dong et.al.|[2206.15128v1](http://arxiv.org/abs/2206.15128v1)|null|
-|**2022-06-30**|**Automated Experiments of Local Non-linear Behavior in Ferroelectric Materials**|Yongtao Liu et.al.|[2206.15110v1](http://arxiv.org/abs/2206.15110v1)|null|
+|**2022-06-30**|**Automated Experiments of Local Non-linear Behavior in Ferroelectric Materials**|Yongtao Liu et.al.|[2206.15110v1](http://arxiv.org/abs/2206.15110v1)|**[link](https://github.com/yongtaoliu/dkl-nonlinearity)**|
 |**2022-06-30**|**Colonoscopy Navigation using End-to-End Deep Visuomotor Control: A User Study**|Ameya Pore et.al.|[2206.15086v1](http://arxiv.org/abs/2206.15086v1)|null|
 |**2022-06-30**|**Learnable Model-Driven Performance Prediction and Optimization for Imperfect MIMO System: Framework and Application**|Fan Meng et.al.|[2206.15072v1](http://arxiv.org/abs/2206.15072v1)|null|
 |**2022-06-30**|**Learning-Based Near-Orthogonal Superposition Code for MIMO Short Message Transmission**|Chenghong Bian et.al.|[2206.15065v1](http://arxiv.org/abs/2206.15065v1)|null|
@@ -544,7 +544,7 @@
 |**2022-06-29**|**CIRDataset: A large-scale Dataset for Clinically-Interpretable lung nodule Radiomics and malignancy prediction**|Wookjin Choi et.al.|[2206.14903v1](http://arxiv.org/abs/2206.14903v1)|**[link](https://github.com/nadeemlab/cir)**|
 |**2022-06-29**|**Are the host galaxies of Long Gamma-Ray Bursts more compact than star-forming galaxies of the field?**|B. Schneider et.al.|[2206.14873v1](http://arxiv.org/abs/2206.14873v1)|null|
 |**2022-06-29**|**Deep Reinforcement Learning for Small Bowel Path Tracking using Different Types of Annotations**|Seung Yeon Shin et.al.|[2206.14847v1](http://arxiv.org/abs/2206.14847v1)|null|
-|**2022-06-29**|**The Dynamical Mass of the Coma Cluster from Deep Learning**|Matthew Ho et.al.|[2206.14834v1](http://arxiv.org/abs/2206.14834v1)|null|
+|**2022-06-29**|**The Dynamical Mass of the Coma Cluster from Deep Learning**|Matthew Ho et.al.|[2206.14834v1](http://arxiv.org/abs/2206.14834v1)|**[link](https://github.com/McWilliamsCenter/halo_cnn)**|
 |**2022-06-29**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798v1](http://arxiv.org/abs/2206.14798v1)|null|
 |**2022-06-29**|**Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5**|Sian Jin et.al.|[2206.14761v1](http://arxiv.org/abs/2206.14761v1)|null|
 |**2022-06-29**|**Modeling Teams Performance Using Deep Representational Learning on Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
