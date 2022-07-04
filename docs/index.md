@@ -445,7 +445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-01**|**TopicFM: Robust and Interpretable Feature Matching with Topic-assisted**|Khang Truong Giang et.al.|[2207.00328v1](http://arxiv.org/abs/2207.00328v1)|null|
+|**2022-07-01**|**TopicFM: Robust and Interpretable Feature Matching with Topic-assisted**|Khang Truong Giang et.al.|[2207.00328v1](http://arxiv.org/abs/2207.00328v1)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2022-06-16**|**Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**|Wei-Chiu Ma et.al.|[2206.08365v1](http://arxiv.org/abs/2206.08365v1)|null|
 |**2022-06-15**|**Self-Supervised Learning of Image Scale and Orientation**|Jongmin Lee et.al.|[2206.07259v1](http://arxiv.org/abs/2206.07259v1)|**[link](https://github.com/bluedream1121/self-sca-ori)**|
 |**2022-05-27**|**Image Keypoint Matching using Graph Neural Networks**|Nancy Xu et.al.|[2205.14275v1](http://arxiv.org/abs/2205.14275v1)|null|
@@ -541,10 +541,10 @@ layout: default
 |**2022-07-01**|**Horizontal Layer Constrained Attention Neural Network for Semblance Velocity Picking**|Chenyu Qiu et.al.|[2207.00380v1](http://arxiv.org/abs/2207.00380v1)|null|
 |**2022-07-01**|**Anisotropic, Sparse and Interpretable Physics-Informed Neural Networks for PDEs**|Amuthan A. Ramabathiran et.al.|[2207.00377v1](http://arxiv.org/abs/2207.00377v1)|null|
 |**2022-07-01**|**Optimal control of a nonconserved phase field model of Caginalp type with thermal memory and double obstacle potential**|Pierluigi Colli et.al.|[2207.00375v1](http://arxiv.org/abs/2207.00375v1)|null|
-|**2022-07-01**|**Adapting the Mean Teacher for keypoint-based lung registration under geometric domain shifts**|Alexander Bigalke et.al.|[2207.00371v1](http://arxiv.org/abs/2207.00371v1)|null|
+|**2022-07-01**|**Adapting the Mean Teacher for keypoint-based lung registration under geometric domain shifts**|Alexander Bigalke et.al.|[2207.00371v1](http://arxiv.org/abs/2207.00371v1)|**[link](https://github.com/multimodallearning/registration-da-mean-teacher)**|
 |**2022-07-01**|**A Deep-Learning-Aided Pipeline for Efficient Post-Silicon Tuning**|Yiwen Liao et.al.|[2207.00336v1](http://arxiv.org/abs/2207.00336v1)|null|
 |**2022-07-01**|**Conditional Variable Selection for Intelligent Test**|Yiwen Liao et.al.|[2207.00335v1](http://arxiv.org/abs/2207.00335v1)|null|
-|**2022-07-01**|**TopicFM: Robust and Interpretable Feature Matching with Topic-assisted**|Khang Truong Giang et.al.|[2207.00328v1](http://arxiv.org/abs/2207.00328v1)|null|
+|**2022-07-01**|**TopicFM: Robust and Interpretable Feature Matching with Topic-assisted**|Khang Truong Giang et.al.|[2207.00328v1](http://arxiv.org/abs/2207.00328v1)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2022-07-01**|**Learning Subject-Invariant Representations from Speech-Evoked EEG Using Variational Autoencoders**|Lies Bollens et.al.|[2207.00323v1](http://arxiv.org/abs/2207.00323v1)|null|
 |**2022-07-01**|**Measurement of the Higgs boson mass in the $H \rightarrow ZZ^* \rightarrow 4\ell$ decay channel using 139 fb$^{-1}$ of $\sqrt{s}=13$ TeV $pp$ collisions recorded by the ATLAS detector at the LHC**|ATLAS Collaboration et.al.|[2207.00320v1](http://arxiv.org/abs/2207.00320v1)|null|
 |**2022-07-01**|**Robust Bayesian Learning for Reliable Wireless AI: Framework and Applications**|Matteo Zecchin et.al.|[2207.00300v1](http://arxiv.org/abs/2207.00300v1)|null|
@@ -556,9 +556,9 @@ layout: default
 |**2022-07-01**|**BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label**|Shengshan Hu et.al.|[2207.00278v1](http://arxiv.org/abs/2207.00278v1)|null|
 |**2022-07-01**|**Effect of Homomorphic Encryption on the Performance of Training Federated Learning Generative Adversarial Networks**|Ignjat Pejic et.al.|[2207.00263v1](http://arxiv.org/abs/2207.00263v1)|null|
 |**2022-07-01**|**A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers**|Julio A. Placed et.al.|[2207.00254v1](http://arxiv.org/abs/2207.00254v1)|null|
-|**2022-07-01**|**Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance**|Chengwei Pan et.al.|[2207.00251v1](http://arxiv.org/abs/2207.00251v1)|null|
+|**2022-07-01**|**Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance**|Chengwei Pan et.al.|[2207.00251v1](http://arxiv.org/abs/2207.00251v1)|**[link](https://github.com/gangmingzhao/tb-attribute-weak-localization)**|
 |**2022-07-01**|**Bridging Fidelities to Predict Nanoindentation Tip Radii Using Interpretable Deep Learning Models**|Claus O. W. Trost et.al.|[2207.00243v1](http://arxiv.org/abs/2207.00243v1)|null|
-|**2022-07-01**|**Improving Speech Enhancement through Fine-Grained Speech Characteristics**|Muqiao Yang et.al.|[2207.00237v1](http://arxiv.org/abs/2207.00237v1)|null|
+|**2022-07-01**|**Improving Speech Enhancement through Fine-Grained Speech Characteristics**|Muqiao Yang et.al.|[2207.00237v1](http://arxiv.org/abs/2207.00237v1)|**[link](https://github.com/muqiaoy/egemaps_estimator)**|
 |**2022-07-01**|**Frequency beating and damping of breathing oscillations of a harmonically trapped one-dimensional quasicondensate**|F. A. Bayocboc, Jr. et.al.|[2207.00209v1](http://arxiv.org/abs/2207.00209v1)|null|
 |**2022-07-01**|**Studying the impact of magnitude pruning on contrastive learning methods**|Francesco Corti et.al.|[2207.00200v1](http://arxiv.org/abs/2207.00200v1)|null|
 |**2022-07-01**|**The miniJPAS Survey: Detection of Double-core Ly$α$ Morphology of Two high-redshift QSOs**|P. T. Rahna et.al.|[2207.00196v1](http://arxiv.org/abs/2207.00196v1)|null|
@@ -566,9 +566,9 @@ layout: default
 |**2022-07-01**|**Hidden-charm Hexaquarks from Lattice QCD**|Hang Liu et.al.|[2207.00183v1](http://arxiv.org/abs/2207.00183v1)|null|
 |**2022-07-01**|**Deep Motion Network for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2207.00177v1](http://arxiv.org/abs/2207.00177v1)|null|
 |**2022-07-01**|**Robustness of Epinets against Distributional Shifts**|Xiuyuan Lu et.al.|[2207.00137v1](http://arxiv.org/abs/2207.00137v1)|null|
-|**2022-06-30**|**ProSelfLC: Progressive Self Label Correction Towards A Low-Temperature Entropy State**|Xinshao Wang et.al.|[2207.00118v1](http://arxiv.org/abs/2207.00118v1)|null|
+|**2022-06-30**|**ProSelfLC: Progressive Self Label Correction Towards A Low-Temperature Entropy State**|Xinshao Wang et.al.|[2207.00118v1](http://arxiv.org/abs/2207.00118v1)|**[link](https://github.com/xinshaoamoswang/proselflc-at)**|
 |**2022-06-30**|**Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos**|Nuha Albadi et.al.|[2207.00111v1](http://arxiv.org/abs/2207.00111v1)|null|
-|**2022-06-30**|**Modularity Optimization as a Training Criterion for Graph Neural Networks**|Tsuyoshi Murata et.al.|[2207.00107v1](http://arxiv.org/abs/2207.00107v1)|null|
+|**2022-06-30**|**Modularity Optimization as a Training Criterion for Graph Neural Networks**|Tsuyoshi Murata et.al.|[2207.00107v1](http://arxiv.org/abs/2207.00107v1)|**[link](https://github.com/naveed92/gcn_modularity)**|
 |**2022-06-30**|**Stain-free, rapid, and quantitative viral plaque assay using deep learning and holography**|Tairan Liu et.al.|[2207.00089v1](http://arxiv.org/abs/2207.00089v1)|null|
 |**2022-06-30**|**DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware**|Hanieh Hashemi et.al.|[2207.00083v1](http://arxiv.org/abs/2207.00083v1)|null|
 |**2022-06-30**|**SRG/eROSITA discovery of an extremely radio-faint iron-rich X-ray candidate supernova remnant SRGe J003602.3+605421 = G121.1-1.9**|I. I. Khabibullin et.al.|[2207.00064v1](http://arxiv.org/abs/2207.00064v1)|null|
