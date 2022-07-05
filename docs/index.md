@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.04
+## Updated on 2022.07.05
 
 ## SLAM
 
@@ -531,7 +531,7 @@ layout: default
 |**2022-07-01**|**Deep Learning and Symbolic Regression for Discovering Parametric Equations**|Michael Zhang et.al.|[2207.00529v1](http://arxiv.org/abs/2207.00529v1)|null|
 |**2022-07-01**|**The Octagon at large M**|Riccardo Argurio et.al.|[2207.00525v1](http://arxiv.org/abs/2207.00525v1)|null|
 |**2022-07-01**|**Solving barrier options under stochastic volatility using deep learning**|Weilong Fu et.al.|[2207.00524v1](http://arxiv.org/abs/2207.00524v1)|null|
-|**2022-07-01**|**Asynchronous Distributed Bayesian Optimization at HPC Scale**|Romain Egele et.al.|[2207.00479v1](http://arxiv.org/abs/2207.00479v1)|null|
+|**2022-07-04**|**Asynchronous Distributed Bayesian Optimization at HPC Scale**|Romain Egele et.al.|[2207.00479v2](http://arxiv.org/abs/2207.00479v2)|null|
 |**2022-07-01**|**Online Reflective Learning for Robust Medical Image Segmentation**|Yuhao Huang et.al.|[2207.00476v1](http://arxiv.org/abs/2207.00476v1)|null|
 |**2022-07-01**|**SD-LayerNet: Semi-supervised retinal layer segmentation in OCT using disentangled representation with anatomical priors**|Botond Fazekas et.al.|[2207.00458v1](http://arxiv.org/abs/2207.00458v1)|null|
 |**2022-07-01**|**Dissecting Self-Supervised Learning Methods for Surgical Computer Vision**|Sanat Ramesh et.al.|[2207.00449v1](http://arxiv.org/abs/2207.00449v1)|null|
@@ -548,12 +548,12 @@ layout: default
 |**2022-07-01**|**Learning Subject-Invariant Representations from Speech-Evoked EEG Using Variational Autoencoders**|Lies Bollens et.al.|[2207.00323v1](http://arxiv.org/abs/2207.00323v1)|null|
 |**2022-07-01**|**Measurement of the Higgs boson mass in the $H \rightarrow ZZ^* \rightarrow 4\ell$ decay channel using 139 fb$^{-1}$ of $\sqrt{s}=13$ TeV $pp$ collisions recorded by the ATLAS detector at the LHC**|ATLAS Collaboration et.al.|[2207.00320v1](http://arxiv.org/abs/2207.00320v1)|null|
 |**2022-07-01**|**Robust Bayesian Learning for Reliable Wireless AI: Framework and Applications**|Matteo Zecchin et.al.|[2207.00300v1](http://arxiv.org/abs/2207.00300v1)|null|
-|**2022-07-01**|**Higgstory repeats itself**|Alessandro Strumia et.al.|[2207.00299v1](http://arxiv.org/abs/2207.00299v1)|null|
+|**2022-07-04**|**Higgstory repeats itself**|Alessandro Strumia et.al.|[2207.00299v2](http://arxiv.org/abs/2207.00299v2)|null|
 |**2022-07-01**|**Learning to segment from object sizes**|Denis Baručić et.al.|[2207.00289v1](http://arxiv.org/abs/2207.00289v1)|null|
 |**2022-07-01**|**DALG: Deep Attentive Local and Global Modeling for Image Retrieval**|Yuxin Song et.al.|[2207.00287v1](http://arxiv.org/abs/2207.00287v1)|null|
 |**2022-07-01**|**Learning Lattice Quantum Field Theories with Equivariant Continuous Flows**|Mathis Gerdes et.al.|[2207.00283v1](http://arxiv.org/abs/2207.00283v1)|null|
 |**2022-07-01**|**Transposed Poisson structures**|Patrícia Damas Beites et.al.|[2207.00281v1](http://arxiv.org/abs/2207.00281v1)|null|
-|**2022-07-01**|**BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label**|Shengshan Hu et.al.|[2207.00278v1](http://arxiv.org/abs/2207.00278v1)|null|
+|**2022-07-04**|**BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label**|Shengshan Hu et.al.|[2207.00278v2](http://arxiv.org/abs/2207.00278v2)|null|
 |**2022-07-01**|**Effect of Homomorphic Encryption on the Performance of Training Federated Learning Generative Adversarial Networks**|Ignjat Pejic et.al.|[2207.00263v1](http://arxiv.org/abs/2207.00263v1)|null|
 |**2022-07-01**|**A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers**|Julio A. Placed et.al.|[2207.00254v1](http://arxiv.org/abs/2207.00254v1)|null|
 |**2022-07-01**|**Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance**|Chengwei Pan et.al.|[2207.00251v1](http://arxiv.org/abs/2207.00251v1)|**[link](https://github.com/gangmingzhao/tb-attribute-weak-localization)**|
