@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-04**|**VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**|Ling Gao et.al.|[2207.01404v1](http://arxiv.org/abs/2207.01404v1)|null|
+|**2022-07-04**|**VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM**|Danpeng Chen et.al.|[2207.01158v1](http://arxiv.org/abs/2207.01158v1)|null|
+|**2022-07-03**|**Wireless Channel Prediction in Partially Observed Environments**|Mingsheng Yin et.al.|[2207.00934v1](http://arxiv.org/abs/2207.00934v1)|null|
 |**2022-07-01**|**A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers**|Julio A. Placed et.al.|[2207.00254v1](http://arxiv.org/abs/2207.00254v1)|null|
 |**2022-07-01**|**Keeping Less is More: Point Sparsification for Visual SLAM**|Yeonsoo Park et.al.|[2207.00225v1](http://arxiv.org/abs/2207.00225v1)|null|
 |**2022-06-30**|**Controlled and impulsive compression of an entrapped air bubble during impact**|Utkarsh Jain et.al.|[2206.15297v1](http://arxiv.org/abs/2206.15297v1)|null|
@@ -503,6 +506,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-04**|**Minimax Optimal Deep Neural Network Classifiers Under Smooth Decision Boundary**|Tianyang Hu et.al.|[2207.01602v1](http://arxiv.org/abs/2207.01602v1)|null|
+|**2022-07-04**|**Deep Learning for Short-term Instant Energy Consumption Forecasting in the Manufacturing Sector**|Nuno Oliveira et.al.|[2207.01595v1](http://arxiv.org/abs/2207.01595v1)|null|
+|**2022-07-04**|**E2Efold-3D: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction**|Tao Shen et.al.|[2207.01586v1](http://arxiv.org/abs/2207.01586v1)|null|
+|**2022-07-04**|**Classification of Alzheimer's Disease Using the Convolutional Neural Network (CNN) with Transfer Learning and Weighted Loss**|Muhammad Wildan Oktavian et.al.|[2207.01584v1](http://arxiv.org/abs/2207.01584v1)|null|
+|**2022-07-04**|**Interpretable Fusion Analytics Framework for fMRI Connectivity: Self-Attention Mechanism and Latent Space Item-Response Model**|Jeong-Jae Kim et.al.|[2207.01581v1](http://arxiv.org/abs/2207.01581v1)|null|
+|**2022-07-04**|**Spatiotemporal Feature Learning Based on Two-Step LSTM and Transformer for CT Scans**|Chih-Chung Hsu et.al.|[2207.01579v1](http://arxiv.org/abs/2207.01579v1)|null|
+|**2022-07-04**|**Goal-Conditioned Generators of Deep Policies**|Francesco Faccio et.al.|[2207.01570v1](http://arxiv.org/abs/2207.01570v1)|null|
+|**2022-07-04**|**Back to MLP: A Simple Baseline for Human Motion Prediction**|Wen Guo et.al.|[2207.01567v1](http://arxiv.org/abs/2207.01567v1)|**[link](https://github.com/dulucas/simlpe)**|
+|**2022-07-04**|**General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States**|Francesco Faccio et.al.|[2207.01566v1](http://arxiv.org/abs/2207.01566v1)|null|
+|**2022-07-04**|**Learning from Multiple Unlabeled Datasets with Partial Risk Regularization**|Yuting Tang et.al.|[2207.01555v1](http://arxiv.org/abs/2207.01555v1)|null|
+|**2022-07-04**|**Counterbalancing Teacher: Regularizing Batch Normalized Models for Robustness**|Saeid Asgari Taghanaki et.al.|[2207.01548v1](http://arxiv.org/abs/2207.01548v1)|null|
+|**2022-07-04**|**Approximation bounds for convolutional neural networks in operator learning**|Nicola Rares Franco et.al.|[2207.01546v1](http://arxiv.org/abs/2207.01546v1)|null|
+|**2022-07-04**|**Adaptive GLCM sampling for transformer-based COVID-19 detection on CT**|Okchul Jung et.al.|[2207.01520v1](http://arxiv.org/abs/2207.01520v1)|null|
+|**2022-07-04**|**High-throughput property-driven generative design of functional organic molecules**|Julia Westermayr et.al.|[2207.01476v1](http://arxiv.org/abs/2207.01476v1)|null|
+|**2022-07-04**|**Deep Contrastive One-Class Time Series Anomaly Detection**|Rui Wang et.al.|[2207.01472v1](http://arxiv.org/abs/2207.01472v1)|**[link](https://github.com/ruiking04/coca)**|
+|**2022-07-04**|**Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning**|Christian Löwens et.al.|[2207.01443v1](http://arxiv.org/abs/2207.01443v1)|**[link](https://github.com/christianll9/tsppc-drl)**|
+|**2022-07-04**|**Representation Learning with Information Theory for COVID-19 Detection**|Abel Díaz Berenguer et.al.|[2207.01437v1](http://arxiv.org/abs/2207.01437v1)|null|
+|**2022-07-04**|**Physics-informed Deep Learning for Musculoskeletal Modelling: Predicting Muscle Forces and Joint Kinematics from Surface EMG**|Jie Zhang et.al.|[2207.01435v1](http://arxiv.org/abs/2207.01435v1)|null|
+|**2022-07-04**|**A Robust Ensemble Model for Patasitic Egg Detection and Classification**|Yuqi Wang et.al.|[2207.01419v1](http://arxiv.org/abs/2207.01419v1)|null|
+|**2022-07-04**|**Vehicle Trajectory Prediction on Highways Using Bird Eye View Representations and Deep Learning**|Rubén Izquierdo et.al.|[2207.01407v1](http://arxiv.org/abs/2207.01407v1)|null|
+|**2022-07-04**|**Hessian-Free Second-Order Adversarial Examples for Adversarial Learning**|Yaguan Qian et.al.|[2207.01396v1](http://arxiv.org/abs/2207.01396v1)|null|
+|**2022-07-04**|**GAN-based generation of realistic 3D data: A systematic review and taxonomy**|André Ferreira et.al.|[2207.01390v1](http://arxiv.org/abs/2207.01390v1)|null|
+|**2022-07-04**|**Lottery Ticket Hypothesis for Spiking Neural Networks**|Youngeun Kim et.al.|[2207.01382v1](http://arxiv.org/abs/2207.01382v1)|null|
+|**2022-07-04**|**Detection of ADHD based on Eye Movements during Natural Viewing**|Shuwen Deng et.al.|[2207.01377v1](http://arxiv.org/abs/2207.01377v1)|**[link](https://github.com/aeye-lab/ecml-adhd)**|
+|**2022-07-04**|**Probabilistic forecasting for geosteering in fluvial successions using a generative adversarial network**|Sergey Alyaev et.al.|[2207.01374v1](http://arxiv.org/abs/2207.01374v1)|null|
+|**2022-07-04**|**Probability Modelled Averaged Spectrally Optimal Dual Frame and Dual Pair for Erasure**|Shankhadeep Mondal et.al.|[2207.01348v1](http://arxiv.org/abs/2207.01348v1)|null|
+|**2022-07-04**|**Multi-scale alignment and Spatial ROI Module for COVID-19 Diagnosis**|Hongyan Xu et.al.|[2207.01345v1](http://arxiv.org/abs/2207.01345v1)|null|
+|**2022-07-04**|**Explore Faster Localization Learning For Scene Text Detection**|Yuzhong Zhao et.al.|[2207.01342v1](http://arxiv.org/abs/2207.01342v1)|null|
+|**2022-07-04**|**The least-control principle for learning at equilibrium**|Alexander Meulemans et.al.|[2207.01332v1](http://arxiv.org/abs/2207.01332v1)|null|
+|**2022-07-04**|**Assessing the Performance of Automated Prediction and Ranking of Patient Age from Chest X-rays Against Clinicians**|Matthew MacPherson et.al.|[2207.01302v1](http://arxiv.org/abs/2207.01302v1)|null|
+|**2022-07-04**|**NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction**|Xueyan Yin et.al.|[2207.01301v1](http://arxiv.org/abs/2207.01301v1)|null|
+|**2022-07-04**|**Transferring Textual Knowledge for Visual Recognition**|Wenhao Wu et.al.|[2207.01297v1](http://arxiv.org/abs/2207.01297v1)|**[link](https://github.com/whwu95/text4vis)**|
+|**2022-07-04**|**CPrune: Compiler-Informed Model Pruning for Efficient Target-Aware DNN Execution**|Taeho Kim et.al.|[2207.01260v1](http://arxiv.org/abs/2207.01260v1)|**[link](https://github.com/taehokim20/cprune)**|
+|**2022-07-04**|**Asynchronous Curriculum Experience Replay: A Deep Reinforcement Learning Approach for UAV Autonomous Motion Control in Unknown Dynamic Environments**|Zijian Hu et.al.|[2207.01251v1](http://arxiv.org/abs/2207.01251v1)|null|
+|**2022-07-04**|**Look beyond labels: Incorporating functional summary information in Bayesian neural networks**|Vishnu Raj et.al.|[2207.01234v1](http://arxiv.org/abs/2207.01234v1)|null|
+|**2022-07-04**|**Domain Adaptive Nuclei Instance Segmentation and Classification via Category-aware Feature Alignment and Pseudo-labelling**|Canran Li et.al.|[2207.01233v1](http://arxiv.org/abs/2207.01233v1)|null|
+|**2022-07-04**|**Segmentation Guided Deep HDR Deghosting**|K. Ram Prabhakar et.al.|[2207.01229v1](http://arxiv.org/abs/2207.01229v1)|null|
+|**2022-07-04**|**A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction**|Wei Shen et.al.|[2207.01223v1](http://arxiv.org/abs/2207.01223v1)|null|
+|**2022-07-04**|**Masked Self-Supervision for Remaining Useful Lifetime Prediction in Machine Tools**|Haoren Guo et.al.|[2207.01219v1](http://arxiv.org/abs/2207.01219v1)|null|
+|**2022-07-04**|**Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation**|Sixing Yan et.al.|[2207.01208v1](http://arxiv.org/abs/2207.01208v1)|null|
+|**2022-07-04**|**S$^{5}$Mars: Self-Supervised and Semi-Supervised Learning for Mars Segmentation**|Jiahang Zhang et.al.|[2207.01200v1](http://arxiv.org/abs/2207.01200v1)|null|
+|**2022-07-04**|**Pareto Optimization for Active Learning under Out-of-Distribution Data Scenarios**|Xueying Zhan et.al.|[2207.01190v1](http://arxiv.org/abs/2207.01190v1)|null|
+|**2022-07-04**|**ETF Portfolio Construction via Neural Network trained on Financial Statement Data**|Jinho Lee et.al.|[2207.01187v1](http://arxiv.org/abs/2207.01187v1)|null|
+|**2022-07-04**|**Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures**|Tianping Zhang et.al.|[2207.01186v1](http://arxiv.org/abs/2207.01186v1)|null|
+|**2022-07-04**|**How Robust is Your Fairness? Evaluating and Sustaining Fairness under Unseen Distribution Shifts**|Haotao Wang et.al.|[2207.01168v1](http://arxiv.org/abs/2207.01168v1)|null|
+|**2022-07-04**|**Removing Batch Normalization Boosts Adversarial Training**|Haotao Wang et.al.|[2207.01156v1](http://arxiv.org/abs/2207.01156v1)|**[link](https://github.com/amazon-research/normalizer-free-robust-training)**|
+|**2022-07-04**|**RAF: Recursive Adversarial Attacks on Face Recognition Using Extremely Limited Queries**|Keshav Kasichainula et.al.|[2207.01149v1](http://arxiv.org/abs/2207.01149v1)|null|
+|**2022-07-04**|**It's all About Consistency: A Study on Memory Composition for Replay-Based Methods in Continual Learning**|Julio Hurtado et.al.|[2207.01145v1](http://arxiv.org/abs/2207.01145v1)|null|
+|**2022-07-03**|**DecisioNet -- A Binary-Tree Structured Neural Network**|Noam Gottlieb et.al.|[2207.01127v1](http://arxiv.org/abs/2207.01127v1)|null|
+|**2022-07-03**|**Saliency-Regularized Deep Multi-Task Learning**|Guangji Bai et.al.|[2207.01117v1](http://arxiv.org/abs/2207.01117v1)|**[link](https://github.com/baithebest/srdml)**|
 |**2022-07-01**|**On Leave-One-Out Conditional Mutual Information For Generalization**|Mohamad Rida Rammal et.al.|[2207.00581v1](http://arxiv.org/abs/2207.00581v1)|null|
 |**2022-07-01**|**Deep Learning and Symbolic Regression for Discovering Parametric Equations**|Michael Zhang et.al.|[2207.00529v1](http://arxiv.org/abs/2207.00529v1)|null|
 |**2022-07-01**|**The Octagon at large M**|Riccardo Argurio et.al.|[2207.00525v1](http://arxiv.org/abs/2207.00525v1)|null|
@@ -4944,6 +4997,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
+|**2022-07-02**|**Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**|Hassan Wagih et.al.|[2207.00909v1](http://arxiv.org/abs/2207.00909v1)|null|
 |**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
 |**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
 |**2022-06-07**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v2](http://arxiv.org/abs/2206.00997v2)|**[link](https://github.com/rpartsey/pointgoal-navigation)**|
@@ -4985,7 +5040,7 @@
 |**2021-10-21**|**Robust Edge-Direct Visual Odometry based on CNN edge detection and Shi-Tomasi corner optimization**|Kengdong Lu et.al.|[2110.11064v1](http://arxiv.org/abs/2110.11064v1)|null|
 |**2021-10-13**|**Attentive and Contrastive Learning for Joint Depth and Motion Field Estimation**|Seokju Lee et.al.|[2110.06853v1](http://arxiv.org/abs/2110.06853v1)|null|
 |**2021-09-17**|**LOF: Structure-Aware Line Tracking based on Optical Flow**|Meixiang Quan et.al.|[2109.08466v1](http://arxiv.org/abs/2109.08466v1)|null|
-|**2022-03-02**|**MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints**|Cong Wang et.al.|[2109.06768v3](http://arxiv.org/abs/2109.06768v3)|null|
+|**2022-03-02**|**MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints**|Cong Wang et.al.|[2109.06768v3](http://arxiv.org/abs/2109.06768v3)|**[link](https://github.com/johnsonlc/motionhint)**|
 |**2021-09-13**|**LiDAR Odometry Methodologies for Autonomous Driving: A Survey**|Nikhil Jonnavithula et.al.|[2109.06120v1](http://arxiv.org/abs/2109.06120v1)|null|
 |**2021-09-12**|**Towards Robust Monocular Visual Odometry for Flying Robots on Planetary Missions**|Martin Wudenka et.al.|[2109.05509v1](http://arxiv.org/abs/2109.05509v1)|**[link](https://github.com/dlr-rm/granite)**|
 |**2021-09-10**|**Error State Extended Kalman Filter Multi-Sensor Fusion for Unmanned Aerial Vehicle Localization in GPS and Magnetometer Denied Indoor Environments**|Lovro Markovic et.al.|[2109.04908v1](http://arxiv.org/abs/2109.04908v1)|null|
@@ -5022,6 +5077,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-04**|**S$^{5}$Mars: Self-Supervised and Semi-Supervised Learning for Mars Segmentation**|Jiahang Zhang et.al.|[2207.01200v1](http://arxiv.org/abs/2207.01200v1)|null|
 |**2022-07-01**|**Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition**|Mingkun Yang et.al.|[2207.00193v1](http://arxiv.org/abs/2207.00193v1)|null|
 |**2022-06-27**|**Role of Material Directionality on the Mechanical Response of Miura-Ori Composite Structures**|Haotian Feng et.al.|[2206.13620v1](http://arxiv.org/abs/2206.13620v1)|null|
 |**2022-06-30**|**ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition**|Junting Pan et.al.|[2206.13559v2](http://arxiv.org/abs/2206.13559v2)|null|
