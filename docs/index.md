@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.07
+## Updated on 2022.07.08
 
 ## SLAM
 
@@ -539,11 +539,11 @@ layout: default
 |**2022-07-06**|**Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2207.02796v1](http://arxiv.org/abs/2207.02796v1)|null|
 |**2022-07-06**|**Astroconformer: Inferring Surface Gravity of Stars from Stellar Light Curves with Transformer**|Jiashu Pan et.al.|[2207.02787v1](http://arxiv.org/abs/2207.02787v1)|null|
 |**2022-07-06**|**Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows**|Ioana Ciuca et.al.|[2207.02785v1](http://arxiv.org/abs/2207.02785v1)|null|
-|**2022-07-06**|**A Hybrid Approach for Binary Classification of Imbalanced Data**|Hsin-Han Tsai et.al.|[2207.02738v1](http://arxiv.org/abs/2207.02738v1)|null|
+|**2022-07-07**|**A Hybrid Approach for Binary Classification of Imbalanced Data**|Hsin-Han Tsai et.al.|[2207.02738v2](http://arxiv.org/abs/2207.02738v2)|null|
 |**2022-07-06**|**Real-Time Gesture Recognition with Virtual Glove Markers**|Finlay McKinnon et.al.|[2207.02729v1](http://arxiv.org/abs/2207.02729v1)|null|
 |**2022-07-06**|**An Unsupervised Spiking Neural Network Inspired By Biologically Plausible Learning Rules and Connections**|Yiting Dong et.al.|[2207.02727v1](http://arxiv.org/abs/2207.02727v1)|null|
 |**2022-07-06**|**Deep Learning approach for Classifying Trusses and Runners of Strawberries**|Jakub Pomykala et.al.|[2207.02721v1](http://arxiv.org/abs/2207.02721v1)|null|
-|**2022-07-06**|**Histopathology DatasetGAN: Synthesizing Large-Resolution Histopathology Datasets**|S. A. Rizvi et.al.|[2207.02712v1](http://arxiv.org/abs/2207.02712v1)|null|
+|**2022-07-06**|**Histopathology DatasetGAN: Synthesizing Large-Resolution Histopathology Datasets**|S. A. Rizvi et.al.|[2207.02712v1](http://arxiv.org/abs/2207.02712v1)|**[link](https://github.com/SyedA5688/HistopathologyDatasetGAN)**|
 |**2022-07-06**|**Incentivizing Proof-of-Stake Blockchain for Secured Data Collection in UAV-Assisted IoT: A Multi-Agent Reinforcement Learning Approach**|Xiao Tang et.al.|[2207.02705v1](http://arxiv.org/abs/2207.02705v1)|null|
 |**2022-07-06**|**Spike Calibration: Fast and Accurate Conversion of Spiking Neural Network for Object Detection and Segmentation**|Yang Li et.al.|[2207.02702v1](http://arxiv.org/abs/2207.02702v1)|null|
 |**2022-07-06**|**Scaling Private Deep Learning with Low-Rank and Sparse Gradients**|Ryuichi Ito et.al.|[2207.02699v1](http://arxiv.org/abs/2207.02699v1)|null|
@@ -5203,7 +5203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-06**|**Local Relighting of Real Scenes**|Audrey Cui et.al.|[2207.02774v1](http://arxiv.org/abs/2207.02774v1)|**[link](https://github.com/audreycui/relighting)**|
+|**2022-07-06**|**Local Relighting of Real Scenes**|Audrey Cui et.al.|[2207.02774v1](http://arxiv.org/abs/2207.02774v1)|**[link](https://github.com/audreycui/relight)**|
 |**2022-07-06**|**Para-particle oscillator simulations on a trapped ion quantum computer**|C. Huerta Alderete et.al.|[2207.02430v1](http://arxiv.org/abs/2207.02430v1)|null|
 |**2022-07-04**|**S$^{5}$Mars: Self-Supervised and Semi-Supervised Learning for Mars Segmentation**|Jiahang Zhang et.al.|[2207.01200v1](http://arxiv.org/abs/2207.01200v1)|null|
 |**2022-07-01**|**Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition**|Mingkun Yang et.al.|[2207.00193v1](http://arxiv.org/abs/2207.00193v1)|null|
