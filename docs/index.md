@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.11
+## Updated on 2022.07.12
 
 ## SLAM
 
@@ -38,9 +38,9 @@ layout: default
 |**2022-06-04**|**C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**|Erez Posner et.al.|[2206.01961v1](http://arxiv.org/abs/2206.01961v1)|null|
 |**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo et.al.|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|**[link](https://github.com/url-kaist/alterground-lego-loam)**|
 |**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
-|**2022-05-31**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
+|**2022-07-09**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v3](http://arxiv.org/abs/2205.13135v3)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-25**|**Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**|Milad Ramezani et.al.|[2205.12595v1](http://arxiv.org/abs/2205.12595v1)|null|
-|**2022-05-24**|**Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM**|Christopher E. Denniston et.al.|[2205.12402v1](http://arxiv.org/abs/2205.12402v1)|null|
+|**2022-07-09**|**Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM**|Christopher E. Denniston et.al.|[2205.12402v2](http://arxiv.org/abs/2205.12402v2)|null|
 |**2022-05-22**|**ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**|Peng Yin et.al.|[2205.10737v1](http://arxiv.org/abs/2205.10737v1)|**[link](https://github.com/metaslam/alita)**|
 |**2022-05-19**|**FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**|Jeffrey Ichnowski et.al.|[2205.09778v1](http://arxiv.org/abs/2205.09778v1)|**[link](https://github.com/BerkeleyAutomation/FogROS2)**|
 |**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk et.al.|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
@@ -285,7 +285,7 @@ layout: default
 |**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
 |**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|**[link](https://github.com/naver/kapture-localization)**|
 |**2022-05-27**|**Improving Road Segmentation in Challenging Domains Using Similar Place Priors**|Connor Malone et.al.|[2205.14112v1](http://arxiv.org/abs/2205.14112v1)|null|
-|**2022-05-31**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
+|**2022-07-09**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v3](http://arxiv.org/abs/2205.13135v3)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-25**|**Deep Dense Local Feature Matching and Vehicle Removal for Indoor Visual Localization**|Kyung Ho Park et.al.|[2205.12544v1](http://arxiv.org/abs/2205.12544v1)|null|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun et.al.|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
 |**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss et.al.|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|null|
@@ -314,7 +314,7 @@ layout: default
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|**[link](https://github.com/tiers/tiers-lidars-dataset)**|
 |**2022-03-01**|**SwitchHit: A Probabilistic, Complementarity-Based Switching System for Improved Visual Place Recognition in Changing Environments**|Maria Waheed et.al.|[2203.00591v1](http://arxiv.org/abs/2203.00591v1)|null|
 |**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza et.al.|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
-|**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran et.al.|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
+|**2022-07-10**|**RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training**|Praveen Kumar Rajendran et.al.|[2202.12838v2](http://arxiv.org/abs/2202.12838v2)|null|
 |**2022-02-24**|**Highly-Efficient Binary Neural Networks for Visual Place Recognition**|Bruno Ferrarini et.al.|[2202.12375v1](http://arxiv.org/abs/2202.12375v1)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 |**2022-02-14**|**Tightly Coupled Learning Strategy for Weakly Supervised Hierarchical Place Recognition**|Y. Shen et.al.|[2202.06470v1](http://arxiv.org/abs/2202.06470v1)|null|
@@ -374,7 +374,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
-|**2022-07-06**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v1](http://arxiv.org/abs/2207.02976v1)|null|
+|**2022-07-11**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v2](http://arxiv.org/abs/2207.02976v2)|null|
 |**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
 |**2022-06-24**|**Motion Estimation for Large Displacements and Deformations**|Qiao Chen et.al.|[2206.12464v1](http://arxiv.org/abs/2206.12464v1)|null|
 |**2022-06-24**|**Deep embedded clustering algorithm for clustering PACS repositories**|Teo Manojlović et.al.|[2206.12417v1](http://arxiv.org/abs/2206.12417v1)|null|
@@ -412,7 +412,7 @@ layout: default
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579v1](http://arxiv.org/abs/2112.12579v1)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer et.al.|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
-|**2021-12-22**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v1](http://arxiv.org/abs/2112.12002v1)|null|
+|**2022-07-11**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v2](http://arxiv.org/abs/2112.12002v2)|null|
 |**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li et.al.|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
 |**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|null|
@@ -552,7 +552,7 @@ layout: default
 |**2022-07-08**|**Defense Against Multi-target Trojan Attacks**|Haripriya Harikumar et.al.|[2207.03895v1](http://arxiv.org/abs/2207.03895v1)|null|
 |**2022-07-08**|**The Power of Transfer Learning in Agricultural Applications: AgriNet**|Zahraa Al Sahili et.al.|[2207.03881v1](http://arxiv.org/abs/2207.03881v1)|null|
 |**2022-07-08**|**Constrained Training of Neural Networks via Theorem Proving**|Mark Chevallier et.al.|[2207.03880v1](http://arxiv.org/abs/2207.03880v1)|null|
-|**2022-07-08**|**Deep Learning for Anomaly Detection in Log Data: A Survey**|Max Landauer et.al.|[2207.03820v1](http://arxiv.org/abs/2207.03820v1)|null|
+|**2022-07-08**|**Deep Learning for Anomaly Detection in Log Data: A Survey**|Max Landauer et.al.|[2207.03820v1](http://arxiv.org/abs/2207.03820v1)|**[link](https://github.com/ait-aecid/stide)**|
 |**2022-07-08**|**Beyond Transfer Learning: Co-finetuning for Action Localisation**|Anurag Arnab et.al.|[2207.03807v1](http://arxiv.org/abs/2207.03807v1)|null|
 |**2022-07-08**|**Product Segmentation Newsvendor Problems: A Robust Learning Approach**|Xiaoli Yan et.al.|[2207.03801v1](http://arxiv.org/abs/2207.03801v1)|null|
 |**2022-07-08**|**Complementing Brightness Constancy with Deep Networks for Optical Flow Prediction**|Vincent Le Guen et.al.|[2207.03790v1](http://arxiv.org/abs/2207.03790v1)|null|
@@ -574,7 +574,7 @@ layout: default
 |**2022-07-07**|**Learning-based Autonomous Channel Access in the Presence of Hidden Terminals**|Yulin Shao et.al.|[2207.03605v1](http://arxiv.org/abs/2207.03605v1)|null|
 |**2022-07-07**|**Verification of a real-time ensemble-based method for updating earth model based on GAN**|Kristian Fossum et.al.|[2207.03596v1](http://arxiv.org/abs/2207.03596v1)|null|
 |**2022-07-07**|**CausalAgents: A Robustness Benchmark for Motion Forecasting using Causal Relationships**|Rebecca Roelofs et.al.|[2207.03586v1](http://arxiv.org/abs/2207.03586v1)|null|
-|**2022-07-07**|**The ACII 2022 Affective Vocal Bursts Workshop & Competition: Understanding a critically understudied modality of emotional expression**|Alice Baird et.al.|[2207.03572v1](http://arxiv.org/abs/2207.03572v1)|null|
+|**2022-07-07**|**The ACII 2022 Affective Vocal Bursts Workshop & Competition: Understanding a critically understudied modality of emotional expression**|Alice Baird et.al.|[2207.03572v1](http://arxiv.org/abs/2207.03572v1)|**[link](https://github.com/humeai/competitions)**|
 |**2022-07-07**|**The use of deep learning enables high diagnostic accuracy in detecting syndesmotic instability on weight-bearing CT scanning**|Alireza Borjali et.al.|[2207.03568v1](http://arxiv.org/abs/2207.03568v1)|null|
 |**2022-07-07**|**Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection**|Xiurong Jiang et.al.|[2207.03558v1](http://arxiv.org/abs/2207.03558v1)|**[link](https://github.com/jxr326/swinmcnet)**|
 |**2022-07-07**|**Flow Synthesis Based Visual Servoing Frameworks for Monocular Obstacle Avoidance Amidst High-Rises**|Harshit K. Sankhla et.al.|[2207.03557v1](http://arxiv.org/abs/2207.03557v1)|null|
@@ -583,7 +583,7 @@ layout: default
 |**2022-07-07**|**False Negative Reduction in Semantic Segmentation under Domain Shift using Depth Estimation**|Kira Maag et.al.|[2207.03513v1](http://arxiv.org/abs/2207.03513v1)|**[link](https://github.com/kmaag/fn-reduction-using-depth)**|
 |**2022-07-07**|**The Spiderweb proto-cluster is being magnetized by its central radio jet**|Craig S. Anderson et.al.|[2207.03498v1](http://arxiv.org/abs/2207.03498v1)|null|
 |**2022-07-07**|**NICER X-ray Observations of Eta Carinae During its Most Recent Periastron Passage**|David Espinoza-Galeas et.al.|[2207.03457v1](http://arxiv.org/abs/2207.03457v1)|null|
-|**2022-07-07**|**Stochastic optimal well control in subsurface reservoirs using reinforcement learning**|Atish Dixit et.al.|[2207.03456v1](http://arxiv.org/abs/2207.03456v1)|**[link](https://github.com/atishdixit16/rl_robust_owc)**|
+|**2022-07-08**|**Stochastic optimal well control in subsurface reservoirs using reinforcement learning**|Atish Dixit et.al.|[2207.03456v2](http://arxiv.org/abs/2207.03456v2)|**[link](https://github.com/atishdixit16/rl_robust_owc)**|
 |**2022-07-07**|**TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation**|Zihan Li et.al.|[2207.03450v1](http://arxiv.org/abs/2207.03450v1)|**[link](https://github.com/huanglizi/tfcns)**|
 |**2022-07-07**|**Learning to restore images degraded by atmospheric turbulence using uncertainty**|Rajeev Yasarla et.al.|[2207.03447v1](http://arxiv.org/abs/2207.03447v1)|**[link](https://github.com/rajeevyasarla/at-net)**|
 |**2022-07-07**|**LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery**|Chun-Han Yao et.al.|[2207.03434v1](http://arxiv.org/abs/2207.03434v1)|null|
