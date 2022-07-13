@@ -1,4 +1,4 @@
-## Updated on 2022.07.12
+## Updated on 2022.07.13
 
 ## SLAM
 
@@ -565,7 +565,7 @@
 |**2022-07-10**|**Droplet size distribution in a swirl airstream using in-line holography technique**|Someshwar Sanjay Ade et.al.|[2207.04440v1](http://arxiv.org/abs/2207.04440v1)|null|
 |**2022-07-10**|**Hiding Your Signals: A Security Analysis of PPG-based Biometric Authentication**|Lin Li et.al.|[2207.04434v1](http://arxiv.org/abs/2207.04434v1)|null|
 |**2022-07-10**|**Probing the surface of silicon and the silicon-silica interface using nonperturbative third and fifth harmonic generation**|J. Seres et.al.|[2207.04411v1](http://arxiv.org/abs/2207.04411v1)|null|
-|**2022-07-10**|**Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays**|Yan Han et.al.|[2207.04394v1](http://arxiv.org/abs/2207.04394v1)|null|
+|**2022-07-12**|**Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays**|Yan Han et.al.|[2207.04394v2](http://arxiv.org/abs/2207.04394v2)|null|
 |**2022-07-10**|**State Dropout-Based Curriculum Reinforcement Learning for Self-Driving at Unsignalized Intersections**|Shivesh Khaitan et.al.|[2207.04361v1](http://arxiv.org/abs/2207.04361v1)|null|
 |**2022-07-09**|**Segmentation of Blood Vessels, Optic Disc Localization, Detection of Exudates and Diabetic Retinopathy Diagnosis from Digital Fundus Images**|Soham Basu et.al.|[2207.04345v1](http://arxiv.org/abs/2207.04345v1)|**[link](https://github.com/sohambasu07/dr_2021)**|
 |**2022-07-08**|**Lessons from Deep Learning applied to Scholarly Information Extraction: What Works, What Doesn't, and Future Directions**|Raquib Bin Yousuf et.al.|[2207.04029v1](http://arxiv.org/abs/2207.04029v1)|null|
