@@ -556,6 +556,52 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-15**|**GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**|Zhiruo Zhou et.al.|[2207.07629v1](http://arxiv.org/abs/2207.07629v1)|null|
+|**2022-07-15**|**Computing-In-Memory Neural Network Accelerators for Safety-Critical Systems: Can Small Device Variations Be Disastrous?**|Zheyu Yan et.al.|[2207.07626v1](http://arxiv.org/abs/2207.07626v1)|null|
+|**2022-07-15**|**Blessing of Nonconvexity in Deep Linear Models: Depth Flattens the Optimization Landscape Around the True Solution**|Jianhao Ma et.al.|[2207.07612v1](http://arxiv.org/abs/2207.07612v1)|null|
+|**2022-07-15**|**Algorithms to estimate Shapley value feature attributions**|Hugh Chen et.al.|[2207.07605v1](http://arxiv.org/abs/2207.07605v1)|**[link](https://github.com/suinleelab/shapley_algorithms)**|
+|**2022-07-15**|**Image and Texture Independent Deep Learning Noise Estimation using Multiple Frames**|Hikmet Kirmizitas et.al.|[2207.07604v1](http://arxiv.org/abs/2207.07604v1)|null|
+|**2022-07-15**|**Mobile Keystroke Biometrics Using Transformers**|Giuseppe Stragapede et.al.|[2207.07596v1](http://arxiv.org/abs/2207.07596v1)|null|
+|**2022-07-15**|**Charm production and hadronization in pp and p-Pb collisions at the LHC with ALICE**|Annalena Sophie Kalteyer et.al.|[2207.07590v1](http://arxiv.org/abs/2207.07590v1)|null|
+|**2022-07-15**|**The Nature of Temporal Difference Errors in Multi-step Distributional Reinforcement Learning**|Yunhao Tang et.al.|[2207.07570v1](http://arxiv.org/abs/2207.07570v1)|null|
+|**2022-07-15**|**CheXplaining in Style: Counterfactual Explanations for Chest X-rays using StyleGAN**|Matan Atad et.al.|[2207.07553v1](http://arxiv.org/abs/2207.07553v1)|**[link](https://github.com/camp-explain-ai/style-chexplain)**|
+|**2022-07-15**|**On the Usefulness of Deep Ensemble Diversity for Out-of-Distribution Detection**|Guoxuan Xia et.al.|[2207.07517v1](http://arxiv.org/abs/2207.07517v1)|null|
+|**2022-07-15**|**Numerical simulation of a comparative study on heat extraction from Soultz-sous-Forêts geothermal field using supercritical carbon dioxide and water as a working fluid**|Mrityunjay Singh et.al.|[2207.07514v1](http://arxiv.org/abs/2207.07514v1)|null|
+|**2022-07-15**|**Diamond surface engineering for molecular sensing with nitrogen-vacancy centers**|Erika Janitz et.al.|[2207.07509v1](http://arxiv.org/abs/2207.07509v1)|null|
+|**2022-07-15**|**Augmenting Softmax Information for Selective Classification with Out-of-Distribution Data**|Guoxuan Xia et.al.|[2207.07506v1](http://arxiv.org/abs/2207.07506v1)|**[link](https://github.com/guoxoug/sirc)**|
+|**2022-07-15**|**Low-bit Shift Network for End-to-End Spoken Language Understanding**|Anderson R. Avila et.al.|[2207.07497v1](http://arxiv.org/abs/2207.07497v1)|null|
+|**2022-07-15**|**Stable Invariant Models via Koopman Spectra**|Takuya Konishi et.al.|[2207.07475v1](http://arxiv.org/abs/2207.07475v1)|null|
+|**2022-07-15**|**Deep Hedging: Continuous Reinforcement Learning for Hedging of General Portfolios across Multiple Risk Aversions**|Phillip Murray et.al.|[2207.07467v1](http://arxiv.org/abs/2207.07467v1)|null|
+|**2022-07-15**|**DeepSolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed PV mapping**|Gabriel Kasmi et.al.|[2207.07466v1](http://arxiv.org/abs/2207.07466v1)|**[link](https://github.com/gabrielkasmi/dsfrance)**|
+|**2022-07-15**|**Space-based gravitational wave signal detection and extraction with deep neural network**|Tianyu Zhao et.al.|[2207.07414v1](http://arxiv.org/abs/2207.07414v1)|null|
+|**2022-07-15**|**PodcastMix: A dataset for separating music and speech in podcasts**|Nicolás Schmidt et.al.|[2207.07403v1](http://arxiv.org/abs/2207.07403v1)|null|
+|**2022-07-15**|**FRAS: Federated Reinforcement Learning empowered Adaptive Point Cloud Video Streaming**|Yu Gao et.al.|[2207.07394v1](http://arxiv.org/abs/2207.07394v1)|null|
+|**2022-07-15**|**Trainable Joint Bilateral Filters for Enhanced Prediction Stability in Low-dose CT**|Fabian Wagner et.al.|[2207.07368v1](http://arxiv.org/abs/2207.07368v1)|null|
+|**2022-07-15**|**Error analysis for deep neural network approximations of parametric hyperbolic conservation laws**|Tim De Ryck et.al.|[2207.07362v1](http://arxiv.org/abs/2207.07362v1)|null|
+|**2022-07-15**|**Direct Problem of Gas Diffusion in Polar Firn**|Sophie Moufawad et.al.|[2207.07352v1](http://arxiv.org/abs/2207.07352v1)|null|
+|**2022-07-15**|**Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space**|Lingwei Dang et.al.|[2207.07351v1](http://arxiv.org/abs/2207.07351v1)|**[link](https://github.com/droliven/diverse_sampling)**|
+|**2022-07-15**|**Context-sensitive neocortical neurons transform the effectiveness and efficiency of neural information processing**|Ahsan Adeel et.al.|[2207.07338v1](http://arxiv.org/abs/2207.07338v1)|null|
+|**2022-07-15**|**Rain Rate Estimation with SAR using NEXRAD measurements with Convolutional Neural Networks**|Aurélien Colin et.al.|[2207.07333v1](http://arxiv.org/abs/2207.07333v1)|null|
+|**2022-07-15**|**On the Construction of Averaged Deep Denoisers for Image Regularization**|Pravin Nair et.al.|[2207.07321v1](http://arxiv.org/abs/2207.07321v1)|null|
+|**2022-07-15**|**Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain**|Jiazhen Ji et.al.|[2207.07316v1](http://arxiv.org/abs/2207.07316v1)|null|
+|**2022-07-15**|**Towards Better Dermoscopic Image Feature Representation Learning for Melanoma Classification**|ChengHui Yu et.al.|[2207.07303v1](http://arxiv.org/abs/2207.07303v1)|**[link](https://github.com/kirtsy/dermoscopicdataset)**|
+|**2022-07-15**|**Robust Deep Compressive Sensing with Recurrent-Residual Structural Constraints**|Jun Niu et.al.|[2207.07301v1](http://arxiv.org/abs/2207.07301v1)|null|
+|**2022-07-15**|**Direction-Aware Adaptive Online Neural Speech Enhancement with an Augmented Reality Headset in Real Noisy Conversational Environments**|Kouhei Sekiguchi et.al.|[2207.07296v1](http://arxiv.org/abs/2207.07296v1)|null|
+|**2022-07-15**|**Direction-Aware Joint Adaptation of Neural Speech Enhancement and Recognition in Real Multiparty Conversational Environments**|Yicheng Du et.al.|[2207.07273v1](http://arxiv.org/abs/2207.07273v1)|null|
+|**2022-07-15**|**Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles**|Mengjiao Han et.al.|[2207.07260v1](http://arxiv.org/abs/2207.07260v1)|null|
+|**2022-07-15**|**Unrolled Optimization with Deep Learning-based Priors for Phaseless Inverse Scattering Problems**|Samruddhi Deshmukh et.al.|[2207.07244v1](http://arxiv.org/abs/2207.07244v1)|null|
+|**2022-07-15**|**LineCap: Line Charts for Data Visualization Captioning Models**|Anita Mahinpei et.al.|[2207.07243v1](http://arxiv.org/abs/2207.07243v1)|null|
+|**2022-07-15**|**Classification of Bark Beetle-Induced Forest Tree Mortality using Deep Learning**|Rudraksh Kapil et.al.|[2207.07241v1](http://arxiv.org/abs/2207.07241v1)|null|
+|**2022-07-14**|**Single Model Uncertainty Estimation via Stochastic Data Centering**|Jayaraman J. Thiagarajan et.al.|[2207.07235v1](http://arxiv.org/abs/2207.07235v1)|null|
+|**2022-07-14**|**Lipschitz Bound Analysis of Neural Networks**|Sarosij Bose et.al.|[2207.07232v1](http://arxiv.org/abs/2207.07232v1)|null|
+|**2022-07-14**|**On the use of graph neural networks and shape-function-based gradient computation in the deep energy method**|Junyan He et.al.|[2207.07216v1](http://arxiv.org/abs/2207.07216v1)|null|
+|**2022-07-14**|**Current Trends in Deep Learning for Earth Observation: An Open-source Benchmark Arena for Image Classification**|Ivica Dimitrovski et.al.|[2207.07189v1](http://arxiv.org/abs/2207.07189v1)|**[link](https://github.com/biasvariancelabs/aitlas-arena)**|
+|**2022-07-14**|**NASRec: Weight Sharing Neural Architecture Search for Recommender Systems**|Tunhou Zhang et.al.|[2207.07187v1](http://arxiv.org/abs/2207.07187v1)|null|
+|**2022-07-14**|**Image Clustering with Contrastive Learning and Multi-scale Graph Convolutional Networks**|Yuanku Xu et.al.|[2207.07173v1](http://arxiv.org/abs/2207.07173v1)|null|
+|**2022-07-14**|**Estimating Emotion Contagion on Social Media via Localized Diffusion in Dynamic Graphs**|Trisha Mittal et.al.|[2207.07165v1](http://arxiv.org/abs/2207.07165v1)|null|
+|**2022-07-14**|**Audio-guided Album Cover Art Generation with Genetic Algorithms**|James Marien et.al.|[2207.07162v1](http://arxiv.org/abs/2207.07162v1)|null|
+|**2022-07-14**|**Aiolos- A multi-purpose 1-D hydrodynamics code for planetary atmospheres**|Matthäus Schulik et.al.|[2207.07144v1](http://arxiv.org/abs/2207.07144v1)|null|
+|**2022-07-14**|**Monochromatic globular clusters as a critical test of formation models for the dark matter deficient galaxies NGC1052-DF2 and NGC1052-DF4**|Pieter van Dokkum et.al.|[2207.07129v1](http://arxiv.org/abs/2207.07129v1)|null|
 |**2022-07-14**|**Fine-grained Few-shot Recognition by Deep Object Parsing**|Pengkai Zhu et.al.|[2207.07110v1](http://arxiv.org/abs/2207.07110v1)|null|
 |**2022-07-14**|**Deep congruences + the Brauer-Nesbitt theorem**|Samuele Anni et.al.|[2207.07108v1](http://arxiv.org/abs/2207.07108v1)|null|
 |**2022-07-15**|**Unscrambling the lensed galaxies in JWST images behind SMACS0723**|Massimo Pascale et.al.|[2207.07102v2](http://arxiv.org/abs/2207.07102v2)|null|
