@@ -1,4 +1,4 @@
-> Updated on 2022.07.18
+> Updated on 2022.07.19
 
 ## SLAM
 
@@ -180,7 +180,7 @@
 
 ## SFM
 
-- 2022-07-14, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v2](http://arxiv.org/abs/2207.06262v2)
+- 2022-07-16, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v3](http://arxiv.org/abs/2207.06262v3)
 - 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-06-24, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v2](http://arxiv.org/abs/2206.11499v2)
 - 2022-06-13, **TC-SfM: Robust Track-Community-Based Structure-from-Motion**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2206.05866v1](http://arxiv.org/abs/2206.05866v1)
@@ -534,12 +534,12 @@
 - 2022-07-15, **Diamond surface engineering for molecular sensing with nitrogen-vacancy centers**, Erika Janitz et.al., Paper: [http://arxiv.org/abs/2207.07509v1](http://arxiv.org/abs/2207.07509v1)
 - 2022-07-15, **Augmenting Softmax Information for Selective Classification with Out-of-Distribution Data**, Guoxuan Xia et.al., Paper: [http://arxiv.org/abs/2207.07506v1](http://arxiv.org/abs/2207.07506v1), Code: **[https://github.com/guoxoug/sirc](https://github.com/guoxoug/sirc)**
 - 2022-07-15, **Low-bit Shift Network for End-to-End Spoken Language Understanding**, Anderson R. Avila et.al., Paper: [http://arxiv.org/abs/2207.07497v1](http://arxiv.org/abs/2207.07497v1)
-- 2022-07-15, **Stable Invariant Models via Koopman Spectra**, Takuya Konishi et.al., Paper: [http://arxiv.org/abs/2207.07475v1](http://arxiv.org/abs/2207.07475v1)
+- 2022-07-15, **Stable Invariant Models via Koopman Spectra**, Takuya Konishi et.al., Paper: [http://arxiv.org/abs/2207.07475v1](http://arxiv.org/abs/2207.07475v1), Code: **[https://github.com/uswodce/sim](https://github.com/uswodce/sim)**
 - 2022-07-15, **Deep Hedging: Continuous Reinforcement Learning for Hedging of General Portfolios across Multiple Risk Aversions**, Phillip Murray et.al., Paper: [http://arxiv.org/abs/2207.07467v1](http://arxiv.org/abs/2207.07467v1)
 - 2022-07-15, **DeepSolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed PV mapping**, Gabriel Kasmi et.al., Paper: [http://arxiv.org/abs/2207.07466v1](http://arxiv.org/abs/2207.07466v1), Code: **[https://github.com/gabrielkasmi/dsfrance](https://github.com/gabrielkasmi/dsfrance)**
 - 2022-07-15, **Space-based gravitational wave signal detection and extraction with deep neural network**, Tianyu Zhao et.al., Paper: [http://arxiv.org/abs/2207.07414v1](http://arxiv.org/abs/2207.07414v1)
-- 2022-07-15, **PodcastMix: A dataset for separating music and speech in podcasts**, Nicolás Schmidt et.al., Paper: [http://arxiv.org/abs/2207.07403v1](http://arxiv.org/abs/2207.07403v1)
-- 2022-07-15, **FRAS: Federated Reinforcement Learning empowered Adaptive Point Cloud Video Streaming**, Yu Gao et.al., Paper: [http://arxiv.org/abs/2207.07394v1](http://arxiv.org/abs/2207.07394v1)
+- 2022-07-15, **PodcastMix: A dataset for separating music and speech in podcasts**, Nicolás Schmidt et.al., Paper: [http://arxiv.org/abs/2207.07403v1](http://arxiv.org/abs/2207.07403v1), Code: **[https://github.com/mtg/podcastmix](https://github.com/mtg/podcastmix)**
+- 2022-07-18, **FRAS: Federated Reinforcement Learning empowered Adaptive Point Cloud Video Streaming**, Yu Gao et.al., Paper: [http://arxiv.org/abs/2207.07394v2](http://arxiv.org/abs/2207.07394v2)
 - 2022-07-15, **Trainable Joint Bilateral Filters for Enhanced Prediction Stability in Low-dose CT**, Fabian Wagner et.al., Paper: [http://arxiv.org/abs/2207.07368v1](http://arxiv.org/abs/2207.07368v1)
 - 2022-07-15, **Error analysis for deep neural network approximations of parametric hyperbolic conservation laws**, Tim De Ryck et.al., Paper: [http://arxiv.org/abs/2207.07362v1](http://arxiv.org/abs/2207.07362v1)
 - 2022-07-15, **Direct Problem of Gas Diffusion in Polar Firn**, Sophie Moufawad et.al., Paper: [http://arxiv.org/abs/2207.07352v1](http://arxiv.org/abs/2207.07352v1)
@@ -547,7 +547,7 @@
 - 2022-07-15, **Context-sensitive neocortical neurons transform the effectiveness and efficiency of neural information processing**, Ahsan Adeel et.al., Paper: [http://arxiv.org/abs/2207.07338v1](http://arxiv.org/abs/2207.07338v1)
 - 2022-07-15, **Rain Rate Estimation with SAR using NEXRAD measurements with Convolutional Neural Networks**, Aurélien Colin et.al., Paper: [http://arxiv.org/abs/2207.07333v1](http://arxiv.org/abs/2207.07333v1)
 - 2022-07-15, **On the Construction of Averaged Deep Denoisers for Image Regularization**, Pravin Nair et.al., Paper: [http://arxiv.org/abs/2207.07321v1](http://arxiv.org/abs/2207.07321v1)
-- 2022-07-15, **Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain**, Jiazhen Ji et.al., Paper: [http://arxiv.org/abs/2207.07316v1](http://arxiv.org/abs/2207.07316v1)
+- 2022-07-18, **Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain**, Jiazhen Ji et.al., Paper: [http://arxiv.org/abs/2207.07316v2](http://arxiv.org/abs/2207.07316v2), Code: **[https://github.com/Tencent/TFace](https://github.com/Tencent/TFace)**
 - 2022-07-15, **Towards Better Dermoscopic Image Feature Representation Learning for Melanoma Classification**, ChengHui Yu et.al., Paper: [http://arxiv.org/abs/2207.07303v1](http://arxiv.org/abs/2207.07303v1), Code: **[https://github.com/kirtsy/dermoscopicdataset](https://github.com/kirtsy/dermoscopicdataset)**
 - 2022-07-15, **Robust Deep Compressive Sensing with Recurrent-Residual Structural Constraints**, Jun Niu et.al., Paper: [http://arxiv.org/abs/2207.07301v1](http://arxiv.org/abs/2207.07301v1)
 - 2022-07-15, **Direction-Aware Adaptive Online Neural Speech Enhancement with an Augmented Reality Headset in Real Noisy Conversational Environments**, Kouhei Sekiguchi et.al., Paper: [http://arxiv.org/abs/2207.07296v1](http://arxiv.org/abs/2207.07296v1)
@@ -559,7 +559,7 @@
 - 2022-07-14, **Single Model Uncertainty Estimation via Stochastic Data Centering**, Jayaraman J. Thiagarajan et.al., Paper: [http://arxiv.org/abs/2207.07235v1](http://arxiv.org/abs/2207.07235v1)
 - 2022-07-14, **Lipschitz Bound Analysis of Neural Networks**, Sarosij Bose et.al., Paper: [http://arxiv.org/abs/2207.07232v1](http://arxiv.org/abs/2207.07232v1)
 - 2022-07-14, **On the use of graph neural networks and shape-function-based gradient computation in the deep energy method**, Junyan He et.al., Paper: [http://arxiv.org/abs/2207.07216v1](http://arxiv.org/abs/2207.07216v1)
-- 2022-07-14, **Current Trends in Deep Learning for Earth Observation: An Open-source Benchmark Arena for Image Classification**, Ivica Dimitrovski et.al., Paper: [http://arxiv.org/abs/2207.07189v1](http://arxiv.org/abs/2207.07189v1), Code: **[https://github.com/biasvariancelabs/aitlas-arena](https://github.com/biasvariancelabs/aitlas-arena)**
+- 2022-07-14, **Current Trends in Deep Learning for Earth Observation: An Open-source Benchmark Arena for Image Classification**, Ivica Dimitrovski et.al., Paper: [http://arxiv.org/abs/2207.07189v1](http://arxiv.org/abs/2207.07189v1)
 - 2022-07-14, **NASRec: Weight Sharing Neural Architecture Search for Recommender Systems**, Tunhou Zhang et.al., Paper: [http://arxiv.org/abs/2207.07187v1](http://arxiv.org/abs/2207.07187v1)
 - 2022-07-14, **Image Clustering with Contrastive Learning and Multi-scale Graph Convolutional Networks**, Yuanku Xu et.al., Paper: [http://arxiv.org/abs/2207.07173v1](http://arxiv.org/abs/2207.07173v1)
 - 2022-07-14, **Estimating Emotion Contagion on Social Media via Localized Diffusion in Dynamic Graphs**, Trisha Mittal et.al., Paper: [http://arxiv.org/abs/2207.07165v1](http://arxiv.org/abs/2207.07165v1)
@@ -5465,14 +5465,14 @@
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
 - 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
 - 2022-03-01, **Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**, Ling Gao et.al., Paper: [http://arxiv.org/abs/2203.00291v1](http://arxiv.org/abs/2203.00291v1)
-- 2022-05-08, **LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2202.12613v2](http://arxiv.org/abs/2202.12613v2), Code: **[https://github.com/flysoaryun/lf-vio](https://github.com/flysoaryun/lf-vio)**
+- 2022-07-18, **LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2202.12613v3](http://arxiv.org/abs/2202.12613v3), Code: **[https://github.com/flysoaryun/lf-vio](https://github.com/flysoaryun/lf-vio)**
 - 2022-02-05, **DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2202.02556v1](http://arxiv.org/abs/2202.02556v1)
 - 2022-01-05, **Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**, Bing Han et.al., Paper: [http://arxiv.org/abs/2201.01561v1](http://arxiv.org/abs/2201.01561v1)
 - 2021-12-24, **Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**, David Charatan et.al., Paper: [http://arxiv.org/abs/2112.13018v1](http://arxiv.org/abs/2112.13018v1)
 - 2021-12-23, **Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12818v1](http://arxiv.org/abs/2112.12818v1)
 - 2021-12-23, **MDN-VO: Estimating Visual Odometry with Confidence**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12812v1](http://arxiv.org/abs/2112.12812v1)
 - 2022-05-08, **360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**, Bolivar Solarte et.al., Paper: [http://arxiv.org/abs/2112.06180v3](http://arxiv.org/abs/2112.06180v3)
-- 2021-12-08, **GPCO: An Unsupervised Green Point Cloud Odometry Method**, Pranav Kadam et.al., Paper: [http://arxiv.org/abs/2112.04054v1](http://arxiv.org/abs/2112.04054v1)
+- 2022-07-17, **GreenPCO: An Unsupervised Lightweight Point Cloud Odometry Method**, Pranav Kadam et.al., Paper: [http://arxiv.org/abs/2112.04054v2](http://arxiv.org/abs/2112.04054v2)
 - 2022-06-08, **3D Hierarchical Refinement and Augmentation for Unsupervised Learning of Depth and Pose from Monocular Video**, Guangming Wang et.al., Paper: [http://arxiv.org/abs/2112.03045v2](http://arxiv.org/abs/2112.03045v2)
 - 2021-12-03, **Fast Direct Stereo Visual SLAM**, Jiawei Mo et.al., Paper: [http://arxiv.org/abs/2112.01890v1](http://arxiv.org/abs/2112.01890v1), Code: **[https://github.com/irvlab/direct_stereo_slam](https://github.com/irvlab/direct_stereo_slam)**
 - 2021-11-22, **Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment**, Yijun Cao et.al., Paper: [http://arxiv.org/abs/2111.11141v1](http://arxiv.org/abs/2111.11141v1)
