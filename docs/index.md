@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye et.al.|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
+|**2022-07-18**|**Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**|Marco Orsingher et.al.|[2207.08439v1](http://arxiv.org/abs/2207.08439v1)|null|
+|**2022-07-18**|**ORB-based SLAM accelerator on SoC FPGA**|Vibhakar Vemulapati et.al.|[2207.08405v1](http://arxiv.org/abs/2207.08405v1)|null|
 |**2022-07-14**|**Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset**|Riccardo Giubilato et.al.|[2207.06815v1](http://arxiv.org/abs/2207.06815v1)|null|
 |**2022-07-14**|**Semi-supervised Vector-Quantization in Visual SLAM using HGCN**|Amir Zarringhalam et.al.|[2207.06738v1](http://arxiv.org/abs/2207.06738v1)|null|
 |**2022-07-14**|**Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**|Amir Zarringhalam et.al.|[2207.06732v1](http://arxiv.org/abs/2207.06732v1)|null|
@@ -387,6 +390,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
+|**2022-07-15**|**Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**|Chen Liu et.al.|[2207.07739v1](http://arxiv.org/abs/2207.07739v1)|null|
 |**2022-07-13**|**Rapid Person Re-Identification via Sub-space Consistency Regularization**|Qingze Yin et.al.|[2207.05933v1](http://arxiv.org/abs/2207.05933v1)|null|
 |**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
 |**2022-07-11**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v2](http://arxiv.org/abs/2207.02976v2)|null|
@@ -473,6 +478,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**Adaptive Assignment for Geometry Aware Local Feature Matching**|Dihe Huang et.al.|[2207.08427v1](http://arxiv.org/abs/2207.08427v1)|null|
+|**2022-07-16**|**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**|Jiazhen Liu et.al.|[2207.07932v1](http://arxiv.org/abs/2207.07932v1)|**[link](https://github.com/ruc-aimc-lab/superretina)**|
 |**2022-07-06**|**Virtual staining of defocused autofluorescence images of unlabeled tissue using deep neural networks**|Yijie Zhang et.al.|[2207.02946v1](http://arxiv.org/abs/2207.02946v1)|null|
 |**2022-07-01**|**TopicFM: Robust and Interpretable Feature Matching with Topic-assisted**|Khang Truong Giang et.al.|[2207.00328v1](http://arxiv.org/abs/2207.00328v1)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2022-06-16**|**Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**|Wei-Chiu Ma et.al.|[2206.08365v1](http://arxiv.org/abs/2206.08365v1)|null|
@@ -556,6 +563,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit**|Boaz Barak et.al.|[2207.08799v1](http://arxiv.org/abs/2207.08799v1)|null|
+|**2022-07-18**|**Style Transfer of Audio Effects with Differentiable Signal Processing**|Christian J. Steinmetz et.al.|[2207.08759v1](http://arxiv.org/abs/2207.08759v1)|null|
+|**2022-07-18**|**A Scintillation Arc Survey of 22 Pulsars with Low to Moderate Dispersion Measures**|Dan R. Stinebring et.al.|[2207.08756v1](http://arxiv.org/abs/2207.08756v1)|null|
+|**2022-07-18**|**Semantic Novelty Detection via Relational Reasoning**|Francesco Cappio Borlino et.al.|[2207.08699v1](http://arxiv.org/abs/2207.08699v1)|**[link](https://github.com/francescocappio/resend)**|
+|**2022-07-18**|**Deep Learning Potential of Mean Force between Polymer Grafted Nanoparticles**|Sachin Gautham et.al.|[2207.08681v1](http://arxiv.org/abs/2207.08681v1)|null|
+|**2022-07-18**|**pGMM Kernel Regression and Comparisons with Boosted Trees**|Ping Li et.al.|[2207.08667v1](http://arxiv.org/abs/2207.08667v1)|null|
+|**2022-07-18**|**Latent Partition Implicit with Surface Codes for 3D Representation**|Chao Chen et.al.|[2207.08631v1](http://arxiv.org/abs/2207.08631v1)|**[link](https://github.com/chenchao15/lpi)**|
+|**2022-07-18**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**|Chuang Liu et.al.|[2207.08629v1](http://arxiv.org/abs/2207.08629v1)|null|
+|**2022-07-18**|**The norm of time-frequency localization operators**|Fabio Nicola et.al.|[2207.08624v1](http://arxiv.org/abs/2207.08624v1)|null|
+|**2022-07-18**|**CACTUSS: Common Anatomical CT-US Space for US examinations**|Yordanka Velikova et.al.|[2207.08619v1](http://arxiv.org/abs/2207.08619v1)|**[link](https://github.com/danivelikova/cactuss)**|
+|**2022-07-18**|**The Brain-Inspired Decoder for Natural Visual Image Reconstruction**|Wenyi Li et.al.|[2207.08591v1](http://arxiv.org/abs/2207.08591v1)|null|
+|**2022-07-18**|**Study of the performance and scalablity of federated learning for medical imaging with intermittent clients**|Judith Sáinz-Pardo Díaz et.al.|[2207.08581v1](http://arxiv.org/abs/2207.08581v1)|null|
+|**2022-07-18**|**GATE: Gated Additive Tree Ensemble for Tabular Classification and Regression**|Manu Joseph et.al.|[2207.08548v1](http://arxiv.org/abs/2207.08548v1)|null|
+|**2022-07-18**|**Hardware-agnostic Computation for Large-scale Knowledge Graph Embeddings**|Caglar Demir et.al.|[2207.08544v1](http://arxiv.org/abs/2207.08544v1)|null|
+|**2022-07-18**|**Multi-block-Single-probe Variance Reduced Estimator for Coupled Compositional Optimization**|Wei Jiang et.al.|[2207.08540v1](http://arxiv.org/abs/2207.08540v1)|null|
+|**2022-07-18**|**Structure, Organization and Heterogeneity of Water-Containing Deep Eutectic Solvents**|Kai Töpfer et.al.|[2207.08529v1](http://arxiv.org/abs/2207.08529v1)|null|
+|**2022-07-18**|**Asteroseismology reveals the near-core magnetic field strength in the early-B star HD 43317**|D. M. Bowman et.al.|[2207.08526v1](http://arxiv.org/abs/2207.08526v1)|null|
+|**2022-07-18**|**Explainable Deep Belief Network based Auto encoder using novel Extended Garson Algorithm**|Satyam Kumar et.al.|[2207.08501v1](http://arxiv.org/abs/2207.08501v1)|null|
+|**2022-07-18**|**A six-point neuron-based ENO (NENO6) scheme for compressible fluid dynamics**|Yue Li et.al.|[2207.08500v1](http://arxiv.org/abs/2207.08500v1)|null|
+|**2022-07-18**|**Neural Distributed Image Compression with Cross-Attention Feature Alignment**|Nitish Mital et.al.|[2207.08489v1](http://arxiv.org/abs/2207.08489v1)|**[link](https://github.com/ipc-lab/ndic-cam)**|
+|**2022-07-18**|**Detection of Poisoning Attacks with Anomaly Detection in Federated Learning for Healthcare Applications: A Machine Learning Approach**|Ali Raza et.al.|[2207.08486v1](http://arxiv.org/abs/2207.08486v1)|null|
+|**2022-07-18**|**Segmenting white matter hyperintensities on isotropic three-dimensional Fluid Attenuated Inversion Recovery magnetic resonance images: A comparison of Deep learning tools on a Norwegian national imaging database**|Martin Soria Roevang et.al.|[2207.08467v1](http://arxiv.org/abs/2207.08467v1)|null|
+|**2022-07-18**|**Non-negative Least Squares via Overparametrization**|Hung-Hsu Chou et.al.|[2207.08437v1](http://arxiv.org/abs/2207.08437v1)|null|
+|**2022-07-18**|**Fully trainable Gaussian derivative convolutional layer**|Valentin Penaud--Polge et.al.|[2207.08424v1](http://arxiv.org/abs/2207.08424v1)|**[link](https://github.com/penaud-polge/fully-trainable-gaussian-derivative-layer)**|
+|**2022-07-18**|**Outlier Explanation via Sum-Product Networks**|Stefan Lüdtke et.al.|[2207.08414v1](http://arxiv.org/abs/2207.08414v1)|null|
+|**2022-07-18**|**Inspector: Pixel-Based Automated Game Testing via Exploration, Detection, and Investigation**|Guoqing Liu et.al.|[2207.08379v1](http://arxiv.org/abs/2207.08379v1)|null|
+|**2022-07-18**|**Deep Manifold Learning with Graph Mining**|Xuelong Li et.al.|[2207.08377v1](http://arxiv.org/abs/2207.08377v1)|null|
+|**2022-07-18**|**MobileCodec: Neural Inter-frame Video Compression on Mobile Devices**|Hoang Le et.al.|[2207.08338v1](http://arxiv.org/abs/2207.08338v1)|null|
+|**2022-07-17**|**Vision-based Relative Detection and Tracking for Teams of Micro Aerial Vehicles**|Rundong Ge et.al.|[2207.08301v1](http://arxiv.org/abs/2207.08301v1)|null|
+|**2022-07-17**|**Less Training, More Repairing Please: Revisiting Automated Program Repair via Zero-shot Learning**|Chunqiu Steven Xia et.al.|[2207.08281v1](http://arxiv.org/abs/2207.08281v1)|null|
+|**2022-07-17**|**BIP: Boost Invariant Polynomials for Efficient Jet Tagging**|Jose M Munoz et.al.|[2207.08272v1](http://arxiv.org/abs/2207.08272v1)|null|
+|**2022-07-17**|**Troll Tweet Detection Using Contextualized Word Representations**|Seyhmus Yilmaz et.al.|[2207.08230v1](http://arxiv.org/abs/2207.08230v1)|null|
+|**2022-07-17**|**Photometric IGM Tomography: Efficiently Mapping Quasar Light Echoes with Deep Narrow Band Imaging**|Koki Kakiichi et.al.|[2207.08202v1](http://arxiv.org/abs/2207.08202v1)|null|
+|**2022-07-17**|**INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions**|Zhihong Zhang et.al.|[2207.08201v1](http://arxiv.org/abs/2207.08201v1)|null|
+|**2022-07-17**|**Uncertainty Calibration in Bayesian Neural Networks via Distance-Aware Priors**|Gianluca Detommaso et.al.|[2207.08200v1](http://arxiv.org/abs/2207.08200v1)|null|
+|**2022-07-17**|**End-to-End Spoken Language Understanding: Performance analyses of a voice command task in a low resource setting**|Thierry Desot et.al.|[2207.08179v1](http://arxiv.org/abs/2207.08179v1)|null|
+|**2022-07-17**|**Ethnic Representation Analysis of Commercial Movie Posters**|Dima Kagan et.al.|[2207.08169v1](http://arxiv.org/abs/2207.08169v1)|null|
+|**2022-07-17**|**Improving Deep Neural Network Random Initialization Through Neuronal Rewiring**|Leonardo Scabini et.al.|[2207.08148v1](http://arxiv.org/abs/2207.08148v1)|**[link](https://github.com/scabini/parewiring_weights)**|
+|**2022-07-17**|**Multi-Task and Transfer Learning for Federated Learning Applications**|Cihat Keçeci et.al.|[2207.08147v1](http://arxiv.org/abs/2207.08147v1)|null|
+|**2022-07-17**|**2D Self-Organized ONN Model For Handwritten Text Recognition**|Hanadi Hassen Mohammed et.al.|[2207.08139v1](http://arxiv.org/abs/2207.08139v1)|null|
+|**2022-07-17**|**Achieve Optimal Adversarial Accuracy for Adversarial Deep Learning using Stackelberg Game**|Xiao-Shan Gao et.al.|[2207.08137v1](http://arxiv.org/abs/2207.08137v1)|null|
+|**2022-07-17**|**Multi-channel target speech enhancement based on ERB-scaled spatial coherence features**|Yicheng Hsu et.al.|[2207.08126v1](http://arxiv.org/abs/2207.08126v1)|null|
+|**2022-07-17**|**Security Evaluation of Compressible Image Encryption for Privacy-Preserving Image Classification against Ciphertext-only Attacks**|Tatsuya Chuman et.al.|[2207.08109v1](http://arxiv.org/abs/2207.08109v1)|null|
+|**2022-07-17**|**Threat Model-Agnostic Adversarial Defense using Diffusion Models**|Tsachi Blau et.al.|[2207.08089v1](http://arxiv.org/abs/2207.08089v1)|null|
+|**2022-07-17**|**Federated Deep Reinforcement Learning for RIS-Assisted Indoor Multi-Robot Communication Systems**|Ruyu Luo et.al.|[2207.08056v1](http://arxiv.org/abs/2207.08056v1)|null|
+|**2022-07-17**|**DIMBA: Discretely Masked Black-Box Attack in Single Object Tracking**|Xiangyu Yin et.al.|[2207.08044v1](http://arxiv.org/abs/2207.08044v1)|null|
+|**2022-07-17**|**Reinforcement Learning For Survival: A Clinically Motivated Method For Critically Ill Patients**|Thesath Nanayakkara et.al.|[2207.08040v1](http://arxiv.org/abs/2207.08040v1)|null|
+|**2022-07-16**|**Progress and limitations of deep networks to recognize objects in unusual poses**|Amro Abbas et.al.|[2207.08034v1](http://arxiv.org/abs/2207.08034v1)|**[link](https://github.com/amro-kamal/objectpose)**|
+|**2022-07-16**|**Distance-Geometric Graph Attention Network (DG-GAT) for 3D Molecular Geometry**|Daniel T. Chang et.al.|[2207.08023v1](http://arxiv.org/abs/2207.08023v1)|null|
+|**2022-07-16**|**Monitoring Vegetation From Space at Extremely Fine Resolutions via Coarsely-Supervised Smooth U-Net**|Joshua Fan et.al.|[2207.08022v1](http://arxiv.org/abs/2207.08022v1)|null|
 |**2022-07-15**|**GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**|Zhiruo Zhou et.al.|[2207.07629v1](http://arxiv.org/abs/2207.07629v1)|null|
 |**2022-07-15**|**Computing-In-Memory Neural Network Accelerators for Safety-Critical Systems: Can Small Device Variations Be Disastrous?**|Zheyu Yan et.al.|[2207.07626v1](http://arxiv.org/abs/2207.07626v1)|null|
 |**2022-07-15**|**Blessing of Nonconvexity in Deep Linear Models: Depth Flattens the Optimization Landscape Around the True Solution**|Jianhao Ma et.al.|[2207.07612v1](http://arxiv.org/abs/2207.07612v1)|null|
@@ -5477,6 +5534,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-16**|**JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**|Haimei Zhao et.al.|[2207.07895v1](http://arxiv.org/abs/2207.07895v1)|**[link](https://github.com/sunnyhelen/jperceiver)**|
 |**2022-07-11**|**Physical Passive Patch Adversarial Attacks on Visual Odometry Systems**|Yaniv Nemcovsky et.al.|[2207.05729v1](http://arxiv.org/abs/2207.05729v1)|**[link](https://github.com/patchadversarialattacks/patchadversarialattacks)**|
 |**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
 |**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
@@ -5559,6 +5617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-17**|**INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions**|Zhihong Zhang et.al.|[2207.08201v1](http://arxiv.org/abs/2207.08201v1)|null|
 |**2022-07-12**|**Shape-Aware Masking for Inpainting in Medical Imaging**|Yousef Yeganeh et.al.|[2207.05787v1](http://arxiv.org/abs/2207.05787v1)|null|
 |**2022-07-12**|**Identification of Substation Configurations in Modern Power Systems using Artificial Intelligence**|Dulip Madurasinghe et.al.|[2207.05603v1](http://arxiv.org/abs/2207.05603v1)|null|
 |**2022-07-07**|**Multi-View Vision-to-Geometry Knowledge Transfer for 3D Point Cloud Shape Analysis**|Qijian Zhang et.al.|[2207.03128v1](http://arxiv.org/abs/2207.03128v1)|null|
@@ -5655,4 +5714,59 @@ layout: default
 |**2022-01-31**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v3](http://arxiv.org/abs/2201.11674v3)|null|
 |**2022-01-26**|**IMACS: Image Model Attribution Comparison Summaries**|Eldon Schoop et.al.|[2201.11196v1](http://arxiv.org/abs/2201.11196v1)|null|
 |**2022-01-19**|**CM3: A Causal Masked Multimodal Model of the Internet**|Armen Aghajanyan et.al.|[2201.07520v1](http://arxiv.org/abs/2201.07520v1)|null|
+
+## Digital Twin
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-12**|**Digital Twins solve the mystery of Raman spectra of parental and reduced graphene oxides**|Elena F. Sheka et.al.|[2207.05744v1](http://arxiv.org/abs/2207.05744v1)|null|
+|**2022-07-08**|**An Outlook on the Future Marine Traffic Management System for Autonomous Ships**|Michele Martelli et.al.|[2207.04140v1](http://arxiv.org/abs/2207.04140v1)|null|
+|**2022-06-21**|**Online Trajectory Prediction for Metropolitan Scale Mobility Digital Twin**|Zipei Fan et.al.|[2207.03575v1](http://arxiv.org/abs/2207.03575v1)|null|
+|**2022-07-06**|**The use of Synthetic Data to solve the scalability and data availability problems in Smart City Digital Twins**|Esteve Almirall et.al.|[2207.02953v1](http://arxiv.org/abs/2207.02953v1)|null|
+|**2022-07-05**|**Simulations in a Digital Twin of an Electrical Machine**|Karim Cherifi et.al.|[2207.02171v1](http://arxiv.org/abs/2207.02171v1)|null|
+|**2022-07-04**|**Spectral Power Profile Optimization of Field-Deployed WDM Network by Remote Link Modeling**|Rasmus T. Jones et.al.|[2207.01336v1](http://arxiv.org/abs/2207.01336v1)|null|
+|**2022-07-03**|**Digital-twin-enhanced metal tube bending forming real-time prediction method based on Multi-source-input MTL**|Chang Sun et.al.|[2207.00961v1](http://arxiv.org/abs/2207.00961v1)|null|
+|**2022-07-02**|**PhotoScene: Photorealistic Material and Lighting Transfer for Indoor Scenes**|Yu-Ying Yeh et.al.|[2207.00757v1](http://arxiv.org/abs/2207.00757v1)|**[link](https://github.com/vilab-ucsd/photoscene)**|
+|**2022-06-20**|**Metaverse for Wireless Systems: Vision, Enablers, Architecture, and Future Directions**|Latif U. Khan et.al.|[2207.00413v1](http://arxiv.org/abs/2207.00413v1)|null|
+|**2022-06-27**|**Variational Autoencoder Assisted Neural Network Likelihood RSRP Prediction Model**|Peizheng Li et.al.|[2207.00166v1](http://arxiv.org/abs/2207.00166v1)|null|
+|**2022-06-22**|**Neural networks for a quick access to a digital twin of scanning physical properties measurements**|Kensei Terashima et.al.|[2206.10908v1](http://arxiv.org/abs/2206.10908v1)|**[link](https://github.com/kensei-te/mat_interp)**|
+|**2022-06-23**|**The Digital Twin Landscape at the Crossroads of Predictive Maintenance, Machine Learning and Physics Based Modeling**|Brian Kunzer et.al.|[2206.10462v2](http://arxiv.org/abs/2206.10462v2)|null|
+|**2022-06-21**|**Digital twin of a MWh-scale grid battery system for efficiency and degradation analysis**|Jorn M. Reniers et.al.|[2206.10245v1](http://arxiv.org/abs/2206.10245v1)|null|
+|**2022-06-17**|**The Sensorium competition on predicting large-scale mouse primary visual cortex activity**|Konstantin F. Willeke et.al.|[2206.08666v1](http://arxiv.org/abs/2206.08666v1)|**[link](https://github.com/sinzlab/sensorium)**|
+|**2022-06-17**|**Digital Twin Data Modelling by Randomized Orthogonal Decomposition and Deep Learning**|Diana Alina Bistrian et.al.|[2206.08659v1](http://arxiv.org/abs/2206.08659v1)|null|
+|**2022-06-17**|**Business Process Model for Interoperability Improvement in the Agricultural Domain Using Digital Twins**|Emily Calvet et.al.|[2206.08589v1](http://arxiv.org/abs/2206.08589v1)|null|
+|**2022-06-16**|**Learning Physics between Digital Twins with Low-Fidelity Models and Physics-Informed Gaussian Processes**|Michail Spitieris et.al.|[2206.08201v1](http://arxiv.org/abs/2206.08201v1)|**[link](https://github.com/mispitieris/learning-physics-between-dts)**|
+|**2022-06-16**|**A Machine Learning-based Digital Twin for Electric Vehicle Battery Modeling**|Khaled Sidahmed Sidahmed Alamin et.al.|[2206.08080v1](http://arxiv.org/abs/2206.08080v1)|null|
+|**2022-06-15**|**PolyU-BPCoMa: A Dataset and Benchmark Towards Mobile Colorized Mapping Using a Backpack Multisensorial System**|Wenzhong Shi et.al.|[2206.07468v1](http://arxiv.org/abs/2206.07468v1)|**[link](https://github.com/chenpengxin/PolyU-BPCoMa)**|
+|**2022-06-14**|**A software toolkit and hardware platform for investigating and comparing robot autonomy algorithms in simulation and reality**|Asher Elmquist et.al.|[2206.06537v1](http://arxiv.org/abs/2206.06537v1)|null|
+|**2022-06-08**|**Lithium Ion Battery Electrode Manufacturing Model Accounting for 3D Realistic Shapes of Active Material Particles**|Jiahui Xu et.al.|[2206.03969v1](http://arxiv.org/abs/2206.03969v1)|null|
+|**2022-06-08**|**Sim2real for Reinforcement Learning Driven Next Generation Networks**|Peizheng Li et.al.|[2206.03846v1](http://arxiv.org/abs/2206.03846v1)|null|
+|**2022-06-07**|**Combining physics-based and data-driven techniques for reliable hybrid analysis and modeling using the corrective source term approach**|Sindre Stenen Blakseth et.al.|[2206.03451v1](http://arxiv.org/abs/2206.03451v1)|null|
+|**2022-05-30**|**Ubiquitous knowledge empowers the Smart Factory: The impacts of a Service-oriented Digital Twin on enterprises' performance**|Francesco Longo et.al.|[2206.03268v1](http://arxiv.org/abs/2206.03268v1)|null|
+|**2022-06-07**|**About Digital Twins, agents, and multiagent systems: a cross-fertilisation journey**|Stefano Mariani et.al.|[2206.03253v1](http://arxiv.org/abs/2206.03253v1)|null|
+|**2022-06-01**|**Digital Twin for Networking: A Data-driven Performance Modeling Perspective**|Linbo Hui et.al.|[2206.00310v1](http://arxiv.org/abs/2206.00310v1)|null|
+|**2022-05-28**|**Controller-Aware Dynamic Network Management for Industry 4.0**|Efe C. Balta et.al.|[2205.14449v1](http://arxiv.org/abs/2205.14449v1)|null|
+|**2022-05-27**|**Network Digital Twin: Context, Enabling Technologies and Opportunities**|Paul Almasan et.al.|[2205.14206v1](http://arxiv.org/abs/2205.14206v1)|null|
+|**2022-05-26**|**Populating the Digital Space for Cultural Heritage with Heritage Digital Twins**|Franco Niccolucci et.al.|[2205.13206v1](http://arxiv.org/abs/2205.13206v1)|null|
+|**2022-05-24**|**Smart Grid: Cyber Attacks, Critical Defense Approaches, and Digital Twin**|Tianming Zheng et.al.|[2205.11783v1](http://arxiv.org/abs/2205.11783v1)|null|
+|**2022-05-23**|**Machine Learning for Electricity Market Clearing**|Laurent Pagnier et.al.|[2205.11641v1](http://arxiv.org/abs/2205.11641v1)|null|
+|**2022-05-23**|**Advanced Transient Diagnostic with Ensemble Digital Twin Modeling**|Edward Chen et.al.|[2205.11469v1](http://arxiv.org/abs/2205.11469v1)|null|
+|**2022-05-24**|**Digital Twin for Secure Semiconductor Lifecycle Management: Prospects and Applications**|Hasan Al Shaikh et.al.|[2205.10962v2](http://arxiv.org/abs/2205.10962v2)|null|
+|**2022-05-18**|**Industry 5.0 is Coming: A Survey on Intelligent NextG Wireless Networks as Technological Enablers**|Shah Zeb et.al.|[2205.09084v1](http://arxiv.org/abs/2205.09084v1)|null|
+|**2022-05-17**|**cfd.xyz/rom.js: An open-source framework for generating and visualizing parametric CFD results on the web**|Carlos Peña-Monferrer et.al.|[2205.08387v1](http://arxiv.org/abs/2205.08387v1)|**[link](https://github.com/simzero-oss/rom-js)**|
+|**2022-06-04**|**Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin**|Ádám Wolf et.al.|[2205.08210v2](http://arxiv.org/abs/2205.08210v2)|null|
+|**2022-05-10**|**Software tool-set for automated quantum system identification and device bring up**|Anurag Saha Roy et.al.|[2205.04829v1](http://arxiv.org/abs/2205.04829v1)|**[link](https://github.com/q-optimize/c3)**|
+|**2022-05-09**|**Machine Learning Based Propagation Loss Module for Enabling Digital Twins of Wireless Networks in ns-3**|Eduardo Nuno Almeida et.al.|[2205.04284v1](http://arxiv.org/abs/2205.04284v1)|**[link](https://gitlab.com/inesctec-ns3/ml-propagation-loss-model)**|
+|**2022-05-09**|**AI Based Digital Twin Model for Cattle Caring**|Xue Han et.al.|[2205.04034v1](http://arxiv.org/abs/2205.04034v1)|null|
+|**2022-05-09**|**Personalized QoE Enhancement for Adaptive Video Streaming: A Digital Twin-Assisted Scheme**|Xinyu Huang et.al.|[2205.04014v1](http://arxiv.org/abs/2205.04014v1)|null|
+|**2022-05-07**|**Airport Digital Twins for Resilient Disaster Management Response**|Eva Agapaki et.al.|[2205.03739v1](http://arxiv.org/abs/2205.03739v1)|null|
+|**2022-05-07**|**Synthetic Point Cloud Generation for Class Segmentation Applications**|Maria Gonzalez Stefanelli et.al.|[2205.03738v1](http://arxiv.org/abs/2205.03738v1)|null|
+|**2022-04-28**|**Digital Twin Framework for Time to Failure Forecasting of Wind Turbine Gearbox: A Concept**|Mili Wadhwani et.al.|[2205.03513v1](http://arxiv.org/abs/2205.03513v1)|null|
+|**2022-05-04**|**Wavelet neural operator: a neural operator for parametric partial differential equations**|Tapas Tripura et.al.|[2205.02191v1](http://arxiv.org/abs/2205.02191v1)|null|
+|**2022-04-29**|**A Digital Twin Framework for Cyber Security in Cyber-Physical Systems**|Tianyu Zhao et.al.|[2204.13859v1](http://arxiv.org/abs/2204.13859v1)|null|
+|**2022-04-26**|**Digital Twins for Dynamic Management of Blockchain Systems**|Georgios Diamantopoulos et.al.|[2204.12477v1](http://arxiv.org/abs/2204.12477v1)|null|
+|**2022-04-26**|**Cybertwin-enabled 6G Space-air-ground Integrated Networks: Architecture, Open Issue, and Challenges**|Zhisheng Yin et.al.|[2204.12153v1](http://arxiv.org/abs/2204.12153v1)|null|
+|**2022-04-24**|**Applying Digital Twins in Metaverse: User Interface, Security and Privacy Challenges**|Saeed Banaeian Far et.al.|[2204.11343v1](http://arxiv.org/abs/2204.11343v1)|null|
+|**2022-04-24**|**Six Levels of Autonomous Process Execution Management (APEM)**|Wil van der Aalst et.al.|[2204.11328v1](http://arxiv.org/abs/2204.11328v1)|null|
+|**2022-04-21**|**Sonic Interactions in Virtual Environments: the Egocentric Audio Perspective of the Digital Twin**|Michele Geronazzo et.al.|[2204.09919v1](http://arxiv.org/abs/2204.09919v1)|null|
 
