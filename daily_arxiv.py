@@ -191,15 +191,15 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["SLAM"]                = "SLAM"
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\""
-    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
-    keywords["Image Matching"]      = "\"Image Matching\""
-    keywords["Deep Learning"]      = "\"Deep Learning\"OR\"Deep\"OR\"Deep VO\"OR\"Deep Visual Odometry\"OR\"Deep SLAM\""
-    keywords["Visual Odometry"]      = "\"Visual Odometry\""
-    keywords["non-photorealistic rendering"]      = "\"non-photorealistic rendering\"OR\"NPR\"OR\"image modeling\"OR\"digital simulation\""
-    keywords["Digital Twin"]      = "\"Digital Twin\""
+    keywords["SLAM算法"]                = "SLAM"
+    keywords["SFM算法"]                 = "SFM"+"OR"+"\"Structure from Motion\""
+    keywords["Visual Localization视觉定位"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\""
+    keywords["Keypoint Detection关键点检测"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
+    keywords["Image Matching图像匹配"]      = "\"Image Matching\""
+    keywords["Deep Learning深度学习"]      = "\"Deep Learning\"OR\"Deep\"OR\"Deep VO\"OR\"Deep Visual Odometry\"OR\"Deep SLAM\""
+    keywords["Visual Odometry视觉里程计"]      = "\"Visual Odometry\""
+    keywords["non-photorealistic rendering非真实照片级渲染"]      = "\"non-photorealistic rendering\"OR\"NPR\"OR\"image modeling\"OR\"digital simulation\""
+    keywords["Digital Twin数字孪生"]      = "\"Digital Twin\""
 
 
     for topic,keyword in keywords.items():
