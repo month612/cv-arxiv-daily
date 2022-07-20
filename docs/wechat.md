@@ -1,4 +1,4 @@
-> Updated on 2022.07.19
+> Updated on 2022.07.20
 
 ## SLAM
 
@@ -5737,7 +5737,7 @@
 - 2022-07-14, **Semi-supervised Vector-Quantization in Visual SLAM using HGCN**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06738v1](http://arxiv.org/abs/2207.06738v1)
 - 2022-07-14, **Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06732v1](http://arxiv.org/abs/2207.06732v1)
 - 2022-07-13, **SLAM: SLO-Aware Memory Optimization for Serverless Applications**, Gor Safaryan et.al., Paper: [http://arxiv.org/abs/2207.06183v1](http://arxiv.org/abs/2207.06183v1)
-- 2022-07-13, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v1](http://arxiv.org/abs/2207.06058v1), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
+- 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-12, **Accelerating Certifiable Estimation with Preconditioned Eigensolvers**, David M. Rosen et.al., Paper: [http://arxiv.org/abs/2207.05257v1](http://arxiv.org/abs/2207.05257v1)
 - 2022-07-12, **Robust Key-Frame Stereo Visual SLAM with low-threshold Point and Line Features**, Meiyu Zhi et.al., Paper: [http://arxiv.org/abs/2207.05244v1](http://arxiv.org/abs/2207.05244v1)
 - 2022-07-14, **SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**, Chih-Yuan Chiu et.al., Paper: [http://arxiv.org/abs/2207.05043v2](http://arxiv.org/abs/2207.05043v2)
@@ -5839,7 +5839,7 @@
 - 2022-07-14, **AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2207.06965v1](http://arxiv.org/abs/2207.06965v1)
 - 2022-07-14, **Semi-supervised Vector-Quantization in Visual SLAM using HGCN**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06738v1](http://arxiv.org/abs/2207.06738v1)
 - 2022-07-14, **Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06732v1](http://arxiv.org/abs/2207.06732v1)
-- 2022-07-13, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v1](http://arxiv.org/abs/2207.06058v1), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
+- 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-12, **CPO: Change Robust Panorama to Point Cloud Localization**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2207.05317v1](http://arxiv.org/abs/2207.05317v1)
 - 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
 - 2022-06-28, **Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2206.13883v1](http://arxiv.org/abs/2206.13883v1)
@@ -6002,12 +6002,12 @@
 - 2022-07-18, **Deep Learning Potential of Mean Force between Polymer Grafted Nanoparticles**, Sachin Gautham et.al., Paper: [http://arxiv.org/abs/2207.08681v1](http://arxiv.org/abs/2207.08681v1)
 - 2022-07-18, **pGMM Kernel Regression and Comparisons with Boosted Trees**, Ping Li et.al., Paper: [http://arxiv.org/abs/2207.08667v1](http://arxiv.org/abs/2207.08667v1)
 - 2022-07-18, **Latent Partition Implicit with Surface Codes for 3D Representation**, Chao Chen et.al., Paper: [http://arxiv.org/abs/2207.08631v1](http://arxiv.org/abs/2207.08631v1), Code: **[https://github.com/chenchao15/lpi](https://github.com/chenchao15/lpi)**
-- 2022-07-18, **Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**, Chuang Liu et.al., Paper: [http://arxiv.org/abs/2207.08629v1](http://arxiv.org/abs/2207.08629v1)
+- 2022-07-19, **Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**, Chuang Liu et.al., Paper: [http://arxiv.org/abs/2207.08629v2](http://arxiv.org/abs/2207.08629v2)
 - 2022-07-18, **The norm of time-frequency localization operators**, Fabio Nicola et.al., Paper: [http://arxiv.org/abs/2207.08624v1](http://arxiv.org/abs/2207.08624v1)
 - 2022-07-18, **CACTUSS: Common Anatomical CT-US Space for US examinations**, Yordanka Velikova et.al., Paper: [http://arxiv.org/abs/2207.08619v1](http://arxiv.org/abs/2207.08619v1), Code: **[https://github.com/danivelikova/cactuss](https://github.com/danivelikova/cactuss)**
 - 2022-07-18, **The Brain-Inspired Decoder for Natural Visual Image Reconstruction**, Wenyi Li et.al., Paper: [http://arxiv.org/abs/2207.08591v1](http://arxiv.org/abs/2207.08591v1)
-- 2022-07-18, **Study of the performance and scalablity of federated learning for medical imaging with intermittent clients**, Judith Sáinz-Pardo Díaz et.al., Paper: [http://arxiv.org/abs/2207.08581v1](http://arxiv.org/abs/2207.08581v1)
-- 2022-07-18, **GATE: Gated Additive Tree Ensemble for Tabular Classification and Regression**, Manu Joseph et.al., Paper: [http://arxiv.org/abs/2207.08548v1](http://arxiv.org/abs/2207.08548v1)
+- 2022-07-19, **Study of the performance and scalability of federated learning for medical imaging with intermittent clients**, Judith Sáinz-Pardo Díaz et.al., Paper: [http://arxiv.org/abs/2207.08581v2](http://arxiv.org/abs/2207.08581v2)
+- 2022-07-19, **GATE: Gated Additive Tree Ensemble for Tabular Classification and Regression**, Manu Joseph et.al., Paper: [http://arxiv.org/abs/2207.08548v2](http://arxiv.org/abs/2207.08548v2)
 - 2022-07-18, **Hardware-agnostic Computation for Large-scale Knowledge Graph Embeddings**, Caglar Demir et.al., Paper: [http://arxiv.org/abs/2207.08544v1](http://arxiv.org/abs/2207.08544v1)
 - 2022-07-18, **Multi-block-Single-probe Variance Reduced Estimator for Coupled Compositional Optimization**, Wei Jiang et.al., Paper: [http://arxiv.org/abs/2207.08540v1](http://arxiv.org/abs/2207.08540v1)
 - 2022-07-18, **Structure, Organization and Heterogeneity of Water-Containing Deep Eutectic Solvents**, Kai Töpfer et.al., Paper: [http://arxiv.org/abs/2207.08529v1](http://arxiv.org/abs/2207.08529v1)
@@ -6016,7 +6016,7 @@
 - 2022-07-18, **A six-point neuron-based ENO (NENO6) scheme for compressible fluid dynamics**, Yue Li et.al., Paper: [http://arxiv.org/abs/2207.08500v1](http://arxiv.org/abs/2207.08500v1)
 - 2022-07-18, **Neural Distributed Image Compression with Cross-Attention Feature Alignment**, Nitish Mital et.al., Paper: [http://arxiv.org/abs/2207.08489v1](http://arxiv.org/abs/2207.08489v1), Code: **[https://github.com/ipc-lab/ndic-cam](https://github.com/ipc-lab/ndic-cam)**
 - 2022-07-18, **Detection of Poisoning Attacks with Anomaly Detection in Federated Learning for Healthcare Applications: A Machine Learning Approach**, Ali Raza et.al., Paper: [http://arxiv.org/abs/2207.08486v1](http://arxiv.org/abs/2207.08486v1)
-- 2022-07-18, **Segmenting white matter hyperintensities on isotropic three-dimensional Fluid Attenuated Inversion Recovery magnetic resonance images: A comparison of Deep learning tools on a Norwegian national imaging database**, Martin Soria Roevang et.al., Paper: [http://arxiv.org/abs/2207.08467v1](http://arxiv.org/abs/2207.08467v1)
+- 2022-07-19, **Segmenting white matter hyperintensities on isotropic three-dimensional Fluid Attenuated Inversion Recovery magnetic resonance images: A comparison of Deep learning tools on a Norwegian national imaging database**, Martin Soria Roevang et.al., Paper: [http://arxiv.org/abs/2207.08467v2](http://arxiv.org/abs/2207.08467v2)
 - 2022-07-18, **Non-negative Least Squares via Overparametrization**, Hung-Hsu Chou et.al., Paper: [http://arxiv.org/abs/2207.08437v1](http://arxiv.org/abs/2207.08437v1)
 - 2022-07-18, **Fully trainable Gaussian derivative convolutional layer**, Valentin Penaud--Polge et.al., Paper: [http://arxiv.org/abs/2207.08424v1](http://arxiv.org/abs/2207.08424v1), Code: **[https://github.com/penaud-polge/fully-trainable-gaussian-derivative-layer](https://github.com/penaud-polge/fully-trainable-gaussian-derivative-layer)**
 - 2022-07-18, **Outlier Explanation via Sum-Product Networks**, Stefan Lüdtke et.al., Paper: [http://arxiv.org/abs/2207.08414v1](http://arxiv.org/abs/2207.08414v1)
@@ -6038,7 +6038,7 @@
 - 2022-07-17, **Achieve Optimal Adversarial Accuracy for Adversarial Deep Learning using Stackelberg Game**, Xiao-Shan Gao et.al., Paper: [http://arxiv.org/abs/2207.08137v1](http://arxiv.org/abs/2207.08137v1)
 - 2022-07-17, **Multi-channel target speech enhancement based on ERB-scaled spatial coherence features**, Yicheng Hsu et.al., Paper: [http://arxiv.org/abs/2207.08126v1](http://arxiv.org/abs/2207.08126v1)
 - 2022-07-17, **Security Evaluation of Compressible Image Encryption for Privacy-Preserving Image Classification against Ciphertext-only Attacks**, Tatsuya Chuman et.al., Paper: [http://arxiv.org/abs/2207.08109v1](http://arxiv.org/abs/2207.08109v1)
-- 2022-07-17, **Threat Model-Agnostic Adversarial Defense using Diffusion Models**, Tsachi Blau et.al., Paper: [http://arxiv.org/abs/2207.08089v1](http://arxiv.org/abs/2207.08089v1)
+- 2022-07-17, **Threat Model-Agnostic Adversarial Defense using Diffusion Models**, Tsachi Blau et.al., Paper: [http://arxiv.org/abs/2207.08089v1](http://arxiv.org/abs/2207.08089v1), Code: **[https://github.com/tsachiblau/Threat-Model-Agnostic-Adversarial-Defense-using-Diffusion-Models](https://github.com/tsachiblau/Threat-Model-Agnostic-Adversarial-Defense-using-Diffusion-Models)**
 - 2022-07-17, **Federated Deep Reinforcement Learning for RIS-Assisted Indoor Multi-Robot Communication Systems**, Ruyu Luo et.al., Paper: [http://arxiv.org/abs/2207.08056v1](http://arxiv.org/abs/2207.08056v1)
 - 2022-07-17, **DIMBA: Discretely Masked Black-Box Attack in Single Object Tracking**, Xiangyu Yin et.al., Paper: [http://arxiv.org/abs/2207.08044v1](http://arxiv.org/abs/2207.08044v1)
 - 2022-07-17, **Reinforcement Learning For Survival: A Clinically Motivated Method For Critically Ill Patients**, Thesath Nanayakkara et.al., Paper: [http://arxiv.org/abs/2207.08040v1](http://arxiv.org/abs/2207.08040v1)
