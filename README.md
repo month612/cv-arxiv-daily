@@ -1,4 +1,4 @@
-## Updated on 2022.07.20
+## Updated on 2022.07.21
 
 ## SLAM
 
@@ -6035,7 +6035,7 @@
 |**2022-07-19**|**Unrolled algorithms for group synchronization**|Noam Janco et.al.|[2207.09418v1](http://arxiv.org/abs/2207.09418v1)|null|
 |**2022-07-19**|**Bounding generalization error with input compression: An empirical study with infinite-width networks**|Angus Galloway et.al.|[2207.09408v1](http://arxiv.org/abs/2207.09408v1)|null|
 |**2022-07-19**|**Image Synthesis with Disentangled Attributes for Chest X-Ray Nodule Augmentation and Detection**|Zhenrong Shen et.al.|[2207.09389v1](http://arxiv.org/abs/2207.09389v1)|null|
-|**2022-07-19**|**Data-Centric Epidemic Forecasting: A Survey**|Alexander Rodríguez et.al.|[2207.09370v1](http://arxiv.org/abs/2207.09370v1)|null|
+|**2022-07-20**|**Data-Centric Epidemic Forecasting: A Survey**|Alexander Rodríguez et.al.|[2207.09370v2](http://arxiv.org/abs/2207.09370v2)|null|
 |**2022-07-19**|**Salty ice and the dilemma of ocean exoplanet habitability**|Baptiste Journaux et.al.|[2207.09351v1](http://arxiv.org/abs/2207.09351v1)|null|
 |**2022-07-19**|**The total rest-frame UV luminosity function from $3 < z < 5$: A simultaneous study of AGN and galaxies from $-28<M_{\rm UV}<-16$**|N. J. Adams et.al.|[2207.09342v1](http://arxiv.org/abs/2207.09342v1)|null|
 |**2022-07-19**|**Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective**|Li Zhang et.al.|[2207.09339v1](http://arxiv.org/abs/2207.09339v1)|null|
