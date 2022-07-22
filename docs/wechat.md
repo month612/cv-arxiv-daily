@@ -5730,6 +5730,9 @@
 
 ## SLAM算法
 
+- 2022-07-21, **Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**, Suman Ghosh et.al., Paper: [http://arxiv.org/abs/2207.10494v1](http://arxiv.org/abs/2207.10494v1)
+- 2022-07-21, **Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions**, Quentin Serdel et.al., Paper: [http://arxiv.org/abs/2207.10489v1](http://arxiv.org/abs/2207.10489v1)
+- 2022-07-21, **On applicability of von Karman's momentum theory in predicting the water entry load of V-shaped structures with varying initial velocity**, Yujin Lu et.al., Paper: [http://arxiv.org/abs/2207.10413v1](http://arxiv.org/abs/2207.10413v1)
 - 2022-07-19, **Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM**, Tuvy Lemberg et.al., Paper: [http://arxiv.org/abs/2207.09103v1](http://arxiv.org/abs/2207.09103v1)
 - 2022-07-18, **DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2207.08794v1](http://arxiv.org/abs/2207.08794v1)
 - 2022-07-18, **Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**, Marco Orsingher et.al., Paper: [http://arxiv.org/abs/2207.08439v1](http://arxiv.org/abs/2207.08439v1)
@@ -5891,6 +5894,7 @@
 
 ## Keypoint Detection关键点检测
 
+- 2022-07-21, **Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2207.10506v1](http://arxiv.org/abs/2207.10506v1)
 - 2022-07-15, **Human keypoint detection for close proximity human-robot interaction**, Jan Docekal et.al., Paper: [http://arxiv.org/abs/2207.07742v1](http://arxiv.org/abs/2207.07742v1)
 - 2022-07-15, **Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**, Chen Liu et.al., Paper: [http://arxiv.org/abs/2207.07739v1](http://arxiv.org/abs/2207.07739v1)
 - 2022-07-13, **Rapid Person Re-Identification via Sub-space Consistency Regularization**, Qingze Yin et.al., Paper: [http://arxiv.org/abs/2207.05933v1](http://arxiv.org/abs/2207.05933v1)
@@ -5998,6 +6002,56 @@
 
 ## Deep Learning深度学习
 
+- 2022-07-21, **Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**, Theodoros Panagiotakopoulos et.al., Paper: [http://arxiv.org/abs/2207.10667v1](http://arxiv.org/abs/2207.10667v1), Code: **[https://github.com/theo2021/onda](https://github.com/theo2021/onda)**
+- 2022-07-21, **Generalizable Patch-Based Neural Rendering**, Mohammed Suhail et.al., Paper: [http://arxiv.org/abs/2207.10662v1](http://arxiv.org/abs/2207.10662v1)
+- 2022-07-21, **Rest-frame near-infrared sizes of galaxies at cosmic noon: objects in JWST's mirror are smaller than they appeared**, Katherine A. Suess et.al., Paper: [http://arxiv.org/abs/2207.10655v1](http://arxiv.org/abs/2207.10655v1)
+- 2022-07-21, **Deep Learning of Radiative Atmospheric Transfer with an Autoencoder**, Abigail Basener et.al., Paper: [http://arxiv.org/abs/2207.10650v1](http://arxiv.org/abs/2207.10650v1)
+- 2022-07-21, **MetaComp: Learning to Adapt for Online Depth Completion**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2207.10623v1](http://arxiv.org/abs/2207.10623v1)
+- 2022-07-21, **Deep Statistic Shape Model for Myocardium Segmentation**, Xiaoling Hu et.al., Paper: [http://arxiv.org/abs/2207.10607v1](http://arxiv.org/abs/2207.10607v1)
+- 2022-07-21, **Unsupervised pre-training of graph transformers on patient population graphs**, Chantal Pellegrini et.al., Paper: [http://arxiv.org/abs/2207.10603v1](http://arxiv.org/abs/2207.10603v1), Code: **[https://github.com/chantalmp/unsupervised_pre-training_of_graph_transformers_on_patient_population_graphs](https://github.com/chantalmp/unsupervised_pre-training_of_graph_transformers_on_patient_population_graphs)**
+- 2022-07-21, **Designing An Illumination-Aware Network for Deep Image Relighting**, Zuo-Liang Zhu et.al., Paper: [http://arxiv.org/abs/2207.10582v1](http://arxiv.org/abs/2207.10582v1), Code: **[https://github.com/nk-cs-zzl/ian](https://github.com/nk-cs-zzl/ian)**
+- 2022-07-21, **Careful What You Wish For: on the Extraction of Adversarially Trained Models**, Kacem Khaled et.al., Paper: [http://arxiv.org/abs/2207.10561v1](http://arxiv.org/abs/2207.10561v1)
+- 2022-07-21, **Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2207.10506v1](http://arxiv.org/abs/2207.10506v1)
+- 2022-07-21, **Revisiting big bang nucleosynthesis with a new particle species : effect of co-annhilation with neutrons**, Deep Ghosh et.al., Paper: [http://arxiv.org/abs/2207.10499v1](http://arxiv.org/abs/2207.10499v1)
+- 2022-07-21, **A Forgotten Danger in DNN Supervision Testing: Generating and Detecting True Ambiguity**, Michael Weiss et.al., Paper: [http://arxiv.org/abs/2207.10495v1](http://arxiv.org/abs/2207.10495v1)
+- 2022-07-21, **Bayesian Recurrent Units and the Forward-Backward Algorithm**, Alexandre Bittar et.al., Paper: [http://arxiv.org/abs/2207.10486v1](http://arxiv.org/abs/2207.10486v1), Code: **[https://github.com/idiap/bayesian-recurrence](https://github.com/idiap/bayesian-recurrence)**
+- 2022-07-21, **Towards Confident Detection of Prostate Cancer using High Resolution Micro-ultrasound**, Mahdi Gilany et.al., Paper: [http://arxiv.org/abs/2207.10485v1](http://arxiv.org/abs/2207.10485v1)
+- 2022-07-21, **Fast Data Driven Estimation of Cluster Number in Multiplex Images using Embedded Density Outliers**, Spencer A. Thomas et.al., Paper: [http://arxiv.org/abs/2207.10469v1](http://arxiv.org/abs/2207.10469v1)
+- 2022-07-21, **Deep Diffusion Models for Seismic Processing**, Ricard Durall et.al., Paper: [http://arxiv.org/abs/2207.10451v1](http://arxiv.org/abs/2207.10451v1)
+- 2022-07-21, **Estimation of Non-Crossing Quantile Regression Process with Deep ReQU Neural Networks**, Guohao Shen et.al., Paper: [http://arxiv.org/abs/2207.10442v1](http://arxiv.org/abs/2207.10442v1)
+- 2022-07-21, **Deep Audio Waveform Prior**, Arnon Turetzky et.al., Paper: [http://arxiv.org/abs/2207.10441v1](http://arxiv.org/abs/2207.10441v1)
+- 2022-07-21, **Incorporating Prior Knowledge into Reinforcement Learning for Soft Tissue Manipulation with Autonomous Grasping Point Selection**, Xian He et.al., Paper: [http://arxiv.org/abs/2207.10438v1](http://arxiv.org/abs/2207.10438v1)
+- 2022-07-21, **Human Trajectory Prediction via Neural Social Physics**, Jiangbei Yue et.al., Paper: [http://arxiv.org/abs/2207.10435v1](http://arxiv.org/abs/2207.10435v1), Code: **[https://github.com/realcrane/human-trajectory-prediction-via-neural-social-physics](https://github.com/realcrane/human-trajectory-prediction-via-neural-social-physics)**
+- 2022-07-21, **The Neural Race Reduction: Dynamics of Abstraction in Gated Networks**, Andrew M. Saxe et.al., Paper: [http://arxiv.org/abs/2207.10430v1](http://arxiv.org/abs/2207.10430v1)
+- 2022-07-21, **Cosmic Ray Rejection with Attention Augmented Deep Learning**, S. R. Bhavanam et.al., Paper: [http://arxiv.org/abs/2207.10411v1](http://arxiv.org/abs/2207.10411v1)
+- 2022-07-21, **Multi-Asset Closed-Loop Reservoir Management Using Deep Reinforcement Learning**, Yusuf Nasir et.al., Paper: [http://arxiv.org/abs/2207.10376v1](http://arxiv.org/abs/2207.10376v1)
+- 2022-07-21, **Land Classification in Satellite Images by Injecting Traditional Features to CNN Models**, Mehmet Cagri Aksoy et.al., Paper: [http://arxiv.org/abs/2207.10368v1](http://arxiv.org/abs/2207.10368v1)
+- 2022-07-21, **Domain Decomposition Learning Methods for Solving Elliptic Problems**, Qi Sun et.al., Paper: [http://arxiv.org/abs/2207.10358v1](http://arxiv.org/abs/2207.10358v1)
+- 2022-07-21, **Learning from Data with Noisy Labels Using Temporal Self-Ensemble**, Jun Ho Lee et.al., Paper: [http://arxiv.org/abs/2207.10354v1](http://arxiv.org/abs/2207.10354v1)
+- 2022-07-21, **Demystifying Dependency Bugs in Deep Learning Stack**, Kaifeng Huang et.al., Paper: [http://arxiv.org/abs/2207.10347v1](http://arxiv.org/abs/2207.10347v1)
+- 2022-07-21, **UFO: Unified Feature Optimization**, Teng Xi et.al., Paper: [http://arxiv.org/abs/2207.10341v1](http://arxiv.org/abs/2207.10341v1)
+- 2022-07-21, **Efficient Search of Multiple Neural Architectures with Different Complexities via Importance Sampling**, Yuhei Noda et.al., Paper: [http://arxiv.org/abs/2207.10334v1](http://arxiv.org/abs/2207.10334v1)
+- 2022-07-21, **Reinforcement learning for Energies of the future and carbon neutrality: a Challenge Design**, Gaëtan Serré et.al., Paper: [http://arxiv.org/abs/2207.10330v1](http://arxiv.org/abs/2207.10330v1), Code: **[https://github.com/gaetanserre/l2rpn-2022_ppo-baseline](https://github.com/gaetanserre/l2rpn-2022_ppo-baseline)**
+- 2022-07-21, **Improved Generative Model for Weakly Supervised Chest Anomaly Localization via Pseudo-paired Registration with Bilaterally Symmetrical Data Augmentation**, Kyung-Su Kim et.al., Paper: [http://arxiv.org/abs/2207.10324v1](http://arxiv.org/abs/2207.10324v1)
+- 2022-07-21, **Knowledge-enhanced Black-box Attacks for Recommendations**, Jingfan Chen et.al., Paper: [http://arxiv.org/abs/2207.10307v1](http://arxiv.org/abs/2207.10307v1)
+- 2022-07-21, **Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey**, Xian Tao et.al., Paper: [http://arxiv.org/abs/2207.10298v1](http://arxiv.org/abs/2207.10298v1)
+- 2022-07-21, **Action2Score: An Embedding Approach To Score Player Action**, Junho Jang et.al., Paper: [http://arxiv.org/abs/2207.10297v1](http://arxiv.org/abs/2207.10297v1)
+- 2022-07-21, **Evidence for electronic signature of magnetic transition in topological magnet HoSbTe**, Nana Shumiya et.al., Paper: [http://arxiv.org/abs/2207.10291v1](http://arxiv.org/abs/2207.10291v1)
+- 2022-07-21, **AugRmixAT: A Data Processing and Training Method for Improving Multiple Robustness and Generalization Performance**, Xiaoliang Liu et.al., Paper: [http://arxiv.org/abs/2207.10290v1](http://arxiv.org/abs/2207.10290v1)
+- 2022-07-21, **Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network**, Yongqi Dong et.al., Paper: [http://arxiv.org/abs/2207.10286v1](http://arxiv.org/abs/2207.10286v1)
+- 2022-07-21, **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**, Sekitoshi Kanai et.al., Paper: [http://arxiv.org/abs/2207.10283v1](http://arxiv.org/abs/2207.10283v1)
+- 2022-07-21, **Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification**, Yongqiang Mao et.al., Paper: [http://arxiv.org/abs/2207.10278v1](http://arxiv.org/abs/2207.10278v1), Code: **[https://github.com/wingkeungm/rffs-net](https://github.com/wingkeungm/rffs-net)**
+- 2022-07-21, **ProMix: Combating Label Noise via Maximizing Clean Sample Utility**, Haobo Wang et.al., Paper: [http://arxiv.org/abs/2207.10276v1](http://arxiv.org/abs/2207.10276v1), Code: **[https://github.com/justherozen/promix](https://github.com/justherozen/promix)**
+- 2022-07-21, **Don't Forget Me: Accurate Background Recovery for Text Removal via Modeling Local-Global Context**, Chongyu Liu et.al., Paper: [http://arxiv.org/abs/2207.10273v1](http://arxiv.org/abs/2207.10273v1), Code: **[https://github.com/lcy0604/ctrnet](https://github.com/lcy0604/ctrnet)**
+- 2022-07-21, **Different Channels to Transmit Information in a Scattering Medium**, Xuyu Zhang et.al., Paper: [http://arxiv.org/abs/2207.10270v1](http://arxiv.org/abs/2207.10270v1)
+- 2022-07-21, **Roles of scattered and ballistic photons in imaging through scattering media: a deep learning-based study**, Xuyu Zhan et.al., Paper: [http://arxiv.org/abs/2207.10263v1](http://arxiv.org/abs/2207.10263v1)
+- 2022-07-21, **Region Aware Video Object Segmentation with Deep Motion Modeling**, Bo Miao et.al., Paper: [http://arxiv.org/abs/2207.10258v1](http://arxiv.org/abs/2207.10258v1)
+- 2022-07-21, **GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection**, Aakash Varma Nadimpalli et.al., Paper: [http://arxiv.org/abs/2207.10246v1](http://arxiv.org/abs/2207.10246v1)
+- 2022-07-21, **Unsupervised Legendre-Galerkin Neural Network for Stiff Partial Differential Equations**, Junho Choi et.al., Paper: [http://arxiv.org/abs/2207.10241v1](http://arxiv.org/abs/2207.10241v1)
+- 2022-07-20, **The tropical geometry of causal inference for extremes**, Ngoc M Tran et.al., Paper: [http://arxiv.org/abs/2207.10227v1](http://arxiv.org/abs/2207.10227v1)
+- 2022-07-20, **On the Robustness of 3D Object Detectors**, Fatima Albreiki et.al., Paper: [http://arxiv.org/abs/2207.10205v1](http://arxiv.org/abs/2207.10205v1)
+- 2022-07-20, **Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach**, Jiseok Youn et.al., Paper: [http://arxiv.org/abs/2207.10188v1](http://arxiv.org/abs/2207.10188v1)
+- 2022-07-20, **Flow-based Visual Quality Enhancer for Super-resolution Magnetic Resonance Spectroscopic Imaging**, Siyuan Dong et.al., Paper: [http://arxiv.org/abs/2207.10181v1](http://arxiv.org/abs/2207.10181v1), Code: **[https://github.com/dsy199610/flow-enhancer-sr-mrsi](https://github.com/dsy199610/flow-enhancer-sr-mrsi)**
 - 2022-07-20, **Discover and Mitigate Unknown Biases with Debiasing Alternate Networks**, Zhiheng Li et.al., Paper: [http://arxiv.org/abs/2207.10077v1](http://arxiv.org/abs/2207.10077v1), Code: **[https://github.com/zhihengli-UR/DebiAN](https://github.com/zhihengli-UR/DebiAN)**
 - 2022-07-20, **Adaptive Step-Size Methods for Compressed SGD**, Adarsh M. Subramaniam et.al., Paper: [http://arxiv.org/abs/2207.10046v1](http://arxiv.org/abs/2207.10046v1)
 - 2022-07-21, **First look with JWST spectroscopy: $z \sim 8$ galaxies resemble local analogues**, D. Schaerer et.al., Paper: [http://arxiv.org/abs/2207.10034v2](http://arxiv.org/abs/2207.10034v2)
