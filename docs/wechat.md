@@ -1,4 +1,4 @@
-> Updated on 2022.07.21
+> Updated on 2022.07.22
 
 ## SLAM
 
@@ -6000,8 +6000,8 @@
 
 - 2022-07-20, **Discover and Mitigate Unknown Biases with Debiasing Alternate Networks**, Zhiheng Li et.al., Paper: [http://arxiv.org/abs/2207.10077v1](http://arxiv.org/abs/2207.10077v1), Code: **[https://github.com/zhihengli-UR/DebiAN](https://github.com/zhihengli-UR/DebiAN)**
 - 2022-07-20, **Adaptive Step-Size Methods for Compressed SGD**, Adarsh M. Subramaniam et.al., Paper: [http://arxiv.org/abs/2207.10046v1](http://arxiv.org/abs/2207.10046v1)
-- 2022-07-20, **First look with JWST spectroscopy: $z \sim 8$ galaxies resemble local analogues**, D. Schaerer et.al., Paper: [http://arxiv.org/abs/2207.10034v1](http://arxiv.org/abs/2207.10034v1)
-- 2022-07-20, **Secrets of Event-Based Optical Flow**, Shintaro Shiba et.al., Paper: [http://arxiv.org/abs/2207.10022v1](http://arxiv.org/abs/2207.10022v1)
+- 2022-07-21, **First look with JWST spectroscopy: $z \sim 8$ galaxies resemble local analogues**, D. Schaerer et.al., Paper: [http://arxiv.org/abs/2207.10034v2](http://arxiv.org/abs/2207.10034v2)
+- 2022-07-21, **Secrets of Event-Based Optical Flow**, Shintaro Shiba et.al., Paper: [http://arxiv.org/abs/2207.10022v2](http://arxiv.org/abs/2207.10022v2), Code: **[https://github.com/tub-rip/event_based_optical_flow](https://github.com/tub-rip/event_based_optical_flow)**
 - 2022-07-20, **Sampling type method combined with deep learning for inverse scattering with one incident wave**, Thu Le et.al., Paper: [http://arxiv.org/abs/2207.10011v1](http://arxiv.org/abs/2207.10011v1)
 - 2022-07-20, **Fine-grained Early Frequency Attention for Deep Speaker Recognition**, Amirhossein Hajavi et.al., Paper: [http://arxiv.org/abs/2207.10006v1](http://arxiv.org/abs/2207.10006v1)
 - 2022-07-20, **BYEL : Bootstrap on Your Emotion Latent**, Hyungjun Lee et.al., Paper: [http://arxiv.org/abs/2207.10003v1](http://arxiv.org/abs/2207.10003v1)
@@ -6011,7 +6011,7 @@
 - 2022-07-20, **Operation-Level Performance Benchmarking of Graph Neural Networks for Scientific Applications**, Ryien Hosseini et.al., Paper: [http://arxiv.org/abs/2207.09955v1](http://arxiv.org/abs/2207.09955v1)
 - 2022-07-20, **Deep Reinforcement Learning for Market Making Under a Hawkes Process-Based Limit Order Book Model**, Bruno Gašperov et.al., Paper: [http://arxiv.org/abs/2207.09951v1](http://arxiv.org/abs/2207.09951v1), Code: **[https://github.com/bgasperov/drlformm](https://github.com/bgasperov/drlformm)**
 - 2022-07-20, **Deep Preconditioners and their application to seismic wavefield processing**, Matteo Ravasi et.al., Paper: [http://arxiv.org/abs/2207.09938v1](http://arxiv.org/abs/2207.09938v1)
-- 2022-07-20, **Robust Landmark-based Stent Tracking in X-ray Fluoroscopy**, Luojie Huang et.al., Paper: [http://arxiv.org/abs/2207.09933v1](http://arxiv.org/abs/2207.09933v1)
+- 2022-07-21, **Robust Landmark-based Stent Tracking in X-ray Fluoroscopy**, Luojie Huang et.al., Paper: [http://arxiv.org/abs/2207.09933v2](http://arxiv.org/abs/2207.09933v2)
 - 2022-07-20, **Deep reinforcement learning for key distribution based on quantum repeaters**, Simon Daniel Reiß et.al., Paper: [http://arxiv.org/abs/2207.09930v1](http://arxiv.org/abs/2207.09930v1)
 - 2022-07-20, **An Efficient Framework for Few-shot Skeleton-based Temporal Action Segmentation**, Leiyang Xu et.al., Paper: [http://arxiv.org/abs/2207.09925v1](http://arxiv.org/abs/2207.09925v1)
 - 2022-07-20, **Large Scale Radio Frequency Signal Classification**, Luke Boegner et.al., Paper: [http://arxiv.org/abs/2207.09918v1](http://arxiv.org/abs/2207.09918v1)
@@ -6040,7 +6040,7 @@
 - 2022-07-20, **Unsupervised Deep Multi-Shape Matching**, Dongliang Cao et.al., Paper: [http://arxiv.org/abs/2207.09610v1](http://arxiv.org/abs/2207.09610v1)
 - 2022-07-20, **Towards Accurate and Robust Classification in Continuously Transitioning Industrial Sprays with Mixup**, Hongjiang Li et.al., Paper: [http://arxiv.org/abs/2207.09609v1](http://arxiv.org/abs/2207.09609v1)
 - 2022-07-19, **Deep learning-based identification of sub-nuclear structures in FIB-SEM images**, Niraj Gupta et.al., Paper: [http://arxiv.org/abs/2207.09598v1](http://arxiv.org/abs/2207.09598v1)
-- 2022-07-19, **Segmentation of 3D Dental Images Using Deep Learning**, Omar Boudraa et.al., Paper: [http://arxiv.org/abs/2207.09582v1](http://arxiv.org/abs/2207.09582v1)
+- 2022-07-21, **Segmentation of 3D Dental Images Using Deep Learning**, Omar Boudraa et.al., Paper: [http://arxiv.org/abs/2207.09582v2](http://arxiv.org/abs/2207.09582v2)
 - 2022-07-19, **Towards Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms**, Linbo Liu et.al., Paper: [http://arxiv.org/abs/2207.09572v1](http://arxiv.org/abs/2207.09572v1)
 - 2022-07-19, **Controllable Data Generation by Deep Learning: A Review**, Shiyu Wang et.al., Paper: [http://arxiv.org/abs/2207.09542v1](http://arxiv.org/abs/2207.09542v1)
 - 2022-07-19, **Revealing Secrets From Pre-trained Models**, Mujahid Al Rafi et.al., Paper: [http://arxiv.org/abs/2207.09539v1](http://arxiv.org/abs/2207.09539v1)
