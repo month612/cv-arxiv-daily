@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.22
+## Updated on 2022.07.23
 
 ## SLAM
 
@@ -6059,7 +6059,7 @@ layout: default
 |**2022-07-21**|**Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**|Theodoros Panagiotakopoulos et.al.|[2207.10667v1](http://arxiv.org/abs/2207.10667v1)|**[link](https://github.com/theo2021/onda)**|
 |**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v1](http://arxiv.org/abs/2207.10662v1)|null|
 |**2022-07-21**|**Rest-frame near-infrared sizes of galaxies at cosmic noon: objects in JWST's mirror are smaller than they appeared**|Katherine A. Suess et.al.|[2207.10655v1](http://arxiv.org/abs/2207.10655v1)|null|
-|**2022-07-21**|**Deep Learning of Radiative Atmospheric Transfer with an Autoencoder**|Abigail Basener et.al.|[2207.10650v1](http://arxiv.org/abs/2207.10650v1)|null|
+|**2022-07-21**|**Deep Learning of Radiative Atmospheric Transfer with an Autoencoder**|Abigail Basener et.al.|[2207.10650v1](http://arxiv.org/abs/2207.10650v1)|**[link](https://github.com/wbasener/DeepLearningAtmosphericCompensation)**|
 |**2022-07-21**|**MetaComp: Learning to Adapt for Online Depth Completion**|Yang Chen et.al.|[2207.10623v1](http://arxiv.org/abs/2207.10623v1)|null|
 |**2022-07-21**|**Deep Statistic Shape Model for Myocardium Segmentation**|Xiaoling Hu et.al.|[2207.10607v1](http://arxiv.org/abs/2207.10607v1)|null|
 |**2022-07-21**|**Unsupervised pre-training of graph transformers on patient population graphs**|Chantal Pellegrini et.al.|[2207.10603v1](http://arxiv.org/abs/2207.10603v1)|**[link](https://github.com/chantalmp/unsupervised_pre-training_of_graph_transformers_on_patient_population_graphs)**|
