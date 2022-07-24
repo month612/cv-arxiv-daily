@@ -1,4 +1,4 @@
-## Updated on 2022.07.23
+## Updated on 2022.07.24
 
 ## SLAM
 
@@ -6053,7 +6053,7 @@
 |**2022-07-21**|**Incorporating Prior Knowledge into Reinforcement Learning for Soft Tissue Manipulation with Autonomous Grasping Point Selection**|Xian He et.al.|[2207.10438v1](http://arxiv.org/abs/2207.10438v1)|null|
 |**2022-07-21**|**Human Trajectory Prediction via Neural Social Physics**|Jiangbei Yue et.al.|[2207.10435v1](http://arxiv.org/abs/2207.10435v1)|**[link](https://github.com/realcrane/human-trajectory-prediction-via-neural-social-physics)**|
 |**2022-07-21**|**The Neural Race Reduction: Dynamics of Abstraction in Gated Networks**|Andrew M. Saxe et.al.|[2207.10430v1](http://arxiv.org/abs/2207.10430v1)|null|
-|**2022-07-21**|**Cosmic Ray Rejection with Attention Augmented Deep Learning**|S. R. Bhavanam et.al.|[2207.10411v1](http://arxiv.org/abs/2207.10411v1)|null|
+|**2022-07-21**|**Cosmic Ray Rejection with Attention Augmented Deep Learning**|S. R. Bhavanam et.al.|[2207.10411v1](http://arxiv.org/abs/2207.10411v1)|**[link](https://github.com/lfovia/cosmic-ray-detection-in-astronomical-images)**|
 |**2022-07-21**|**Multi-Asset Closed-Loop Reservoir Management Using Deep Reinforcement Learning**|Yusuf Nasir et.al.|[2207.10376v1](http://arxiv.org/abs/2207.10376v1)|null|
 |**2022-07-21**|**Land Classification in Satellite Images by Injecting Traditional Features to CNN Models**|Mehmet Cagri Aksoy et.al.|[2207.10368v1](http://arxiv.org/abs/2207.10368v1)|null|
 |**2022-07-21**|**Domain Decomposition Learning Methods for Solving Elliptic Problems**|Qi Sun et.al.|[2207.10358v1](http://arxiv.org/abs/2207.10358v1)|null|
