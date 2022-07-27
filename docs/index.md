@@ -5954,6 +5954,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-25**|**Translating a Visual LEGO Manual to a Machine-Executable Plan**|Ruocheng Wang et.al.|[2207.12572v1](http://arxiv.org/abs/2207.12572v1)|null|
 |**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
 |**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
 |**2022-07-15**|**Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**|Chen Liu et.al.|[2207.07739v1](http://arxiv.org/abs/2207.07739v1)|null|
@@ -6066,6 +6067,54 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-26**|**3D Hydrodynamics of Pre-supernova Outbursts in Convective Red Supergiant Envelopes**|Benny T. -H. Tsang et.al.|[2207.13090v1](http://arxiv.org/abs/2207.13090v1)|null|
+|**2022-07-26**|**Finding Deep-Learning Compilation Bugs with NNSmith**|Jiawei Liu et.al.|[2207.13066v1](http://arxiv.org/abs/2207.13066v1)|null|
+|**2022-07-26**|**Efficient High-Resolution Deep Learning: A Survey**|Arian Bakhtiarnia et.al.|[2207.13050v1](http://arxiv.org/abs/2207.13050v1)|null|
+|**2022-07-26**|**Reconstruction of inhomogeneous media by iterative reconstruction algorithm with learned projector**|Kai Li et.al.|[2207.13032v1](http://arxiv.org/abs/2207.13032v1)|null|
+|**2022-07-26**|**Modeling the Social Influence of COVID-19 via Personalized Propagation with Deep Learning**|Yufei Liu et.al.|[2207.13016v1](http://arxiv.org/abs/2207.13016v1)|null|
+|**2022-07-26**|**Vision-Aided Blockage Avoidance in UAV-assisted V2X Communications**|Ruijin Ding et.al.|[2207.12991v1](http://arxiv.org/abs/2207.12991v1)|null|
+|**2022-07-26**|**Explaining Deep Neural Networks for Point Clouds using Gradient-based Visualisations**|Jawad Tayyub et.al.|[2207.12984v1](http://arxiv.org/abs/2207.12984v1)|null|
+|**2022-07-26**|**A Guide to Image and Video based Small Object Detection using Deep Learning : Case Study of Maritime Surveillance**|Aref Miri Rekavandi et.al.|[2207.12926v1](http://arxiv.org/abs/2207.12926v1)|null|
+|**2022-07-26**|**Micro-machined deep silicon atomic vapor cells**|S. Dyer et.al.|[2207.12904v1](http://arxiv.org/abs/2207.12904v1)|null|
+|**2022-07-26**|**The Analogy between Electromagnetics and Hydrodynamics**|Kai-Xin Hu et.al.|[2207.12902v1](http://arxiv.org/abs/2207.12902v1)|null|
+|**2022-07-26**|**Probing electron beam induced transformations on a single defect level via automated scanning transmission electron microscopy**|Kevin M. Roccapriore et.al.|[2207.12882v1](http://arxiv.org/abs/2207.12882v1)|null|
+|**2022-07-26**|**Representing Random Utility Choice Models with Neural Networks**|Ali Aouad et.al.|[2207.12877v1](http://arxiv.org/abs/2207.12877v1)|**[link](https://github.com/antoinedesir/rumnet)**|
+|**2022-07-26**|**Towards Smart City Security: Violence and Weaponized Violence Detection using DCNN**|Toluwani Aremu et.al.|[2207.12850v1](http://arxiv.org/abs/2207.12850v1)|**[link](https://github.com/Ti-Oluwanimi/Violence_Detection)**|
+|**2022-07-26**|**KinePose: A temporally optimized inverse kinematics technique for 6DOF human pose estimation with biomechanical constraints**|Kevin Gildea et.al.|[2207.12841v1](http://arxiv.org/abs/2207.12841v1)|null|
+|**2022-07-26**|**S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning**|Yabin Wang et.al.|[2207.12819v1](http://arxiv.org/abs/2207.12819v1)|null|
+|**2022-07-26**|**Generative Extraction of Audio Classifiers for Speaker Identification**|Tejumade Afonja et.al.|[2207.12816v1](http://arxiv.org/abs/2207.12816v1)|null|
+|**2022-07-26**|**Neural Design for Genetic Perturbation Experiments**|Aldo Pacchiano et.al.|[2207.12805v1](http://arxiv.org/abs/2207.12805v1)|null|
+|**2022-07-26**|**A Study on the Use of Edge TPUs for Eye Fundus Image Segmentation**|Javier Civit-Masot et.al.|[2207.12770v1](http://arxiv.org/abs/2207.12770v1)|null|
+|**2022-07-26**|**SPAIC: A Spike-based Artificial Intelligence Computing Framework**|Chaofei Hong et.al.|[2207.12750v1](http://arxiv.org/abs/2207.12750v1)|null|
+|**2022-07-26**|**ScoreCAM GNN: une explication optimale des réseaux profonds sur graphes**|Adrien Raison et.al.|[2207.12748v1](http://arxiv.org/abs/2207.12748v1)|null|
+|**2022-07-26**|**Distribution Learning Based on Evolutionary Algorithm Assisted Deep Neural Networks for Imbalanced Image Classification**|Yudi Zhao et.al.|[2207.12744v1](http://arxiv.org/abs/2207.12744v1)|null|
+|**2022-07-26**|**$\textbf{P$^2$A}$: A Dataset and Benchmark for Dense Action Detection from Table Tennis Match Broadcasting Videos**|Jiang Bian et.al.|[2207.12730v1](http://arxiv.org/abs/2207.12730v1)|null|
+|**2022-07-26**|**Convolutional neural networks and multi-threshold analysis for contamination detection in the apparel industry**|Marco Boresta et.al.|[2207.12720v1](http://arxiv.org/abs/2207.12720v1)|null|
+|**2022-07-26**|**Comparison of Deep Learning and Machine Learning Models and Frameworks for Skin Lesion Classification**|Soham Bhosale et.al.|[2207.12715v1](http://arxiv.org/abs/2207.12715v1)|null|
+|**2022-07-26**|**Active Learning of Ordinal Embeddings: A User Study on Football Data**|Christoffer Loeffler et.al.|[2207.12710v1](http://arxiv.org/abs/2207.12710v1)|null|
+|**2022-07-26**|**Advanced Conditional Variational Autoencoders (A-CVAE): Towards interpreting open-domain conversation generation via disentangling latent feature representation**|Ye Wang et.al.|[2207.12696v1](http://arxiv.org/abs/2207.12696v1)|null|
+|**2022-07-26**|**Time Majority Voting, a PC-based EEG Classifier for Non-expert Users**|Guangyao Dou et.al.|[2207.12662v1](http://arxiv.org/abs/2207.12662v1)|null|
+|**2022-07-26**|**Deep reinforcement learning for preparation of thermal and prethermal quantum states**|Shotaro Z. Baba et.al.|[2207.12656v1](http://arxiv.org/abs/2207.12656v1)|null|
+|**2022-07-26**|**Can Deep Learning Assist Automatic Identification of Layered Pigments From XRF Data?**|Bingjie et.al.|[2207.12651v1](http://arxiv.org/abs/2207.12651v1)|null|
+|**2022-07-26**|**Learning Bipedal Walking On Planned Footsteps For Humanoid Robots**|Rohan Pratap Singh et.al.|[2207.12644v1](http://arxiv.org/abs/2207.12644v1)|**[link](https://github.com/rohanpsingh/learninghumanoidwalking)**|
+|**2022-07-26**|**Key frames assisted hybrid encoding for photorealistic compressive video sensing**|Honghao Huang et.al.|[2207.12627v1](http://arxiv.org/abs/2207.12627v1)|null|
+|**2022-07-26**|**Physics Embedded Machine Learning for Electromagnetic Data Imaging**|Rui Guo et.al.|[2207.12607v1](http://arxiv.org/abs/2207.12607v1)|null|
+|**2022-07-26**|**Magnetic field measurement in TMC-1C using 22.3 GHz CCS Zeeman splitting**|Atanu Koley et.al.|[2207.12604v1](http://arxiv.org/abs/2207.12604v1)|null|
+|**2022-07-26**|**Classifier-Free Diffusion Guidance**|Jonathan Ho et.al.|[2207.12598v1](http://arxiv.org/abs/2207.12598v1)|null|
+|**2022-07-26**|**On Deep Holes of Elliptic Curve Codes**|Jun Zhang et.al.|[2207.12584v1](http://arxiv.org/abs/2207.12584v1)|null|
+|**2022-07-25**|**Compiler-Aware Neural Architecture Search for On-Mobile Real-time Super-Resolution**|Yushu Wu et.al.|[2207.12577v1](http://arxiv.org/abs/2207.12577v1)|**[link](https://github.com/wuyushuwys/compiler-aware-nas-sr)**|
+|**2022-07-25**|**Static Hand Gesture Recognition for American Sign Language using Neuromorphic Hardware**|MohammedReza Mohammadi et.al.|[2207.12559v1](http://arxiv.org/abs/2207.12559v1)|null|
+|**2022-07-25**|**Inter-Frame Compression for Dynamic Point Cloud Geometry Coding**|Anique Akhtar et.al.|[2207.12554v1](http://arxiv.org/abs/2207.12554v1)|null|
+|**2022-07-25**|**An Empirical Deep Dive into Deep Learning's Driving Dynamics**|Charles Edison Tripp et.al.|[2207.12547v1](http://arxiv.org/abs/2207.12547v1)|null|
+|**2022-07-25**|**The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning**|Wai Tong Chung et.al.|[2207.12546v1](http://arxiv.org/abs/2207.12546v1)|null|
+|**2022-07-25**|**$p$-DkNN: Out-of-Distribution Detection Through Statistical Testing of Deep Representations**|Adam Dziedzic et.al.|[2207.12545v1](http://arxiv.org/abs/2207.12545v1)|null|
+|**2022-07-25**|**Trainability Preserving Neural Structured Pruning**|Huan Wang et.al.|[2207.12534v1](http://arxiv.org/abs/2207.12534v1)|**[link](https://github.com/mingsun-tse/tpp)**|
+|**2022-07-25**|**Deep learning-based algorithm for assessment of knee osteoarthritis severity in radiographs matches performance of radiologists**|Albert Swiecicki et.al.|[2207.12521v1](http://arxiv.org/abs/2207.12521v1)|null|
+|**2022-07-25**|**Rapid Prediction of Phonon Structure and Properties using an Atomistic Line Graph Neural Network (ALIGNN)**|Ramya Gurunathan et.al.|[2207.12510v1](http://arxiv.org/abs/2207.12510v1)|null|
+|**2022-07-25**|**Internal boundaries of the loop amplituhedron**|Gabriele Dian et.al.|[2207.12464v1](http://arxiv.org/abs/2207.12464v1)|null|
+|**2022-07-25**|**Cognitive Framework for Blended Mathematical Sensemaking in Science**|Leonora Kaldaras et.al.|[2207.12442v1](http://arxiv.org/abs/2207.12442v1)|null|
+|**2022-07-25**|**A Preview of JWST Metallicity Studies at Cosmic Noon: The First Detection of Auroral [O II] Emission at High Redshift**|Ryan L. Sanders et.al.|[2207.12430v1](http://arxiv.org/abs/2207.12430v1)|null|
+|**2022-07-25**|**Systematic Quark/Gluon Identification with Ratios of Likelihoods**|Samuel Bright-Thonney et.al.|[2207.12411v1](http://arxiv.org/abs/2207.12411v1)|null|
 |**2022-07-25**|**SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness**|Jindong Gu et.al.|[2207.12391v1](http://arxiv.org/abs/2207.12391v1)|null|
 |**2022-07-25**|**LightX3ECG: A Lightweight and eXplainable Deep Learning System for 3-lead Electrocardiogram Classification**|Khiem H. Le et.al.|[2207.12381v1](http://arxiv.org/abs/2207.12381v1)|null|
 |**2022-07-26**|**A Confident Deep Learning loss function for one-step Conformal Prediction approximation**|Julia A. Meister et.al.|[2207.12377v2](http://arxiv.org/abs/2207.12377v2)|**[link](https://github.com/juliameister/dl-confident-loss-function)**|
@@ -6427,6 +6476,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-26**|**TGCF: Texture guided color fusion for impressionism oil painting style rendering**|Jing Geng et.al.|[2207.12585v1](http://arxiv.org/abs/2207.12585v1)|null|
 |**2022-07-24**|**A Novel Decentralized Inverter Control Algorithm for Loss Minimization and LVRT Improvement**|Ilgiz Murzakhanov et.al.|[2207.11700v1](http://arxiv.org/abs/2207.11700v1)|null|
 |**2022-07-19**|**LightSolver -- A New Quantum-inspired Solver Cracks the 3-Regular 3-XORSAT Challenge**|Idan Meirzada et.al.|[2207.09517v1](http://arxiv.org/abs/2207.09517v1)|null|
 |**2022-07-17**|**INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions**|Zhihong Zhang et.al.|[2207.08201v1](http://arxiv.org/abs/2207.08201v1)|null|
@@ -6484,6 +6534,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-25**|**A comprehensive and biophysically detailed computational model of the whole human heart electromechanics**|Marco Fedele et.al.|[2207.12460v1](http://arxiv.org/abs/2207.12460v1)|null|
 |**2022-07-07**|**Decentralized digital twins of complex dynamical systems**|Omer San et.al.|[2207.12245v1](http://arxiv.org/abs/2207.12245v1)|null|
 |**2022-07-24**|**$\textit{FastSVD-ML-ROM}$: A Reduced-Order Modeling Framework based on Machine Learning for Real-Time Applications**|G. I. Drakoulas et.al.|[2207.11842v1](http://arxiv.org/abs/2207.11842v1)|null|
 |**2022-07-20**|**Digital Twin-based Intrusion Detection for Industrial Control Systems**|Seba Anna Varghese et.al.|[2207.09999v1](http://arxiv.org/abs/2207.09999v1)|**[link](https://github.com/sebavarghese/dt-based-ids-framework)**|
