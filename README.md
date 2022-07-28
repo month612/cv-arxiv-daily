@@ -1,4 +1,4 @@
-## Updated on 2022.07.27
+## Updated on 2022.07.28
 
 ## SLAM
 
@@ -6452,7 +6452,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-26**|**TGCF: Texture guided color fusion for impressionism oil painting style rendering**|Jing Geng et.al.|[2207.12585v1](http://arxiv.org/abs/2207.12585v1)|null|
+|**2022-07-27**|**PTGCF: Printing Texture Guided Color Fusion for Impressionism Oil Painting Style Rendering**|Jing Geng et.al.|[2207.12585v2](http://arxiv.org/abs/2207.12585v2)|null|
 |**2022-07-24**|**A Novel Decentralized Inverter Control Algorithm for Loss Minimization and LVRT Improvement**|Ilgiz Murzakhanov et.al.|[2207.11700v1](http://arxiv.org/abs/2207.11700v1)|null|
 |**2022-07-19**|**LightSolver -- A New Quantum-inspired Solver Cracks the 3-Regular 3-XORSAT Challenge**|Idan Meirzada et.al.|[2207.09517v1](http://arxiv.org/abs/2207.09517v1)|null|
 |**2022-07-17**|**INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions**|Zhihong Zhang et.al.|[2207.08201v1](http://arxiv.org/abs/2207.08201v1)|null|
