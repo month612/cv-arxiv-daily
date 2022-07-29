@@ -6043,7 +6043,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-28**|**Rewriting Geometric Rules of a GAN**|Sheng-Yu Wang et.al.|[2207.14288v1](http://arxiv.org/abs/2207.14288v1)|null|
+|**2022-07-28**|**Rewriting Geometric Rules of a GAN**|Sheng-Yu Wang et.al.|[2207.14288v1](http://arxiv.org/abs/2207.14288v1)|**[link](https://github.com/peterwang512/ganwarping)**|
 |**2022-07-28**|**Scalable Hybrid Deep Neural Networks/Polarizable Potentials Biomolecular Simulations including long-range effects**|Théo Jaffrelot Inizan et.al.|[2207.14276v1](http://arxiv.org/abs/2207.14276v1)|null|
 |**2022-07-28**|**Combining human parsing with analytical feature extraction and ranking schemes for high-generalization person reidentification**|Nikita Gabdullin et.al.|[2207.14243v1](http://arxiv.org/abs/2207.14243v1)|null|
 |**2022-07-28**|**Arp 58 and Arp 68: two M 51- type systems**|Anatoly V. Zasov et.al.|[2207.14214v1](http://arxiv.org/abs/2207.14214v1)|null|
