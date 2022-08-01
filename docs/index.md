@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.31
+## Updated on 2022.08.01
 
 ## SLAM
 
@@ -5774,6 +5774,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|null|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow et.al.|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
 |**2022-07-22**|**NeurAR: Neural Uncertainty for Autonomous 3D Reconstruction**|Yunlong Ran et.al.|[2207.10985v1](http://arxiv.org/abs/2207.10985v1)|null|
@@ -5896,6 +5897,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|null|
 |**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|**[link](https://github.com/metaslam/alto)**|
 |**2022-07-22**|**PLD-SLAM: A Real-Time Visual SLAM Using Points and Line Segments in Dynamic Scenes**|BaoSheng Zhang et.al.|[2207.10916v1](http://arxiv.org/abs/2207.10916v1)|null|
 |**2022-07-25**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
@@ -6067,6 +6069,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Contrastive UCB: Provably Efficient Contrastive Self-Supervised Learning in Online Reinforcement Learning**|Shuang Qiu et.al.|[2207.14800v1](http://arxiv.org/abs/2207.14800v1)|null|
+|**2022-07-29**|**Encoder-Decoder Architecture for 3D Seismic Inversion**|Maayan Gelboim et.al.|[2207.14789v1](http://arxiv.org/abs/2207.14789v1)|null|
+|**2022-07-29**|**Using Multi-modal Data for Improving Generalizability and Explainability of Disease Classification in Radiology**|Pranav Agnihotri et.al.|[2207.14781v1](http://arxiv.org/abs/2207.14781v1)|null|
+|**2022-07-29**|**Image Quality Assessment: Integrating Model-Centric and Data-Centric Approaches**|Peibei Cao et.al.|[2207.14769v1](http://arxiv.org/abs/2207.14769v1)|null|
+|**2022-07-29**|**Deep Reinforcement Learning for End-to-End Network Slicing: Challenges and Solutions**|Qiang Liu et.al.|[2207.14766v1](http://arxiv.org/abs/2207.14766v1)|null|
+|**2022-07-29**|**SimCURL: Simple Contrastive User Representation Learning from Command Sequences**|Hang Chu et.al.|[2207.14760v1](http://arxiv.org/abs/2207.14760v1)|null|
+|**2022-07-29**|**Graph Neural Networks for Channel Decoding**|Sebastian Cammerer et.al.|[2207.14742v1](http://arxiv.org/abs/2207.14742v1)|null|
+|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
+|**2022-07-29**|**Enhanced Small-Scale Structure in the Cosmic Dark Ages**|Derek Inman et.al.|[2207.14735v1](http://arxiv.org/abs/2207.14735v1)|null|
+|**2022-07-29**|**Unveiling the Nature of Infrared Bright, Optically Dark Galaxies with Early JWST Data**|L. Barrufet et.al.|[2207.14733v1](http://arxiv.org/abs/2207.14733v1)|null|
+|**2022-07-29**|**Design Methodology for Deep Out-of-Distribution Detectors in Real-Time Cyber-Physical Systems**|Michael Yuhas et.al.|[2207.14694v1](http://arxiv.org/abs/2207.14694v1)|null|
+|**2022-07-29**|**Uchuu-$ν^2$GC galaxies and AGN: Cosmic variance forecasts of high-redshift AGN for JWST, Euclid, and LSST**|Taira Oogi et.al.|[2207.14689v1](http://arxiv.org/abs/2207.14689v1)|null|
+|**2022-07-29**|**Leveraging data from nearby stations to improve short-term wind speed forecasts**|Rachel Baïle et.al.|[2207.14679v1](http://arxiv.org/abs/2207.14679v1)|null|
+|**2022-07-29**|**Estimating the potential of ionizing radiation-induced radiolysis for microbial metabolism in terrestrial planets with rarefied atmospheres**|Dimitra Atri et.al.|[2207.14675v1](http://arxiv.org/abs/2207.14675v1)|null|
+|**2022-07-29**|**Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**|Dieuwertje Alblas et.al.|[2207.14663v1](http://arxiv.org/abs/2207.14663v1)|null|
+|**2022-07-29**|**SYNTA: A novel approach for deep learning-based image analysis in muscle histopathology using photo-realistic synthetic data**|Leonid Mill et.al.|[2207.14650v1](http://arxiv.org/abs/2207.14650v1)|null|
+|**2022-07-29**|**Phase Code Discovery for Pulse Compression Radar: A Genetic Algorithm Approach**|Xinyan Xie et.al.|[2207.14631v1](http://arxiv.org/abs/2207.14631v1)|null|
+|**2022-07-29**|**Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models**|Ozan Özdenizci et.al.|[2207.14626v1](http://arxiv.org/abs/2207.14626v1)|null|
+|**2022-07-29**|**Innate Dynamics and Identity Crisis of a Metal Surface Unveiled by Machine Learning of Atomic Environments**|Matteo Cioni et.al.|[2207.14622v1](http://arxiv.org/abs/2207.14622v1)|null|
+|**2022-07-29**|**Computational complexity reduction of deep neural networks**|Mee Seong Im et.al.|[2207.14620v1](http://arxiv.org/abs/2207.14620v1)|null|
+|**2022-07-29**|**Spline Representation and Redundancies of One-Dimensional ReLU Neural Network Models**|Gerlind Plonka et.al.|[2207.14609v1](http://arxiv.org/abs/2207.14609v1)|null|
+|**2022-07-29**|**WISE: Whitebox Image Stylization by Example-based Learning**|Winfried Lötzsch et.al.|[2207.14606v1](http://arxiv.org/abs/2207.14606v1)|null|
+|**2022-07-29**|**Deep Reinforcement Learning for System-on-Chip: Myths and Realities**|Tegg Taekyong Sung et.al.|[2207.14595v1](http://arxiv.org/abs/2207.14595v1)|null|
+|**2022-07-29**|**Deep Deformable 3D Caricatures with Learned Shape Control**|Yucheol Jung et.al.|[2207.14593v1](http://arxiv.org/abs/2207.14593v1)|null|
+|**2022-07-29**|**Image Augmentation for Satellite Images**|Oluwadara Adedeji et.al.|[2207.14580v1](http://arxiv.org/abs/2207.14580v1)|null|
+|**2022-07-29**|**Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization**|Yuki Kadokawa et.al.|[2207.14561v1](http://arxiv.org/abs/2207.14561v1)|null|
+|**2022-07-29**|**Performance Assessment of the KASI-Deep Rolling Imaging Fast-optics Telescope pathfinder**|Woowon Byun et.al.|[2207.14553v1](http://arxiv.org/abs/2207.14553v1)|null|
+|**2022-07-29**|**A One-Shot Reparameterization Method for Reducing the Loss of Tile Pruning on DNNs**|Yanchen Li et.al.|[2207.14545v1](http://arxiv.org/abs/2207.14545v1)|null|
+|**2022-07-29**|**Rapid localization of gravitational wave sources from compact binary coalescences using deep learning**|Chayan Chatterjee et.al.|[2207.14522v1](http://arxiv.org/abs/2207.14522v1)|null|
+|**2022-07-29**|**GPU-accelerated SIFT-aided source identification of stabilized videos**|Andrea Montibeller et.al.|[2207.14507v1](http://arxiv.org/abs/2207.14507v1)|null|
+|**2022-07-29**|**Class-Difficulty Based Methods for Long-Tailed Visual Recognition**|Saptarshi Sinha et.al.|[2207.14499v1](http://arxiv.org/abs/2207.14499v1)|null|
+|**2022-07-29**|**Conservative Generator, Progressive Discriminator: Coordination of Adversaries in Few-shot Incremental Image Synthesis**|Chaerin Kong et.al.|[2207.14491v1](http://arxiv.org/abs/2207.14491v1)|null|
+|**2022-07-29**|**StyleAM: Perception-Oriented Unsupervised Domain Adaption for Non-reference Image Quality Assessment**|Yiting Lu et.al.|[2207.14489v1](http://arxiv.org/abs/2207.14489v1)|null|
+|**2022-07-29**|**Adaptive Gradient Methods at the Edge of Stability**|Jeremy M. Cohen et.al.|[2207.14484v1](http://arxiv.org/abs/2207.14484v1)|null|
+|**2022-07-29**|**FCSN: Global Context Aware Segmentation by Learning the Fourier Coefficients of Objects in Medical Images**|Young Seok Jeon et.al.|[2207.14477v1](http://arxiv.org/abs/2207.14477v1)|null|
+|**2022-07-29**|**Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels**|Ganlong Zhao et.al.|[2207.14476v1](http://arxiv.org/abs/2207.14476v1)|null|
+|**2022-07-29**|**Deep Learning Based Successive Interference Cancellation for the Non-Orthogonal Downlink**|Thien Van Luong et.al.|[2207.14468v1](http://arxiv.org/abs/2207.14468v1)|null|
+|**2022-07-29**|**A Modified Union Bound on Symbol Error Probability for Fading Channels**|Tian Han et.al.|[2207.14457v1](http://arxiv.org/abs/2207.14457v1)|null|
+|**2022-07-29**|**Deep Learning-based Occluded Person Re-identification: A Survey**|Yunjie Peng et.al.|[2207.14452v1](http://arxiv.org/abs/2207.14452v1)|null|
+|**2022-07-29**|**PC-GANs: Progressive Compensation Generative Adversarial Networks for Pan-sharpening**|Yinghui Xing et.al.|[2207.14451v1](http://arxiv.org/abs/2207.14451v1)|null|
+|**2022-07-29**|**A Survey of Learning on Small Data**|Xiaofeng Cao et.al.|[2207.14443v1](http://arxiv.org/abs/2207.14443v1)|null|
+|**2022-07-28**|**Deep learning for understanding multilabel imbalanced Chest X-ray datasets**|Helena Liz et.al.|[2207.14408v1](http://arxiv.org/abs/2207.14408v1)|null|
+|**2022-07-28**|**A Deep Generative Approach to Oversampling in Ptychography**|Semih Barutcu et.al.|[2207.14392v1](http://arxiv.org/abs/2207.14392v1)|null|
+|**2022-07-28**|**Topological structure of complex predictions**|Meng Liu et.al.|[2207.14358v1](http://arxiv.org/abs/2207.14358v1)|null|
+|**2022-07-28**|**Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations**|Yuxiang Wang et.al.|[2207.14352v1](http://arxiv.org/abs/2207.14352v1)|null|
+|**2022-07-28**|**Bridging the Gap between Deep Learning and Hypothesis-Driven Analysis via Permutation Testing**|Magdalini Paschali et.al.|[2207.14349v1](http://arxiv.org/abs/2207.14349v1)|null|
+|**2022-07-28**|**Probing coherent quantum thermodynamics using a trapped ion**|O. Onishchenko et.al.|[2207.14325v1](http://arxiv.org/abs/2207.14325v1)|null|
+|**2022-07-28**|**A Machine Learning Approach to Enhancing eROSITA Observations**|John Soltis et.al.|[2207.14324v1](http://arxiv.org/abs/2207.14324v1)|null|
+|**2022-07-28**|**The inside-out, upside-down telescope: the Argus Array's new pseudofocal design**|Nicholas Law et.al.|[2207.14318v1](http://arxiv.org/abs/2207.14318v1)|null|
+|**2022-07-28**|**Lyman-Alpha Escape from Low-Mass, Compact, High-Redshift Galaxies**|Ragadeepika Pucha et.al.|[2207.14303v1](http://arxiv.org/abs/2207.14303v1)|null|
 |**2022-07-28**|**Rewriting Geometric Rules of a GAN**|Sheng-Yu Wang et.al.|[2207.14288v1](http://arxiv.org/abs/2207.14288v1)|**[link](https://github.com/peterwang512/ganwarping)**|
 |**2022-07-28**|**Scalable Hybrid Deep Neural Networks/Polarizable Potentials Biomolecular Simulations including long-range effects**|Théo Jaffrelot Inizan et.al.|[2207.14276v1](http://arxiv.org/abs/2207.14276v1)|null|
 |**2022-07-28**|**Combining human parsing with analytical feature extraction and ranking schemes for high-generalization person reidentification**|Nikita Gabdullin et.al.|[2207.14243v1](http://arxiv.org/abs/2207.14243v1)|null|
