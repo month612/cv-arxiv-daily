@@ -1,4 +1,4 @@
-> Updated on 2022.08.01
+> Updated on 2022.08.02
 
 ## SLAM
 
@@ -5818,7 +5818,7 @@
 - 2022-03-23, **Event-Based Dense Reconstruction Pipeline**, Kun Xiao et.al., Paper: [http://arxiv.org/abs/2203.12270v1](http://arxiv.org/abs/2203.12270v1)
 - 2022-03-21, **DiffPoseNet: Direct Differentiable Camera Pose Estimation**, Chethan M. Parameshwara et.al., Paper: [http://arxiv.org/abs/2203.11174v1](http://arxiv.org/abs/2203.11174v1)
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
-- 2022-03-02, **Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2203.00851v1](http://arxiv.org/abs/2203.00851v1)
+- 2022-07-29, **Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2203.00851v2](http://arxiv.org/abs/2203.00851v2)
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
 - 2022-01-20, **GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**, Yunhan Zhao et.al., Paper: [http://arxiv.org/abs/2201.08131v1](http://arxiv.org/abs/2201.08131v1)
 - 2022-01-13, **Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**, Yunpeng Shi et.al., Paper: [http://arxiv.org/abs/2201.04797v1](http://arxiv.org/abs/2201.04797v1), Code: **[https://github.com/yunpeng-shi/fcc](https://github.com/yunpeng-shi/fcc)**
@@ -5885,7 +5885,7 @@
 - 2022-06-26, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v2](http://arxiv.org/abs/2203.16291v2), Code: **[https://github.com/seyrankhademi/AmsterTime](https://github.com/seyrankhademi/AmsterTime)**
 - 2022-03-29, **Long-term Visual Map Sparsification with Heterogeneous GNN**, Ming-Fang Chang et.al., Paper: [http://arxiv.org/abs/2203.15182v1](http://arxiv.org/abs/2203.15182v1)
 - 2022-04-01, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v2](http://arxiv.org/abs/2203.13048v2), Code: **[https://github.com/lasuomela/carla_vloc_benchmark](https://github.com/lasuomela/carla_vloc_benchmark)**
-- 2022-03-24, **Is Geometry Enough for Matching in Visual Localization?**, Qunjie Zhou et.al., Paper: [http://arxiv.org/abs/2203.12979v1](http://arxiv.org/abs/2203.12979v1)
+- 2022-07-30, **Is Geometry Enough for Matching in Visual Localization?**, Qunjie Zhou et.al., Paper: [http://arxiv.org/abs/2203.12979v2](http://arxiv.org/abs/2203.12979v2)
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-10, **ReF -- Rotation Equivariant Features for Local Feature Matching**, Abhishek Peri et.al., Paper: [http://arxiv.org/abs/2203.05206v1](http://arxiv.org/abs/2203.05206v1)
 - 2022-03-09, **Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2203.04613v1](http://arxiv.org/abs/2203.04613v1)
@@ -6564,7 +6564,7 @@
 - 2022-07-07, **Multi-View Vision-to-Geometry Knowledge Transfer for 3D Point Cloud Shape Analysis**, Qijian Zhang et.al., Paper: [http://arxiv.org/abs/2207.03128v1](http://arxiv.org/abs/2207.03128v1)
 - 2022-07-06, **Local Relighting of Real Scenes**, Audrey Cui et.al., Paper: [http://arxiv.org/abs/2207.02774v1](http://arxiv.org/abs/2207.02774v1), Code: **[https://github.com/audreycui/relight](https://github.com/audreycui/relight)**
 - 2022-07-06, **Para-particle oscillator simulations on a trapped ion quantum computer**, C. Huerta Alderete et.al., Paper: [http://arxiv.org/abs/2207.02430v1](http://arxiv.org/abs/2207.02430v1)
-- 2022-07-04, **S$^{5}$Mars: Self-Supervised and Semi-Supervised Learning for Mars Segmentation**, Jiahang Zhang et.al., Paper: [http://arxiv.org/abs/2207.01200v1](http://arxiv.org/abs/2207.01200v1)
+- 2022-07-30, **S$^{5}$Mars: Self-Supervised and Semi-Supervised Learning for Mars Segmentation**, Jiahang Zhang et.al., Paper: [http://arxiv.org/abs/2207.01200v2](http://arxiv.org/abs/2207.01200v2)
 - 2022-07-01, **Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition**, Mingkun Yang et.al., Paper: [http://arxiv.org/abs/2207.00193v1](http://arxiv.org/abs/2207.00193v1)
 - 2022-06-27, **Role of Material Directionality on the Mechanical Response of Miura-Ori Composite Structures**, Haotian Feng et.al., Paper: [http://arxiv.org/abs/2206.13620v1](http://arxiv.org/abs/2206.13620v1)
 - 2022-06-30, **ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition**, Junting Pan et.al., Paper: [http://arxiv.org/abs/2206.13559v2](http://arxiv.org/abs/2206.13559v2)
