@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.02
+## Updated on 2022.08.03
 
 ## SLAM
 
@@ -5854,7 +5854,7 @@ layout: default
 |**2022-05-09**|**Is my Depth Ground-Truth Good Enough? HAMMER -- Highly Accurate Multi-Modal Dataset for DEnse 3D Scene Regression**|HyunJun Jung et.al.|[2205.04565v1](http://arxiv.org/abs/2205.04565v1)|null|
 |**2022-05-07**|**Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs**|Pedro F. Proença et.al.|[2205.03522v1](http://arxiv.org/abs/2205.03522v1)|null|
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
-|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
+|**2022-08-01**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v2](http://arxiv.org/abs/2204.09171v2)|null|
 |**2022-04-10**|**Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**|Hui Deng et.al.|[2204.04730v1](http://arxiv.org/abs/2204.04730v1)|null|
 |**2022-04-08**|**Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**|Debao Huang et.al.|[2204.04145v1](http://arxiv.org/abs/2204.04145v1)|null|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
@@ -5877,7 +5877,7 @@ layout: default
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
 |**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund et.al.|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
 |**2022-04-07**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v2](http://arxiv.org/abs/2112.03288v2)|**[link](https://github.com/barbararoessle/dense_depth_priors_nerf)**|
-|**2021-12-10**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
+|**2022-08-02**|**MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v3](http://arxiv.org/abs/2112.01349v3)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 |**2021-11-10**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik et.al.|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
@@ -6081,7 +6081,7 @@ layout: default
 |**2022-08-01**|**First Light And Reionisation Epoch Simulations (FLARES) VII: The Star Formation and Metal Enrichment Histories of Galaxies in the early Universe**|Stephen M. Wilkins et.al.|[2208.00976v1](http://arxiv.org/abs/2208.00976v1)|null|
 |**2022-08-01**|**Information Gain Sampling for Active Learning in Medical Image Classification**|Raghav Mehta et.al.|[2208.00974v1](http://arxiv.org/abs/2208.00974v1)|null|
 |**2022-08-01**|**Probabilistic forecasts of extreme heatwaves using convolutional neural networks in a regime of lack of data**|George Miloshevich et.al.|[2208.00971v1](http://arxiv.org/abs/2208.00971v1)|null|
-|**2022-08-01**|**What do Deep Neural Networks Learn in Medical Images?**|Yusuf Brima et.al.|[2208.00953v1](http://arxiv.org/abs/2208.00953v1)|null|
+|**2022-08-01**|**What do Deep Neural Networks Learn in Medical Images?**|Yusuf Brima et.al.|[2208.00953v1](http://arxiv.org/abs/2208.00953v1)|**[link](https://github.com/yusufbrima/xdnnbioimaging)**|
 |**2022-08-01**|**Amino Acid Classification in 2D NMR Spectra via Acoustic Signal Embeddings**|Jia Qi Yip et.al.|[2208.00935v1](http://arxiv.org/abs/2208.00935v1)|null|
 |**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
 |**2022-08-01**|**Quaternary MgSiN_2-GaN alloy semiconductors for deep UV applications**|Ozan Dernek et.al.|[2208.00908v1](http://arxiv.org/abs/2208.00908v1)|null|
@@ -6114,11 +6114,11 @@ layout: default
 |**2022-07-31**|**Adaptive Edge Offloading for Image Classification Under Rate Limit**|Jiaming Qiu et.al.|[2208.00485v1](http://arxiv.org/abs/2208.00485v1)|**[link](https://github.com/qiujiaming315/edgeml-dqn)**|
 |**2022-07-31**|**Feather-Light Fourier Domain Adaptation in Magnetic Resonance Imaging**|Ivan Zakazov et.al.|[2208.00474v1](http://arxiv.org/abs/2208.00474v1)|null|
 |**2022-07-31**|**Adaptive Temperature Scaling for Robust Calibration of Deep Neural Networks**|Sergio A. Balanya et.al.|[2208.00461v1](http://arxiv.org/abs/2208.00461v1)|null|
-|**2022-07-31**|**Photon-Limited Blind Deconvolution using Unsupervised Iterative Kernel Estimation**|Yash Sanghvi et.al.|[2208.00451v1](http://arxiv.org/abs/2208.00451v1)|null|
+|**2022-08-02**|**Photon-Limited Blind Deconvolution using Unsupervised Iterative Kernel Estimation**|Yash Sanghvi et.al.|[2208.00451v2](http://arxiv.org/abs/2208.00451v2)|null|
 |**2022-07-31**|**Robust Real-World Image Super-Resolution against Adversarial Attacks**|Jiutao Yue et.al.|[2208.00428v1](http://arxiv.org/abs/2208.00428v1)|**[link](https://github.com/lhaof/robust-sr-against-adversarial-attacks)**|
 |**2022-07-31**|**eco2AI: carbon emissions tracking of machine learning models as the first step towards sustainable AI**|Semen Budennyy et.al.|[2208.00406v1](http://arxiv.org/abs/2208.00406v1)|**[link](https://github.com/sb-ai-lab/eco2ai)**|
-|**2022-07-31**|**Speckle2Speckle: Unsupervised Learning of Ultrasound Speckle Filtering Without Clean Data**|Rüdiger Göbl et.al.|[2208.00402v1](http://arxiv.org/abs/2208.00402v1)|null|
-|**2022-07-31**|**FixMatchSeg: Fixing FixMatch for Semi-Supervised Semantic Segmentation**|Pratima Upretee et.al.|[2208.00400v1](http://arxiv.org/abs/2208.00400v1)|null|
+|**2022-07-31**|**Speckle2Speckle: Unsupervised Learning of Ultrasound Speckle Filtering Without Clean Data**|Rüdiger Göbl et.al.|[2208.00402v1](http://arxiv.org/abs/2208.00402v1)|**[link](https://github.com/goeblr/speckle2speckle)**|
+|**2022-08-02**|**FixMatchSeg: Fixing FixMatch for Semi-Supervised Semantic Segmentation**|Pratima Upretee et.al.|[2208.00400v2](http://arxiv.org/abs/2208.00400v2)|null|
 |**2022-07-31**|**Radio fossils, relics, and haloes in Abell 3266: cluster archaeology with ASKAP-EMU and the ATCA**|C. J. Riseley et.al.|[2208.00395v1](http://arxiv.org/abs/2208.00395v1)|null|
 |**2022-07-31**|**DRL-M4MR: An Intelligent Multicast Routing Approach Based on DQN Deep Reinforcement Learning in SDN**|Chenwei Zhao et.al.|[2208.00383v1](http://arxiv.org/abs/2208.00383v1)|null|
 |**2022-07-31**|**Neuro-Symbolic Learning: Principles and Applications in Ophthalmology**|Muhammad Hassan et.al.|[2208.00374v1](http://arxiv.org/abs/2208.00374v1)|null|
@@ -6667,6 +6667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|null|
 |**2022-07-31**|**Augmenting Vision Language Pretraining by Learning Codebook with Visual Semantics**|Xiaoyuan Guo et.al.|[2208.00475v1](http://arxiv.org/abs/2208.00475v1)|null|
 |**2022-07-30**|**A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond**|Chaoning Zhang et.al.|[2208.00173v1](http://arxiv.org/abs/2208.00173v1)|null|
 |**2022-07-29**|**Robust Rayleigh Regression Method for SAR Image Processing in Presence of Outliers**|B. G. Palm et.al.|[2208.00097v1](http://arxiv.org/abs/2208.00097v1)|null|
@@ -6729,6 +6730,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-31**|**A Python-based Mixed Discrete-Continuous Simulation Framework for Digital Twins**|Neha Karanjkar et.al.|[2208.01408v1](http://arxiv.org/abs/2208.01408v1)|null|
 |**2022-07-09**|**Digital Twin Assisted Task Offloading for Aerial Edge Computing and Networks**|Bin Li et.al.|[2208.00834v1](http://arxiv.org/abs/2208.00834v1)|null|
 |**2022-07-25**|**A comprehensive and biophysically detailed computational model of the whole human heart electromechanics**|Marco Fedele et.al.|[2207.12460v1](http://arxiv.org/abs/2207.12460v1)|null|
 |**2022-07-07**|**Decentralized digital twins of complex dynamical systems**|Omer San et.al.|[2207.12245v1](http://arxiv.org/abs/2207.12245v1)|null|
@@ -6741,7 +6743,7 @@ layout: default
 |**2022-07-08**|**An Outlook on the Future Marine Traffic Management System for Autonomous Ships**|Michele Martelli et.al.|[2207.04140v1](http://arxiv.org/abs/2207.04140v1)|null|
 |**2022-06-21**|**Online Trajectory Prediction for Metropolitan Scale Mobility Digital Twin**|Zipei Fan et.al.|[2207.03575v1](http://arxiv.org/abs/2207.03575v1)|null|
 |**2022-07-06**|**The use of Synthetic Data to solve the scalability and data availability problems in Smart City Digital Twins**|Esteve Almirall et.al.|[2207.02953v1](http://arxiv.org/abs/2207.02953v1)|null|
-|**2022-07-05**|**Simulations in a Digital Twin of an Electrical Machine**|Karim Cherifi et.al.|[2207.02171v1](http://arxiv.org/abs/2207.02171v1)|null|
+|**2022-08-02**|**Simulations in a Digital Twin of an Electrical Machine**|Karim Cherifi et.al.|[2207.02171v2](http://arxiv.org/abs/2207.02171v2)|null|
 |**2022-07-04**|**Spectral Power Profile Optimization of Field-Deployed WDM Network by Remote Link Modeling**|Rasmus T. Jones et.al.|[2207.01336v1](http://arxiv.org/abs/2207.01336v1)|null|
 |**2022-07-03**|**Digital-twin-enhanced metal tube bending forming real-time prediction method based on Multi-source-input MTL**|Chang Sun et.al.|[2207.00961v1](http://arxiv.org/abs/2207.00961v1)|null|
 |**2022-07-02**|**PhotoScene: Photorealistic Material and Lighting Transfer for Indoor Scenes**|Yu-Ying Yeh et.al.|[2207.00757v1](http://arxiv.org/abs/2207.00757v1)|**[link](https://github.com/vilab-ucsd/photoscene)**|
@@ -6764,7 +6766,7 @@ layout: default
 |**2022-06-07**|**About Digital Twins, agents, and multiagent systems: a cross-fertilisation journey**|Stefano Mariani et.al.|[2206.03253v1](http://arxiv.org/abs/2206.03253v1)|null|
 |**2022-06-01**|**Digital Twin for Networking: A Data-driven Performance Modeling Perspective**|Linbo Hui et.al.|[2206.00310v1](http://arxiv.org/abs/2206.00310v1)|null|
 |**2022-05-28**|**Controller-Aware Dynamic Network Management for Industry 4.0**|Efe C. Balta et.al.|[2205.14449v1](http://arxiv.org/abs/2205.14449v1)|null|
-|**2022-05-27**|**Network Digital Twin: Context, Enabling Technologies and Opportunities**|Paul Almasan et.al.|[2205.14206v1](http://arxiv.org/abs/2205.14206v1)|null|
+|**2022-08-02**|**Network Digital Twin: Context, Enabling Technologies and Opportunities**|Paul Almasan et.al.|[2205.14206v2](http://arxiv.org/abs/2205.14206v2)|null|
 |**2022-05-26**|**Populating the Digital Space for Cultural Heritage with Heritage Digital Twins**|Franco Niccolucci et.al.|[2205.13206v1](http://arxiv.org/abs/2205.13206v1)|null|
 |**2022-05-24**|**Smart Grid: Cyber Attacks, Critical Defense Approaches, and Digital Twin**|Tianming Zheng et.al.|[2205.11783v1](http://arxiv.org/abs/2205.11783v1)|null|
 |**2022-05-23**|**Machine Learning for Electricity Market Clearing**|Laurent Pagnier et.al.|[2205.11641v1](http://arxiv.org/abs/2205.11641v1)|null|
