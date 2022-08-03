@@ -6074,6 +6074,44 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
+|**2022-08-02**|**Enabling scalable clinical interpretation of ML-based phenotypes using real world data**|Owen Parsons et.al.|[2208.01607v1](http://arxiv.org/abs/2208.01607v1)|null|
+|**2022-08-02**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v1](http://arxiv.org/abs/2208.01602v1)|null|
+|**2022-08-02**|**Gap Opening and Inner Disk Structure in the Strongly Accreting Transition Disk of DM Tau**|Logan Francis et.al.|[2208.01598v1](http://arxiv.org/abs/2208.01598v1)|null|
+|**2022-08-02**|**Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning**|Konstantinos Kalais et.al.|[2208.01573v1](http://arxiv.org/abs/2208.01573v1)|**[link](https://github.com/kkalais/stochlwta-ml)**|
+|**2022-08-02**|**Approximate Bayesian Neural Operators: Uncertainty Quantification for Parametric PDEs**|Emilia Magnani et.al.|[2208.01565v1](http://arxiv.org/abs/2208.01565v1)|null|
+|**2022-08-02**|**Fluctuating Fractionalized Spins in Quasi Two-dimensional Magnetic V0.85PS3**|Vivek Kumar et.al.|[2208.01550v1](http://arxiv.org/abs/2208.01550v1)|null|
+|**2022-08-02**|**MEMO: Coverage-guided Model Generation For Deep Learning Library Testing**|Meiziniu Li et.al.|[2208.01508v1](http://arxiv.org/abs/2208.01508v1)|null|
+|**2022-08-02**|**Impact of the turnover in the high-z galaxy luminosity function on the 21-cm signal during Cosmic Dawn and Epoch of Reionization**|Zekang Zhang et.al.|[2208.01492v1](http://arxiv.org/abs/2208.01492v1)|null|
+|**2022-08-02**|**IterMiUnet: A lightweight architecture for automatic blood vessel segmentation**|Ashish Kumar et.al.|[2208.01485v1](http://arxiv.org/abs/2208.01485v1)|null|
+|**2022-08-02**|**Physics-informed Deep Super-resolution for Spatiotemporal Data**|Pu Ren et.al.|[2208.01462v1](http://arxiv.org/abs/2208.01462v1)|**[link](https://github.com/paulpuren/physr)**|
+|**2022-08-02**|**Materials Swelling Revealed Through Automated Semantic Segmentation of Cavities in Electron Microscopy Images**|Ryan Jacobs et.al.|[2208.01460v1](http://arxiv.org/abs/2208.01460v1)|null|
+|**2022-08-02**|**A comment on Guo et al. [arXiv:2206.11228]**|Ben Lonnqvist et.al.|[2208.01456v1](http://arxiv.org/abs/2208.01456v1)|null|
+|**2022-08-02**|**Mitigating Smart Jammers in Multi-User MIMO**|Gian Marti et.al.|[2208.01453v1](http://arxiv.org/abs/2208.01453v1)|null|
+|**2022-08-01**|**Predicting Future Mosquito Habitats Using Time Series Climate Forecasting and Deep Learning**|Christopher Sun et.al.|[2208.01436v1](http://arxiv.org/abs/2208.01436v1)|**[link](https://github.com/csun365/mosquito-habitat-prediction)**|
+|**2022-08-02**|**Pan-chromatic photometric classification of supernovae from multiple surveys and transfer learning for future surveys**|Umar. F. Burhanudin et.al.|[2208.01328v1](http://arxiv.org/abs/2208.01328v1)|null|
+|**2022-08-02**|**Exact Solution for A Real Polaritonic System Under Vibrational Strong Coupling in Thermodynamic Equilibrium: Absence of Zero Temperature and Loss of Light-Matter Entanglement**|Dominik Sidler et.al.|[2208.01326v1](http://arxiv.org/abs/2208.01326v1)|null|
+|**2022-08-02**|**In-Hand Pose Estimation and Pin Inspection for Insertion of Through-Hole Components**|Frederik Hagelskjaer et.al.|[2208.01284v1](http://arxiv.org/abs/2208.01284v1)|**[link](https://github.com/fhagelskjaer/pin-segmentation)**|
+|**2022-08-02**|**Explicit Use of Fourier Spectrum in Generative Adversarial Networks**|Soroush Sheikh Gargar et.al.|[2208.01265v1](http://arxiv.org/abs/2208.01265v1)|null|
+|**2022-08-02**|**DashBot: Insight-Driven Dashboard Generation Based on Deep Reinforcement Learning**|Dazhen Deng et.al.|[2208.01232v1](http://arxiv.org/abs/2208.01232v1)|null|
+|**2022-08-02**|**GeoECG: Data Augmentation via Wasserstein Geodesic Perturbation for Robust Electrocardiogram Prediction**|Jiacheng Zhu et.al.|[2208.01220v1](http://arxiv.org/abs/2208.01220v1)|null|
+|**2022-08-02**|**Mobility-Aware Cooperative Caching in Vehicular Edge Computing Based on Asynchronous Federated and Deep Reinforcement Learning**|Qiong Wu et.al.|[2208.01219v1](http://arxiv.org/abs/2208.01219v1)|null|
+|**2022-08-02**|**Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation**|Wenxuan Ma et.al.|[2208.01195v1](http://arxiv.org/abs/2208.01195v1)|null|
+|**2022-08-01**|**MV6D: Multi-View 6D Pose Estimation on RGB-D Frames Using a Deep Point-wise Voting Network**|Fabian Duffhauss et.al.|[2208.01172v1](http://arxiv.org/abs/2208.01172v1)|null|
+|**2022-08-01**|**Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer**|Jicheng Li et.al.|[2208.01161v1](http://arxiv.org/abs/2208.01161v1)|null|
+|**2022-08-01**|**Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot**|Yandong Ji et.al.|[2208.01160v1](http://arxiv.org/abs/2208.01160v1)|null|
+|**2022-08-01**|**A Feasibility Study on Image Inpainting for Non-cleft Lip Generation from Patients with Cleft Lip**|Shuang Chen et.al.|[2208.01149v1](http://arxiv.org/abs/2208.01149v1)|**[link](https://github.com/chrischen1023/nclg-mt)**|
+|**2022-08-01**|**Boosted Off-Policy Learning**|Ben London et.al.|[2208.01148v1](http://arxiv.org/abs/2208.01148v1)|null|
+|**2022-08-01**|**Compact gamma detector module for radiation monitoring**|A. Mammadli et.al.|[2208.01140v1](http://arxiv.org/abs/2208.01140v1)|null|
+|**2022-08-01**|**Improving the Trainability of Deep Neural Networks through Layerwise Batch-Entropy Regularization**|David Peer et.al.|[2208.01134v1](http://arxiv.org/abs/2208.01134v1)|**[link](https://github.com/peerdavid/layerwise-batch-entropy)**|
+|**2022-08-01**|**Towards precision particle background estimation for future X-ray missions: correlated variability between Chandra ACIS and AMS**|Catherine E. Grant et.al.|[2208.01130v1](http://arxiv.org/abs/2208.01130v1)|null|
+|**2022-08-01**|**Computing coherent light scattering on the millimetre scale using a recurrent neural network without training**|Laurynas Valantinas et.al.|[2208.01118v1](http://arxiv.org/abs/2208.01118v1)|null|
+|**2022-08-01**|**On the Evaluation of User Privacy in Deep Neural Networks using Timing Side Channel**|Shubhi Shukla et.al.|[2208.01113v1](http://arxiv.org/abs/2208.01113v1)|null|
+|**2022-08-01**|**VacciNet: Towards a Smart Framework for Learning the Distribution Chain Optimization of Vaccines for a Pandemic**|Jayeeta Mondal et.al.|[2208.01112v1](http://arxiv.org/abs/2208.01112v1)|null|
+|**2022-08-01**|**Toward deep-learning-assisted spectrally-resolved imaging of magnetic noise**|Fernando Meneses et.al.|[2208.01107v1](http://arxiv.org/abs/2208.01107v1)|null|
+|**2022-08-01**|**Dyadic Movement Synchrony Estimation Under Privacy-preserving Conditions**|Jicheng Li et.al.|[2208.01100v1](http://arxiv.org/abs/2208.01100v1)|null|
+|**2022-08-01**|**Efficient Personalized Learning for Wearable Health Applications using HyperDimensional Computing**|Sina Shahhosseini et.al.|[2208.01095v1](http://arxiv.org/abs/2208.01095v1)|null|
+|**2022-08-01**|**A knee cannot have lung disease: out-of-distribution detection with in-distribution voting using the medical example of chest X-ray classification**|Alessandro Wollek et.al.|[2208.01077v1](http://arxiv.org/abs/2208.01077v1)|**[link](https://github.com/AlessandroW/A-Knee-Cannot-Have-Lunge-Disease-Out-Of-Distribution-Detection-With-In-Distribution-Voting)**|
 |**2022-08-01**|**Learning Multi-Object Symbols for Manipulation with Attentive Deep Effect Predictors**|Alper Ahmetoglu et.al.|[2208.01021v1](http://arxiv.org/abs/2208.01021v1)|null|
 |**2022-08-01**|**How Wide Convolutional Neural Networks Learn Hierarchical Tasks**|Francesco Cagnetta et.al.|[2208.01003v1](http://arxiv.org/abs/2208.01003v1)|null|
 |**2022-08-01**|**A study on the Clustering Properties of Radio-Selected sources in the Lockman Hole Region at 325 MHz**|Aishrila Mazumder et.al.|[2208.00992v1](http://arxiv.org/abs/2208.00992v1)|null|
@@ -6667,7 +6705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|null|
+|**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|**[link](https://github.com/rinongal/textual_inversion)**|
 |**2022-07-31**|**Augmenting Vision Language Pretraining by Learning Codebook with Visual Semantics**|Xiaoyuan Guo et.al.|[2208.00475v1](http://arxiv.org/abs/2208.00475v1)|null|
 |**2022-07-30**|**A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond**|Chaoning Zhang et.al.|[2208.00173v1](http://arxiv.org/abs/2208.00173v1)|null|
 |**2022-07-29**|**Robust Rayleigh Regression Method for SAR Image Processing in Presence of Outliers**|B. G. Palm et.al.|[2208.00097v1](http://arxiv.org/abs/2208.00097v1)|null|
