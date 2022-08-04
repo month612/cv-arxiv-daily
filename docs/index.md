@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.03
+## Updated on 2022.08.04
 
 ## SLAM
 
@@ -6076,13 +6076,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
 |**2022-08-02**|**Enabling scalable clinical interpretation of ML-based phenotypes using real world data**|Owen Parsons et.al.|[2208.01607v1](http://arxiv.org/abs/2208.01607v1)|null|
-|**2022-08-02**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v1](http://arxiv.org/abs/2208.01602v1)|null|
+|**2022-08-03**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v2](http://arxiv.org/abs/2208.01602v2)|null|
 |**2022-08-02**|**Gap Opening and Inner Disk Structure in the Strongly Accreting Transition Disk of DM Tau**|Logan Francis et.al.|[2208.01598v1](http://arxiv.org/abs/2208.01598v1)|null|
 |**2022-08-02**|**Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning**|Konstantinos Kalais et.al.|[2208.01573v1](http://arxiv.org/abs/2208.01573v1)|**[link](https://github.com/kkalais/stochlwta-ml)**|
 |**2022-08-02**|**Approximate Bayesian Neural Operators: Uncertainty Quantification for Parametric PDEs**|Emilia Magnani et.al.|[2208.01565v1](http://arxiv.org/abs/2208.01565v1)|null|
 |**2022-08-02**|**Fluctuating Fractionalized Spins in Quasi Two-dimensional Magnetic V0.85PS3**|Vivek Kumar et.al.|[2208.01550v1](http://arxiv.org/abs/2208.01550v1)|null|
-|**2022-08-02**|**MEMO: Coverage-guided Model Generation For Deep Learning Library Testing**|Meiziniu Li et.al.|[2208.01508v1](http://arxiv.org/abs/2208.01508v1)|null|
-|**2022-08-02**|**Impact of the turnover in the high-z galaxy luminosity function on the 21-cm signal during Cosmic Dawn and Epoch of Reionization**|Zekang Zhang et.al.|[2208.01492v1](http://arxiv.org/abs/2208.01492v1)|null|
+|**2022-08-02**|**MEMO: Coverage-guided Model Generation For Deep Learning Library Testing**|Meiziniu Li et.al.|[2208.01508v1](http://arxiv.org/abs/2208.01508v1)|**[link](https://github.com/memoase/memo)**|
+|**2022-08-03**|**Impact of the turnover in the high-z galaxy luminosity function on the 21-cm signal during Cosmic Dawn and Epoch of Reionization**|Zekang Zhang et.al.|[2208.01492v2](http://arxiv.org/abs/2208.01492v2)|null|
 |**2022-08-02**|**IterMiUnet: A lightweight architecture for automatic blood vessel segmentation**|Ashish Kumar et.al.|[2208.01485v1](http://arxiv.org/abs/2208.01485v1)|null|
 |**2022-08-02**|**Physics-informed Deep Super-resolution for Spatiotemporal Data**|Pu Ren et.al.|[2208.01462v1](http://arxiv.org/abs/2208.01462v1)|**[link](https://github.com/paulpuren/physr)**|
 |**2022-08-02**|**Materials Swelling Revealed Through Automated Semantic Segmentation of Cavities in Electron Microscopy Images**|Ryan Jacobs et.al.|[2208.01460v1](http://arxiv.org/abs/2208.01460v1)|null|
@@ -6106,7 +6106,7 @@ layout: default
 |**2022-08-01**|**Improving the Trainability of Deep Neural Networks through Layerwise Batch-Entropy Regularization**|David Peer et.al.|[2208.01134v1](http://arxiv.org/abs/2208.01134v1)|**[link](https://github.com/peerdavid/layerwise-batch-entropy)**|
 |**2022-08-01**|**Towards precision particle background estimation for future X-ray missions: correlated variability between Chandra ACIS and AMS**|Catherine E. Grant et.al.|[2208.01130v1](http://arxiv.org/abs/2208.01130v1)|null|
 |**2022-08-01**|**Computing coherent light scattering on the millimetre scale using a recurrent neural network without training**|Laurynas Valantinas et.al.|[2208.01118v1](http://arxiv.org/abs/2208.01118v1)|null|
-|**2022-08-01**|**On the Evaluation of User Privacy in Deep Neural Networks using Timing Side Channel**|Shubhi Shukla et.al.|[2208.01113v1](http://arxiv.org/abs/2208.01113v1)|null|
+|**2022-08-03**|**On the Evaluation of User Privacy in Deep Neural Networks using Timing Side Channel**|Shubhi Shukla et.al.|[2208.01113v2](http://arxiv.org/abs/2208.01113v2)|null|
 |**2022-08-01**|**VacciNet: Towards a Smart Framework for Learning the Distribution Chain Optimization of Vaccines for a Pandemic**|Jayeeta Mondal et.al.|[2208.01112v1](http://arxiv.org/abs/2208.01112v1)|null|
 |**2022-08-01**|**Toward deep-learning-assisted spectrally-resolved imaging of magnetic noise**|Fernando Meneses et.al.|[2208.01107v1](http://arxiv.org/abs/2208.01107v1)|null|
 |**2022-08-01**|**Dyadic Movement Synchrony Estimation Under Privacy-preserving Conditions**|Jicheng Li et.al.|[2208.01100v1](http://arxiv.org/abs/2208.01100v1)|null|
