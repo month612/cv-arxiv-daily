@@ -5750,6 +5750,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
+|**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi et.al.|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
 |**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow et.al.|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
@@ -6050,6 +6052,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-03**|**Quantum-Inspired Tensor Neural Networks for Partial Differential Equations**|Raj Patel et.al.|[2208.02235v1](http://arxiv.org/abs/2208.02235v1)|null|
+|**2022-08-03**|**SGEM: stochastic gradient with energy and momentum**|Hailiang Liu et.al.|[2208.02208v1](http://arxiv.org/abs/2208.02208v1)|null|
+|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
+|**2022-08-03**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Bai et.al.|[2208.02194v1](http://arxiv.org/abs/2208.02194v1)|**[link](https://github.com/pz-white/drugban)**|
+|**2022-08-03**|**HirFuzz: Detecting High-Level Optimization Bugs in DL Compilers via Computational Graph Generation**|Haoyang Ma et.al.|[2208.02193v1](http://arxiv.org/abs/2208.02193v1)|null|
+|**2022-08-03**|**Conv-NILM-Net, a causal and multi-appliance model for energy source separation**|Mohamed Alami C. et.al.|[2208.02173v1](http://arxiv.org/abs/2208.02173v1)|null|
+|**2022-08-03**|**Empirical Study of Overfitting in Deep FNN Prediction Models for Breast Cancer Metastasis**|Chuhan Xu et.al.|[2208.02150v1](http://arxiv.org/abs/2208.02150v1)|null|
+|**2022-08-03**|**GPPF: A General Perception Pre-training Framework via Sparsely Activated Multi-Task Learning**|Benyuan Sun et.al.|[2208.02148v1](http://arxiv.org/abs/2208.02148v1)|null|
+|**2022-08-03**|**Edge-Based Self-Supervision for Semi-Supervised Few-Shot Microscopy Image Cell Segmentation**|Youssef Dawoud et.al.|[2208.02105v1](http://arxiv.org/abs/2208.02105v1)|null|
+|**2022-08-03**|**A Novel Approach To Network Intrusion Detection System Using Deep Learning For Sdn: Futuristic Approach**|Mhmood Radhi Hadi et.al.|[2208.02094v1](http://arxiv.org/abs/2208.02094v1)|null|
+|**2022-08-03**|**Threshold resummation of quark-gluon partonic channels at next-to-leading power**|Leonardo Vernazza et.al.|[2208.02076v1](http://arxiv.org/abs/2208.02076v1)|null|
+|**2022-08-03**|**Learning Shape Control of Elastoplastic Deformable Linear Objects**|Rita Laezza et.al.|[2208.02067v1](http://arxiv.org/abs/2208.02067v1)|null|
+|**2022-08-03**|**AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning**|Travis Driver et.al.|[2208.02053v1](http://arxiv.org/abs/2208.02053v1)|null|
+|**2022-08-03**|**YOLO-FaceV2: A Scale and Occlusion Aware Face Detector**|Ziping Yu et.al.|[2208.02019v1](http://arxiv.org/abs/2208.02019v1)|**[link](https://github.com/krasjet-yu/yolo-facev2)**|
+|**2022-08-03**|**Neural Nets with a Newton Conjugate Gradient Method on Multiple GPUs**|Severin Reiz et.al.|[2208.02017v1](http://arxiv.org/abs/2208.02017v1)|null|
+|**2022-08-03**|**Vision-Based Safety System for Barrierless Human-Robot Collaboration**|Lina María Amaya-Mejía et.al.|[2208.02010v1](http://arxiv.org/abs/2208.02010v1)|null|
+|**2022-08-03**|**Maintaining Performance with Less Data**|Dominic Sanderson et.al.|[2208.02007v1](http://arxiv.org/abs/2208.02007v1)|null|
+|**2022-08-03**|**Gradient-based Uncertainty for Monocular Depth Estimation**|Julia Hornauer et.al.|[2208.02005v1](http://arxiv.org/abs/2208.02005v1)|**[link](https://github.com/jhornauer/grumodepth)**|
+|**2022-08-03**|**Convolutional Fine-Grained Classification with Self-Supervised Target Relation Regularization**|Kangjun Liu et.al.|[2208.01997v1](http://arxiv.org/abs/2208.01997v1)|**[link](https://github.com/akonlau/dtrg)**|
+|**2022-08-03**|**Adaptive Domain Generalization via Online Disagreement Minimization**|Xin Zhang et.al.|[2208.01996v1](http://arxiv.org/abs/2208.01996v1)|null|
+|**2022-08-03**|**How to Configure Masked Event Anomaly Detection on Software Logs?**|Jesse Nyyssölä et.al.|[2208.01991v1](http://arxiv.org/abs/2208.01991v1)|null|
+|**2022-08-03**|**PalQuant: Accelerating High-precision Networks on Low-precision Accelerators**|Qinghao Hu et.al.|[2208.01944v1](http://arxiv.org/abs/2208.01944v1)|**[link](https://github.com/huqinghao/palquant)**|
+|**2022-08-03**|**Room-Temperature Quantum Emitter in Aluminum Nitride**|Sam G. Bishop et.al.|[2208.01934v1](http://arxiv.org/abs/2208.01934v1)|null|
+|**2022-08-03**|**DeepProphet2 -- A Deep Learning Gene Recommendation Engine**|Daniele Brambilla et.al.|[2208.01918v1](http://arxiv.org/abs/2208.01918v1)|null|
+|**2022-08-03**|**Cosmic Ray Measurements with IceCube and IceTop**|Dennis Soldin et.al.|[2208.01911v1](http://arxiv.org/abs/2208.01911v1)|null|
+|**2022-08-03**|**Neural Dynamic Movement Primitives -- a survey**|Jože M Rožanec et.al.|[2208.01903v1](http://arxiv.org/abs/2208.01903v1)|null|
+|**2022-08-03**|**Joint Sensing and Communications for Deep Reinforcement Learning-based Beam Management in 6G**|Yujie Yao et.al.|[2208.01880v1](http://arxiv.org/abs/2208.01880v1)|null|
+|**2022-08-03**|**Exploring Generative Neural Temporal Point Process**|Haitao Lin et.al.|[2208.01874v1](http://arxiv.org/abs/2208.01874v1)|**[link](https://github.com/bird-tao/gntpp)**|
+|**2022-08-03**|**A Deep Learning Approach to Detect Lean Blowout in Combustion Systems**|Tryambak Gangopadhyay et.al.|[2208.01871v1](http://arxiv.org/abs/2208.01871v1)|null|
+|**2022-08-03**|**MixNet: Structured Deep Neural Motion Prediction for Autonomous Racing**|Phillip Karle et.al.|[2208.01862v1](http://arxiv.org/abs/2208.01862v1)|null|
+|**2022-08-03**|**Multiclass ASMA vs Targeted PGD Attack in Image Segmentation**|Johnson Vo et.al.|[2208.01844v1](http://arxiv.org/abs/2208.01844v1)|null|
+|**2022-08-03**|**Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis**|Xiao Qi et.al.|[2208.01843v1](http://arxiv.org/abs/2208.01843v1)|**[link](https://github.com/endiqq/multi-feature-vit)**|
+|**2022-08-03**|**Robust Learning of Deep Time Series Anomaly Detection Models with Contaminated Training Data**|Wenkai Li et.al.|[2208.01841v1](http://arxiv.org/abs/2208.01841v1)|null|
+|**2022-08-03**|**Re-Attention Transformer for Weakly Supervised Object Localization**|Hui Su et.al.|[2208.01838v1](http://arxiv.org/abs/2208.01838v1)|**[link](https://github.com/su-hui-zz/reattentiontransformer)**|
+|**2022-08-03**|**Learning Prior Feature and Attention Enhanced Image Inpainting**|Chenjie Cao et.al.|[2208.01837v1](http://arxiv.org/abs/2208.01837v1)|**[link](https://github.com/ewrfcas/MAE-FAR)**|
+|**2022-08-03**|**EMC2A-Net: An Efficient Multibranch Cross-channel Attention Network for SAR Target Classification**|Xiang Yu et.al.|[2208.01836v1](http://arxiv.org/abs/2208.01836v1)|null|
+|**2022-08-03**|**Three-step Formation of Diamonds in Shock-compressed Hydrocarbons: Decomposition, Species Separation, and Nucleation**|Bo Chen et.al.|[2208.01830v1](http://arxiv.org/abs/2208.01830v1)|null|
+|**2022-08-03**|**LEO Satellite-Enabled Grant-Free Random Access with MIMO-OTFS**|Boxiao Shen et.al.|[2208.01828v1](http://arxiv.org/abs/2208.01828v1)|null|
+|**2022-08-03**|**Fast Hierarchical Deep Unfolding Network for Image Compressed Sensing**|Wenxue Cui et.al.|[2208.01827v1](http://arxiv.org/abs/2208.01827v1)|null|
+|**2022-08-03**|**Medical image registration using unsupervised deep neural network: A scoping literature review**|Samaneh Abbasi et.al.|[2208.01825v1](http://arxiv.org/abs/2208.01825v1)|null|
+|**2022-08-03**|**Neural Contourlet Network for Monocular 360 Depth Estimation**|Zhijie Shen et.al.|[2208.01817v1](http://arxiv.org/abs/2208.01817v1)|null|
+|**2022-08-03**|**A dusty starburst masquerading as an ultra-high redshift galaxy in JWST CEERS observations**|Jorge A. Zavala et.al.|[2208.01816v1](http://arxiv.org/abs/2208.01816v1)|null|
+|**2022-08-03**|**Post-hoc Interpretability based Parameter Selection for Data Oriented Nuclear Reactor Accident Diagnosis System**|Chengyuan Li. Meifu Li et.al.|[2208.01805v1](http://arxiv.org/abs/2208.01805v1)|null|
+|**2022-08-02**|**Mates2Motion: Learning How Mechanical CAD Assemblies Work**|James Noeckel et.al.|[2208.01779v1](http://arxiv.org/abs/2208.01779v1)|null|
+|**2022-08-02**|**On CAD Informed Adaptive Robotic Assembly**|Yotto Koga et.al.|[2208.01773v1](http://arxiv.org/abs/2208.01773v1)|null|
+|**2022-08-02**|**Deep Reinforcement Learning for Multi-Agent Interaction**|Ibrahim H. Ahmed et.al.|[2208.01769v1](http://arxiv.org/abs/2208.01769v1)|**[link](https://github.com/uoe-agents/robotic-warehouse)**|
+|**2022-08-02**|**Optimizing Information Freshness Leveraging Multi-RISs in NOMA-based IoT Networks**|Ali Muhammad et.al.|[2208.01750v1](http://arxiv.org/abs/2208.01750v1)|null|
+|**2022-08-02**|**Federated Deep Reinforcement Learning for Resource Allocation in O-RAN Slicing**|Han Zhang et.al.|[2208.01736v1](http://arxiv.org/abs/2208.01736v1)|null|
+|**2022-08-02**|**Success of Uncertainty-Aware Deep Models Depends on Data Manifold Geometry**|Mark Penrod et.al.|[2208.01705v1](http://arxiv.org/abs/2208.01705v1)|null|
+|**2022-08-02**|**Differentiable Subdivision Surface Fitting**|Tianhao Xie et.al.|[2208.01685v1](http://arxiv.org/abs/2208.01685v1)|null|
 |**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
 |**2022-08-02**|**Enabling scalable clinical interpretation of ML-based phenotypes using real world data**|Owen Parsons et.al.|[2208.01607v1](http://arxiv.org/abs/2208.01607v1)|null|
 |**2022-08-03**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v2](http://arxiv.org/abs/2208.01602v2)|null|
@@ -6681,6 +6733,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-03**|**Masked Vision and Language Modeling for Multi-modal Representation Learning**|Gukyeong Kwon et.al.|[2208.02131v1](http://arxiv.org/abs/2208.02131v1)|null|
 |**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|**[link](https://github.com/rinongal/textual_inversion)**|
 |**2022-07-31**|**Augmenting Vision Language Pretraining by Learning Codebook with Visual Semantics**|Xiaoyuan Guo et.al.|[2208.00475v1](http://arxiv.org/abs/2208.00475v1)|null|
 |**2022-07-30**|**A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond**|Chaoning Zhang et.al.|[2208.00173v1](http://arxiv.org/abs/2208.00173v1)|null|
@@ -6744,6 +6797,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**Digital Twin-Assisted Efficient Reinforcement Learning for Edge Task Scheduling**|Xiucheng Wang et.al.|[2208.01781v1](http://arxiv.org/abs/2208.01781v1)|null|
 |**2022-07-31**|**A Python-based Mixed Discrete-Continuous Simulation Framework for Digital Twins**|Neha Karanjkar et.al.|[2208.01408v1](http://arxiv.org/abs/2208.01408v1)|null|
 |**2022-07-09**|**Digital Twin Assisted Task Offloading for Aerial Edge Computing and Networks**|Bin Li et.al.|[2208.00834v1](http://arxiv.org/abs/2208.00834v1)|null|
 |**2022-07-25**|**A comprehensive and biophysically detailed computational model of the whole human heart electromechanics**|Marco Fedele et.al.|[2207.12460v1](http://arxiv.org/abs/2207.12460v1)|null|
