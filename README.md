@@ -1,4 +1,4 @@
-## Updated on 2022.08.04
+## Updated on 2022.08.05
 
 ## SLAM
 
@@ -5750,6 +5750,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**SROS2: Usable Cyber Security Tools for ROS 2**|Victor Mayoral Vilches et.al.|[2208.02615v1](http://arxiv.org/abs/2208.02615v1)|null|
 |**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
 |**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi et.al.|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
 |**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
@@ -5773,7 +5774,7 @@
 |**2022-07-19**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu et.al.|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
 |**2022-07-12**|**Accelerating Certifiable Estimation with Preconditioned Eigensolvers**|David M. Rosen et.al.|[2207.05257v1](http://arxiv.org/abs/2207.05257v1)|null|
 |**2022-07-12**|**Robust Key-Frame Stereo Visual SLAM with low-threshold Point and Line Features**|Meiyu Zhi et.al.|[2207.05244v1](http://arxiv.org/abs/2207.05244v1)|null|
-|**2022-07-14**|**SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**|Chih-Yuan Chiu et.al.|[2207.05043v2](http://arxiv.org/abs/2207.05043v2)|null|
+|**2022-08-03**|**SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**|Chih-Yuan Chiu et.al.|[2207.05043v3](http://arxiv.org/abs/2207.05043v3)|null|
 |**2022-07-08**|**BlindSpotNet: Seeing Where We Cannot See**|Taichi Fukuda et.al.|[2207.03870v1](http://arxiv.org/abs/2207.03870v1)|null|
 |**2022-07-08**|**Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints**|Philipp Glira et.al.|[2207.03785v1](http://arxiv.org/abs/2207.03785v1)|null|
 |**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu et.al.|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
@@ -5818,6 +5819,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**|Yao-Chih Lee et.al.|[2208.02709v1](http://arxiv.org/abs/2208.02709v1)|null|
 |**2022-07-31**|**One Object at a Time: Accurate and Robust Structure From Motion for Robots**|Aravind Battaje et.al.|[2208.00487v1](http://arxiv.org/abs/2208.00487v1)|null|
 |**2022-07-23**|**Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**|Daniel Posada et.al.|[2207.11413v1](http://arxiv.org/abs/2207.11413v1)|null|
 |**2022-07-25**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
@@ -5896,7 +5898,7 @@
 |**2022-07-09**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v3](http://arxiv.org/abs/2205.13135v3)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-25**|**Deep Dense Local Feature Matching and Vehicle Removal for Indoor Visual Localization**|Kyung Ho Park et.al.|[2205.12544v1](http://arxiv.org/abs/2205.12544v1)|null|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun et.al.|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
-|**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss et.al.|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|null|
+|**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss et.al.|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|**[link](https://github.com/aervisloc/vpair)**|
 |**2022-05-19**|**Text Detection & Recognition in the Wild for Robot Localization**|Zobeir Raisi et.al.|[2205.08565v2](http://arxiv.org/abs/2205.08565v2)|null|
 |**2022-05-11**|**Review on Panoramic Imaging and Its Applications in Scene Understanding**|Shaohua Gao et.al.|[2205.05570v1](http://arxiv.org/abs/2205.05570v1)|null|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa et.al.|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
@@ -5994,7 +5996,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-01**|**OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**|Weijia Li et.al.|[2208.00928v1](http://arxiv.org/abs/2208.00928v1)|null|
+|**2022-08-04**|**Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**|Xinyu Lin et.al.|[2208.02450v1](http://arxiv.org/abs/2208.02450v1)|**[link](https://github.com/vcm-project233/mitml)**|
+|**2022-08-04**|**OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**|Weijia Li et.al.|[2208.00928v2](http://arxiv.org/abs/2208.00928v2)|null|
 |**2022-07-29**|**Testing Relational Understanding in Text-Guided Image Generation**|Colin Conwell et.al.|[2208.00005v1](http://arxiv.org/abs/2208.00005v1)|null|
 |**2022-07-20**|**Explaining Deepfake Detection by Analysing Image Matching**|Shichao Dong et.al.|[2207.09679v1](http://arxiv.org/abs/2207.09679v1)|**[link](https://github.com/megvii-research/fst-matching)**|
 |**2022-07-18**|**Adaptive Assignment for Geometry Aware Local Feature Matching**|Dihe Huang et.al.|[2207.08427v1](http://arxiv.org/abs/2207.08427v1)|null|
@@ -6052,6 +6055,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**On-the-Fly Syntax Highlighting using Neural Networks**|Marco Edoardo Palma et.al.|[2208.02815v1](http://arxiv.org/abs/2208.02815v1)|null|
+|**2022-08-04**|**Towards Understanding Mixture of Experts in Deep Learning**|Zixiang Chen et.al.|[2208.02813v1](http://arxiv.org/abs/2208.02813v1)|null|
+|**2022-08-04**|**P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**|Ziyi Wang et.al.|[2208.02812v1](http://arxiv.org/abs/2208.02812v1)|**[link](https://github.com/wangzy22/P2P)**|
+|**2022-08-04**|**Leveraging the HW/SW Optimizations and Ecosystems that Drive the AI Revolution**|Humberto Carvalho et.al.|[2208.02808v1](http://arxiv.org/abs/2208.02808v1)|null|
+|**2022-08-04**|**Vision-Centric BEV Perception: A Survey**|Yuexin Ma et.al.|[2208.02797v1](http://arxiv.org/abs/2208.02797v1)|null|
+|**2022-08-04**|**Panchromatic evolution of three luminous red novae: Forbidden hugs in pandemic times -- IV**|A. Pastorello et.al.|[2208.02782v1](http://arxiv.org/abs/2208.02782v1)|null|
+|**2022-08-04**|**Spectral Properties of Disordered Interacting Non-Hermitian Systems**|Soumi Ghosh et.al.|[2208.02775v1](http://arxiv.org/abs/2208.02775v1)|null|
+|**2022-08-04**|**Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-power Edge Microcontrollers**|Jingyi Wang et.al.|[2208.02765v1](http://arxiv.org/abs/2208.02765v1)|null|
+|**2022-08-04**|**Disentangled Representation Learning for RF Fingerprint Extraction under Unknown Channel Statistics**|Renjie Xie et.al.|[2208.02724v1](http://arxiv.org/abs/2208.02724v1)|null|
+|**2022-08-04**|**IT/IST/IPLeiria Response to the Call for Proposals on JPEG Pleno Point Cloud Coding**|André F. R. Guarda et.al.|[2208.02716v1](http://arxiv.org/abs/2208.02716v1)|null|
+|**2022-08-04**|**Unsupervised Graph Spectral Feature Denoising for Crop Yield Prediction**|Saghar Bagheri et.al.|[2208.02714v1](http://arxiv.org/abs/2208.02714v1)|null|
+|**2022-08-04**|**Standardizing and Centralizing Datasets to Enable Efficient Training of Agricultural Deep Learning Models**|Amogh Joshi et.al.|[2208.02707v1](http://arxiv.org/abs/2208.02707v1)|null|
+|**2022-08-04**|**Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models**|Guilherme P. B. Garcia et.al.|[2208.02693v1](http://arxiv.org/abs/2208.02693v1)|null|
+|**2022-08-04**|**Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations**|Xufeng Zhao et.al.|[2208.02680v1](http://arxiv.org/abs/2208.02680v1)|null|
+|**2022-08-04**|**ZeroMesh: Zero-shot Single-view 3D Mesh Reconstruction**|Xianghui Yang et.al.|[2208.02676v1](http://arxiv.org/abs/2208.02676v1)|null|
+|**2022-08-04**|**MAORY/MORFEO and LIFT: can the low order wavefront sensors become phasing sensors?**|Guido Agapito et.al.|[2208.02662v1](http://arxiv.org/abs/2208.02662v1)|null|
+|**2022-08-04**|**A Benchmark and Empirical Analysis for Replay Strategies in Continual Learning**|Qihan Yang et.al.|[2208.02660v1](http://arxiv.org/abs/2208.02660v1)|null|
+|**2022-08-04**|**ATP: A holistic attention integrated approach to enhance ABSA**|Ashish Kumar et.al.|[2208.02653v1](http://arxiv.org/abs/2208.02653v1)|null|
+|**2022-08-04**|**ACSGRegNet: A Deep Learning-based Framework for Unsupervised Joint Affine and Diffeomorphic Registration of Lumbar Spine CT via Cross- and Self-Attention Fusion**|Xiaoru Gao et.al.|[2208.02642v1](http://arxiv.org/abs/2208.02642v1)|null|
+|**2022-08-04**|**Privacy-Preserving Chaotic Extreme Learning Machine with Fully Homomorphic Encryption**|Syed Imtiaz Ahamed et.al.|[2208.02587v1](http://arxiv.org/abs/2208.02587v1)|null|
+|**2022-08-04**|**Constructing Balance from Imbalance for Long-tailed Image Recognition**|Yue Xu et.al.|[2208.02567v1](http://arxiv.org/abs/2208.02567v1)|null|
+|**2022-08-04**|**NMR spectrum reconstruction as a pattern recognition problem**|Amir Jahangiri et.al.|[2208.02552v1](http://arxiv.org/abs/2208.02552v1)|null|
+|**2022-08-04**|**Fishing massive black hole binaries with THAMES**|Kritti Sharma et.al.|[2208.02545v1](http://arxiv.org/abs/2208.02545v1)|null|
+|**2022-08-04**|**Metadata-enhanced contrastive learning from retinal optical coherence tomography images**|Robbie Holland et.al.|[2208.02529v1](http://arxiv.org/abs/2208.02529v1)|null|
+|**2022-08-04**|**IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression**|Kang You et.al.|[2208.02519v1](http://arxiv.org/abs/2208.02519v1)|null|
+|**2022-08-04**|**Scalable Video Coding for Humans and Machines**|Hyomin Choi et.al.|[2208.02512v1](http://arxiv.org/abs/2208.02512v1)|null|
+|**2022-08-04**|**Aiming in Harsh Environments: A New Framework for Flexible and Adaptive Resource Management**|Jiaqi Zou et.al.|[2208.02501v1](http://arxiv.org/abs/2208.02501v1)|null|
+|**2022-08-04**|**A Container-Based Workflow for Distributed Training of Deep Learning Algorithms in HPC Clusters**|Jose González-Abad et.al.|[2208.02498v1](http://arxiv.org/abs/2208.02498v1)|null|
+|**2022-08-04**|**WR 63: A multiple system (O+O)+WR ?**|A. -N. Chené et.al.|[2208.02487v1](http://arxiv.org/abs/2208.02487v1)|null|
+|**2022-08-04**|**Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**|Hanwen Kang et.al.|[2208.02483v1](http://arxiv.org/abs/2208.02483v1)|null|
+|**2022-08-04**|**Privacy Safe Representation Learning via Frequency Filtering Encoder**|Jonghu Jeong et.al.|[2208.02482v1](http://arxiv.org/abs/2208.02482v1)|null|
+|**2022-08-04**|**CFARnet: deep learning for target detection with constant false alarm rate**|Tzvi Diskin et.al.|[2208.02474v1](http://arxiv.org/abs/2208.02474v1)|null|
+|**2022-08-04**|**Online Video Super-Resolution with Convolutional Kernel Bypass Graft**|Jun Xiao et.al.|[2208.02470v1](http://arxiv.org/abs/2208.02470v1)|null|
+|**2022-08-04**|**DL-DRL: A double-layer deep reinforcement learning approach for large-scale task scheduling of multi-UAV**|Xiao Mao et.al.|[2208.02447v1](http://arxiv.org/abs/2208.02447v1)|null|
+|**2022-08-04**|**FedDRL: Deep Reinforcement Learning-based Adaptive Aggregation for Non-IID Data in Federated Learning**|Nang Hung Nguyen et.al.|[2208.02442v1](http://arxiv.org/abs/2208.02442v1)|null|
+|**2022-08-04**|**Simplifying Sparse Expert Recommendation by Revisiting Graph Diffusion**|Vaibhav Krishna et.al.|[2208.02438v1](http://arxiv.org/abs/2208.02438v1)|null|
+|**2022-08-04**|**Image-based Contextual Pill Recognition with Medical Knowledge Graph Assistance**|Anh Duy Nguyen et.al.|[2208.02432v1](http://arxiv.org/abs/2208.02432v1)|null|
+|**2022-08-04**|**A New Kind of Adversarial Example**|Ali Borji et.al.|[2208.02430v1](http://arxiv.org/abs/2208.02430v1)|null|
+|**2022-08-04**|**Transferable Multi-Agent Reinforcement Learning with Dynamic Participating Agents**|Xuting Tang et.al.|[2208.02424v1](http://arxiv.org/abs/2208.02424v1)|null|
+|**2022-08-04**|**Deep Semi-Supervised and Self-Supervised Learning for Diabetic Retinopathy Detection**|Jose Miguel Arrieta Ramos et.al.|[2208.02408v1](http://arxiv.org/abs/2208.02408v1)|null|
+|**2022-08-04**|**Domestic Activity Clustering from Audio via Depthwise Separable Convolutional Autoencoder Network**|Yanxiong Li et.al.|[2208.02406v1](http://arxiv.org/abs/2208.02406v1)|null|
+|**2022-08-04**|**Pattern Spotting and Image Retrieval in Historical Documents using Deep Hashing**|Caio da S. Dias et.al.|[2208.02397v1](http://arxiv.org/abs/2208.02397v1)|null|
+|**2022-08-04**|**End-to-end deep learning for directly estimating grape yield from ground-based imagery**|Alexander G. Olenskyj et.al.|[2208.02394v1](http://arxiv.org/abs/2208.02394v1)|null|
+|**2022-08-03**|**Deep VULMAN: A Deep Reinforcement Learning-Enabled Cyber Vulnerability Management Framework**|Soumyadeep Hore et.al.|[2208.02369v1](http://arxiv.org/abs/2208.02369v1)|null|
+|**2022-08-03**|**A Multibranch Convolutional Neural Network for Hyperspectral Unmixing**|Lukasz Tulczyjew et.al.|[2208.02361v1](http://arxiv.org/abs/2208.02361v1)|null|
+|**2022-08-03**|**Spatio-Temporal U-Net for Cerebral Artery and Vein Segmentation in Digital Subtraction Angiography**|Ruisheng Su et.al.|[2208.02355v1](http://arxiv.org/abs/2208.02355v1)|null|
+|**2022-08-03**|**Graph Neural Networks Extract High-Resolution Cultivated Land Maps from Sentinel-2 Image Series**|Lukasz Tulczyjew et.al.|[2208.02349v1](http://arxiv.org/abs/2208.02349v1)|null|
+|**2022-08-03**|**Counterfactual Image Synthesis for Discovery of Personalized Predictive Image Markers**|Amar Kumar et.al.|[2208.02311v1](http://arxiv.org/abs/2208.02311v1)|null|
+|**2022-08-03**|**Unsupervised Flow Refinement near Motion Boundaries**|Shuzhi Yu et.al.|[2208.02305v1](http://arxiv.org/abs/2208.02305v1)|null|
+|**2022-08-03**|**Continuum-extrapolated NNLO Valence PDF of Pion at the Physical Point**|Xiang Gao et.al.|[2208.02297v1](http://arxiv.org/abs/2208.02297v1)|null|
 |**2022-08-03**|**Quantum-Inspired Tensor Neural Networks for Partial Differential Equations**|Raj Patel et.al.|[2208.02235v1](http://arxiv.org/abs/2208.02235v1)|null|
 |**2022-08-03**|**SGEM: stochastic gradient with energy and momentum**|Hailiang Liu et.al.|[2208.02208v1](http://arxiv.org/abs/2208.02208v1)|null|
 |**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
@@ -6733,6 +6786,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|null|
+|**2022-08-04**|**P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**|Ziyi Wang et.al.|[2208.02812v1](http://arxiv.org/abs/2208.02812v1)|**[link](https://github.com/wangzy22/P2P)**|
 |**2022-08-03**|**Masked Vision and Language Modeling for Multi-modal Representation Learning**|Gukyeong Kwon et.al.|[2208.02131v1](http://arxiv.org/abs/2208.02131v1)|null|
 |**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|**[link](https://github.com/rinongal/textual_inversion)**|
 |**2022-07-31**|**Augmenting Vision Language Pretraining by Learning Codebook with Visual Semantics**|Xiaoyuan Guo et.al.|[2208.00475v1](http://arxiv.org/abs/2208.00475v1)|null|
