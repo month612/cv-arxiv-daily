@@ -6786,7 +6786,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|null|
+|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/VideoX/tree/master/X-CLIP)**|
 |**2022-08-04**|**P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**|Ziyi Wang et.al.|[2208.02812v1](http://arxiv.org/abs/2208.02812v1)|**[link](https://github.com/wangzy22/P2P)**|
 |**2022-08-03**|**Masked Vision and Language Modeling for Multi-modal Representation Learning**|Gukyeong Kwon et.al.|[2208.02131v1](http://arxiv.org/abs/2208.02131v1)|null|
 |**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|**[link](https://github.com/rinongal/textual_inversion)**|
