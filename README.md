@@ -1,4 +1,4 @@
-## Updated on 2022.08.05
+## Updated on 2022.08.06
 
 ## SLAM
 
@@ -5986,7 +5986,7 @@
 |**2022-07-11**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v2](http://arxiv.org/abs/2112.12002v2)|null|
 |**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li et.al.|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
-|**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|null|
+|**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|**[link](https://github.com/facebookresearch/SlowFast)**|
 |**2021-12-13**|**DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points**|Zhengfei Kuang et.al.|[2112.06910v1](http://arxiv.org/abs/2112.06910v1)|null|
 |**2022-04-01**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183v3](http://arxiv.org/abs/2112.06183v3)|**[link](https://github.com/alanlusun/few-shot-keypoint-detection)**|
 |**2021-12-13**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik et.al.|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
@@ -6059,23 +6059,23 @@
 |**2022-08-04**|**Towards Understanding Mixture of Experts in Deep Learning**|Zixiang Chen et.al.|[2208.02813v1](http://arxiv.org/abs/2208.02813v1)|null|
 |**2022-08-04**|**P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**|Ziyi Wang et.al.|[2208.02812v1](http://arxiv.org/abs/2208.02812v1)|**[link](https://github.com/wangzy22/P2P)**|
 |**2022-08-04**|**Leveraging the HW/SW Optimizations and Ecosystems that Drive the AI Revolution**|Humberto Carvalho et.al.|[2208.02808v1](http://arxiv.org/abs/2208.02808v1)|null|
-|**2022-08-04**|**Vision-Centric BEV Perception: A Survey**|Yuexin Ma et.al.|[2208.02797v1](http://arxiv.org/abs/2208.02797v1)|null|
+|**2022-08-04**|**Vision-Centric BEV Perception: A Survey**|Yuexin Ma et.al.|[2208.02797v1](http://arxiv.org/abs/2208.02797v1)|**[link](https://github.com/4dvlab/vision-centric-bev-perception)**|
 |**2022-08-04**|**Panchromatic evolution of three luminous red novae: Forbidden hugs in pandemic times -- IV**|A. Pastorello et.al.|[2208.02782v1](http://arxiv.org/abs/2208.02782v1)|null|
 |**2022-08-04**|**Spectral Properties of Disordered Interacting Non-Hermitian Systems**|Soumi Ghosh et.al.|[2208.02775v1](http://arxiv.org/abs/2208.02775v1)|null|
-|**2022-08-04**|**Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-power Edge Microcontrollers**|Jingyi Wang et.al.|[2208.02765v1](http://arxiv.org/abs/2208.02765v1)|null|
-|**2022-08-04**|**Disentangled Representation Learning for RF Fingerprint Extraction under Unknown Channel Statistics**|Renjie Xie et.al.|[2208.02724v1](http://arxiv.org/abs/2208.02724v1)|null|
+|**2022-08-04**|**Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-power Edge Microcontrollers**|Jingyi Wang et.al.|[2208.02765v1](http://arxiv.org/abs/2208.02765v1)|**[link](https://github.com/robobachelor/keyword-spotting-stm32)**|
+|**2022-08-04**|**Disentangled Representation Learning for RF Fingerprint Extraction under Unknown Channel Statistics**|Renjie Xie et.al.|[2208.02724v1](http://arxiv.org/abs/2208.02724v1)|**[link](https://github.com/xrj-com/dr-rff)**|
 |**2022-08-04**|**IT/IST/IPLeiria Response to the Call for Proposals on JPEG Pleno Point Cloud Coding**|André F. R. Guarda et.al.|[2208.02716v1](http://arxiv.org/abs/2208.02716v1)|null|
 |**2022-08-04**|**Unsupervised Graph Spectral Feature Denoising for Crop Yield Prediction**|Saghar Bagheri et.al.|[2208.02714v1](http://arxiv.org/abs/2208.02714v1)|null|
 |**2022-08-04**|**Standardizing and Centralizing Datasets to Enable Efficient Training of Agricultural Deep Learning Models**|Amogh Joshi et.al.|[2208.02707v1](http://arxiv.org/abs/2208.02707v1)|null|
-|**2022-08-04**|**Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models**|Guilherme P. B. Garcia et.al.|[2208.02693v1](http://arxiv.org/abs/2208.02693v1)|null|
-|**2022-08-04**|**Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations**|Xufeng Zhao et.al.|[2208.02680v1](http://arxiv.org/abs/2208.02680v1)|null|
+|**2022-08-04**|**Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models**|Guilherme P. B. Garcia et.al.|[2208.02693v1](http://arxiv.org/abs/2208.02693v1)|**[link](https://github.com/spamlab/data_sharing)**|
+|**2022-08-04**|**Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations**|Xufeng Zhao et.al.|[2208.02680v1](http://arxiv.org/abs/2208.02680v1)|**[link](https://github.com/xf-zhao/iscm)**|
 |**2022-08-04**|**ZeroMesh: Zero-shot Single-view 3D Mesh Reconstruction**|Xianghui Yang et.al.|[2208.02676v1](http://arxiv.org/abs/2208.02676v1)|null|
 |**2022-08-04**|**MAORY/MORFEO and LIFT: can the low order wavefront sensors become phasing sensors?**|Guido Agapito et.al.|[2208.02662v1](http://arxiv.org/abs/2208.02662v1)|null|
 |**2022-08-04**|**A Benchmark and Empirical Analysis for Replay Strategies in Continual Learning**|Qihan Yang et.al.|[2208.02660v1](http://arxiv.org/abs/2208.02660v1)|null|
 |**2022-08-04**|**ATP: A holistic attention integrated approach to enhance ABSA**|Ashish Kumar et.al.|[2208.02653v1](http://arxiv.org/abs/2208.02653v1)|null|
 |**2022-08-04**|**ACSGRegNet: A Deep Learning-based Framework for Unsupervised Joint Affine and Diffeomorphic Registration of Lumbar Spine CT via Cross- and Self-Attention Fusion**|Xiaoru Gao et.al.|[2208.02642v1](http://arxiv.org/abs/2208.02642v1)|null|
 |**2022-08-04**|**Privacy-Preserving Chaotic Extreme Learning Machine with Fully Homomorphic Encryption**|Syed Imtiaz Ahamed et.al.|[2208.02587v1](http://arxiv.org/abs/2208.02587v1)|null|
-|**2022-08-04**|**Constructing Balance from Imbalance for Long-tailed Image Recognition**|Yue Xu et.al.|[2208.02567v1](http://arxiv.org/abs/2208.02567v1)|null|
+|**2022-08-04**|**Constructing Balance from Imbalance for Long-tailed Image Recognition**|Yue Xu et.al.|[2208.02567v1](http://arxiv.org/abs/2208.02567v1)|**[link](https://github.com/silicx/dlsa)**|
 |**2022-08-04**|**NMR spectrum reconstruction as a pattern recognition problem**|Amir Jahangiri et.al.|[2208.02552v1](http://arxiv.org/abs/2208.02552v1)|null|
 |**2022-08-04**|**Fishing massive black hole binaries with THAMES**|Kritti Sharma et.al.|[2208.02545v1](http://arxiv.org/abs/2208.02545v1)|null|
 |**2022-08-04**|**Metadata-enhanced contrastive learning from retinal optical coherence tomography images**|Robbie Holland et.al.|[2208.02529v1](http://arxiv.org/abs/2208.02529v1)|null|
@@ -6092,7 +6092,7 @@
 |**2022-08-04**|**FedDRL: Deep Reinforcement Learning-based Adaptive Aggregation for Non-IID Data in Federated Learning**|Nang Hung Nguyen et.al.|[2208.02442v1](http://arxiv.org/abs/2208.02442v1)|null|
 |**2022-08-04**|**Simplifying Sparse Expert Recommendation by Revisiting Graph Diffusion**|Vaibhav Krishna et.al.|[2208.02438v1](http://arxiv.org/abs/2208.02438v1)|null|
 |**2022-08-04**|**Image-based Contextual Pill Recognition with Medical Knowledge Graph Assistance**|Anh Duy Nguyen et.al.|[2208.02432v1](http://arxiv.org/abs/2208.02432v1)|null|
-|**2022-08-04**|**A New Kind of Adversarial Example**|Ali Borji et.al.|[2208.02430v1](http://arxiv.org/abs/2208.02430v1)|null|
+|**2022-08-04**|**A New Kind of Adversarial Example**|Ali Borji et.al.|[2208.02430v1](http://arxiv.org/abs/2208.02430v1)|**[link](https://github.com/aliborji/nke)**|
 |**2022-08-04**|**Transferable Multi-Agent Reinforcement Learning with Dynamic Participating Agents**|Xuting Tang et.al.|[2208.02424v1](http://arxiv.org/abs/2208.02424v1)|null|
 |**2022-08-04**|**Deep Semi-Supervised and Self-Supervised Learning for Diabetic Retinopathy Detection**|Jose Miguel Arrieta Ramos et.al.|[2208.02408v1](http://arxiv.org/abs/2208.02408v1)|null|
 |**2022-08-04**|**Domestic Activity Clustering from Audio via Depthwise Separable Convolutional Autoencoder Network**|Yanxiong Li et.al.|[2208.02406v1](http://arxiv.org/abs/2208.02406v1)|null|
@@ -6786,7 +6786,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/VideoX/tree/master/X-CLIP)**|
+|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/videox)**|
 |**2022-08-04**|**P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**|Ziyi Wang et.al.|[2208.02812v1](http://arxiv.org/abs/2208.02812v1)|**[link](https://github.com/wangzy22/P2P)**|
 |**2022-08-03**|**Masked Vision and Language Modeling for Multi-modal Representation Learning**|Gukyeong Kwon et.al.|[2208.02131v1](http://arxiv.org/abs/2208.02131v1)|null|
 |**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|**[link](https://github.com/rinongal/textual_inversion)**|
