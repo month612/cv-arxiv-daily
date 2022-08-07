@@ -1,4 +1,4 @@
-> Updated on 2022.08.06
+> Updated on 2022.08.07
 
 ## SLAM
 
@@ -5730,7 +5730,7 @@
 
 ## SLAM算法
 
-- 2022-08-04, **SROS2: Usable Cyber Security Tools for ROS 2**, Victor Mayoral Vilches et.al., Paper: [http://arxiv.org/abs/2208.02615v1](http://arxiv.org/abs/2208.02615v1)
+- 2022-08-04, **SROS2: Usable Cyber Security Tools for ROS 2**, Victor Mayoral Vilches et.al., Paper: [http://arxiv.org/abs/2208.02615v1](http://arxiv.org/abs/2208.02615v1), Code: **[https://github.com/ros-swg/turtlebot3_demo](https://github.com/ros-swg/turtlebot3_demo)**
 - 2022-08-03, **Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**, Bharath Garigipati et.al., Paper: [http://arxiv.org/abs/2208.02063v1](http://arxiv.org/abs/2208.02063v1)
 - 2022-08-02, **Present and Future of SLAM in Extreme Underground Environments**, Kamak Ebadi et.al., Paper: [http://arxiv.org/abs/2208.01787v1](http://arxiv.org/abs/2208.01787v1)
 - 2022-08-01, **Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**, Simon Boche et.al., Paper: [http://arxiv.org/abs/2208.00709v1](http://arxiv.org/abs/2208.00709v1)
@@ -6052,7 +6052,7 @@
 - 2022-08-04, **IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression**, Kang You et.al., Paper: [http://arxiv.org/abs/2208.02519v1](http://arxiv.org/abs/2208.02519v1)
 - 2022-08-04, **Scalable Video Coding for Humans and Machines**, Hyomin Choi et.al., Paper: [http://arxiv.org/abs/2208.02512v1](http://arxiv.org/abs/2208.02512v1)
 - 2022-08-04, **Aiming in Harsh Environments: A New Framework for Flexible and Adaptive Resource Management**, Jiaqi Zou et.al., Paper: [http://arxiv.org/abs/2208.02501v1](http://arxiv.org/abs/2208.02501v1)
-- 2022-08-04, **A Container-Based Workflow for Distributed Training of Deep Learning Algorithms in HPC Clusters**, Jose González-Abad et.al., Paper: [http://arxiv.org/abs/2208.02498v1](http://arxiv.org/abs/2208.02498v1)
+- 2022-08-04, **A Container-Based Workflow for Distributed Training of Deep Learning Algorithms in HPC Clusters**, Jose González-Abad et.al., Paper: [http://arxiv.org/abs/2208.02498v1](http://arxiv.org/abs/2208.02498v1), Code: **[https://github.com/ifca/workflow-dl-hpc](https://github.com/ifca/workflow-dl-hpc)**
 - 2022-08-04, **WR 63: A multiple system (O+O)+WR ?**, A. -N. Chené et.al., Paper: [http://arxiv.org/abs/2208.02487v1](http://arxiv.org/abs/2208.02487v1)
 - 2022-08-04, **Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**, Hanwen Kang et.al., Paper: [http://arxiv.org/abs/2208.02483v1](http://arxiv.org/abs/2208.02483v1)
 - 2022-08-04, **Privacy Safe Representation Learning via Frequency Filtering Encoder**, Jonghu Jeong et.al., Paper: [http://arxiv.org/abs/2208.02482v1](http://arxiv.org/abs/2208.02482v1)
@@ -6065,7 +6065,7 @@
 - 2022-08-04, **A New Kind of Adversarial Example**, Ali Borji et.al., Paper: [http://arxiv.org/abs/2208.02430v1](http://arxiv.org/abs/2208.02430v1), Code: **[https://github.com/aliborji/nke](https://github.com/aliborji/nke)**
 - 2022-08-04, **Transferable Multi-Agent Reinforcement Learning with Dynamic Participating Agents**, Xuting Tang et.al., Paper: [http://arxiv.org/abs/2208.02424v1](http://arxiv.org/abs/2208.02424v1)
 - 2022-08-04, **Deep Semi-Supervised and Self-Supervised Learning for Diabetic Retinopathy Detection**, Jose Miguel Arrieta Ramos et.al., Paper: [http://arxiv.org/abs/2208.02408v1](http://arxiv.org/abs/2208.02408v1)
-- 2022-08-04, **Domestic Activity Clustering from Audio via Depthwise Separable Convolutional Autoencoder Network**, Yanxiong Li et.al., Paper: [http://arxiv.org/abs/2208.02406v1](http://arxiv.org/abs/2208.02406v1)
+- 2022-08-04, **Domestic Activity Clustering from Audio via Depthwise Separable Convolutional Autoencoder Network**, Yanxiong Li et.al., Paper: [http://arxiv.org/abs/2208.02406v1](http://arxiv.org/abs/2208.02406v1), Code: **[https://github.com/vinceasvp/domestic-activity-clustering-from-audio](https://github.com/vinceasvp/domestic-activity-clustering-from-audio)**
 - 2022-08-04, **Pattern Spotting and Image Retrieval in Historical Documents using Deep Hashing**, Caio da S. Dias et.al., Paper: [http://arxiv.org/abs/2208.02397v1](http://arxiv.org/abs/2208.02397v1)
 - 2022-08-04, **End-to-end deep learning for directly estimating grape yield from ground-based imagery**, Alexander G. Olenskyj et.al., Paper: [http://arxiv.org/abs/2208.02394v1](http://arxiv.org/abs/2208.02394v1)
 - 2022-08-03, **Deep VULMAN: A Deep Reinforcement Learning-Enabled Cyber Vulnerability Management Framework**, Soumyadeep Hore et.al., Paper: [http://arxiv.org/abs/2208.02369v1](http://arxiv.org/abs/2208.02369v1)
