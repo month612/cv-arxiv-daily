@@ -6025,6 +6025,53 @@
 
 ## Deep Learning深度学习
 
+- 2022-08-05, **Lethal Dose Conjecture on Data Poisoning**, Wenxiao Wang et.al., Paper: [http://arxiv.org/abs/2208.03309v1](http://arxiv.org/abs/2208.03309v1)
+- 2022-08-05, **Deep Learning-based Segmentation of Pleural Effusion From Ultrasound Using Coordinate Convolutions**, Germain Morilhat et.al., Paper: [http://arxiv.org/abs/2208.03305v1](http://arxiv.org/abs/2208.03305v1)
+- 2022-08-05, **End-to-end analysis using image classification**, Adam Aurisano et.al., Paper: [http://arxiv.org/abs/2208.03285v1](http://arxiv.org/abs/2208.03285v1)
+- 2022-08-05, **RadTex: Learning Efficient Radiograph Representations from Text Reports**, Keegan Quigley et.al., Paper: [http://arxiv.org/abs/2208.03218v1](http://arxiv.org/abs/2208.03218v1)
+- 2022-08-05, **Distance-based detection of out-of-distribution silent failures for Covid-19 lung lesion segmentation**, Camila Gonzalez et.al., Paper: [http://arxiv.org/abs/2208.03217v1](http://arxiv.org/abs/2208.03217v1)
+- 2022-08-05, **Why Do Networks Need Negative Weights?**, Qingyang Wang et.al., Paper: [http://arxiv.org/abs/2208.03211v1](http://arxiv.org/abs/2208.03211v1)
+- 2022-08-05, **Brain Lesion Synthesis via Progressive Adversarial Variational Auto-Encoder**, Jiayu Huo et.al., Paper: [http://arxiv.org/abs/2208.03203v1](http://arxiv.org/abs/2208.03203v1)
+- 2022-08-05, **Reduced-order modeling for stochastic large-scale and time-dependent problems using deep spatial and temporal convolutional autoencoders**, Azzedine Abdedou et.al., Paper: [http://arxiv.org/abs/2208.03190v1](http://arxiv.org/abs/2208.03190v1)
+- 2022-08-05, **FBI: Fingerprinting models with Benign Inputs**, Thibault Maho et.al., Paper: [http://arxiv.org/abs/2208.03169v1](http://arxiv.org/abs/2208.03169v1)
+- 2022-08-05, **Adversarial Robustness of MR Image Reconstruction under Realistic Perturbations**, Jan Nikolas Morshuis et.al., Paper: [http://arxiv.org/abs/2208.03161v1](http://arxiv.org/abs/2208.03161v1)
+- 2022-08-05, **Almost-Orthogonal Layers for Efficient General-Purpose Lipschitz Networks**, Bernd Prach et.al., Paper: [http://arxiv.org/abs/2208.03160v1](http://arxiv.org/abs/2208.03160v1)
+- 2022-08-05, **Deep Learning and Health Informatics for Smart Monitoring and Diagnosis**, Amin Gasmi et.al., Paper: [http://arxiv.org/abs/2208.03143v1](http://arxiv.org/abs/2208.03143v1)
+- 2022-08-05, **A Lightweight Machine Learning Pipeline for LiDAR-simulation**, Richard Marcus et.al., Paper: [http://arxiv.org/abs/2208.03130v1](http://arxiv.org/abs/2208.03130v1)
+- 2022-08-05, **Time-Frequency Distributions of Heart Sound Signals: A Comparative Study using Convolutional Neural Networks**, Xinqi Bao et.al., Paper: [http://arxiv.org/abs/2208.03128v1](http://arxiv.org/abs/2208.03128v1)
+- 2022-08-05, **Multi-fidelity surrogate modeling using long short-term memory networks**, Paolo Conti et.al., Paper: [http://arxiv.org/abs/2208.03115v1](http://arxiv.org/abs/2208.03115v1)
+- 2022-08-05, **On the non-universality of deep learning: quantifying the cost of symmetry**, Emmanuel Abbe et.al., Paper: [http://arxiv.org/abs/2208.03113v1](http://arxiv.org/abs/2208.03113v1)
+- 2022-08-05, **Data-free Backdoor Removal based on Channel Lipschitzness**, Runkai Zheng et.al., Paper: [http://arxiv.org/abs/2208.03111v1](http://arxiv.org/abs/2208.03111v1)
+- 2022-08-05, **MorDeephy: Face Morphing Detection Via Fused Classification**, Iurii Medvedev et.al., Paper: [http://arxiv.org/abs/2208.03110v1](http://arxiv.org/abs/2208.03110v1)
+- 2022-08-05, **Deep Feature Learning for Medical Acoustics**, Alessandro Maria Poirè et.al., Paper: [http://arxiv.org/abs/2208.03084v1](http://arxiv.org/abs/2208.03084v1)
+- 2022-08-05, **ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**, Bingning Wang et.al., Paper: [http://arxiv.org/abs/2208.03030v1](http://arxiv.org/abs/2208.03030v1), Code: **[https://github.com/benywon/ChiQA](https://github.com/benywon/ChiQA)**
+- 2022-08-05, **Compressing (Multidimensional) Learned Bloom Filters**, Angjela Davitkova et.al., Paper: [http://arxiv.org/abs/2208.03029v1](http://arxiv.org/abs/2208.03029v1)
+- 2022-08-05, **BrainFormer: A Hybrid CNN-Transformer Model for Brain fMRI Data Classification**, Wei Dai et.al., Paper: [http://arxiv.org/abs/2208.03028v1](http://arxiv.org/abs/2208.03028v1)
+- 2022-08-05, **Inference of the sound speed and related properties of neutron stars**, Len Brandes et.al., Paper: [http://arxiv.org/abs/2208.03026v1](http://arxiv.org/abs/2208.03026v1)
+- 2022-08-05, **Deep Bayesian Active-Learning-to-Rank for Endoscopic Image Data**, Takeaki Kadota et.al., Paper: [http://arxiv.org/abs/2208.03020v1](http://arxiv.org/abs/2208.03020v1)
+- 2022-08-05, **Calibrate the inter-observer segmentation uncertainty via diagnosis-first principle**, Junde Wu et.al., Paper: [http://arxiv.org/abs/2208.03016v1](http://arxiv.org/abs/2208.03016v1)
+- 2022-08-05, **Comparing Equivalent Gravities: common features and differences**, Salvatore Capozziello et.al., Paper: [http://arxiv.org/abs/2208.03011v1](http://arxiv.org/abs/2208.03011v1)
+- 2022-08-05, **Analyzing the Impact of Shape & Context on the Face Recognition Performance of Deep Networks**, Sandipan Banerjee et.al., Paper: [http://arxiv.org/abs/2208.02991v1](http://arxiv.org/abs/2208.02991v1)
+- 2022-08-05, **Origin of negative thermal expansion and pressure induced amorphization in zirconium tungstate from machine-learning potential**, Ri He et.al., Paper: [http://arxiv.org/abs/2208.02974v1](http://arxiv.org/abs/2208.02974v1)
+- 2022-08-05, **ZLPR: A Novel Loss for Multi-label Classification**, Jianlin Su et.al., Paper: [http://arxiv.org/abs/2208.02955v1](http://arxiv.org/abs/2208.02955v1)
+- 2022-08-05, **A Novel Enhanced Convolution Neural Network with Extreme Learning Machine: Facial Emotional Recognition in Psychology Practices**, Nitesh Banskota et.al., Paper: [http://arxiv.org/abs/2208.02953v1](http://arxiv.org/abs/2208.02953v1)
+- 2022-08-05, **Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification**, Dandan Guo et.al., Paper: [http://arxiv.org/abs/2208.02951v1](http://arxiv.org/abs/2208.02951v1)
+- 2022-08-05, **Learning to Generate 3D Shapes from a Single Example**, Rundi Wu et.al., Paper: [http://arxiv.org/abs/2208.02946v1](http://arxiv.org/abs/2208.02946v1)
+- 2022-08-04, **Solving the Baby Intuitions Benchmark with a Hierarchically Bayesian Theory of Mind**, Tan Zhi-Xuan et.al., Paper: [http://arxiv.org/abs/2208.02914v1](http://arxiv.org/abs/2208.02914v1)
+- 2022-08-04, **Unsupervised Tissue Segmentation via Deep Constrained Gaussian Network**, Yang Nan et.al., Paper: [http://arxiv.org/abs/2208.02912v1](http://arxiv.org/abs/2208.02912v1)
+- 2022-08-04, **A Novel Automated Classification and Segmentation for COVID-19 using 3D CT Scans**, Shiyi Wang et.al., Paper: [http://arxiv.org/abs/2208.02910v1](http://arxiv.org/abs/2208.02910v1)
+- 2022-08-04, **Redesigning Multi-Scale Neural Network for Crowd Counting**, Zhipeng Du et.al., Paper: [http://arxiv.org/abs/2208.02894v1](http://arxiv.org/abs/2208.02894v1)
+- 2022-08-04, **PointConvFormer: Revenge of the Point-based Convolution**, Wenxuan Wu et.al., Paper: [http://arxiv.org/abs/2208.02879v1](http://arxiv.org/abs/2208.02879v1)
+- 2022-08-04, **Improved post-hoc probability calibration for out-of-domain MRI segmentation**, Cheng Ouyang et.al., Paper: [http://arxiv.org/abs/2208.02870v1](http://arxiv.org/abs/2208.02870v1)
+- 2022-08-04, **An Empirical Study on Ethereum Private Transactions and the Security Implications**, Xingyu Lyu et.al., Paper: [http://arxiv.org/abs/2208.02858v1](http://arxiv.org/abs/2208.02858v1)
+- 2022-08-04, **Rotating and Expanding Gas in Binary Post-AGB Stars**, I. Gallardo Cava et.al., Paper: [http://arxiv.org/abs/2208.02846v1](http://arxiv.org/abs/2208.02846v1)
+- 2022-08-04, **TIC: Text-Guided Image Colorization**, Subhankar Ghosh et.al., Paper: [http://arxiv.org/abs/2208.02843v1](http://arxiv.org/abs/2208.02843v1)
+- 2022-08-04, **Deep Surrogate of Modular Multi Pump using Active Learning**, Malathi Murugesan et.al., Paper: [http://arxiv.org/abs/2208.02840v1](http://arxiv.org/abs/2208.02840v1)
+- 2022-08-04, **The Lockman-SpReSO survey I. Description, target selection, observations and preliminary results**, M. González-Otero et.al., Paper: [http://arxiv.org/abs/2208.02828v1](http://arxiv.org/abs/2208.02828v1)
+- 2022-08-04, **Curvature corrections to KPV: Do we need deep throats?**, Arthur Hebecker et.al., Paper: [http://arxiv.org/abs/2208.02826v1](http://arxiv.org/abs/2208.02826v1)
+- 2022-08-04, **JWST unveils heavily obscured (active and passive) sources up to z~13**, G. Rodighiero et.al., Paper: [http://arxiv.org/abs/2208.02825v1](http://arxiv.org/abs/2208.02825v1)
+- 2022-08-04, **Tests of photometry: the case of the NGC 3370 ACS field**, In Sung Jang et.al., Paper: [http://arxiv.org/abs/2208.02824v1](http://arxiv.org/abs/2208.02824v1)
+- 2022-08-05, **Model Blending for Text Classification**, Ramit Pahwa et.al., Paper: [http://arxiv.org/abs/2208.02819v1](http://arxiv.org/abs/2208.02819v1)
 - 2022-08-04, **On-the-Fly Syntax Highlighting using Neural Networks**, Marco Edoardo Palma et.al., Paper: [http://arxiv.org/abs/2208.02815v1](http://arxiv.org/abs/2208.02815v1)
 - 2022-08-04, **Towards Understanding Mixture of Experts in Deep Learning**, Zixiang Chen et.al., Paper: [http://arxiv.org/abs/2208.02813v1](http://arxiv.org/abs/2208.02813v1)
 - 2022-08-04, **P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**, Ziyi Wang et.al., Paper: [http://arxiv.org/abs/2208.02812v1](http://arxiv.org/abs/2208.02812v1), Code: **[https://github.com/wangzy22/P2P](https://github.com/wangzy22/P2P)**
@@ -6752,6 +6799,7 @@
 
 ## non-photorealistic rendering非真实照片级渲染
 
+- 2022-08-05, **Instance As Identity: A Generic Online Paradigm for Video Instance Segmentation**, Feng Zhu et.al., Paper: [http://arxiv.org/abs/2208.03079v1](http://arxiv.org/abs/2208.03079v1)
 - 2022-08-04, **Expanding Language-Image Pretrained Models for General Video Recognition**, Bolin Ni et.al., Paper: [http://arxiv.org/abs/2208.02816v1](http://arxiv.org/abs/2208.02816v1), Code: **[https://github.com/microsoft/videox](https://github.com/microsoft/videox)**
 - 2022-08-04, **P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**, Ziyi Wang et.al., Paper: [http://arxiv.org/abs/2208.02812v1](http://arxiv.org/abs/2208.02812v1), Code: **[https://github.com/wangzy22/P2P](https://github.com/wangzy22/P2P)**
 - 2022-08-03, **Masked Vision and Language Modeling for Multi-modal Representation Learning**, Gukyeong Kwon et.al., Paper: [http://arxiv.org/abs/2208.02131v1](http://arxiv.org/abs/2208.02131v1)
@@ -6816,6 +6864,7 @@
 
 ## Digital Twin数字孪生
 
+- 2022-08-05, **A Method for Deriving Technical Requirements of Digital Twins as Industrial Product-Service System Enablers**, Jürgen Dobaj et.al., Paper: [http://arxiv.org/abs/2208.03136v1](http://arxiv.org/abs/2208.03136v1)
 - 2022-08-02, **Digital Twin-Assisted Efficient Reinforcement Learning for Edge Task Scheduling**, Xiucheng Wang et.al., Paper: [http://arxiv.org/abs/2208.01781v1](http://arxiv.org/abs/2208.01781v1)
 - 2022-07-31, **A Python-based Mixed Discrete-Continuous Simulation Framework for Digital Twins**, Neha Karanjkar et.al., Paper: [http://arxiv.org/abs/2208.01408v1](http://arxiv.org/abs/2208.01408v1)
 - 2022-07-09, **Digital Twin Assisted Task Offloading for Aerial Edge Computing and Networks**, Bin Li et.al., Paper: [http://arxiv.org/abs/2208.00834v1](http://arxiv.org/abs/2208.00834v1)
