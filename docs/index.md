@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.07
+## Updated on 2022.08.08
 
 ## SLAM
 
@@ -5843,7 +5843,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-04**|**Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**|Yao-Chih Lee et.al.|[2208.02709v1](http://arxiv.org/abs/2208.02709v1)|null|
+|**2022-08-04**|**Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**|Yao-Chih Lee et.al.|[2208.02709v1](http://arxiv.org/abs/2208.02709v1)|**[link](https://github.com/yaochih/gcvd-release)**|
 |**2022-07-31**|**One Object at a Time: Accurate and Robust Structure From Motion for Robots**|Aravind Battaje et.al.|[2208.00487v1](http://arxiv.org/abs/2208.00487v1)|null|
 |**2022-07-23**|**Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**|Daniel Posada et.al.|[2207.11413v1](http://arxiv.org/abs/2207.11413v1)|null|
 |**2022-07-25**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
@@ -6832,7 +6832,7 @@ layout: default
 |**2022-06-27**|**Role of Material Directionality on the Mechanical Response of Miura-Ori Composite Structures**|Haotian Feng et.al.|[2206.13620v1](http://arxiv.org/abs/2206.13620v1)|null|
 |**2022-06-30**|**ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition**|Junting Pan et.al.|[2206.13559v2](http://arxiv.org/abs/2206.13559v2)|null|
 |**2022-06-25**|**SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders**|Gang Li et.al.|[2206.10207v2](http://arxiv.org/abs/2206.10207v2)|null|
-|**2022-06-19**|**Extended field-of-view speckle-correlation imaging by estimating autocorrelation**|Yuto Endo et.al.|[2206.09417v1](http://arxiv.org/abs/2206.09417v1)|null|
+|**2022-08-05**|**Extrapolated speckle-correlation imaging**|Yuto Endo et.al.|[2206.09417v2](http://arxiv.org/abs/2206.09417v2)|null|
 |**2022-06-15**|**Masked Frequency Modeling for Self-Supervised Visual Pre-Training**|Jiahao Xie et.al.|[2206.07706v1](http://arxiv.org/abs/2206.07706v1)|null|
 |**2022-06-15**|**Protecting local and global symmetries in simulating 1+1-D non-abelian gauge theories**|Emil Mathew et.al.|[2206.07444v1](http://arxiv.org/abs/2206.07444v1)|null|
 |**2022-06-15**|**Rethinking Generalization in Few-Shot Classification**|Markus Hiller et.al.|[2206.07267v1](http://arxiv.org/abs/2206.07267v1)|**[link](https://github.com/mrkshllr/FewTURE)**|
