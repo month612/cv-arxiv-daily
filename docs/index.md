@@ -6086,8 +6086,44 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-10**|**Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**|Lukas J. Furtak et.al.|[2208.05473v1](http://arxiv.org/abs/2208.05473v1)|null|
+|**2022-08-10**|**The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**|Xiaoran Li et.al.|[2208.05462v1](http://arxiv.org/abs/2208.05462v1)|null|
+|**2022-08-10**|**Flexible Unsupervised Learning for Massive MIMO Subarray Hybrid Beamforming**|Hamed Hojatian et.al.|[2208.05443v1](http://arxiv.org/abs/2208.05443v1)|null|
+|**2022-08-10**|**Detecting COVID-19 from digitized ECG printouts using 1D convolutional neural networks**|Thao Nguyen et.al.|[2208.05433v1](http://arxiv.org/abs/2208.05433v1)|null|
+|**2022-08-10**|**Inferred Properties of Planets in Mean-Motion Resonances are Biased by Measurement Noise**|David Jensen et.al.|[2208.05423v1](http://arxiv.org/abs/2208.05423v1)|null|
+|**2022-08-10**|**Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues**|Zitong Yu et.al.|[2208.05401v1](http://arxiv.org/abs/2208.05401v1)|null|
+|**2022-08-10**|**MD-Net: Multi-Detector for Local Feature Extraction**|Emanuele Santellani et.al.|[2208.05350v1](http://arxiv.org/abs/2208.05350v1)|null|
+|**2022-08-10**|**Impact of random alloy fluctuations on the electronic and optical properties of (Al,Ga)N quantum wells: Insights from tight-binding calculations**|Robert Finn et.al.|[2208.05337v1](http://arxiv.org/abs/2208.05337v1)|null|
+|**2022-08-10**|**Generative Transfer Learning: Covid-19 Classification with a few Chest X-ray Images**|Suvarna Kadam et.al.|[2208.05305v1](http://arxiv.org/abs/2208.05305v1)|**[link](https://github.com/suvarnak/generativefslcovid)**|
+|**2022-08-10**|**A Fresh Perspective on DNN Accelerators by Performing Holistic Analysis Across Paradigms**|Tom Glint et.al.|[2208.05294v1](http://arxiv.org/abs/2208.05294v1)|null|
+|**2022-08-10**|**Adaptive Learning Rates for Faster Stochastic Gradient Methods**|Samuel Horváth et.al.|[2208.05287v1](http://arxiv.org/abs/2208.05287v1)|null|
+|**2022-08-10**|**Deep Reinforcement Learning for Orchestrating Cost-Aware Reconfigurations of vRANs**|Fahri Wisnu Murti et.al.|[2208.05282v1](http://arxiv.org/abs/2208.05282v1)|null|
+|**2022-08-10**|**TSInterpret: A unified framework for time series interpretability**|Jacqueline Höllig et.al.|[2208.05280v1](http://arxiv.org/abs/2208.05280v1)|**[link](https://github.com/jhoelli/tsinterpret)**|
+|**2022-08-10**|**Fairness Based Energy-Efficient 3D Path Planning of a Portable Access Point: A Deep Reinforcement Learning Approach**|Nithin Babu et.al.|[2208.05265v1](http://arxiv.org/abs/2208.05265v1)|null|
+|**2022-08-10**|**Multi-structure segmentation for renal cancer treatment with modified nn-UNet**|Zhenyu Bu et.al.|[2208.05241v1](http://arxiv.org/abs/2208.05241v1)|null|
+|**2022-08-10**|**Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction**|Yingzi Fan et.al.|[2208.05220v1](http://arxiv.org/abs/2208.05220v1)|null|
+|**2022-08-10**|**Real-Time Oil Leakage Detection on Aftermarket Motorcycle Damping System with Convolutional Neural Networks**|Federico Bianchi et.al.|[2208.05192v1](http://arxiv.org/abs/2208.05192v1)|null|
+|**2022-08-10**|**Learning Quantization in LDPC Decoders**|Marvin Geiselhart et.al.|[2208.05186v1](http://arxiv.org/abs/2208.05186v1)|null|
+|**2022-08-10**|**Preserving the beamforming effect for spatial cue-based pseudo-binaural dereverberation of a single source**|Sania Gul et.al.|[2208.05184v1](http://arxiv.org/abs/2208.05184v1)|null|
+|**2022-08-10**|**Deep Reinforcement Learning for Dynamic Recommendation with Model-agnostic Counterfactual Policy Synthesis**|Siyu Wang et.al.|[2208.05142v1](http://arxiv.org/abs/2208.05142v1)|null|
+|**2022-08-10**|**Detection of Intracluster Globular Clusters in the First JWST Images of the Gravitational Lens Cluster SMACS J0723.3-7327 at z = 0.39**|Myung Gyoon Lee et.al.|[2208.05124v1](http://arxiv.org/abs/2208.05124v1)|null|
+|**2022-08-10**|**KL-divergence Based Deep Learning for Discrete Time Model**|Li Liu et.al.|[2208.05100v1](http://arxiv.org/abs/2208.05100v1)|null|
+|**2022-08-10**|**First observation of correlations between spin and transverse momenta in back-to-back dihadron production at CLAS12**|H. Avakian et.al.|[2208.05086v1](http://arxiv.org/abs/2208.05086v1)|null|
+|**2022-08-10**|**Collaborative Feature Maps of Networks and Hosts for AI-driven Intrusion Detection**|Jinxin Liu et.al.|[2208.05085v1](http://arxiv.org/abs/2208.05085v1)|null|
+|**2022-08-09**|**Interpretable Polynomial Neural Ordinary Differential Equations**|Colby Fronk et.al.|[2208.05072v1](http://arxiv.org/abs/2208.05072v1)|null|
+|**2022-08-09**|**The Relative Importance of Depth Cues and Semantic Edges for Indoor Mobility Using Simulated Prosthetic Vision in Immersive Virtual Reality**|Alex Rasla et.al.|[2208.05066v1](http://arxiv.org/abs/2208.05066v1)|null|
+|**2022-08-09**|**Subjective Evaluation of Deep Neural Network Based Speech Enhancement Systems in Real-World Conditions**|Gaurav Naithani et.al.|[2208.05057v1](http://arxiv.org/abs/2208.05057v1)|null|
+|**2022-08-09**|**Model-Free Generative Replay for Lifelong Reinforcement Learning: Application to Starcraft-2**|Zachary Daniels et.al.|[2208.05056v1](http://arxiv.org/abs/2208.05056v1)|null|
+|**2022-08-09**|**Automatic Ultrasound Image Segmentation of Supraclavicular Nerve Using Dilated U-Net Deep Learning Architecture**|Mizuki Miyatake et.al.|[2208.05050v1](http://arxiv.org/abs/2208.05050v1)|null|
+|**2022-08-09**|**Examining graph neural networks for crystal structures: limitation on capturing periodicity**|Sheng Gong et.al.|[2208.05039v1](http://arxiv.org/abs/2208.05039v1)|null|
+|**2022-08-09**|**Adaptive Target-Condition Neural Network: DNN-Aided Load Balancing for Hybrid LiFi and WiFi Networks**|Han Ji et.al.|[2208.05035v1](http://arxiv.org/abs/2208.05035v1)|null|
+|**2022-08-09**|**Human Activity Recognition Using Cascaded Dual Attention CNN and Bi-Directional GRU Framework**|Hayat Ullah et.al.|[2208.05034v1](http://arxiv.org/abs/2208.05034v1)|null|
+|**2022-08-09**|**Statistics of Galactic-Scale Quasar Pairs at Cosmic Noon**|Yue Shen et.al.|[2208.04979v1](http://arxiv.org/abs/2208.04979v1)|null|
+|**2022-08-09**|**The MOSDEF Survey: Probing Resolved Stellar Populations at $z\sim2$ Using a New Bayesian-defined Morphology Metric Called Patchiness**|Tara Fetherolf et.al.|[2208.04972v1](http://arxiv.org/abs/2208.04972v1)|null|
+|**2022-08-09**|**Properties and Evolution of Dual and Offset AGN in the ASTRID Simulation at $z \sim 2$**|Nianyi Chen et.al.|[2208.04970v1](http://arxiv.org/abs/2208.04970v1)|null|
+|**2022-08-09**|**Continual Prune-and-Select: Class-incremental learning with specialized subnetworks**|Aleksandr Dekhovich et.al.|[2208.04952v1](http://arxiv.org/abs/2208.04952v1)|null|
 |**2022-08-09**|**Simplified State Space Layers for Sequence Modeling**|Jimmy T. H. Smith et.al.|[2208.04933v1](http://arxiv.org/abs/2208.04933v1)|**[link](https://github.com/lindermanlab/S5)**|
-|**2022-08-09**|**Deep Learning-Based Objective and Reproducible Osteosarcoma Chemotherapy Response Assessment and Outcome Prediction**|David Joon Ho et.al.|[2208.04910v1](http://arxiv.org/abs/2208.04910v1)|null|
+|**2022-08-09**|**Deep Learning-Based Objective and Reproducible Osteosarcoma Chemotherapy Response Assessment and Outcome Prediction**|David Joon Ho et.al.|[2208.04910v1](http://arxiv.org/abs/2208.04910v1)|**[link](https://github.com/mskcc-computational-pathology/dmmn-osteosarcoma)**|
 |**2022-08-09**|**Intrinsically Motivated Learning of Causal World Models**|Louis Annabi et.al.|[2208.04892v1](http://arxiv.org/abs/2208.04892v1)|null|
 |**2022-08-09**|**Localizing the conceptual difference of two scenes using deep learning for house keeping usages**|Ali Atghaei et.al.|[2208.04884v1](http://arxiv.org/abs/2208.04884v1)|null|
 |**2022-08-09**|**Neural-Rendezvous: Learning-based Robust Guidance and Control to Encounter Interstellar Objects**|Hiroyasu Tsukamoto et.al.|[2208.04883v1](http://arxiv.org/abs/2208.04883v1)|null|
@@ -6099,7 +6135,7 @@ layout: default
 |**2022-08-09**|**Combining Variational Modeling with Partial Gradient Perturbation to Prevent Deep Gradient Leakage**|Daniel Scheliga et.al.|[2208.04767v1](http://arxiv.org/abs/2208.04767v1)|null|
 |**2022-08-09**|**Improving COVID-19 CT Classification of CNNs by Learning Parameter-Efficient Representation**|Yujia Xu et.al.|[2208.04718v1](http://arxiv.org/abs/2208.04718v1)|null|
 |**2022-08-10**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v2](http://arxiv.org/abs/2208.04679v2)|null|
-|**2022-08-09**|**Ultra Lite Convolutional Neural Network for Automatic Modulation Classification**|Lantu Guo et.al.|[2208.04659v1](http://arxiv.org/abs/2208.04659v1)|null|
+|**2022-08-09**|**Ultra Lite Convolutional Neural Network for Automatic Modulation Classification**|Lantu Guo et.al.|[2208.04659v1](http://arxiv.org/abs/2208.04659v1)|**[link](https://github.com/beechburgpiestar/ultra-lite-convolutional-neural-network-for-automatic-modulation-classification)**|
 |**2022-08-09**|**Integral models of moduli spaces of shtukas with deep Bruhat-Tits level structures**|Patrick Bieker et.al.|[2208.04655v1](http://arxiv.org/abs/2208.04655v1)|null|
 |**2022-08-09**|**Spatial Scales and Time Variation of Solar Subsurface Convection**|Alexander V. Getling et.al.|[2208.04642v1](http://arxiv.org/abs/2208.04642v1)|null|
 |**2022-08-09**|**Recycling an anechoic pre-trained speech separation deep neural network for binaural dereverberation of a single source**|Sania Gul et.al.|[2208.04626v1](http://arxiv.org/abs/2208.04626v1)|null|
