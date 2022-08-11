@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.10
+## Updated on 2022.08.11
 
 ## SLAM
 
@@ -5775,7 +5775,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
-|**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang et.al.|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|null|
+|**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang et.al.|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|**[link](https://github.com/zsustc/calibration)**|
 |**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 |**2022-08-04**|**SROS2: Usable Cyber Security Tools for ROS 2**|Victor Mayoral Vilches et.al.|[2208.02615v1](http://arxiv.org/abs/2208.02615v1)|**[link](https://github.com/ros-swg/turtlebot3_demo)**|
 |**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
@@ -5939,7 +5939,7 @@ layout: default
 |**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao et.al.|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|**[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**|
 |**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi et.al.|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
 |**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
-|**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
+|**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|**[link](https://github.com/zillow/laser)**|
 |**2022-03-31**|**Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**|Semih Orhan et.al.|[2203.16945v1](http://arxiv.org/abs/2203.16945v1)|null|
 |**2022-06-26**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v2](http://arxiv.org/abs/2203.16291v2)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
 |**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
@@ -6098,7 +6098,7 @@ layout: default
 |**2022-08-09**|**Longitudinal Prediction of Postnatal Brain Magnetic Resonance Images via a Metamorphic Generative Adversarial Network**|Yunzhi Huang et.al.|[2208.04825v1](http://arxiv.org/abs/2208.04825v1)|null|
 |**2022-08-09**|**Combining Variational Modeling with Partial Gradient Perturbation to Prevent Deep Gradient Leakage**|Daniel Scheliga et.al.|[2208.04767v1](http://arxiv.org/abs/2208.04767v1)|null|
 |**2022-08-09**|**Improving COVID-19 CT Classification of CNNs by Learning Parameter-Efficient Representation**|Yujia Xu et.al.|[2208.04718v1](http://arxiv.org/abs/2208.04718v1)|null|
-|**2022-08-09**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v1](http://arxiv.org/abs/2208.04679v1)|null|
+|**2022-08-10**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v2](http://arxiv.org/abs/2208.04679v2)|null|
 |**2022-08-09**|**Ultra Lite Convolutional Neural Network for Automatic Modulation Classification**|Lantu Guo et.al.|[2208.04659v1](http://arxiv.org/abs/2208.04659v1)|null|
 |**2022-08-09**|**Integral models of moduli spaces of shtukas with deep Bruhat-Tits level structures**|Patrick Bieker et.al.|[2208.04655v1](http://arxiv.org/abs/2208.04655v1)|null|
 |**2022-08-09**|**Spatial Scales and Time Variation of Solar Subsurface Convection**|Alexander V. Getling et.al.|[2208.04642v1](http://arxiv.org/abs/2208.04642v1)|null|
@@ -6129,7 +6129,7 @@ layout: default
 |**2022-08-08**|**Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors**|Andrea Panizza et.al.|[2208.04363v1](http://arxiv.org/abs/2208.04363v1)|null|
 |**2022-08-08**|**A Visual Analytics System for Improving Attention-based Traffic Forecasting Models**|Seungmin Jin et.al.|[2208.04350v1](http://arxiv.org/abs/2208.04350v1)|null|
 |**2022-08-08**|**MAGAZ3NE: High Stellar Velocity Dispersions for Ultra-Massive Quiescent Galaxies at $z\gtrsim3$**|Ben Forrest et.al.|[2208.04329v1](http://arxiv.org/abs/2208.04329v1)|null|
-|**2022-08-08**|**DELIGHT: Deep Learning Identification of Galaxy Hosts of Transients using Multi-resolution Images**|Francisco Förster et.al.|[2208.04310v1](http://arxiv.org/abs/2208.04310v1)|null|
+|**2022-08-08**|**DELIGHT: Deep Learning Identification of Galaxy Hosts of Transients using Multi-resolution Images**|Francisco Förster et.al.|[2208.04310v1](http://arxiv.org/abs/2208.04310v1)|**[link](https://github.com/fforster/delight)**|
 |**2022-08-08**|**Gaze Estimation Approach Using Deep Differential Residual Network**|Longzhao Huang et.al.|[2208.04298v1](http://arxiv.org/abs/2208.04298v1)|null|
 |**2022-08-08**|**On Rademacher Complexity-based Generalization Bounds for Deep Learning**|Lan V. Truong et.al.|[2208.04284v1](http://arxiv.org/abs/2208.04284v1)|null|
 |**2022-08-08**|**LWGNet: Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval**|Atreyee Saha et.al.|[2208.04283v1](http://arxiv.org/abs/2208.04283v1)|**[link](https://github.com/at3e/lwgnet)**|
@@ -7031,7 +7031,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-20**|**Digital Twins: Potentials, Ethical Issues, and Limitations**|Dirk Helbing et.al.|[2208.04289v1](http://arxiv.org/abs/2208.04289v1)|null|
 |**2022-08-08**|**Deep Computational Model for the Inference of Ventricular Activation Properties**|Lei Li et.al.|[2208.04028v1](http://arxiv.org/abs/2208.04028v1)|null|
-|**2022-08-05**|**A Method for Deriving Technical Requirements of Digital Twins as Industrial Product-Service System Enablers**|Jürgen Dobaj et.al.|[2208.03136v1](http://arxiv.org/abs/2208.03136v1)|null|
+|**2022-08-10**|**A Method for Deriving Technical Requirements of Digital Twins as Industrial Product-Service System Enablers**|Jürgen Dobaj et.al.|[2208.03136v2](http://arxiv.org/abs/2208.03136v2)|null|
 |**2022-08-02**|**Digital Twin-Assisted Efficient Reinforcement Learning for Edge Task Scheduling**|Xiucheng Wang et.al.|[2208.01781v1](http://arxiv.org/abs/2208.01781v1)|null|
 |**2022-07-31**|**A Python-based Mixed Discrete-Continuous Simulation Framework for Digital Twins**|Neha Karanjkar et.al.|[2208.01408v1](http://arxiv.org/abs/2208.01408v1)|null|
 |**2022-07-09**|**Digital Twin Assisted Task Offloading for Aerial Edge Computing and Networks**|Bin Li et.al.|[2208.00834v1](http://arxiv.org/abs/2208.00834v1)|null|
