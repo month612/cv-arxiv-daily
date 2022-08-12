@@ -5774,6 +5774,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
 |**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang et.al.|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|**[link](https://github.com/zsustc/calibration)**|
 |**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
@@ -6014,7 +6015,7 @@ layout: default
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579v1](http://arxiv.org/abs/2112.12579v1)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer et.al.|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
-|**2022-07-11**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v2](http://arxiv.org/abs/2112.12002v2)|null|
+|**2022-07-11**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v2](http://arxiv.org/abs/2112.12002v2)|**[link](https://github.com/siqueira-hc/corrnet)**|
 |**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li et.al.|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
 |**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|**[link](https://github.com/facebookresearch/SlowFast)**|
@@ -6086,6 +6087,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Regularizing Deep Neural Networks with Stochastic Estimators of Hessian Trace**|Yucong Liu et.al.|[2208.05924v1](http://arxiv.org/abs/2208.05924v1)|null|
+|**2022-08-11**|**A Systematic Study of the Short-Term X-ray Variability of Seyfert Galaxies I. Diversity of the X-ray Rms Spectra**|Jingwei Hu et.al.|[2208.05921v1](http://arxiv.org/abs/2208.05921v1)|null|
+|**2022-08-11**|**Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks**|Dingyi Zhuang et.al.|[2208.05908v1](http://arxiv.org/abs/2208.05908v1)|**[link](https://github.com/zhuangdingyi/stzinb)**|
+|**2022-08-11**|**Amplitudes, Hopf algebras and the colour-kinematics duality**|Andreas Brandhuber et.al.|[2208.05886v1](http://arxiv.org/abs/2208.05886v1)|null|
+|**2022-08-11**|**Automatic Hybrid-Precision Quantization for MIMO Detectors**|Yingmeng Ge et.al.|[2208.05880v1](http://arxiv.org/abs/2208.05880v1)|null|
+|**2022-08-11**|**Uncertainty Quantification for Traffic Forecasting: A Unified Approach**|Weizhu Qian et.al.|[2208.05875v1](http://arxiv.org/abs/2208.05875v1)|null|
+|**2022-08-11**|**GEM-2: Next Generation Molecular Property Prediction Network with Many-body and Full-range Interaction Modeling**|Lihang Liu et.al.|[2208.05863v1](http://arxiv.org/abs/2208.05863v1)|null|
+|**2022-08-11**|**Differencing based Self-supervised pretraining for Scene Change Detection**|Vijaya Raghavan T. Ramkumar et.al.|[2208.05838v1](http://arxiv.org/abs/2208.05838v1)|**[link](https://github.com/neurai-lab/dsp)**|
+|**2022-08-11**|**K-UNN: k-Space Interpolation With Untrained Neural Network**|Zhuo-Xu Cui et.al.|[2208.05827v1](http://arxiv.org/abs/2208.05827v1)|**[link](https://github.com/zhuoxucui/k_unn)**|
+|**2022-08-11**|**Regressing Relative Fine-Grained Change for Sub-Groups in Unreliable Heterogeneous Data Through Deep Multi-Task Metric Learning**|Niall O' Mahony et.al.|[2208.05800v1](http://arxiv.org/abs/2208.05800v1)|null|
+|**2022-08-11**|**Predicting nonlinear optical scattering with physics-driven neural networks**|Carlo Gigli Amirhossein Saba Ahmed Bassam Ayoub Demetri Psaltis et.al.|[2208.05793v1](http://arxiv.org/abs/2208.05793v1)|null|
+|**2022-08-10**|**Semantic Self-adaptation: Enhancing Generalization with a Single Sample**|Sherwin Bahmani et.al.|[2208.05788v1](http://arxiv.org/abs/2208.05788v1)|**[link](https://github.com/visinf/self-adaptive)**|
+|**2022-08-10**|**KiPA22 Report: U-Net with Contour Regularization for Renal Structures Segmentation**|Kangqing Ye et.al.|[2208.05772v1](http://arxiv.org/abs/2208.05772v1)|null|
+|**2022-08-11**|**A deep-learning approach for reconstructing 3D turbulent flows from 2D observation data**|Mustafa Z. Yousif et.al.|[2208.05754v1](http://arxiv.org/abs/2208.05754v1)|null|
+|**2022-08-11**|**Interpretable cytometry cell-type annotation with flow-based deep generative models**|Quentin Blampey et.al.|[2208.05745v1](http://arxiv.org/abs/2208.05745v1)|**[link](https://github.com/mics-lab/scyan)**|
+|**2022-08-11**|**On the Pros and Cons of Momentum Encoder in Self-Supervised Visual Representation Learning**|Trung Pham et.al.|[2208.05744v1](http://arxiv.org/abs/2208.05744v1)|null|
+|**2022-08-11**|**General Cutting Planes for Bound-Propagation-Based Neural Network Verification**|Huan Zhang et.al.|[2208.05740v1](http://arxiv.org/abs/2208.05740v1)|null|
+|**2022-08-11**|**Implicit large eddy simulations of global solar convection: effects of numerical resolution in non-rotating and rotating cases**|G. Guerrero et.al.|[2208.05738v1](http://arxiv.org/abs/2208.05738v1)|null|
+|**2022-08-11**|**Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax**|Jean-Philippe Bernardy et.al.|[2208.05719v1](http://arxiv.org/abs/2208.05719v1)|null|
+|**2022-08-11**|**Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph**|Chin-Chia Michael Yeh et.al.|[2208.05648v1](http://arxiv.org/abs/2208.05648v1)|null|
+|**2022-08-11**|**Self-Knowledge Distillation via Dropout**|Hyoje Lee et.al.|[2208.05642v1](http://arxiv.org/abs/2208.05642v1)|null|
+|**2022-08-11**|**Statistical distribution of HI 21cm absorbers as potential cosmic acceleration probes**|Chang-Zhi Lu et.al.|[2208.05639v1](http://arxiv.org/abs/2208.05639v1)|null|
+|**2022-08-11**|**OpenMedIA: Open-Source Medical Image Analysis Toolbox and Benchmark under Heterogeneous AI Computing Platforms**|Jia-Xin Zhuang et.al.|[2208.05616v1](http://arxiv.org/abs/2208.05616v1)|null|
+|**2022-08-11**|**Real-Time Massive MIMO Channel Prediction: A Combination of Deep Learning and NeuralProphet**|Muhammad Karam Shehzad et.al.|[2208.05607v1](http://arxiv.org/abs/2208.05607v1)|null|
+|**2022-08-10**|**Exoplanet weather and climate regimes with clouds and thermal ionospheres: A model grid study in support of large-scale observational campaigns**|Christiane Helling et.al.|[2208.05562v1](http://arxiv.org/abs/2208.05562v1)|null|
+|**2022-08-10**|**Semi-supervised segmentation of tooth from 3D Scanned Dental Arches**|Ammar Alsheghri et.al.|[2208.05539v1](http://arxiv.org/abs/2208.05539v1)|**[link](https://github.com/alsheghri/teeth-segmentation)**|
+|**2022-08-10**|**Zonal jets experiments in the gas giants' zonostrophic regime**|Daphné Lemasquerier et.al.|[2208.05530v1](http://arxiv.org/abs/2208.05530v1)|null|
+|**2022-08-10**|**Imbalance Trouble: Revisiting Neural-Collapse Geometry**|Christos Thrampoulidis et.al.|[2208.05512v1](http://arxiv.org/abs/2208.05512v1)|null|
+|**2022-08-10**|**The entropy of galaxy spectra: How much information is encoded?**|Ignacio Ferreras et.al.|[2208.05489v1](http://arxiv.org/abs/2208.05489v1)|null|
+|**2022-08-10**|**High-Frequency Space Diffusion Models for Accelerated MRI**|Chentao Cao et.al.|[2208.05481v1](http://arxiv.org/abs/2208.05481v1)|null|
+|**2022-08-10**|**NIDN: Neural Inverse Design of Nanostructures**|Pablo Gómez et.al.|[2208.05480v1](http://arxiv.org/abs/2208.05480v1)|null|
+|**2022-08-10**|**Customized Watermarking for Deep Neural Networks via Label Distribution Perturbation**|Tzu-Yun Chien et.al.|[2208.05477v1](http://arxiv.org/abs/2208.05477v1)|null|
 |**2022-08-10**|**Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**|Lukas J. Furtak et.al.|[2208.05473v1](http://arxiv.org/abs/2208.05473v1)|null|
 |**2022-08-10**|**The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**|Xiaoran Li et.al.|[2208.05462v1](http://arxiv.org/abs/2208.05462v1)|null|
 |**2022-08-10**|**Flexible Unsupervised Learning for Massive MIMO Subarray Hybrid Beamforming**|Hamed Hojatian et.al.|[2208.05443v1](http://arxiv.org/abs/2208.05443v1)|null|
@@ -7065,6 +7098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-10**|**Federated Learning for Digital Twin-Based Vehicular Networks: Architecture and Challenges**|Latif U. Khan et.al.|[2208.05558v1](http://arxiv.org/abs/2208.05558v1)|null|
 |**2022-07-20**|**Digital Twins: Potentials, Ethical Issues, and Limitations**|Dirk Helbing et.al.|[2208.04289v1](http://arxiv.org/abs/2208.04289v1)|null|
 |**2022-08-08**|**Deep Computational Model for the Inference of Ventricular Activation Properties**|Lei Li et.al.|[2208.04028v1](http://arxiv.org/abs/2208.04028v1)|null|
 |**2022-08-10**|**A Method for Deriving Technical Requirements of Digital Twins as Industrial Product-Service System Enablers**|Jürgen Dobaj et.al.|[2208.03136v2](http://arxiv.org/abs/2208.03136v2)|null|
