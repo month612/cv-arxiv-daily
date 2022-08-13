@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.12
+## Updated on 2022.08.13
 
 ## SLAM
 
@@ -6087,7 +6087,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-11**|**Regularizing Deep Neural Networks with Stochastic Estimators of Hessian Trace**|Yucong Liu et.al.|[2208.05924v1](http://arxiv.org/abs/2208.05924v1)|null|
+|**2022-08-11**|**Regularizing Deep Neural Networks with Stochastic Estimators of Hessian Trace**|Yucong Liu et.al.|[2208.05924v1](http://arxiv.org/abs/2208.05924v1)|**[link](https://github.com/iclrsubmission1596/regularizing-deep-neural-networks-with-stochastic-estimators-of-hessian-trace)**|
 |**2022-08-11**|**A Systematic Study of the Short-Term X-ray Variability of Seyfert Galaxies I. Diversity of the X-ray Rms Spectra**|Jingwei Hu et.al.|[2208.05921v1](http://arxiv.org/abs/2208.05921v1)|null|
 |**2022-08-11**|**Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks**|Dingyi Zhuang et.al.|[2208.05908v1](http://arxiv.org/abs/2208.05908v1)|**[link](https://github.com/zhuangdingyi/stzinb)**|
 |**2022-08-11**|**Amplitudes, Hopf algebras and the colour-kinematics duality**|Andreas Brandhuber et.al.|[2208.05886v1](http://arxiv.org/abs/2208.05886v1)|null|
