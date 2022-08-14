@@ -1,4 +1,4 @@
-> Updated on 2022.08.13
+> Updated on 2022.08.14
 
 ## SLAM
 
@@ -5947,7 +5947,7 @@
 - 2022-04-15, **2D Human Pose Estimation: A Survey**, Haoming Chen et.al., Paper: [http://arxiv.org/abs/2204.07370v1](http://arxiv.org/abs/2204.07370v1)
 - 2022-04-11, **Towards Homogeneous Modality Learning and Multi-Granularity Information Exploration for Visible-Infrared Person Re-Identification**, Haojie Liu et.al., Paper: [http://arxiv.org/abs/2204.04842v1](http://arxiv.org/abs/2204.04842v1)
 - 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
-- 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
+- 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1)
 - 2022-04-01, **MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**, Chenzhong Gao et.al., Paper: [http://arxiv.org/abs/2204.00260v1](http://arxiv.org/abs/2204.00260v1)
 - 2022-03-29, **Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**, David Howard et.al., Paper: [http://arxiv.org/abs/2203.15172v1](http://arxiv.org/abs/2203.15172v1)
 - 2022-03-28, **REGTR: End-to-end Point Cloud Correspondences with Transformers**, Zi Jian Yew et.al., Paper: [http://arxiv.org/abs/2203.14517v1](http://arxiv.org/abs/2203.14517v1), Code: **[https://github.com/yewzijian/regtr](https://github.com/yewzijian/regtr)**
@@ -6063,7 +6063,7 @@
 - 2022-08-10, **Imbalance Trouble: Revisiting Neural-Collapse Geometry**, Christos Thrampoulidis et.al., Paper: [http://arxiv.org/abs/2208.05512v1](http://arxiv.org/abs/2208.05512v1)
 - 2022-08-10, **The entropy of galaxy spectra: How much information is encoded?**, Ignacio Ferreras et.al., Paper: [http://arxiv.org/abs/2208.05489v1](http://arxiv.org/abs/2208.05489v1)
 - 2022-08-10, **High-Frequency Space Diffusion Models for Accelerated MRI**, Chentao Cao et.al., Paper: [http://arxiv.org/abs/2208.05481v1](http://arxiv.org/abs/2208.05481v1)
-- 2022-08-10, **NIDN: Neural Inverse Design of Nanostructures**, Pablo Gómez et.al., Paper: [http://arxiv.org/abs/2208.05480v1](http://arxiv.org/abs/2208.05480v1)
+- 2022-08-10, **NIDN: Neural Inverse Design of Nanostructures**, Pablo Gómez et.al., Paper: [http://arxiv.org/abs/2208.05480v1](http://arxiv.org/abs/2208.05480v1), Code: **[https://github.com/esa/nidn](https://github.com/esa/nidn)**
 - 2022-08-10, **Customized Watermarking for Deep Neural Networks via Label Distribution Perturbation**, Tzu-Yun Chien et.al., Paper: [http://arxiv.org/abs/2208.05477v1](http://arxiv.org/abs/2208.05477v1)
 - 2022-08-10, **Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**, Lukas J. Furtak et.al., Paper: [http://arxiv.org/abs/2208.05473v1](http://arxiv.org/abs/2208.05473v1)
 - 2022-08-10, **The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**, Xiaoran Li et.al., Paper: [http://arxiv.org/abs/2208.05462v1](http://arxiv.org/abs/2208.05462v1)
