@@ -6065,9 +6065,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-12**|**AutoShard: Automated Embedding Table Sharding for Recommender Systems**|Daochen Zha et.al.|[2208.06399v1](http://arxiv.org/abs/2208.06399v1)|null|
+|**2022-08-12**|**AutoShard: Automated Embedding Table Sharding for Recommender Systems**|Daochen Zha et.al.|[2208.06399v1](http://arxiv.org/abs/2208.06399v1)|**[link](https://github.com/daochenzha/autoshard)**|
 |**2022-08-12**|**A First Look into the Nature of JWST/MIRI 7.7 micron Sources from SMACS 0723**|Edoardo Iani et.al.|[2208.06364v1](http://arxiv.org/abs/2208.06364v1)|null|
-|**2022-08-12**|**EEGNN: Edge Enhanced Graph Neural Networks**|Yirui Liu et.al.|[2208.06322v1](http://arxiv.org/abs/2208.06322v1)|null|
+|**2022-08-12**|**EEGNN: Edge Enhanced Graph Neural Networks**|Yirui Liu et.al.|[2208.06322v1](http://arxiv.org/abs/2208.06322v1)|**[link](https://github.com/VITA-Group/Deep_GCN_Benchmarking)**|
 |**2022-08-12**|**Engineering Semantic Communication: A Survey**|Dylan Wheeler et.al.|[2208.06314v1](http://arxiv.org/abs/2208.06314v1)|null|
 |**2022-08-12**|**Voxels Intersecting along Orthogonal Levels Attention U-Net (viola-Unet) to Segment Intracerebral Haemorrhage Using Computed Tomography Head Scans**|Qinghui Liu et.al.|[2208.06313v1](http://arxiv.org/abs/2208.06313v1)|null|
 |**2022-08-12**|**Triple-View Feature Learning for Medical Image Segmentation**|Ziyang Wang et.al.|[2208.06303v1](http://arxiv.org/abs/2208.06303v1)|null|
@@ -6084,7 +6084,7 @@
 |**2022-08-12**|**An Algorithm-Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers**|Chao Fang et.al.|[2208.06118v1](http://arxiv.org/abs/2208.06118v1)|null|
 |**2022-08-12**|**MAIScope: A low-cost portable microscope with built-in vision AI to automate microscopic diagnosis of diseases in remote rural settings**|Rohan Sangameswaran et.al.|[2208.06114v1](http://arxiv.org/abs/2208.06114v1)|null|
 |**2022-08-12**|**Majorana nanowires, Kitaev chains, and spin models**|Haining Pan et.al.|[2208.06108v1](http://arxiv.org/abs/2208.06108v1)|null|
-|**2022-08-12**|**Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training**|Jie You et.al.|[2208.06102v1](http://arxiv.org/abs/2208.06102v1)|null|
+|**2022-08-12**|**Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training**|Jie You et.al.|[2208.06102v1](http://arxiv.org/abs/2208.06102v1)|**[link](https://github.com/symbioticlab/zeus)**|
 |**2022-08-12**|**Domain-invariant Prototypes for Semantic Segmentation**|Zhengeng Yang et.al.|[2208.06087v1](http://arxiv.org/abs/2208.06087v1)|null|
 |**2022-08-12**|**Chemical abundances in the outskirts of nearby galaxy groups measured with joint Suzaku and Chandra observations**|Arnab Sarkar et.al.|[2208.06085v1](http://arxiv.org/abs/2208.06085v1)|null|
 |**2022-08-12**|**Conditional Antibody Design as 3D Equivariant Graph Translation**|Xiangzhe Kong et.al.|[2208.06073v1](http://arxiv.org/abs/2208.06073v1)|null|
@@ -6093,11 +6093,11 @@
 |**2022-08-11**|**A joint measurement of galaxy luminosity functions and large-scale field densities during the Epoch of Reionization**|A. C. Trapp et.al.|[2208.06059v1](http://arxiv.org/abs/2208.06059v1)|null|
 |**2022-08-11**|**Fractional Order Analysis of the Polytropic Models Applied to Exoplanets**|Essam Elkholy et.al.|[2208.06045v1](http://arxiv.org/abs/2208.06045v1)|null|
 |**2022-08-11**|**Region-Based Evidential Deep Learning to Quantify Uncertainty and Improve Robustness of Brain Tumor Segmentation**|Hao Li et.al.|[2208.06038v1](http://arxiv.org/abs/2208.06038v1)|null|
-|**2022-08-11**|**BSAC: Bayesian Strategy Network Based Soft Actor-Critic in Deep Reinforcement Learning**|Qin Yang et.al.|[2208.06033v1](http://arxiv.org/abs/2208.06033v1)|null|
+|**2022-08-11**|**BSAC: Bayesian Strategy Network Based Soft Actor-Critic in Deep Reinforcement Learning**|Qin Yang et.al.|[2208.06033v1](http://arxiv.org/abs/2208.06033v1)|**[link](https://github.com/herolab-uga/bsac)**|
 |**2022-08-11**|**Gaussian process surrogate models for neural networks**|Michael Y. Li et.al.|[2208.06028v1](http://arxiv.org/abs/2208.06028v1)|null|
 |**2022-08-11**|**Non-intrusive sensing in turbulent boundary layers via deep fully-convolutional neural networks**|L. Guastoni et.al.|[2208.06024v1](http://arxiv.org/abs/2208.06024v1)|null|
 |**2022-08-11**|**Non-Standard Neutrino Self-Interactions Can Cause Neutrino Flavor Equipartition Inside the Supernova Core**|Sajad Abbar et.al.|[2208.06023v1](http://arxiv.org/abs/2208.06023v1)|null|
-|**2022-08-11**|**A Probabilistic Framework for Mutation Testing in Deep Neural Networks**|Florian Tambon et.al.|[2208.06018v1](http://arxiv.org/abs/2208.06018v1)|null|
+|**2022-08-11**|**A Probabilistic Framework for Mutation Testing in Deep Neural Networks**|Florian Tambon et.al.|[2208.06018v1](http://arxiv.org/abs/2208.06018v1)|**[link](https://github.com/flowss/pmt)**|
 |**2022-08-11**|**Anomaly segmentation model for defects detection in electroluminescence images of heterojunction solar cells**|Alexey Korovin et.al.|[2208.05994v1](http://arxiv.org/abs/2208.05994v1)|null|
 |**2022-08-11**|**Dynamical evolution in the D1D5 CFT**|Bin Guo et.al.|[2208.05992v1](http://arxiv.org/abs/2208.05992v1)|null|
 |**2022-08-11**|**Regularizing Deep Neural Networks with Stochastic Estimators of Hessian Trace**|Yucong Liu et.al.|[2208.05924v1](http://arxiv.org/abs/2208.05924v1)|**[link](https://github.com/iclrsubmission1596/regularizing-deep-neural-networks-with-stochastic-estimators-of-hessian-trace)**|
