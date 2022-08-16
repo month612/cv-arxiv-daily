@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.15
+## Updated on 2022.08.16
 
 ## SLAM
 
@@ -5979,7 +5979,7 @@ layout: default
 |**2022-07-15**|**Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**|Chen Liu et.al.|[2207.07739v1](http://arxiv.org/abs/2207.07739v1)|null|
 |**2022-07-13**|**Rapid Person Re-Identification via Sub-space Consistency Regularization**|Qingze Yin et.al.|[2207.05933v1](http://arxiv.org/abs/2207.05933v1)|null|
 |**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
-|**2022-07-11**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v2](http://arxiv.org/abs/2207.02976v2)|null|
+|**2022-08-15**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v3](http://arxiv.org/abs/2207.02976v3)|null|
 |**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
 |**2022-06-24**|**Motion Estimation for Large Displacements and Deformations**|Qiao Chen et.al.|[2206.12464v1](http://arxiv.org/abs/2206.12464v1)|null|
 |**2022-06-24**|**Deep embedded clustering algorithm for clustering PACS repositories**|Teo Manojlović et.al.|[2206.12417v1](http://arxiv.org/abs/2206.12417v1)|null|
@@ -6093,8 +6093,8 @@ layout: default
 |**2022-08-12**|**A First Look into the Nature of JWST/MIRI 7.7 micron Sources from SMACS 0723**|Edoardo Iani et.al.|[2208.06364v1](http://arxiv.org/abs/2208.06364v1)|null|
 |**2022-08-12**|**EEGNN: Edge Enhanced Graph Neural Networks**|Yirui Liu et.al.|[2208.06322v1](http://arxiv.org/abs/2208.06322v1)|**[link](https://github.com/VITA-Group/Deep_GCN_Benchmarking)**|
 |**2022-08-12**|**Engineering Semantic Communication: A Survey**|Dylan Wheeler et.al.|[2208.06314v1](http://arxiv.org/abs/2208.06314v1)|null|
-|**2022-08-12**|**Voxels Intersecting along Orthogonal Levels Attention U-Net (viola-Unet) to Segment Intracerebral Haemorrhage Using Computed Tomography Head Scans**|Qinghui Liu et.al.|[2208.06313v1](http://arxiv.org/abs/2208.06313v1)|null|
-|**2022-08-12**|**Triple-View Feature Learning for Medical Image Segmentation**|Ziyang Wang et.al.|[2208.06303v1](http://arxiv.org/abs/2208.06303v1)|null|
+|**2022-08-12**|**Voxels Intersecting along Orthogonal Levels Attention U-Net (viola-Unet) to Segment Intracerebral Haemorrhage Using Computed Tomography Head Scans**|Qinghui Liu et.al.|[2208.06313v1](http://arxiv.org/abs/2208.06313v1)|**[link](https://github.com/samleoqh/viola-unet)**|
+|**2022-08-12**|**Triple-View Feature Learning for Medical Image Segmentation**|Ziyang Wang et.al.|[2208.06303v1](http://arxiv.org/abs/2208.06303v1)|**[link](https://github.com/HiLab-git/SSL4MIS)**|
 |**2022-08-12**|**Sequential Causal Imitation Learning with Unobserved Confounders**|Daniel Kumor et.al.|[2208.06276v1](http://arxiv.org/abs/2208.06276v1)|null|
 |**2022-08-11**|**Incorporating Customer Reviews in Size and Fit Recommendation systems for Fashion E-Commerce**|Oishik Chatterjee et.al.|[2208.06261v1](http://arxiv.org/abs/2208.06261v1)|null|
 |**2022-08-12**|**Phenomenology of gluon TMDs from $η_{b,c}$ production**|Alessandro Bacchetta et.al.|[2208.06252v1](http://arxiv.org/abs/2208.06252v1)|null|
@@ -6112,7 +6112,7 @@ layout: default
 |**2022-08-12**|**Domain-invariant Prototypes for Semantic Segmentation**|Zhengeng Yang et.al.|[2208.06087v1](http://arxiv.org/abs/2208.06087v1)|null|
 |**2022-08-12**|**Chemical abundances in the outskirts of nearby galaxy groups measured with joint Suzaku and Chandra observations**|Arnab Sarkar et.al.|[2208.06085v1](http://arxiv.org/abs/2208.06085v1)|null|
 |**2022-08-12**|**Conditional Antibody Design as 3D Equivariant Graph Translation**|Xiangzhe Kong et.al.|[2208.06073v1](http://arxiv.org/abs/2208.06073v1)|null|
-|**2022-08-11**|**Deep is a Luxury We Don't Have**|Ahmed Taha et.al.|[2208.06066v1](http://arxiv.org/abs/2208.06066v1)|null|
+|**2022-08-11**|**Deep is a Luxury We Don't Have**|Ahmed Taha et.al.|[2208.06066v1](http://arxiv.org/abs/2208.06066v1)|**[link](https://github.com/whiterabbit-ai/hct)**|
 |**2022-08-11**|**Mixed-Precision Neural Networks: A Survey**|Mariam Rakka et.al.|[2208.06064v1](http://arxiv.org/abs/2208.06064v1)|null|
 |**2022-08-11**|**A joint measurement of galaxy luminosity functions and large-scale field densities during the Epoch of Reionization**|A. C. Trapp et.al.|[2208.06059v1](http://arxiv.org/abs/2208.06059v1)|null|
 |**2022-08-11**|**Fractional Order Analysis of the Polytropic Models Applied to Exoplanets**|Essam Elkholy et.al.|[2208.06045v1](http://arxiv.org/abs/2208.06045v1)|null|
@@ -6130,7 +6130,7 @@ layout: default
 |**2022-08-11**|**Amplitudes, Hopf algebras and the colour-kinematics duality**|Andreas Brandhuber et.al.|[2208.05886v1](http://arxiv.org/abs/2208.05886v1)|null|
 |**2022-08-11**|**Automatic Hybrid-Precision Quantization for MIMO Detectors**|Yingmeng Ge et.al.|[2208.05880v1](http://arxiv.org/abs/2208.05880v1)|null|
 |**2022-08-11**|**Uncertainty Quantification for Traffic Forecasting: A Unified Approach**|Weizhu Qian et.al.|[2208.05875v1](http://arxiv.org/abs/2208.05875v1)|null|
-|**2022-08-11**|**GEM-2: Next Generation Molecular Property Prediction Network with Many-body and Full-range Interaction Modeling**|Lihang Liu et.al.|[2208.05863v1](http://arxiv.org/abs/2208.05863v1)|null|
+|**2022-08-15**|**GEM-2: Next Generation Molecular Property Prediction Network with Many-body and Full-range Interaction Modeling**|Lihang Liu et.al.|[2208.05863v2](http://arxiv.org/abs/2208.05863v2)|null|
 |**2022-08-11**|**Differencing based Self-supervised pretraining for Scene Change Detection**|Vijaya Raghavan T. Ramkumar et.al.|[2208.05838v1](http://arxiv.org/abs/2208.05838v1)|**[link](https://github.com/neurai-lab/dsp)**|
 |**2022-08-11**|**K-UNN: k-Space Interpolation With Untrained Neural Network**|Zhuo-Xu Cui et.al.|[2208.05827v1](http://arxiv.org/abs/2208.05827v1)|**[link](https://github.com/zhuoxucui/k_unn)**|
 |**2022-08-11**|**Regressing Relative Fine-Grained Change for Sub-Groups in Unreliable Heterogeneous Data Through Deep Multi-Task Metric Learning**|Niall O' Mahony et.al.|[2208.05800v1](http://arxiv.org/abs/2208.05800v1)|null|
