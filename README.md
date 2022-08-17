@@ -6075,7 +6075,7 @@
 |**2022-08-16**|**Learning Facial Liveness Representation for Domain Generalized Face Anti-spoofing**|Zih-Ching Chen et.al.|[2208.07828v1](http://arxiv.org/abs/2208.07828v1)|null|
 |**2022-08-16**|**A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks**|Ngoc Bui et.al.|[2208.07824v1](http://arxiv.org/abs/2208.07824v1)|null|
 |**2022-08-16**|**Deep Reinforcement Learning for RIS-aided Multiuser Full-Duplex Secure Communications with Hardware Impairments**|Zhangjie Peng et.al.|[2208.07820v1](http://arxiv.org/abs/2208.07820v1)|null|
-|**2022-08-16**|**Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial**|Yang Zhi-Han et.al.|[2208.07818v1](http://arxiv.org/abs/2208.07818v1)|null|
+|**2022-08-16**|**Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial**|Yang Zhi-Han et.al.|[2208.07818v1](http://arxiv.org/abs/2208.07818v1)|**[link](https://github.com/zhihanyang2022/aevb-tutorial)**|
 |**2022-08-16**|**Does Lorentz-symmetric design boost network performance in jet physics?**|Congqiao Li et.al.|[2208.07814v1](http://arxiv.org/abs/2208.07814v1)|null|
 |**2022-08-16**|**Deep subwavelength resonant metaphotonics enabled by high-index topological insulator bismuth telluride**|Danveer Singh et.al.|[2208.07799v1](http://arxiv.org/abs/2208.07799v1)|null|
 |**2022-08-16**|**Delaunay-Triangulation-Based Learning with Hessian Total-Variation Regularization**|Mehrsa Pourya et.al.|[2208.07787v1](http://arxiv.org/abs/2208.07787v1)|null|
@@ -6084,16 +6084,16 @@
 |**2022-08-16**|**Towards Local Underexposed Photo Enhancement**|Yizhan Huang et.al.|[2208.07711v1](http://arxiv.org/abs/2208.07711v1)|null|
 |**2022-08-16**|**Approximated Doubly Robust Search Relevance Estimation**|Lixin Zou et.al.|[2208.07671v1](http://arxiv.org/abs/2208.07671v1)|null|
 |**2022-08-16**|**On Optimizing Back-Substitution Methods for Neural Network Verification**|Tom Zelazny et.al.|[2208.07669v1](http://arxiv.org/abs/2208.07669v1)|null|
-|**2022-08-16**|**DRAGON: Decentralized Fault Tolerance in Edge Federations**|Shreshth Tuli et.al.|[2208.07658v1](http://arxiv.org/abs/2208.07658v1)|null|
+|**2022-08-16**|**DRAGON: Decentralized Fault Tolerance in Edge Federations**|Shreshth Tuli et.al.|[2208.07658v1](http://arxiv.org/abs/2208.07658v1)|**[link](https://github.com/imperial-qore/dragon)**|
 |**2022-08-16**|**A Hybrid Deep Feature-Based Deformable Image Registration Method for Pathological Images**|Chulong Zhang et.al.|[2208.07655v1](http://arxiv.org/abs/2208.07655v1)|null|
 |**2022-08-16**|**Grapes disease detection using transfer learning**|Bhavya Jain et.al.|[2208.07647v1](http://arxiv.org/abs/2208.07647v1)|null|
 |**2022-08-16**|**A Review of the Convergence of 5G/6G Architecture and Deep Learning**|Olusola T. Odeyomi et.al.|[2208.07643v1](http://arxiv.org/abs/2208.07643v1)|null|
 |**2022-08-16**|**RAWtoBit: A Fully End-to-end Camera ISP Network**|Wooseok Jeong et.al.|[2208.07639v1](http://arxiv.org/abs/2208.07639v1)|null|
 |**2022-08-16**|**Neural network fragile watermarking with no model performance degradation**|Zhaoxia Yin et.al.|[2208.07585v1](http://arxiv.org/abs/2208.07585v1)|null|
-|**2022-08-16**|**HVS-Inspired Signal Degradation Network for Just Noticeable Difference Estimation**|Jian Jin et.al.|[2208.07583v1](http://arxiv.org/abs/2208.07583v1)|null|
-|**2022-08-16**|**A unifying partially-interpretable framework for neural network-based extreme quantile regression**|Jordan Richards et.al.|[2208.07581v1](http://arxiv.org/abs/2208.07581v1)|null|
+|**2022-08-16**|**HVS-Inspired Signal Degradation Network for Just Noticeable Difference Estimation**|Jian Jin et.al.|[2208.07583v1](http://arxiv.org/abs/2208.07583v1)|**[link](https://github.com/jianjin008/hvs-sd-jnd)**|
+|**2022-08-16**|**A unifying partially-interpretable framework for neural network-based extreme quantile regression**|Jordan Richards et.al.|[2208.07581v1](http://arxiv.org/abs/2208.07581v1)|**[link](https://github.com/jbrich95/pinnev)**|
 |**2022-08-16**|**Towards the phenomenological implications of the Physical Scheme in PDF fits**|Valerio Bertone et.al.|[2208.07579v1](http://arxiv.org/abs/2208.07579v1)|null|
-|**2022-08-16**|**Multi-dimensional topological loss for cortical plate segmentation in fetal brain MRI**|Priscille de Dumast et.al.|[2208.07566v1](http://arxiv.org/abs/2208.07566v1)|null|
+|**2022-08-16**|**Multi-dimensional topological loss for cortical plate segmentation in fetal brain MRI**|Priscille de Dumast et.al.|[2208.07566v1](http://arxiv.org/abs/2208.07566v1)|**[link](https://github.com/medical-image-analysis-laboratory/fetalcp_segmentation)**|
 |**2022-08-16**|**Reinforcement Learning to Rank with Coarse-grained Labels**|Zhichao Xu et.al.|[2208.07563v1](http://arxiv.org/abs/2208.07563v1)|null|
 |**2022-08-16**|**Coil2Coil: Self-supervised MR image denoising using phased-array coil images**|Juhyung Park et.al.|[2208.07552v1](http://arxiv.org/abs/2208.07552v1)|null|
 |**2022-08-16**|**Hybrid UAV-enabled Secure Offloading via Deep Reinforcement Learning**|Seonghoon Yoo et.al.|[2208.07550v1](http://arxiv.org/abs/2208.07550v1)|null|
@@ -7181,7 +7181,7 @@
 |**2022-05-31**|**CropMix: Sampling a Rich Input Distribution via Multi-Scale Cropping**|Junlin Han et.al.|[2205.15955v1](http://arxiv.org/abs/2205.15955v1)|**[link](https://github.com/junlinhan/cropmix)**|
 |**2022-05-29**|**CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers**|Wenyi Hong et.al.|[2205.15868v1](http://arxiv.org/abs/2205.15868v1)|**[link](https://github.com/thudm/cogvideo)**|
 |**2022-05-30**|**HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling**|Xiaosong Zhang et.al.|[2205.14949v1](http://arxiv.org/abs/2205.14949v1)|null|
-|**2022-08-16**|**SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners**|Feng Liang et.al.|[2205.14540v2](http://arxiv.org/abs/2205.14540v2)|**[link](https://github.com/cmu-enyac/supmae)**|
+|**2022-08-16**|**SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners**|Feng Liang et.al.|[2205.14540v2](http://arxiv.org/abs/2205.14540v2)|**[link](https://github.com/enyac-group/supmae)**|
 |**2022-05-28**|**A Closer Look at Self-supervised Lightweight Vision Transformers**|Shaoru Wang et.al.|[2205.14443v1](http://arxiv.org/abs/2205.14443v1)|null|
 |**2022-07-06**|**Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation**|Yixuan Wei et.al.|[2205.14141v2](http://arxiv.org/abs/2205.14141v2)|null|
 |**2022-06-01**|**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**|Siyuan Li et.al.|[2205.13943v2](http://arxiv.org/abs/2205.13943v2)|**[link](https://github.com/Westlake-AI/openmixup)**|
