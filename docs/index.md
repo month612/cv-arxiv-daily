@@ -6036,7 +6036,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|null|
-|**2022-08-16**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park et.al.|[2208.07039v2](http://arxiv.org/abs/2208.07039v2)|**[link](https://github.com/infinity7428/hANMCL)**|
+|**2022-08-16**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park et.al.|[2208.07039v2](http://arxiv.org/abs/2208.07039v2)|null|
 |**2022-08-04**|**Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**|Xinyu Lin et.al.|[2208.02450v1](http://arxiv.org/abs/2208.02450v1)|**[link](https://github.com/vcm-project233/mitml)**|
 |**2022-08-04**|**OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**|Weijia Li et.al.|[2208.00928v2](http://arxiv.org/abs/2208.00928v2)|null|
 |**2022-07-29**|**Testing Relational Understanding in Text-Guided Image Generation**|Colin Conwell et.al.|[2208.00005v1](http://arxiv.org/abs/2208.00005v1)|null|
@@ -6101,15 +6101,15 @@ layout: default
 |**2022-08-18**|**KDD CUP 2022 Wind Power Forecasting Team 88VIP Solution**|Fangquan Lin et.al.|[2208.08952v1](http://arxiv.org/abs/2208.08952v1)|null|
 |**2022-08-18**|**Learning-based estimation of in-situ wind speed from underwater acoustics**|Matteo Zambra et.al.|[2208.08912v1](http://arxiv.org/abs/2208.08912v1)|null|
 |**2022-08-18**|**Lessons from a Space Lab -- An Image Acquisition Perspective**|Leo Pauly et.al.|[2208.08865v1](http://arxiv.org/abs/2208.08865v1)|null|
-|**2022-08-18**|**A Two-stream Convolutional Network for Musculoskeletal and Neurological Disorders Prediction**|Manli Zhu et.al.|[2208.08848v1](http://arxiv.org/abs/2208.08848v1)|null|
+|**2022-08-18**|**A Two-stream Convolutional Network for Musculoskeletal and Neurological Disorders Prediction**|Manli Zhu et.al.|[2208.08848v1](http://arxiv.org/abs/2208.08848v1)|**[link](https://github.com/zhumanli/2s-cnn)**|
 |**2022-08-18**|**Outlier Detection using Self-Organizing Maps for Automated Blood Cell Analysis**|Stefan Röhrl et.al.|[2208.08834v1](http://arxiv.org/abs/2208.08834v1)|null|
 |**2022-08-18**|**Explainable Reinforcement Learning on Financial Stock Trading using SHAP**|Satyam Kumar et.al.|[2208.08790v1](http://arxiv.org/abs/2208.08790v1)|null|
 |**2022-08-18**|**Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis**|Linhao Qu et.al.|[2208.08789v1](http://arxiv.org/abs/2208.08789v1)|null|
-|**2022-08-18**|**Efficient data-driven gap filling of satellite image time series using deep neural networks with partial convolutions**|Marius Appel et.al.|[2208.08781v1](http://arxiv.org/abs/2208.08781v1)|null|
+|**2022-08-18**|**Efficient data-driven gap filling of satellite image time series using deep neural networks with partial convolutions**|Marius Appel et.al.|[2208.08781v1](http://arxiv.org/abs/2208.08781v1)|**[link](https://github.com/appelmar/stpconv)**|
 |**2022-08-18**|**Exploring and Exploiting Multi-Granularity Representations for Machine Reading Comprehension**|Nuo Chen et.al.|[2208.08750v1](http://arxiv.org/abs/2208.08750v1)|null|
 |**2022-08-18**|**Reconstruction of tokamak plasma safety factor profile using deep learning**|Xishuo Wei et.al.|[2208.08730v1](http://arxiv.org/abs/2208.08730v1)|null|
 |**2022-08-18**|**Learning Generative Models for Active Inference using Tensor Networks**|Samuel T. Wauthier et.al.|[2208.08713v1](http://arxiv.org/abs/2208.08713v1)|null|
-|**2022-08-18**|**L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training**|Jonghyun Bae et.al.|[2208.08711v1](http://arxiv.org/abs/2208.08711v1)|null|
+|**2022-08-18**|**L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training**|Jonghyun Bae et.al.|[2208.08711v1](http://arxiv.org/abs/2208.08711v1)|**[link](https://github.com/snu-arc/l3)**|
 |**2022-08-18**|**Deep Neural Network Approximation of Invariant Functions through Dynamical Systems**|Qianxiao Li et.al.|[2208.08707v1](http://arxiv.org/abs/2208.08707v1)|null|
 |**2022-08-18**|**Resisting Adversarial Attacks in Deep Neural Networks using Diverse Decision Boundaries**|Manaar Alam et.al.|[2208.08697v1](http://arxiv.org/abs/2208.08697v1)|null|
 |**2022-08-18**|**RRWaveNet: A Compact End-to-End Multi-Scale Residual CNN for Robust PPG Respiratory Rate Estimation**|Pongpanut Osathitporn et.al.|[2208.08672v1](http://arxiv.org/abs/2208.08672v1)|null|
@@ -6123,7 +6123,7 @@ layout: default
 |**2022-08-18**|**Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas**|Adrien Benamira et.al.|[2208.08609v1](http://arxiv.org/abs/2208.08609v1)|null|
 |**2022-08-18**|**AoI-based Temporal Attention Graph Neural Network for Popularity Prediction and Content Caching**|Jianhang Zhu et.al.|[2208.08606v1](http://arxiv.org/abs/2208.08606v1)|null|
 |**2022-08-18**|**Towards Practical Single-shot Phase Retrieval with Physics-Driven Deep Neural Network**|Qiuliang Ye et.al.|[2208.08604v1](http://arxiv.org/abs/2208.08604v1)|null|
-|**2022-08-18**|**Restoration of User Videos Shared on Social Media**|Hongming Luo et.al.|[2208.08597v1](http://arxiv.org/abs/2208.08597v1)|null|
+|**2022-08-18**|**Restoration of User Videos Shared on Social Media**|Hongming Luo et.al.|[2208.08597v1](http://arxiv.org/abs/2208.08597v1)|**[link](https://github.com/luohongming/votes)**|
 |**2022-08-17**|**ObfuNAS: A Neural Architecture Search-based DNN Obfuscation Approach**|Tong Zhou et.al.|[2208.08569v1](http://arxiv.org/abs/2208.08569v1)|null|
 |**2022-08-17**|**Physical Computing for Materials Acceleration Platforms**|Erik Peterson et.al.|[2208.08566v1](http://arxiv.org/abs/2208.08566v1)|null|
 |**2022-08-17**|**Restructurable Activation Networks**|Kartikeya Bhardwaj et.al.|[2208.08562v1](http://arxiv.org/abs/2208.08562v1)|null|
@@ -7331,7 +7331,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-18**|**Exploring Nanofibrous Networks with X-ray Photon Correlation Spectroscopy**|Tomas Rosén et.al.|[2208.08817v1](http://arxiv.org/abs/2208.08817v1)|null|
-|**2022-08-18**|**Visual Pursuit Control based on Gaussian Processes with Switched Motion Trajectories**|Marco Omainska et.al.|[2208.08645v1](http://arxiv.org/abs/2208.08645v1)|null|
+|**2022-08-18**|**Visual Pursuit Control based on Gaussian Processes with Switched Motion Trajectories**|Marco Omainska et.al.|[2208.08645v1](http://arxiv.org/abs/2208.08645v1)|**[link](https://github.com/marciska/vpc-switched-motion)**|
 |**2022-08-15**|**Prospects of federated machine learning in fluid dynamics**|Omer San et.al.|[2208.07017v1](http://arxiv.org/abs/2208.07017v1)|null|
 |**2022-08-12**|**Sim2real for Autonomous Vehicle Control using Executable Digital Twin**|Jean Pierre Allamaa et.al.|[2208.06226v1](http://arxiv.org/abs/2208.06226v1)|null|
 |**2022-08-12**|**Slicing4Meta: An Intelligent Integration Framework with Multi-dimensional Network Resources for Metaverse-as-a-Service in Web 3.0**|Yi-Jing Liu et.al.|[2208.06081v1](http://arxiv.org/abs/2208.06081v1)|null|
