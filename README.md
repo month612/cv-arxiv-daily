@@ -6079,7 +6079,7 @@
 |**2022-08-19**|**Wildfire Forecasting with Satellite Images and Deep Generative Model**|Thai-Nam Hoang et.al.|[2208.09411v1](http://arxiv.org/abs/2208.09411v1)|null|
 |**2022-08-19**|**PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**|Mohammadreza Amirian et.al.|[2208.09408v1](http://arxiv.org/abs/2208.09408v1)|null|
 |**2022-08-19**|**Nonlinear Optical Data Transformer for Machine Learning**|Mustafa Yildirim et.al.|[2208.09398v1](http://arxiv.org/abs/2208.09398v1)|null|
-|**2022-08-19**|**PyMIC: A deep learning toolkit for annotation-efficient medical image segmentation**|Guotai Wang et.al.|[2208.09350v1](http://arxiv.org/abs/2208.09350v1)|null|
+|**2022-08-19**|**PyMIC: A deep learning toolkit for annotation-efficient medical image segmentation**|Guotai Wang et.al.|[2208.09350v1](http://arxiv.org/abs/2208.09350v1)|**[link](https://github.com/hilab-git/pymic)**|
 |**2022-08-18**|**DCNNV-19: Uma rede neural convolucional profunda para detecção de COVID-19 em tomografias computadorizadas torácicas**|Victor Felipe Reis-Silva et.al.|[2208.09349v1](http://arxiv.org/abs/2208.09349v1)|**[link](https://github.com/reis-victor/DCNNV-19)**|
 |**2022-08-19**|**Dispersed Pixel Perturbation-based Imperceptible Backdoor Trigger for Image Classifier Models**|Yulong Wang et.al.|[2208.09336v1](http://arxiv.org/abs/2208.09336v1)|null|
 |**2022-08-19**|**Deep Learning for Choice Modeling**|Zhongze Cai et.al.|[2208.09325v1](http://arxiv.org/abs/2208.09325v1)|null|
@@ -6098,13 +6098,13 @@
 |**2022-08-19**|**DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization**|Anshul Nasery et.al.|[2208.09139v1](http://arxiv.org/abs/2208.09139v1)|null|
 |**2022-08-19**|**A Risk-Sensitive Approach to Policy Optimization**|Jared Markowitz et.al.|[2208.09106v1](http://arxiv.org/abs/2208.09106v1)|null|
 |**2022-08-19**|**Discovering Faint and High Apparent Motion Rate Near-Earth Asteroids Using A Deep Learning Program**|Franklin Wang et.al.|[2208.09098v1](http://arxiv.org/abs/2208.09098v1)|null|
-|**2022-08-18**|**Representation Learning for the Automatic Indexing of Sound Effects Libraries**|Alison B. Ma et.al.|[2208.09096v1](http://arxiv.org/abs/2208.09096v1)|null|
-|**2022-08-18**|**Out-of-distribution Detection via Frequency-regularized Generative Models**|Mu Cai et.al.|[2208.09083v1](http://arxiv.org/abs/2208.09083v1)|null|
+|**2022-08-18**|**Representation Learning for the Automatic Indexing of Sound Effects Libraries**|Alison B. Ma et.al.|[2208.09096v1](http://arxiv.org/abs/2208.09096v1)|**[link](https://github.com/alisonbma/aisfx)**|
+|**2022-08-18**|**Out-of-distribution Detection via Frequency-regularized Generative Models**|Mu Cai et.al.|[2208.09083v1](http://arxiv.org/abs/2208.09083v1)|**[link](https://github.com/mu-cai/frl)**|
 |**2022-08-18**|**dPMP-Deep Probabilistic Motion Planning: A use case in Strawberry Picking Robot**|Alessandra Tafuro et.al.|[2208.09074v1](http://arxiv.org/abs/2208.09074v1)|null|
 |**2022-08-18**|**Mouse Dynamics Behavioral Biometrics: A Survey**|Simon Khan et.al.|[2208.09061v1](http://arxiv.org/abs/2208.09061v1)|null|
 |**2022-08-18**|**A Review of Uncertainty for Deep Reinforcement Learning**|Owen Lockwood et.al.|[2208.09052v1](http://arxiv.org/abs/2208.09052v1)|null|
 |**2022-08-18**|**Quantitative Universal Approximation Bounds for Deep Belief Networks**|Julian Sieber et.al.|[2208.09033v1](http://arxiv.org/abs/2208.09033v1)|null|
-|**2022-08-18**|**VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations**|Georgios Chochlakis et.al.|[2208.09021v1](http://arxiv.org/abs/2208.09021v1)|null|
+|**2022-08-18**|**VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations**|Georgios Chochlakis et.al.|[2208.09021v1](http://arxiv.org/abs/2208.09021v1)|**[link](https://github.com/gchochla/vault)**|
 |**2022-08-18**|**The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs**|Chris Rockwell et.al.|[2208.08988v1](http://arxiv.org/abs/2208.08988v1)|null|
 |**2022-08-18**|**DeepClouds.ai: Deep learning enabled computationally cheap direct numerical simulations**|Moumita Bhowmik et.al.|[2208.08956v1](http://arxiv.org/abs/2208.08956v1)|null|
 |**2022-08-18**|**KDD CUP 2022 Wind Power Forecasting Team 88VIP Solution**|Fangquan Lin et.al.|[2208.08952v1](http://arxiv.org/abs/2208.08952v1)|null|
