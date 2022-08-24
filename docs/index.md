@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.23
+## Updated on 2022.08.24
 
 ## SLAM
 
@@ -6118,7 +6118,7 @@ layout: default
 |**2022-08-22**|**Dynamic Adaptive Threshold based Learning for Noisy Annotations Robust Facial Expression Recognition**|Darshan Gera et.al.|[2208.10221v1](http://arxiv.org/abs/2208.10221v1)|**[link](https://github.com/1980x/dnfer)**|
 |**2022-08-22**|**Exploring Task-oriented Communication in Multi-agent System: A Deep Reinforcement Learning Approach**|Guojun He et.al.|[2208.10165v1](http://arxiv.org/abs/2208.10165v1)|null|
 |**2022-08-22**|**ArNet-ECG: Deep Learning for the Detection of Atrial Fibrillation from the Raw Electrocardiogram**|Noam Ben-Moshe et.al.|[2208.10153v1](http://arxiv.org/abs/2208.10153v1)|null|
-|**2022-08-22**|**Deep 3D Vessel Segmentation based on Cross Transformer Network**|Chengwei Pan et.al.|[2208.10148v1](http://arxiv.org/abs/2208.10148v1)|null|
+|**2022-08-23**|**Deep 3D Vessel Segmentation based on Cross Transformer Network**|Chengwei Pan et.al.|[2208.10148v2](http://arxiv.org/abs/2208.10148v2)|null|
 |**2022-08-22**|**Learning Ball-balancing Robot Through Deep Reinforcement Learning**|Yifan Zhou et.al.|[2208.10142v1](http://arxiv.org/abs/2208.10142v1)|null|
 |**2022-08-22**|**Search for Mono-Higgs Signals in $b\bar b$ Final States Using Deep Neural Networks**|A. Hammad et.al.|[2208.10133v1](http://arxiv.org/abs/2208.10133v1)|null|
 |**2022-08-22**|**Dynamics of type V menthol-thymol deep eutectic solvents: Do they reveal non-ideality?**|Claire D'Hondt et.al.|[2208.10123v1](http://arxiv.org/abs/2208.10123v1)|null|
