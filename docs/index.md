@@ -6100,6 +6100,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-23**|**Towards Open Set Video Anomaly Detection**|Yuansheng Zhu et.al.|[2208.11113v1](http://arxiv.org/abs/2208.11113v1)|null|
+|**2022-08-23**|**Explaining Bias in Deep Face Recognition via Image Characteristics**|Andrea Atzori et.al.|[2208.11099v1](http://arxiv.org/abs/2208.11099v1)|null|
+|**2022-08-23**|**SurvSHAP(t): Time-dependent explanations of machine learning survival models**|Mateusz Krzyziński et.al.|[2208.11080v1](http://arxiv.org/abs/2208.11080v1)|**[link](https://github.com/mi2datalab/survshap)**|
+|**2022-08-23**|**DepthFake: a depth-based strategy for detecting Deepfake videos**|Luca Maiano et.al.|[2208.11074v1](http://arxiv.org/abs/2208.11074v1)|null|
+|**2022-08-23**|**IMPaSh: A Novel Domain-shift Resistant Representation for Colorectal Cancer Tissue Classification**|Trinh Thi Le Vuong et.al.|[2208.11052v1](http://arxiv.org/abs/2208.11052v1)|**[link](https://github.com/trinhvg/impash)**|
+|**2022-08-23**|**Self-Trained Proposal Networks for the Open World**|Matthew Inkawhich et.al.|[2208.11050v1](http://arxiv.org/abs/2208.11050v1)|null|
+|**2022-08-23**|**Testbeam Results of the Picosecond Avalanche Detector Proof-Of-Concept Prototype**|G. Iacobucci et.al.|[2208.11019v1](http://arxiv.org/abs/2208.11019v1)|null|
+|**2022-08-23**|**Adaptation of MobileNetV2 for Face Detection on Ultra-Low Power Platform**|Simon Narduzzi et.al.|[2208.11011v1](http://arxiv.org/abs/2208.11011v1)|null|
+|**2022-08-23**|**ULISSE: A Tool for One-shot Sky Exploration and its Application to Active Galactic Nuclei Detection**|Lars Doorenbos et.al.|[2208.10984v1](http://arxiv.org/abs/2208.10984v1)|**[link](https://github.com/larsdoorenbos/ulisse)**|
+|**2022-08-23**|**Robust DNN Watermarking via Fixed Embedding Weights with Optimized Distribution**|Benedetta Tondi et.al.|[2208.10973v1](http://arxiv.org/abs/2208.10973v1)|null|
+|**2022-08-23**|**Deep Structural Causal Shape Models**|Rajat Rasal et.al.|[2208.10950v1](http://arxiv.org/abs/2208.10950v1)|null|
+|**2022-08-23**|**Towards Natural Language-Based Visualization Authoring**|Yun Wang et.al.|[2208.10947v1](http://arxiv.org/abs/2208.10947v1)|null|
+|**2022-08-23**|**Large-Scale Integrated Flexible Tactile Sensor Array for Sensitive Smart Robotic Touch**|Zhenxuan Zhao et.al.|[2208.10933v1](http://arxiv.org/abs/2208.10933v1)|null|
+|**2022-08-23**|**AI and 6G into the Metaverse: Fundamentals, Challenges and Future Research Trends**|Muhammad Zawish et.al.|[2208.10921v1](http://arxiv.org/abs/2208.10921v1)|null|
+|**2022-08-23**|**A Comprehensive Study of Real-Time Object Detection Networks Across Multiple Domains: A Survey**|Elahe Arani et.al.|[2208.10895v1](http://arxiv.org/abs/2208.10895v1)|null|
+|**2022-08-23**|**What deep reinforcement learning tells us about human motor learning and vice-versa**|Michele Garibbo et.al.|[2208.10892v1](http://arxiv.org/abs/2208.10892v1)|null|
+|**2022-08-23**|**Latent Variable Models in the Era of Industrial Big Data: Extension and Beyond**|Xiangyin Kong et.al.|[2208.10847v1](http://arxiv.org/abs/2208.10847v1)|null|
+|**2022-08-23**|**Multimodal Crop Type Classification Fusing Multi-Spectral Satellite Time Series with Farmers Crop Rotations and Local Crop Distribution**|Valentin Barriere et.al.|[2208.10838v1](http://arxiv.org/abs/2208.10838v1)|null|
+|**2022-08-23**|**Automatic Calibration of a Six-Degrees-of-Freedom Pose Estimation System**|Wouter Jansen et.al.|[2208.10837v1](http://arxiv.org/abs/2208.10837v1)|null|
+|**2022-08-23**|**Satellite Image Search in AgoraEO**|Ahmet Kerem Aksoy et.al.|[2208.10830v1](http://arxiv.org/abs/2208.10830v1)|null|
+|**2022-08-23**|**Multimodal Across Domains Gaze Target Detection**|Francesco Tonini et.al.|[2208.10822v1](http://arxiv.org/abs/2208.10822v1)|**[link](https://github.com/francescotonini/multimodal-across-domains-gaze-target-detection)**|
+|**2022-08-23**|**Time-lapse image classification using a diffractive neural network**|Md Sadman Sakib Rahman et.al.|[2208.10802v1](http://arxiv.org/abs/2208.10802v1)|null|
+|**2022-08-23**|**Aging prediction using deep generative model toward the development of preventive medicine**|Hisaichi Shibata et.al.|[2208.10797v1](http://arxiv.org/abs/2208.10797v1)|null|
+|**2022-08-23**|**Unsupervised Detection of Sub-Territories of the Subthalamic Nucleus During DBS Surgery with Manifold Learning**|Ido Cohen et.al.|[2208.10788v1](http://arxiv.org/abs/2208.10788v1)|null|
+|**2022-08-23**|**Semantic Driven Energy based Out-of-Distribution Detection**|Abhishek Joshi et.al.|[2208.10787v1](http://arxiv.org/abs/2208.10787v1)|null|
+|**2022-08-23**|**How good are deep models in understanding\\ the generated images?**|Ali Borji et.al.|[2208.10760v1](http://arxiv.org/abs/2208.10760v1)|null|
+|**2022-08-23**|**Predicting Query-Item Relationship using Adversarial Training and Robust Modeling Techniques**|Min Seok Kim et.al.|[2208.10751v1](http://arxiv.org/abs/2208.10751v1)|null|
+|**2022-08-23**|**Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures**|Chitralekha Gupta et.al.|[2208.10743v1](http://arxiv.org/abs/2208.10743v1)|null|
+|**2022-08-23**|**Quality-Constant Per-Shot Encoding by Two-Pass Learning-based Rate Factor Prediction**|Chunlei Cai et.al.|[2208.10739v1](http://arxiv.org/abs/2208.10739v1)|null|
+|**2022-08-23**|**Semi-Automatic Labeling and Semantic Segmentation of Gram-Stained Microscopic Images from DIBaS Dataset**|Chethan Reddy G. P. et.al.|[2208.10737v1](http://arxiv.org/abs/2208.10737v1)|null|
+|**2022-08-23**|**Bag of Tricks for Out-of-Distribution Generalization**|Zining Chen et.al.|[2208.10722v1](http://arxiv.org/abs/2208.10722v1)|null|
+|**2022-08-23**|**Lexicase Selection at Scale**|Li Ding et.al.|[2208.10719v1](http://arxiv.org/abs/2208.10719v1)|null|
+|**2022-08-23**|**Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation**|Weihao Yan et.al.|[2208.10716v1](http://arxiv.org/abs/2208.10716v1)|null|
+|**2022-08-23**|**A Constrained Deformable Convolutional Network for Efficient Single Image Dynamic Scene Blind Deblurring with Spatially-Variant Motion Blur Kernels Estimation**|Shu Tang et.al.|[2208.10711v1](http://arxiv.org/abs/2208.10711v1)|**[link](https://github.com/wuyang1002431655/cdcn)**|
+|**2022-08-23**|**Influence of entrance channel on production cross section of exotic actinides in multinucleon transfer reactions**|PengHui Chen et.al.|[2208.10710v1](http://arxiv.org/abs/2208.10710v1)|null|
+|**2022-08-23**|**An intelligent algorithmic trading based on a risk-return reinforcement learning algorithm**|Boyi Jin et.al.|[2208.10707v1](http://arxiv.org/abs/2208.10707v1)|null|
+|**2022-08-23**|**CM-MLP: Cascade Multi-scale MLP with Axial Context Relation Encoder for Edge Segmentation of Medical Image**|Jinkai Lv et.al.|[2208.10701v1](http://arxiv.org/abs/2208.10701v1)|**[link](https://github.com/programmerhyy/cm-mlp)**|
+|**2022-08-23**|**Faint Features Tell: Automatic Vertebrae Fracture Screening Assisted by Contrastive Learning**|Xin Wei et.al.|[2208.10698v1](http://arxiv.org/abs/2208.10698v1)|**[link](https://github.com/wxwxwwxxx/VertebralFractureGrading)**|
+|**2022-08-23**|**Learning from Noisy Labels with Coarse-to-Fine Sample Credibility Modeling**|Boshen Zhang et.al.|[2208.10683v1](http://arxiv.org/abs/2208.10683v1)|null|
+|**2022-08-23**|**Beyond linear regression: mapping models in cognitive neuroscience should align with research goals**|Anna A. Ivanova et.al.|[2208.10668v1](http://arxiv.org/abs/2208.10668v1)|null|
+|**2022-08-23**|**Unsupervised Fish Trajectory Tracking and Segmentation**|Alzayat Saleh et.al.|[2208.10662v1](http://arxiv.org/abs/2208.10662v1)|null|
+|**2022-08-23**|**Survey on Evolutionary Deep Learning: Principles, Algorithms, Applications and Open Issues**|Nan Li et.al.|[2208.10658v1](http://arxiv.org/abs/2208.10658v1)|null|
+|**2022-08-22**|**RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN**|Huy Phan et.al.|[2208.10608v1](http://arxiv.org/abs/2208.10608v1)|**[link](https://github.com/huyvnphan/eccv2022-ribac)**|
+|**2022-08-22**|**Individual Tree Detection in Large-Scale Urban Environments using High-Resolution Multispectral Imagery**|Jonathan Ventura et.al.|[2208.10607v1](http://arxiv.org/abs/2208.10607v1)|**[link](https://github.com/jonathanventura/urban-tree-detection)**|
+|**2022-08-22**|**Automated Temporal Segmentation of Orofacial Assessment Videos**|Saeid Alavi Naeini et.al.|[2208.10591v1](http://arxiv.org/abs/2208.10591v1)|null|
+|**2022-08-22**|**Different Spectral Representations in Optimized Artificial Neural Networks and Brains**|Richard C. Gerum et.al.|[2208.10576v1](http://arxiv.org/abs/2208.10576v1)|null|
+|**2022-08-22**|**Transductive Decoupled Variational Inference for Few-Shot Classification**|Anuj Singh et.al.|[2208.10559v1](http://arxiv.org/abs/2208.10559v1)|null|
+|**2022-08-22**|**CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations**|Elona Dupont et.al.|[2208.10555v1](http://arxiv.org/abs/2208.10555v1)|null|
+|**2022-08-22**|**Split-U-Net: Preventing Data Leakage in Split Learning for Collaborative Multi-Modal Brain Tumor Segmentation**|Holger R. Roth et.al.|[2208.10553v1](http://arxiv.org/abs/2208.10553v1)|null|
+|**2022-08-22**|**Solvable model of deep thermalization with distinct design times**|Matteo Ippoliti et.al.|[2208.10542v1](http://arxiv.org/abs/2208.10542v1)|null|
 |**2022-08-22**|**Shapelet-Based Counterfactual Explanations for Multivariate Time Series**|Omar Bahri et.al.|[2208.10462v1](http://arxiv.org/abs/2208.10462v1)|**[link](https://github.com/omarbahri/sets)**|
 |**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|**[link](https://github.com/microsoft/unilm/tree/master/beit)**|
 |**2022-08-22**|**MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation**|Jianfei Yang et.al.|[2208.10414v1](http://arxiv.org/abs/2208.10414v1)|null|
@@ -7416,6 +7466,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-23**|**CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety Oriented Research and Digital Twins**|Ou Zheng et.al.|[2208.11036v1](http://arxiv.org/abs/2208.11036v1)|**[link](https://github.com/ozheng1993/ucf-sst-citysim-dataset)**|
+|**2022-08-23**|**Aging prediction using deep generative model toward the development of preventive medicine**|Hisaichi Shibata et.al.|[2208.10797v1](http://arxiv.org/abs/2208.10797v1)|null|
 |**2022-08-19**|**A Physics-based Domain Adaptation framework for modelling and forecasting building energy systems**|Zack Xuereb Conti et.al.|[2208.09456v1](http://arxiv.org/abs/2208.09456v1)|null|
 |**2022-08-18**|**Exploring Nanofibrous Networks with X-ray Photon Correlation Spectroscopy**|Tomas Rosén et.al.|[2208.08817v1](http://arxiv.org/abs/2208.08817v1)|null|
 |**2022-08-18**|**Visual Pursuit Control based on Gaussian Processes with Switched Motion Trajectories**|Marco Omainska et.al.|[2208.08645v1](http://arxiv.org/abs/2208.08645v1)|**[link](https://github.com/marciska/vpc-switched-motion)**|
