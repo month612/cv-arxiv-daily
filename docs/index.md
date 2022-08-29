@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.28
+## Updated on 2022.08.29
 
 ## SLAM
 
@@ -5779,7 +5779,7 @@ layout: default
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|**[link](https://github.com/url-kaist/dynavins)**|
 |**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge et.al.|[2208.10204v1](http://arxiv.org/abs/2208.10204v1)|null|
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
-|**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777v1](http://arxiv.org/abs/2208.09777v1)|null|
+|**2022-08-26**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777v2](http://arxiv.org/abs/2208.09777v2)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
@@ -6107,6 +6107,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-26**|**VMFormer: End-to-End Video Matting with Transformer**|Jiachen Li et.al.|[2208.12801v1](http://arxiv.org/abs/2208.12801v1)|null|
+|**2022-08-26**|**Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning**|Cephas Samende et.al.|[2208.12779v1](http://arxiv.org/abs/2208.12779v1)|null|
+|**2022-08-26**|**Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging**|Vivek Gopalakrishnan et.al.|[2208.12737v1](http://arxiv.org/abs/2208.12737v1)|**[link](https://github.com/v715/DiffDRR)**|
+|**2022-08-26**|**Multi-Scale Architectures Matter: On the Adversarial Robustness of Flow-based Lossless Compression**|Yi-chong Xia et.al.|[2208.12716v1](http://arxiv.org/abs/2208.12716v1)|null|
+|**2022-08-26**|**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**|Marco Schreyer et.al.|[2208.12708v1](http://arxiv.org/abs/2208.12708v1)|null|
+|**2022-08-26**|**SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation**|Shaowen Peng et.al.|[2208.12689v1](http://arxiv.org/abs/2208.12689v1)|**[link](https://github.com/tanatosuu/svd_gcn)**|
+|**2022-08-26**|**Multi tasks RetinaNet for mitosis detection**|Chen Yang et.al.|[2208.12657v1](http://arxiv.org/abs/2208.12657v1)|null|
+|**2022-08-26**|**Extreme Gradient Boosting for Yield Estimation compared with Deep Learning Approaches**|Florian Huber et.al.|[2208.12633v1](http://arxiv.org/abs/2208.12633v1)|null|
+|**2022-08-26**|**PNPCoin: Distributed Computing on Bitcoin infrastructure**|Martin Kolář et.al.|[2208.12628v1](http://arxiv.org/abs/2208.12628v1)|null|
+|**2022-08-26**|**From WSI-level to Patch-level: Structure Prior Guided Binuclear Cell Fine-grained Detection**|Baomin Wang et.al.|[2208.12623v1](http://arxiv.org/abs/2208.12623v1)|null|
+|**2022-08-26**|**On the Implicit Bias in Deep-Learning Algorithms**|Gal Vardi et.al.|[2208.12591v1](http://arxiv.org/abs/2208.12591v1)|null|
+|**2022-08-26**|**Ab-initio quantum chemistry with neural-network wavefunctions**|Jan Hermann et.al.|[2208.12590v1](http://arxiv.org/abs/2208.12590v1)|null|
+|**2022-08-26**|**Stain-Robust Mitotic Figure Detection for MIDOG 2022 Challenge**|Mostafa Jahanifar et.al.|[2208.12587v1](http://arxiv.org/abs/2208.12587v1)|null|
+|**2022-08-26**|**Deep Hypergraph Structure Learning**|Zizhao Zhang et.al.|[2208.12547v1](http://arxiv.org/abs/2208.12547v1)|null|
+|**2022-08-26**|**Kinematical higher-twist corrections in $γ^* γ\to ππ$**|Cédric Lorcé et.al.|[2208.12532v1](http://arxiv.org/abs/2208.12532v1)|null|
+|**2022-08-26**|**Visual processing in context of reinforcement learning**|Hlynur Davíð Hlynsson et.al.|[2208.12525v1](http://arxiv.org/abs/2208.12525v1)|null|
+|**2022-08-26**|**ESC-Rules: Explainable, Semantically Constrained Rule Sets**|Martin Glauer et.al.|[2208.12523v1](http://arxiv.org/abs/2208.12523v1)|null|
+|**2022-08-26**|**EGFR Mutation Prediction of Lung Biopsy Images using Deep Learning**|Ravi Kant Gupta et.al.|[2208.12506v1](http://arxiv.org/abs/2208.12506v1)|null|
+|**2022-08-26**|**GHN-Q: Parameter Prediction for Unseen Quantized Convolutional Architectures via Graph Hypernetworks**|Stone Yun et.al.|[2208.12489v1](http://arxiv.org/abs/2208.12489v1)|null|
+|**2022-08-26**|**Concept-Based Techniques for "Musicologist-friendly" Explanations in a Deep Music Classifier**|Francesco Foscarin et.al.|[2208.12485v1](http://arxiv.org/abs/2208.12485v1)|null|
+|**2022-08-26**|**PNO: A Promising Deep-UV Nonlinear Optical Material with Extremely High Second Harmonic Generation Effect**|Congwei Xie et.al.|[2208.12475v1](http://arxiv.org/abs/2208.12475v1)|null|
+|**2022-08-26**|**Meta Objective Guided Disambiguation for Partial Label Learning**|Bo-Shi Zou et.al.|[2208.12459v1](http://arxiv.org/abs/2208.12459v1)|null|
+|**2022-08-26**|**Exploiting Deep Reinforcement Learning for Edge Caching in Cell-Free Massive MIMO Systems**|Yu Zhang et.al.|[2208.12453v1](http://arxiv.org/abs/2208.12453v1)|null|
+|**2022-08-26**|**Towards Automated Imbalanced Learning with Deep Hierarchical Reinforcement Learning**|Daochen Zha et.al.|[2208.12433v1](http://arxiv.org/abs/2208.12433v1)|**[link](https://github.com/daochenzha/autosmote)**|
+|**2022-08-26**|**Robust Prototypical Few-Shot Organ Segmentation with Regularized Neural-ODEs**|Prashant Pandey et.al.|[2208.12428v1](http://arxiv.org/abs/2208.12428v1)|null|
+|**2022-08-25**|**OOD-Probe: A Neural Interpretation of Out-of-Domain Generalization**|Zining Zhu et.al.|[2208.12352v1](http://arxiv.org/abs/2208.12352v1)|null|
+|**2022-08-25**|**SNAP: Efficient Extraction of Private Properties with Poisoning**|Harsh Chaudhari et.al.|[2208.12348v1](http://arxiv.org/abs/2208.12348v1)|null|
+|**2022-08-25**|**Two-level Closed Loops for RAN Slice Resources Management Serving Flying and Ground-based Cars**|Anselme Ndikumana et.al.|[2208.12344v1](http://arxiv.org/abs/2208.12344v1)|null|
+|**2022-08-25**|**Continuous Deep Learning: A Workflow to Bring Models into Production**|Janosch Baltensperger et.al.|[2208.12308v1](http://arxiv.org/abs/2208.12308v1)|null|
+|**2022-08-25**|**A Deep Perceptual Measure for Lens and Camera Calibration**|Yannick Hold-Geoffroy et.al.|[2208.12300v1](http://arxiv.org/abs/2208.12300v1)|null|
 |**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
 |**2022-08-25**|**Semantic Preserving Adversarial Attack Generation with Autoencoder and Genetic Algorithm**|Xinyi Wang et.al.|[2208.12230v1](http://arxiv.org/abs/2208.12230v1)|null|
 |**2022-08-25**|**The postperovskite transition in Fe- and Al-bearing bridgmanite: effects on seismic observables**|Juan J. Valencia-Cardona et.al.|[2208.12207v1](http://arxiv.org/abs/2208.12207v1)|null|
@@ -6117,7 +6147,7 @@ layout: default
 |**2022-08-25**|**Prediction of numerical homogenization using deep learning for the Richards equation**|Sergei Stepanov et.al.|[2208.12161v1](http://arxiv.org/abs/2208.12161v1)|null|
 |**2022-08-25**|**Multi-Scale Multi-Target Domain Adaptation for Angle Closure Classification**|Zhen Qiu et.al.|[2208.12157v1](http://arxiv.org/abs/2208.12157v1)|null|
 |**2022-08-25**|**Deep neural networks for fast acquisition of aortic 3D pressure and velocity flow fields**|Endrit Pajaziti et.al.|[2208.12156v1](http://arxiv.org/abs/2208.12156v1)|null|
-|**2022-08-25**|**Supervised Dimensionality Reduction and Classification with Convolutional Autoencoders**|Ioannis A. Nellas et.al.|[2208.12152v1](http://arxiv.org/abs/2208.12152v1)|**[link](https://github.com/johnnellas/csae)**|
+|**2022-08-26**|**Supervised Dimensionality Reduction and Classification with Convolutional Autoencoders**|Ioannis A. Nellas et.al.|[2208.12152v2](http://arxiv.org/abs/2208.12152v2)|**[link](https://github.com/johnnellas/csae)**|
 |**2022-08-25**|**A deep learning framework for geodesics under spherical Wasserstein-Fisher-Rao metric and its application for weighted sample generation**|Yang Jing et.al.|[2208.12145v1](http://arxiv.org/abs/2208.12145v1)|null|
 |**2022-08-25**|**Automatic Mapping of Unstructured Cyber Threat Intelligence: An Experimental Study**|Vittorio Orbinato et.al.|[2208.12144v1](http://arxiv.org/abs/2208.12144v1)|null|
 |**2022-08-25**|**A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method**|Ankur Sinha et.al.|[2208.12118v1](http://arxiv.org/abs/2208.12118v1)|null|
@@ -7487,7 +7517,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-25**|**Evidence of Kardar-Parisi-Zhang scaling on a digital quantum simulator**|Nathan Keenan et.al.|[2208.12243v1](http://arxiv.org/abs/2208.12243v1)|null|
+|**2022-08-26**|**Evidence of Kardar-Parisi-Zhang scaling on a digital quantum simulator**|Nathan Keenan et.al.|[2208.12243v2](http://arxiv.org/abs/2208.12243v2)|null|
 |**2022-08-25**|**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**|Nataniel Ruiz et.al.|[2208.12242v1](http://arxiv.org/abs/2208.12242v1)|null|
 |**2022-08-24**|**A Deep Learning Approach Using Masked Image Modeling for Reconstruction of Undersampled K-spaces**|Kyler Larsen et.al.|[2208.11472v1](http://arxiv.org/abs/2208.11472v1)|**[link](https://github.com/Aopsmath99/MIMMRI)**|
 |**2022-08-24**|**Deep Hyperspectral and Multispectral Image Fusion with Inter-image Variability**|Xiuheng Wang et.al.|[2208.11376v1](http://arxiv.org/abs/2208.11376v1)|**[link](https://github.com/xiuheng-wang/difiv_release)**|
