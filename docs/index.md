@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.31
+## Updated on 2022.09.01
 
 ## SLAM
 
@@ -6120,7 +6120,7 @@ layout: default
 |**2022-08-30**|**SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes**|Partha Das et.al.|[2208.14369v1](http://arxiv.org/abs/2208.14369v1)|null|
 |**2022-08-30**|**FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain**|Mostafa Mehdipour Ghazi et.al.|[2208.14360v1](http://arxiv.org/abs/2208.14360v1)|null|
 |**2022-08-30**|**Analysis of Distributed Deep Learning in the Cloud**|Aakash Sharma et.al.|[2208.14344v1](http://arxiv.org/abs/2208.14344v1)|null|
-|**2022-08-30**|**HPPNet: Modeling the Harmonic Structure and Pitch Invariance in Piano Transcription**|Weixing Wei et.al.|[2208.14339v1](http://arxiv.org/abs/2208.14339v1)|null|
+|**2022-08-31**|**HPPNet: Modeling the Harmonic Structure and Pitch Invariance in Piano Transcription**|Weixing Wei et.al.|[2208.14339v2](http://arxiv.org/abs/2208.14339v2)|null|
 |**2022-08-30**|**Distributed Ensembles of Reinforcement Learning Agents for Electricity Control**|Pierrick Pochelu et.al.|[2208.14338v1](http://arxiv.org/abs/2208.14338v1)|null|
 |**2022-08-30**|**The massless three-loop Wilson coefficients for the deep-inelastic structure functions $F_2, F_L, xF_3$ and $g_1$**|J. Blümlein et.al.|[2208.14325v1](http://arxiv.org/abs/2208.14325v1)|null|
 |**2022-08-30**|**Representation Learning based and Interpretable Reactor System Diagnosis Using Denoising Padded Autoencoder**|Chengyuan Li et.al.|[2208.14319v1](http://arxiv.org/abs/2208.14319v1)|null|
@@ -6147,11 +6147,11 @@ layout: default
 |**2022-08-30**|**Weakly Supervised Faster-RCNN+FPN to classify animals in camera trap images**|Pierrick Pochelu et.al.|[2208.14060v1](http://arxiv.org/abs/2208.14060v1)|null|
 |**2022-08-30**|**An efficient and flexible inference system for serving heterogeneous ensembles of deep neural networks**|Pierrick Pochelu et.al.|[2208.14049v1](http://arxiv.org/abs/2208.14049v1)|null|
 |**2022-08-30**|**A Deep Neural Networks ensemble workflow from hyperparameter search to inference leveraging GPU clusters**|Pierrick Pochelu et.al.|[2208.14046v1](http://arxiv.org/abs/2208.14046v1)|null|
-|**2022-08-30**|**Deep Autoencoders for Anomaly Detection in Textured Images using CW-SSIM**|Andrea Bionda et.al.|[2208.14045v1](http://arxiv.org/abs/2208.14045v1)|null|
+|**2022-08-30**|**Deep Autoencoders for Anomaly Detection in Textured Images using CW-SSIM**|Andrea Bionda et.al.|[2208.14045v1](http://arxiv.org/abs/2208.14045v1)|**[link](https://github.com/andreabiondapolimi/anomaly-detection-autoencoders-using-cw-ssim)**|
 |**2022-08-30**|**Deep Weighted Monte Carlo: A hybrid option pricing framework using neural networks**|Sándor Kunsági-Máté et.al.|[2208.14038v1](http://arxiv.org/abs/2208.14038v1)|null|
 |**2022-08-30**|**Prediction of Red Wine Quality Using One-dimensional Convolutional Neural Networks**|Shengnan Di et.al.|[2208.14008v1](http://arxiv.org/abs/2208.14008v1)|null|
 |**2022-08-30**|**The Velocity-Dependent $J$-factor of the Milky Way Halo: Does What Happens in the Galactic Bulge Stay in the Galactic Bulge?**|Kenny Kiriu et.al.|[2208.14002v1](http://arxiv.org/abs/2208.14002v1)|null|
-|**2022-08-30**|**Discovery of Peculiar Radio Morphologies with ASKAP using Unsupervised Machine Learning}**|Nikhel Gupta et.al.|[2208.13997v1](http://arxiv.org/abs/2208.13997v1)|null|
+|**2022-08-31**|**Discovery of Peculiar Radio Morphologies with ASKAP using Unsupervised Machine Learning**|Nikhel Gupta et.al.|[2208.13997v2](http://arxiv.org/abs/2208.13997v2)|null|
 |**2022-08-30**|**HiGNN: Hierarchical Informative Graph Neural Networks for Molecular Property Prediction Equipped with Feature-Wise Attention**|Weimin Zhu et.al.|[2208.13994v1](http://arxiv.org/abs/2208.13994v1)|**[link](https://github.com/idruglab/hignn)**|
 |**2022-08-30**|**Model-robust Bayesian design through Generalised Additive Models for monitoring submerged shoals**|Dilishiya De Silva et.al.|[2208.13980v1](http://arxiv.org/abs/2208.13980v1)|null|
 |**2022-08-30**|**Virtual impactor-based label-free bio-aerosol detection using holography and deep learning**|Yi Luo et.al.|[2208.13979v1](http://arxiv.org/abs/2208.13979v1)|null|
