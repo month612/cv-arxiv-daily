@@ -1,4 +1,4 @@
-## Updated on 2022.09.01
+## Updated on 2022.09.02
 
 ## SLAM
 
@@ -6125,7 +6125,7 @@
 |**2022-08-30**|**Expert Opinion Elicitation for Assisting Deep Learning based Lyme Disease Classifier with Patient Data**|Sk Imran Hossain et.al.|[2208.14384v1](http://arxiv.org/abs/2208.14384v1)|null|
 |**2022-08-30**|**Digital Twin Assisted Risk-Aware Sleep Mode Management Using Deep Q-Networks**|Meysam Masoudi et.al.|[2208.14380v1](http://arxiv.org/abs/2208.14380v1)|null|
 |**2022-08-30**|**Associative Learning for Network Embedding**|Yuchen Liang et.al.|[2208.14376v1](http://arxiv.org/abs/2208.14376v1)|null|
-|**2022-08-30**|**Deep Spatial and Tonal Optimisation for Diffusion Inpainting**|Pascal Peter et.al.|[2208.14371v1](http://arxiv.org/abs/2208.14371v1)|null|
+|**2022-08-30**|**Deep Spatial and Tonal Data Optimisation for Homogeneous Diffusion Inpainting**|Pascal Peter et.al.|[2208.14371v1](http://arxiv.org/abs/2208.14371v1)|null|
 |**2022-08-30**|**SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes**|Partha Das et.al.|[2208.14369v1](http://arxiv.org/abs/2208.14369v1)|null|
 |**2022-08-30**|**FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain**|Mostafa Mehdipour Ghazi et.al.|[2208.14360v1](http://arxiv.org/abs/2208.14360v1)|**[link](https://github.com/mostafa-ghazi/mri-augmentation)**|
 |**2022-08-30**|**Analysis of Distributed Deep Learning in the Cloud**|Aakash Sharma et.al.|[2208.14344v1](http://arxiv.org/abs/2208.14344v1)|null|
