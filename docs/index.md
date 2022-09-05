@@ -6113,6 +6113,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-02**|**Transformers in Remote Sensing: A Survey**|Abdulaziz Amer Aleissaee et.al.|[2209.01206v1](http://arxiv.org/abs/2209.01206v1)|null|
+|**2022-09-02**|**Early detection of knee osteoarthritis using deep learning on knee magnetic resonance images**|Anastasis Alexopoulos et.al.|[2209.01192v1](http://arxiv.org/abs/2209.01192v1)|null|
+|**2022-09-02**|**First Hitting Diffusion Models**|Mao Ye et.al.|[2209.01170v1](http://arxiv.org/abs/2209.01170v1)|null|
+|**2022-09-02**|**Back-to-Bones: Rediscovering the Role of Backbones in Domain Generalization**|Simone Angarano et.al.|[2209.01121v1](http://arxiv.org/abs/2209.01121v1)|null|
+|**2022-09-02**|**Inference and dynamic decision-making for deteriorating systems with probabilistic dependencies through Bayesian networks and deep reinforcement learning**|Pablo G. Morato et.al.|[2209.01092v1](http://arxiv.org/abs/2209.01092v1)|null|
+|**2022-09-02**|**Normalization effects on deep neural networks**|Jiahui Yu et.al.|[2209.01018v1](http://arxiv.org/abs/2209.01018v1)|null|
+|**2022-09-02**|**Exploiting Pretrained Biochemical Language Models for Targeted Drug Design**|Gökçe Uludoğan et.al.|[2209.00981v1](http://arxiv.org/abs/2209.00981v1)|**[link](https://github.com/boun-tabi/biochemical-lms-for-drug-design)**|
+|**2022-09-02**|**Multimodal Information Fusion for Glaucoma and DR Classification**|Yihao Li et.al.|[2209.00979v1](http://arxiv.org/abs/2209.00979v1)|null|
+|**2022-09-02**|**Contrastive Semantic-Guided Image Smoothing Network**|Jie Wang et.al.|[2209.00977v1](http://arxiv.org/abs/2209.00977v1)|**[link](https://github.com/wangjie6866/csgis-net)**|
+|**2022-09-02**|**Automated Assessment of Transthoracic Echocardiogram Image Quality Using Deep Neural Networks**|Robert B. Labs et.al.|[2209.00976v1](http://arxiv.org/abs/2209.00976v1)|null|
+|**2022-09-02**|**Reducing The Amortization Gap of Entropy Bottleneck In End-to-End Image Compression**|Muhammet Balcilar et.al.|[2209.00964v1](http://arxiv.org/abs/2209.00964v1)|null|
+|**2022-09-02**|**Echocardiographic Image Quality Assessment Using Deep Neural Networks**|Robert B. Labs et.al.|[2209.00959v1](http://arxiv.org/abs/2209.00959v1)|null|
+|**2022-09-02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora et.al.|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
+|**2022-09-02**|**Inferring Tabular Analysis Metadata by Infusing Distribution and Knowledge Information**|Xinyi He et.al.|[2209.00946v1](http://arxiv.org/abs/2209.00946v1)|null|
+|**2022-09-02**|**TB or not TB? Acoustic cough analysis for tuberculosis classification**|Geoffrey Frost et.al.|[2209.00934v1](http://arxiv.org/abs/2209.00934v1)|null|
+|**2022-09-02**|**Instance-Dependent Noisy Label Learning via Graphical Modelling**|Arpit Garg et.al.|[2209.00906v1](http://arxiv.org/abs/2209.00906v1)|null|
+|**2022-09-02**|**KMTNet Nearby Galaxy Survey: Overview and a Survey Description**|Woowon Byun et.al.|[2209.00902v1](http://arxiv.org/abs/2209.00902v1)|null|
+|**2022-09-02**|**PulseDL-II: A System-on-Chip Neural Network Accelerator for Timing and Energy Extraction of Nuclear Detector Signals**|Pengcheng Ai et.al.|[2209.00884v1](http://arxiv.org/abs/2209.00884v1)|null|
+|**2022-09-02**|**Dark Matter: DAMA/LIBRA and its perspectives**|R. Bernabei et.al.|[2209.00882v1](http://arxiv.org/abs/2209.00882v1)|null|
+|**2022-09-02**|**Vision-Language Adaptive Mutual Decoder for OOV-STR**|Jinshui Hu et.al.|[2209.00859v1](http://arxiv.org/abs/2209.00859v1)|null|
+|**2022-09-02**|**Human Activity Recognition on Microcontrollers with Quantized and Adaptive Deep Neural Networks**|Francesco Daghero et.al.|[2209.00839v1](http://arxiv.org/abs/2209.00839v1)|null|
+|**2022-09-02**|**Self-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction**|Zhuo-Xu Cui et.al.|[2209.00835v1](http://arxiv.org/abs/2209.00835v1)|null|
+|**2022-09-02**|**Multi-scale temporal-frequency attention for music source separation**|Lianwu Chen et.al.|[2209.00805v1](http://arxiv.org/abs/2209.00805v1)|null|
+|**2022-09-02**|**Diffusion Models: A Comprehensive Survey of Methods and Applications**|Ling Yang et.al.|[2209.00796v1](http://arxiv.org/abs/2209.00796v1)|null|
+|**2022-09-02**|**Semantic Communication-Empowered Physical-layer Network Coding**|Shuai Yang et.al.|[2209.00791v1](http://arxiv.org/abs/2209.00791v1)|null|
+|**2022-09-02**|**Tweak: Towards Portable Deep Learning Models for Domain-Agnostic LoRa Device Authentication**|Jared Gaskin et.al.|[2209.00786v1](http://arxiv.org/abs/2209.00786v1)|null|
+|**2022-09-02**|**Index Tracking via Learning to Predict Market Sensitivities**|Yoonsik Hong et.al.|[2209.00780v1](http://arxiv.org/abs/2209.00780v1)|null|
+|**2022-09-02**|**Detection of False Data Injection Attacks in Smart Grid: A Secure Federated Deep Learning Approach**|Yang Li et.al.|[2209.00778v1](http://arxiv.org/abs/2209.00778v1)|null|
+|**2022-09-01**|**Pedal underwater motion triggers highly-peaked resonance on water waves**|Juan F. Marín et.al.|[2209.00748v1](http://arxiv.org/abs/2209.00748v1)|null|
+|**2022-09-01**|**Enabling Country-Scale Land Cover Mapping with Meter-Resolution Satellite Imagery**|Xin-Yi Tong et.al.|[2209.00727v1](http://arxiv.org/abs/2209.00727v1)|null|
+|**2022-09-01**|**Generalizing intrusion detection for heterogeneous networks: A stacked-unsupervised federated learning approach**|Gustavo de Carvalho Bertoli et.al.|[2209.00721v1](http://arxiv.org/abs/2209.00721v1)|null|
+|**2022-09-01**|**Systematic study of ionospheric scintillation over the indian low-latitudes during low solar activity conditions**|Deepthi Ayyagari et.al.|[2209.00708v1](http://arxiv.org/abs/2209.00708v1)|null|
+|**2022-09-01**|**Deep reinforcement learning for quantum multiparameter estimation**|Valeria Cimini et.al.|[2209.00671v1](http://arxiv.org/abs/2209.00671v1)|null|
 |**2022-08-31**|**Classification of Electroencephalograms during Mathematical Calculations Using Deep Learning**|Umang Goenka et.al.|[2209.00627v1](http://arxiv.org/abs/2209.00627v1)|null|
 |**2022-09-01**|**Heterogeneous Graph Tree Networks**|Nan Wu et.al.|[2209.00610v1](http://arxiv.org/abs/2209.00610v1)|**[link](https://github.com/hetgnn/hetgtnet)**|
 |**2022-09-01**|**Transformers are Sample Efficient World Models**|Vincent Micheli et.al.|[2209.00588v1](http://arxiv.org/abs/2209.00588v1)|**[link](https://github.com/eloialonso/iris)**|
