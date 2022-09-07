@@ -6119,27 +6119,27 @@
 |**2022-09-06**|**Mimose: An Input-Aware Checkpointing Planner for Efficient Training on GPU**|Jianjin Liao et.al.|[2209.02478v1](http://arxiv.org/abs/2209.02478v1)|null|
 |**2022-09-06**|**Instance Attack:An Explanation-based Vulnerability Analysis Framework Against DNNs for Malware Detection**|Sun RuiJin et.al.|[2209.02453v1](http://arxiv.org/abs/2209.02453v1)|null|
 |**2022-09-06**|**A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data**|Zhengmi Tang et.al.|[2209.02397v1](http://arxiv.org/abs/2209.02397v1)|null|
-|**2022-09-06**|**Continual Learning: Fast and Slow**|Quang Pham et.al.|[2209.02370v1](http://arxiv.org/abs/2209.02370v1)|null|
+|**2022-09-06**|**Continual Learning: Fast and Slow**|Quang Pham et.al.|[2209.02370v1](http://arxiv.org/abs/2209.02370v1)|**[link](https://github.com/phquang/DualNet)**|
 |**2022-09-06**|**Team theAntipodes: Solution Methodology for GTOC11**|Roberto Armellin et.al.|[2209.02350v1](http://arxiv.org/abs/2209.02350v1)|null|
 |**2022-09-06**|**Pattern-Based Prediction of Population Outbreaks**|Gabriel R. Palma et.al.|[2209.02346v1](http://arxiv.org/abs/2209.02346v1)|null|
 |**2022-09-06**|**MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World**|Hua Ma et.al.|[2209.02339v1](http://arxiv.org/abs/2209.02339v1)|null|
 |**2022-09-06**|**Progressive Glass Segmentation**|Letian Yu et.al.|[2209.02280v1](http://arxiv.org/abs/2209.02280v1)|null|
 |**2022-09-06**|**Towards Intelligent Millimeter and Terahertz Communication for 6G: Computer Vision-aided Beamforming**|Yongjun Ahn et.al.|[2209.02258v1](http://arxiv.org/abs/2209.02258v1)|null|
 |**2022-09-06**|**Machine Learning For Classification Of Antithetical Emotional States**|Jeevanshi Sharma et.al.|[2209.02249v1](http://arxiv.org/abs/2209.02249v1)|null|
-|**2022-09-06**|**USLN: A statistically guided lightweight network for underwater image enhancement via dual-statistic white balance and multi-color space stretch**|Ziyuan Xiao et.al.|[2209.02221v1](http://arxiv.org/abs/2209.02221v1)|null|
+|**2022-09-06**|**USLN: A statistically guided lightweight network for underwater image enhancement via dual-statistic white balance and multi-color space stretch**|Ziyuan Xiao et.al.|[2209.02221v1](http://arxiv.org/abs/2209.02221v1)|**[link](https://github.com/deepxzy/usln)**|
 |**2022-09-06**|**Reference Resolution and Context Change in Multimodal Situated Dialogue for Exploring Data Visualizations**|Abhinav Kumar et.al.|[2209.02215v1](http://arxiv.org/abs/2209.02215v1)|null|
 |**2022-09-06**|**Deep Neural Network Augmented Wireless Channel Estimation on System on Chip**|Syed Asrar ul haq et.al.|[2209.02213v1](http://arxiv.org/abs/2209.02213v1)|null|
 |**2022-09-06**|**A Multitask Deep Learning Model for Parsing Bridge Elements and Segmenting Defect in Bridge Inspection Images**|Chenyu Zhang et.al.|[2209.02190v1](http://arxiv.org/abs/2209.02190v1)|null|
 |**2022-09-06**|**Bayesian Neural Network Inference via Implicit Models and the Posterior Predictive Distribution**|Joel Janek Dabrowski et.al.|[2209.02188v1](http://arxiv.org/abs/2209.02188v1)|null|
 |**2022-09-06**|**Impact analysis of recovery cases due to COVID19 using LSTM deep learning model**|Md Ershadul Haque et.al.|[2209.02173v1](http://arxiv.org/abs/2209.02173v1)|null|
-|**2022-09-05**|**White-Box Adversarial Policies in Deep Reinforcement Learning**|Stephen Casper et.al.|[2209.02167v1](http://arxiv.org/abs/2209.02167v1)|null|
+|**2022-09-05**|**White-Box Adversarial Policies in Deep Reinforcement Learning**|Stephen Casper et.al.|[2209.02167v1](http://arxiv.org/abs/2209.02167v1)|**[link](https://github.com/thestephencasper/white_box_rarl)**|
 |**2022-09-05**|**Deep Learning Gaussian Processes For Computer Models with Heteroskedastic and High-Dimensional Outputs**|Laura Schultz et.al.|[2209.02163v1](http://arxiv.org/abs/2209.02163v1)|null|
 |**2022-09-05**|**Improving Assistive Robotics with Deep Reinforcement Learning**|Yash Jakhotiya et.al.|[2209.02160v1](http://arxiv.org/abs/2209.02160v1)|null|
 |**2022-09-05**|**A Deep Neural Network for Multiclass Bridge Element Parsing in Inspection Image Analysis**|Chenyu Zhang et.al.|[2209.02141v1](http://arxiv.org/abs/2209.02141v1)|null|
 |**2022-09-05**|**Domain Generalization for Prostate Segmentation in Transrectal Ultrasound Images: A Multi-center Study**|Sulaiman Vesal et.al.|[2209.02126v1](http://arxiv.org/abs/2209.02126v1)|null|
 |**2022-09-05**|**Utilizing Post-Hurricane Satellite Imagery to Identify Flooding Damage with Convolutional Neural Networks**|Jimmy Bao et.al.|[2209.02124v1](http://arxiv.org/abs/2209.02124v1)|null|
 |**2022-09-05**|**Bosonization of friendly Lie bialgebras**|I. Heckenberger et.al.|[2209.02115v1](http://arxiv.org/abs/2209.02115v1)|null|
-|**2022-09-05**|**Class-Incremental Learning via Knowledge Amalgamation**|Marcus de Carvalho et.al.|[2209.02112v1](http://arxiv.org/abs/2209.02112v1)|null|
+|**2022-09-05**|**Class-Incremental Learning via Knowledge Amalgamation**|Marcus de Carvalho et.al.|[2209.02112v1](http://arxiv.org/abs/2209.02112v1)|**[link](https://github.com/ivsucram/cfa)**|
 |**2022-09-05**|**SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained Image Categorization**|Asish Bera et.al.|[2209.02109v1](http://arxiv.org/abs/2209.02109v1)|null|
 |**2022-09-05**|**Prediction Based Decision Making for Autonomous Highway Driving**|Mustafa Yildirim et.al.|[2209.02106v1](http://arxiv.org/abs/2209.02106v1)|null|
 |**2022-09-05**|**A variational neural network approach for glacier modelling with nonlinear rheology**|Tiangang Cui et.al.|[2209.02088v1](http://arxiv.org/abs/2209.02088v1)|null|
