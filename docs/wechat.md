@@ -5731,7 +5731,7 @@
 ## SLAM算法
 
 - 2022-09-08, **ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2209.03693v1](http://arxiv.org/abs/2209.03693v1)
-- 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1)
+- 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1), Code: **[https://github.com/hku-mars/r3live](https://github.com/hku-mars/r3live)**
 - 2022-09-06, **Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**, Brendon Forsgren et.al., Paper: [http://arxiv.org/abs/2209.02658v1](http://arxiv.org/abs/2209.02658v1), Code: **[https://bitbucket.org/jmangelson/gkcm](https://bitbucket.org/jmangelson/gkcm)**
 - 2022-09-05, **Neuromorphic Visual Odometry with Resonator Networks**, Alpha Renner et.al., Paper: [http://arxiv.org/abs/2209.02000v1](http://arxiv.org/abs/2209.02000v1)
 - 2022-09-05, **MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**, Pavel Karpyshev et.al., Paper: [http://arxiv.org/abs/2209.01936v1](http://arxiv.org/abs/2209.01936v1)
