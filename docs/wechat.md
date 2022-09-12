@@ -1,4 +1,4 @@
-> Updated on 2022.09.11
+> Updated on 2022.09.12
 
 ## SLAM
 
@@ -6069,6 +6069,41 @@
 
 ## Deep Learning深度学习
 
+- 2022-09-09, **GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**, Jiahao Pang et.al., Paper: [http://arxiv.org/abs/2209.04401v1](http://arxiv.org/abs/2209.04401v1)
+- 2022-09-09, **XQC and CSR constraints on strongly interacting dark matter with spin and velocity dependent cross sections**, Yonglin Li et.al., Paper: [http://arxiv.org/abs/2209.04387v1](http://arxiv.org/abs/2209.04387v1)
+- 2022-09-09, **Impacts and Integration of Remote-First Working Environments**, Christopher Atti et.al., Paper: [http://arxiv.org/abs/2209.04383v1](http://arxiv.org/abs/2209.04383v1)
+- 2022-09-09, **Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**, Ciaran Bench et.al., Paper: [http://arxiv.org/abs/2209.04375v1](http://arxiv.org/abs/2209.04375v1)
+- 2022-09-09, **Bridging the Gap: Differentially Private Equivariant Deep Learning for Medical Image Analysis**, Florian A. Hölzl et.al., Paper: [http://arxiv.org/abs/2209.04338v1](http://arxiv.org/abs/2209.04338v1)
+- 2022-09-09, **Saliency Guided Adversarial Training for Learning Generalizable Features with Applications to Medical Imaging Classification System**, Xin Li et.al., Paper: [http://arxiv.org/abs/2209.04326v1](http://arxiv.org/abs/2209.04326v1)
+- 2022-09-09, **Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Roller-based spreading approaches**, Ryan W. Penny et.al., Paper: [http://arxiv.org/abs/2209.04303v1](http://arxiv.org/abs/2209.04303v1)
+- 2022-09-09, **Towards Confidence-guided Shape Completion for Robotic Applications**, Andrea Rosasco et.al., Paper: [http://arxiv.org/abs/2209.04300v1](http://arxiv.org/abs/2209.04300v1), Code: **[https://github.com/andrearosasco/hyperpcr](https://github.com/andrearosasco/hyperpcr)**
+- 2022-09-09, **Automatic Readability Assessment of German Sentences with Transformer Ensembles**, Patrick Gustav Blaneck et.al., Paper: [http://arxiv.org/abs/2209.04299v1](http://arxiv.org/abs/2209.04299v1)
+- 2022-09-09, **One-Shot Open-Set Skeleton-Based Action Recognition**, Stefano Berti et.al., Paper: [http://arxiv.org/abs/2209.04288v1](http://arxiv.org/abs/2209.04288v1)
+- 2022-09-09, **Deep learning-based Crop Row Following for Infield Navigation of Agri-Robots**, Rajitha de Silva et.al., Paper: [http://arxiv.org/abs/2209.04278v1](http://arxiv.org/abs/2209.04278v1)
+- 2022-09-09, **Temporally Adjustable Longitudinal Fluid-Attenuated Inversion Recovery MRI Estimation / Synthesis for Multiple Sclerosis**, Jueqi Wang et.al., Paper: [http://arxiv.org/abs/2209.04275v1](http://arxiv.org/abs/2209.04275v1)
+- 2022-09-09, **Knowledge-based Deep Learning for Modeling Chaotic Systems**, Zakaria Elabid et.al., Paper: [http://arxiv.org/abs/2209.04259v1](http://arxiv.org/abs/2209.04259v1)
+- 2022-09-09, **Survey on Deep Fuzzy Systems in regression applications: a view on interpretability**, Jorge S. S. Júnior et.al., Paper: [http://arxiv.org/abs/2209.04230v1](http://arxiv.org/abs/2209.04230v1)
+- 2022-09-09, **Pathology Synthesis of 3D Consistent Cardiac MR Im-ages Using 2D VAEs and GANs**, Sina Amirrajab et.al., Paper: [http://arxiv.org/abs/2209.04223v1](http://arxiv.org/abs/2209.04223v1), Code: **[https://github.com/sinaamirrajab/cardiacpathologysynthesis](https://github.com/sinaamirrajab/cardiacpathologysynthesis)**
+- 2022-09-09, **A Multi-Task Learning Model for Super Resolution of Wireless Channel Characteristics**, Xiping Wang et.al., Paper: [http://arxiv.org/abs/2209.04207v1](http://arxiv.org/abs/2209.04207v1)
+- 2022-09-09, **Streaming End-to-End Target Speaker ASR**, Takafumi Moriya et.al., Paper: [http://arxiv.org/abs/2209.04175v1](http://arxiv.org/abs/2209.04175v1)
+- 2022-09-09, **Explanation Method for Anomaly Detection on Mixed Numerical and Categorical Spaces**, Iñigo López-Riobóo Botana et.al., Paper: [http://arxiv.org/abs/2209.04173v1](http://arxiv.org/abs/2209.04173v1)
+- 2022-09-09, **Joint Caching and Transmission in the Mobile Edge Network: A Multi-Agent Learning Approach**, Qirui Mi et.al., Paper: [http://arxiv.org/abs/2209.04164v1](http://arxiv.org/abs/2209.04164v1)
+- 2022-09-09, **ApproxTrain: Fast Simulation of Approximate Multipliers for DNN Training and Inference**, Jing Gong et.al., Paper: [http://arxiv.org/abs/2209.04161v1](http://arxiv.org/abs/2209.04161v1)
+- 2022-09-09, **An algebraic characterization of the closed linear sublattices of $C(X)$**, Teena Thomas et.al., Paper: [http://arxiv.org/abs/2209.04140v1](http://arxiv.org/abs/2209.04140v1)
+- 2022-09-09, **Accumulation of elastic strain toward crustal fracture in magnetized neutron stars**, Yasufumi Kojima et.al., Paper: [http://arxiv.org/abs/2209.04136v1](http://arxiv.org/abs/2209.04136v1)
+- 2022-09-09, **In-situ animal behavior classification using knowledge distillation and fixed-point quantization**, Reza Arablouei et.al., Paper: [http://arxiv.org/abs/2209.04130v1](http://arxiv.org/abs/2209.04130v1)
+- 2022-09-09, **Fast Neural Kernel Embeddings for General Activations**, Insu Han et.al., Paper: [http://arxiv.org/abs/2209.04121v1](http://arxiv.org/abs/2209.04121v1), Code: **[https://github.com/insuhan/ntk_activations](https://github.com/insuhan/ntk_activations)**
+- 2022-09-09, **Robust and Lossless Fingerprinting of Deep Neural Networks via Pooled Membership Inference**, Hanzhou Wu et.al., Paper: [http://arxiv.org/abs/2209.04113v1](http://arxiv.org/abs/2209.04113v1)
+- 2022-09-09, **An Analysis of Deep Reinforcement Learning Agents for Text-based Games**, Chen Chen et.al., Paper: [http://arxiv.org/abs/2209.04105v1](http://arxiv.org/abs/2209.04105v1)
+- 2022-09-09, **MassMIND: Massachusetts Maritime INfrared Dataset**, Shailesh Nirgudkar et.al., Paper: [http://arxiv.org/abs/2209.04097v1](http://arxiv.org/abs/2209.04097v1), Code: **[https://github.com/uml-marine-robotics/massmind](https://github.com/uml-marine-robotics/massmind)**
+- 2022-09-09, **Galaxy-galaxy lensing in the VOICE deep survey**, Ruibiao Luo et.al., Paper: [http://arxiv.org/abs/2209.04081v1](http://arxiv.org/abs/2209.04081v1)
+- 2022-09-09, **Initial Value Problem Enhanced Sampling for Closed-Loop Optimal Control Design with Deep Neural Networks**, Xuanxi Zhang et.al., Paper: [http://arxiv.org/abs/2209.04078v1](http://arxiv.org/abs/2209.04078v1)
+- 2022-09-09, **Prediction method of Soundscape Impressions using Environmental Sounds and Aerial Photographs**, Yusuke Ono et.al., Paper: [http://arxiv.org/abs/2209.04077v1](http://arxiv.org/abs/2209.04077v1)
+- 2022-09-09, **Improving the Environmental Perception of Autonomous Vehicles using Deep Learning-based Audio Classification**, Finley Walden et.al., Paper: [http://arxiv.org/abs/2209.04075v1](http://arxiv.org/abs/2209.04075v1)
+- 2022-09-09, **Audio Analytics-based Human Trafficking Detection Framework for Autonomous Vehicles**, Sagar Dasgupta et.al., Paper: [http://arxiv.org/abs/2209.04071v1](http://arxiv.org/abs/2209.04071v1)
+- 2022-09-08, **Dr. Neurosymbolic, or: How I Learned to Stop Worrying and Accept Statistics**, Masataro Asai et.al., Paper: [http://arxiv.org/abs/2209.04049v1](http://arxiv.org/abs/2209.04049v1)
+- 2022-09-08, **Cross-Modal Knowledge Transfer Without Task-Relevant Source Data**, Sk Miraj Ahmed et.al., Paper: [http://arxiv.org/abs/2209.04027v1](http://arxiv.org/abs/2209.04027v1)
+- 2022-09-08, **An Efficient, Scalable IO Framework for Sparse Data: larcv3**, Corey Adams et.al., Paper: [http://arxiv.org/abs/2209.04023v1](http://arxiv.org/abs/2209.04023v1)
 - 2022-09-08, **TF-GridNet: Making Time-Frequency Domain Models Great Again for Monaural Speaker Separation**, Zhong-Qiu Wang et.al., Paper: [http://arxiv.org/abs/2209.03952v1](http://arxiv.org/abs/2209.03952v1)
 - 2022-09-08, **W-Transformers : A Wavelet-based Transformer Framework for Univariate Time Series Forecasting**, Lena Sasal et.al., Paper: [http://arxiv.org/abs/2209.03945v1](http://arxiv.org/abs/2209.03945v1)
 - 2022-09-08, **PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**, Prajwal Chidananda et.al., Paper: [http://arxiv.org/abs/2209.03910v1](http://arxiv.org/abs/2209.03910v1)
@@ -7901,6 +7936,7 @@
 
 ## Digital Twin数字孪生
 
+- 2022-09-08, **Endeavouring Intelligent Process Self-Control by Employing Digital Twin Methodology: Proof-of-Concept Study for Cooking Applications**, Maximilian Kannapinn et.al., Paper: [http://arxiv.org/abs/2209.03960v1](http://arxiv.org/abs/2209.03960v1)
 - 2022-09-07, **Autonomous Cooking with Digital Twin Methodology**, Maximilian Kannapinn et.al., Paper: [http://arxiv.org/abs/2209.03087v1](http://arxiv.org/abs/2209.03087v1)
 - 2022-09-07, **Physics-based Digital Twins for Autonomous Thermal Food Processing: Efficient, Non-intrusive Reduced-order Modeling**, Maximilian Kannapinn et.al., Paper: [http://arxiv.org/abs/2209.03062v1](http://arxiv.org/abs/2209.03062v1)
 - 2022-08-31, **Digital Twins in Graphene Technology**, Elena F. Sheka et.al., Paper: [http://arxiv.org/abs/2208.14926v1](http://arxiv.org/abs/2208.14926v1)
