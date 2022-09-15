@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.14
+## Updated on 2022.09.15
 
 ## SLAM
 
@@ -5774,6 +5774,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
+|**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali et.al.|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
 |**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|**[link](https://github.com/flysoaryun/lf-vio-loop)**|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
@@ -5932,6 +5934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-14**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v1](http://arxiv.org/abs/2209.06779v1)|null|
+|**2022-09-14**|**Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch**|J. Lu et.al.|[2209.06545v1](http://arxiv.org/abs/2209.06545v1)|null|
+|**2022-09-14**|**iSimLoc: Visual Global Localization for Previously Unseen Environments with Simulated Images**|Peng Yin et.al.|[2209.06376v1](http://arxiv.org/abs/2209.06376v1)|null|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-08-19**|**Self-Supervised Visual Place Recognition by Mining Temporal and Feature Neighborhoods**|Chao Chen et.al.|[2208.09315v1](http://arxiv.org/abs/2208.09315v1)|null|
@@ -6127,6 +6132,48 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-14**|**Will there be a construction? Predicting road constructions based on heterogeneous spatiotemporal data**|Amin Karimi Monsefi et.al.|[2209.06813v1](http://arxiv.org/abs/2209.06813v1)|null|
+|**2022-09-14**|**A millimeter-multiwavelength continuum study of VLA 1623 West**|Arnaud Michel et.al.|[2209.06781v1](http://arxiv.org/abs/2209.06781v1)|null|
+|**2022-09-14**|**Words to describe a black hole**|Chi-Ming Chang et.al.|[2209.06728v1](http://arxiv.org/abs/2209.06728v1)|null|
+|**2022-09-14**|**FreeGaze: Resource-efficient Gaze Estimation via Frequency Domain Contrastive Learning**|Lingyu Du et.al.|[2209.06692v1](http://arxiv.org/abs/2209.06692v1)|null|
+|**2022-09-13**|**A Benchmark and a Baseline for Robust Multi-view Depth Estimation**|Philipp Schröppel et.al.|[2209.06681v1](http://arxiv.org/abs/2209.06681v1)|null|
+|**2022-09-14**|**Virtual Inertia Scheduling for Power Systems with High Penetration of Inverter-based Resources**|Buxin She et.al.|[2209.06677v1](http://arxiv.org/abs/2209.06677v1)|null|
+|**2022-09-14**|**UIT-ViCoV19QA: A Dataset for COVID-19 Community-based Question Answering on Vietnamese Language**|Triet Minh Thai et.al.|[2209.06668v1](http://arxiv.org/abs/2209.06668v1)|null|
+|**2022-09-14**|**Tackling the Unique Challenges of Low-frequency Solar Polarimetry with the Square Kilometre Array Low Precursor: Pipeline Implementation**|Devojyoti Kansabanik et.al.|[2209.06666v1](http://arxiv.org/abs/2209.06666v1)|null|
+|**2022-09-14**|**Distributed Multi-Robot Obstacle Avoidance via Logarithmic Map-based Deep Reinforcement Learning**|Jiafeng Ma et.al.|[2209.06622v1](http://arxiv.org/abs/2209.06622v1)|null|
+|**2022-09-14**|**PlaStIL: Plastic and Stable Memory-Free Class-Incremental Learning**|Grégoire Petit et.al.|[2209.06606v1](http://arxiv.org/abs/2209.06606v1)|null|
+|**2022-09-14**|**Learning state correspondence of reinforcement learning tasks for knowledge transfer**|Marko Ruman et.al.|[2209.06604v1](http://arxiv.org/abs/2209.06604v1)|null|
+|**2022-09-14**|**Combining Metric Learning and Attention Heads For Accurate and Efficient Multilabel Image Classification**|Kirill Prokofiev et.al.|[2209.06585v1](http://arxiv.org/abs/2209.06585v1)|null|
+|**2022-09-14**|**New constraints on the up-quark valence distribution in the proton**|Ritu Aggarwal et.al.|[2209.06571v1](http://arxiv.org/abs/2209.06571v1)|null|
+|**2022-09-14**|**Collaborative SQL-injections detection system with machine learning**|M Lodeiro-Santiago et.al.|[2209.06553v1](http://arxiv.org/abs/2209.06553v1)|null|
+|**2022-09-14**|**Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch**|J. Lu et.al.|[2209.06545v1](http://arxiv.org/abs/2209.06545v1)|null|
+|**2022-09-14**|**Topological transitions and surface umklapp scattering in Slack Metasurfaces**|Kobi-Yaakov Cohen et.al.|[2209.06544v1](http://arxiv.org/abs/2209.06544v1)|null|
+|**2022-09-14**|**BERT-based Ensemble Approaches for Hate Speech Detection**|Khouloud Mnassri et.al.|[2209.06505v1](http://arxiv.org/abs/2209.06505v1)|null|
+|**2022-09-14**|**Learning Deep Optimal Embeddings with Sinkhorn Divergences**|Soumava Kumar Roy et.al.|[2209.06469v1](http://arxiv.org/abs/2209.06469v1)|null|
+|**2022-09-14**|**A deep learning energy-based method for classical elastoplasticity**|Junyan He et.al.|[2209.06467v1](http://arxiv.org/abs/2209.06467v1)|null|
+|**2022-09-14**|**Lightweight 1-D CNN-based Timing Synchronization for OFDM Systems with CIR Uncertainty**|Chaojin Qing et.al.|[2209.06451v1](http://arxiv.org/abs/2209.06451v1)|null|
+|**2022-09-14**|**A Hybrid Deep Learning Model-based Remaining Useful Life Estimation for Reed Relay with Degradation Pattern Clustering**|Chinthaka Gamanayake et.al.|[2209.06429v1](http://arxiv.org/abs/2209.06429v1)|null|
+|**2022-09-14**|**Efficient low-thrust trajectory data generation based on generative adversarial network**|Ruida Xie et.al.|[2209.06427v1](http://arxiv.org/abs/2209.06427v1)|null|
+|**2022-09-14**|**A Transfer Function Design Using A Knowledge Database based on Deep Image and Primitive Intensity Profile Features Retrieval**|Younhyun Jung et.al.|[2209.06421v1](http://arxiv.org/abs/2209.06421v1)|null|
+|**2022-09-14**|**Continuous longitudinal fetus brain atlas construction via implicit neural representation**|Lixuan Chen et.al.|[2209.06413v1](http://arxiv.org/abs/2209.06413v1)|null|
+|**2022-09-14**|**Noise2SR: Learning to Denoise from Super-Resolved Single Noisy Fluorescence Image**|Xuanyu Tian et.al.|[2209.06411v1](http://arxiv.org/abs/2209.06411v1)|null|
+|**2022-09-14**|**TSFool: Crafting High-quality Adversarial Time Series through Multi-objective Optimization to Fool Recurrent Neural Network Classifiers**|Yanyun Wang et.al.|[2209.06388v1](http://arxiv.org/abs/2209.06388v1)|**[link](https://github.com/FlaAI/TSFool-adversarial-time-series-generation-to-fool-RNNs)**|
+|**2022-09-14**|**Self-Supervised Clustering on Image-Subtracted Data with Deep-Embedded Self-Organizing Map**|Y. -L. Mong et.al.|[2209.06375v1](http://arxiv.org/abs/2209.06375v1)|null|
+|**2022-09-14**|**A Review and Roadmap of Deep Learning Causal Discovery in Different Variable Paradigms**|Hang Chen et.al.|[2209.06367v1](http://arxiv.org/abs/2209.06367v1)|null|
+|**2022-09-14**|**Label Refinement Network from Synthetic Error Augmentation for Medical Image Segmentation**|Shuai Chen et.al.|[2209.06353v1](http://arxiv.org/abs/2209.06353v1)|null|
+|**2022-09-13**|**Deep Speech Synthesis from Articulatory Representations**|Peter Wu et.al.|[2209.06337v1](http://arxiv.org/abs/2209.06337v1)|null|
+|**2022-09-13**|**Active Perception Applied To Unmanned Aerial Vehicles Through Deep Reinforcement Learning**|Matheus G. Mateus et.al.|[2209.06336v1](http://arxiv.org/abs/2209.06336v1)|null|
+|**2022-09-13**|**Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Deep Reinforcement Learning Through Environmental Generalization**|Ricardo B. Grando et.al.|[2209.06332v1](http://arxiv.org/abs/2209.06332v1)|null|
+|**2022-09-13**|**Deterministic and Stochastic Analysis of Deep Reinforcement Learning for Low Dimensional Sensing-based Navigation of Mobile Robots**|Ricardo B. Grando et.al.|[2209.06328v1](http://arxiv.org/abs/2209.06328v1)|null|
+|**2022-09-13**|**FaceTopoNet: Facial Expression Recognition using Face Topology Learning**|Mojtaba Kolahdouzi et.al.|[2209.06322v1](http://arxiv.org/abs/2209.06322v1)|null|
+|**2022-09-13**|**PINCH: An Adversarial Extraction Attack Framework for Deep Learning Models**|William Hackett et.al.|[2209.06300v1](http://arxiv.org/abs/2209.06300v1)|null|
+|**2022-09-13**|**Warm Start Active Learning with Proxy Labels \& Selection via Semi-Supervised Fine-Tuning**|Vishwesh Nath et.al.|[2209.06285v1](http://arxiv.org/abs/2209.06285v1)|null|
+|**2022-09-13**|**Automated detection of pronunciation errors in non-native English speech employing deep learning**|Daniel Korzekwa et.al.|[2209.06265v1](http://arxiv.org/abs/2209.06265v1)|null|
+|**2022-09-13**|**High-resolution semantically-consistent image-to-image translation**|Mikhail Sokolov et.al.|[2209.06264v1](http://arxiv.org/abs/2209.06264v1)|null|
+|**2022-09-13**|**CLEAR: High-Ionization [Ne V] $λ$3426 Å Emission-line Galaxies at $1.4 <z< 2.3$**|Nikko J. Cleri et.al.|[2209.06247v1](http://arxiv.org/abs/2209.06247v1)|null|
+|**2022-09-13**|**A Deep and Wide Twilight Survey for Asteroids Interior to Earth and Venus**|Scott S. Sheppard et.al.|[2209.06245v1](http://arxiv.org/abs/2209.06245v1)|null|
+|**2022-09-13**|**A Deep View into the Nucleus of the Sagittarius Dwarf Spheroidal Galaxy with MUSE. III. Discrete multi-component population-dynamical models based on the Jeans equations**|Nikolay Kacharov et.al.|[2209.06229v1](http://arxiv.org/abs/2209.06229v1)|null|
+|**2022-09-13**|**AGN Selection and Demographics in GOODS-S/HUDF from X-ray to Radio**|Jianwei Lyu et.al.|[2209.06219v1](http://arxiv.org/abs/2209.06219v1)|null|
 |**2022-09-13**|**Normalizing Flows for Interventional Density Estimation**|Valentyn Melnychuk et.al.|[2209.06203v1](http://arxiv.org/abs/2209.06203v1)|null|
 |**2022-09-13**|**HistoPerm: A Permutation-Based View Generation Approach for Learning Histopathologic Feature Representations**|Joseph DiPalma et.al.|[2209.06185v1](http://arxiv.org/abs/2209.06185v1)|null|
 |**2022-09-13**|**Comparative analysis of segmentation and generative models for fingerprint retrieval task**|Megh Patel et.al.|[2209.06172v1](http://arxiv.org/abs/2209.06172v1)|null|
@@ -8012,6 +8059,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v1](http://arxiv.org/abs/2209.06794v1)|null|
 |**2022-09-12**|**Quantum noise spectroscopy as an incoherent imaging problem**|Mankei Tsang et.al.|[2209.06104v1](http://arxiv.org/abs/2209.06104v1)|null|
 |**2022-09-07**|**Opening the era of quasar host studies at high redshift with JWST**|Xuheng Ding et.al.|[2209.03359v1](http://arxiv.org/abs/2209.03359v1)|null|
 |**2022-09-07**|**MimCo: Masked Image Modeling Pre-training with Contrastive Teacher**|Qiang Zhou et.al.|[2209.03063v1](http://arxiv.org/abs/2209.03063v1)|null|
