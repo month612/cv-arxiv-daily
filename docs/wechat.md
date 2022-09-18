@@ -6128,7 +6128,7 @@
 - 2022-09-14, **Landmark Tracking in Liver US images Using Cascade Convolutional Neural Networks with Long Short-Term Memory**, Yupei Zhang et.al., Paper: [http://arxiv.org/abs/2209.06952v1](http://arxiv.org/abs/2209.06952v1)
 - 2022-09-14, **Robust Product Classification with Instance-Dependent Noise**, Huy Nguyen et.al., Paper: [http://arxiv.org/abs/2209.06946v1](http://arxiv.org/abs/2209.06946v1)
 - 2022-09-14, **Uncertainty-Aware Visual Perception for Safe Motion Planning**, Ralf Römer et.al., Paper: [http://arxiv.org/abs/2209.06936v1](http://arxiv.org/abs/2209.06936v1)
-- 2022-09-14, **Optimal Connectivity through Network Gradients for the Restricted Boltzmann Machine**, A. C. N. de Oliveira et.al., Paper: [http://arxiv.org/abs/2209.06932v1](http://arxiv.org/abs/2209.06932v1)
+- 2022-09-14, **Optimal Connectivity through Network Gradients for the Restricted Boltzmann Machine**, A. C. N. de Oliveira et.al., Paper: [http://arxiv.org/abs/2209.06932v1](http://arxiv.org/abs/2209.06932v1), Code: **[https://github.com/amieoliveira/ncg](https://github.com/amieoliveira/ncg)**
 - 2022-09-14, **Robust Transferable Feature Extractors: Learning to Defend Pre-Trained Networks Against White Box Adversaries**, Alexander Cann et.al., Paper: [http://arxiv.org/abs/2209.06931v1](http://arxiv.org/abs/2209.06931v1)
 - 2022-09-14, **End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**, Qiao Chen et.al., Paper: [http://arxiv.org/abs/2209.06926v1](http://arxiv.org/abs/2209.06926v1)
 - 2022-09-14, **ESSumm: Extractive Speech Summarization from Untranscribed Meeting**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2209.06913v1](http://arxiv.org/abs/2209.06913v1)
