@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.18
+## Updated on 2022.09.19
 
 ## SLAM
 
@@ -5774,6 +5774,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
+|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
 |**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun et.al.|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
@@ -6136,6 +6139,53 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-16**|**A Systematic Evaluation of Node Embedding Robustness**|Alexandru Mara et.al.|[2209.08064v1](http://arxiv.org/abs/2209.08064v1)|null|
+|**2022-09-16**|**Learning Policies for Continuous Control via Transition Models**|Justus Huebotter et.al.|[2209.08033v1](http://arxiv.org/abs/2209.08033v1)|null|
+|**2022-09-16**|**Continual Learning for Class- and Domain-Incremental Semantic Segmentation**|Tobias Kalb et.al.|[2209.08023v1](http://arxiv.org/abs/2209.08023v1)|null|
+|**2022-09-16**|**Plug-and-Play Regularization using Linear Solvers**|Pravin Nair et.al.|[2209.08003v1](http://arxiv.org/abs/2209.08003v1)|null|
+|**2022-09-16**|**TIMIT-TTS: a Text-to-Speech Dataset for Multimodal Synthetic Media Detection**|Davide Salvi et.al.|[2209.08000v1](http://arxiv.org/abs/2209.08000v1)|null|
+|**2022-09-16**|**SoLo T-DIRL: Socially-Aware Dynamic Local Planner based on Trajectory-Ranked Deep Inverse Reinforcement Learning**|Yifan Xu et.al.|[2209.07996v1](http://arxiv.org/abs/2209.07996v1)|null|
+|**2022-09-16**|**musicaiz: A Python Library for Symbolic Music Generation, Analysis and Visualization**|Carlos Hernandez-Olivan et.al.|[2209.07974v1](http://arxiv.org/abs/2209.07974v1)|null|
+|**2022-09-16**|**Malicious Source Code Detection Using Transformer**|Chen Tsfaty et.al.|[2209.07957v1](http://arxiv.org/abs/2209.07957v1)|null|
+|**2022-09-16**|**Traffic Congestion Prediction using Deep Convolutional Neural Networks: A Color-coding Approach**|Mirza Fuad Adnan et.al.|[2209.07943v1](http://arxiv.org/abs/2209.07943v1)|null|
+|**2022-09-16**|**Connes implies Tsirelson: a simple proof**|Alexander Frei et.al.|[2209.07940v1](http://arxiv.org/abs/2209.07940v1)|null|
+|**2022-09-16**|**Fine-tuning or top-tuning? Transfer learning with pretrained features and fast kernel methods**|Paolo Didier Alfano et.al.|[2209.07932v1](http://arxiv.org/abs/2209.07932v1)|null|
+|**2022-09-16**|**A Deep Moving-camera Background Model**|Guy Erez et.al.|[2209.07923v1](http://arxiv.org/abs/2209.07923v1)|null|
+|**2022-09-16**|**ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery**|Lanqing Li et.al.|[2209.07921v1](http://arxiv.org/abs/2209.07921v1)|**[link](https://github.com/DrugLT/ImDrug)**|
+|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
+|**2022-09-16**|**Majorana fusion in interacting one-dimensional Kitaev chains**|Bradraj Pandey et.al.|[2209.07913v1](http://arxiv.org/abs/2209.07913v1)|null|
+|**2022-09-16**|**Deep or Not Deep: Supervised Learning Approaches to Modeling the Pedestal Density**|Adam Kit et.al.|[2209.07893v1](http://arxiv.org/abs/2209.07893v1)|null|
+|**2022-09-16**|**LogGD:Detecting Anomalies from System Logs by Graph Neural Networks**|Yongzheng Xie et.al.|[2209.07869v1](http://arxiv.org/abs/2209.07869v1)|null|
+|**2022-09-16**|**Whole-Body Lesion Segmentation in 18F-FDG PET/CT**|Jia Zhang et.al.|[2209.07851v1](http://arxiv.org/abs/2209.07851v1)|null|
+|**2022-09-16**|**3D Matting: A Soft Segmentation Method Applied in Computed Tomography**|Lin Wang et.al.|[2209.07843v1](http://arxiv.org/abs/2209.07843v1)|null|
+|**2022-09-16**|**A System of Interaction and Structure III: The Complexity of BV and Pomset Logic**|Lê Thành Dũng Nguyên et.al.|[2209.07825v1](http://arxiv.org/abs/2209.07825v1)|null|
+|**2022-09-16**|**M$^2$DQN: A Robust Method for Accelerating Deep Q-learning Network**|Zhe Zhang et.al.|[2209.07809v1](http://arxiv.org/abs/2209.07809v1)|null|
+|**2022-09-16**|**Single Image Deraining via Rain-Steaks Aware Deep Convolutional Neural Network**|Chaobing Zheng et.al.|[2209.07808v1](http://arxiv.org/abs/2209.07808v1)|null|
+|**2022-09-16**|**A Comprehensive Benchmark for COVID-19 Predictive Modeling Using Electronic Health Records in Intensive Care: Choosing the Best Model for COVID-19 Prognosis**|Junyi Gao et.al.|[2209.07805v1](http://arxiv.org/abs/2209.07805v1)|null|
+|**2022-09-16**|**Quantum Transfer Learning for Real-World, Small, and Large-Scale Datasets**|Soronzonbold Otgonbaatar et.al.|[2209.07799v1](http://arxiv.org/abs/2209.07799v1)|null|
+|**2022-09-16**|**The Obscured Fraction of Quasars at Cosmic Noon**|Bovornpratch Vijarnwannaluk et.al.|[2209.07797v1](http://arxiv.org/abs/2209.07797v1)|null|
+|**2022-09-16**|**A Large-scale Multiple-objective Method for Black-box Attack against Object Detection**|Siyuan Liang et.al.|[2209.07790v1](http://arxiv.org/abs/2209.07790v1)|null|
+|**2022-09-16**|**Localization of the Kobayashi distance for any visibility domain**|Amar Deep Sarkar et.al.|[2209.07782v1](http://arxiv.org/abs/2209.07782v1)|null|
+|**2022-09-16**|**Reinforcement Learning Based Cooperative P2P Energy Trading between DC Nanogrid Clusters with Wind and PV Energy Resources**|Sangkeum Lee et.al.|[2209.07744v1](http://arxiv.org/abs/2209.07744v1)|null|
+|**2022-09-16**|**A Mosquito is Worth 16x16 Larvae: Evaluation of Deep Learning Architectures for Mosquito Larvae Classification**|Aswin Surya et.al.|[2209.07718v1](http://arxiv.org/abs/2209.07718v1)|null|
+|**2022-09-16**|**Renyi Differential Privacy of Propose-Test-Release and Applications to Private and Robust Machine Learning**|Jiachen T. Wang et.al.|[2209.07716v1](http://arxiv.org/abs/2209.07716v1)|null|
+|**2022-09-16**|**Automatic Tumor Segmentation via False Positive Reduction Network for Whole-Body Multi-Modal PET/CT Images**|Yige Peng et.al.|[2209.07705v1](http://arxiv.org/abs/2209.07705v1)|null|
+|**2022-09-16**|**Towards A Unified Policy Abstraction Theory and Representation Learning Approach in Markov Decision Processes**|Min Zhang et.al.|[2209.07696v1](http://arxiv.org/abs/2209.07696v1)|null|
+|**2022-09-16**|**A Unified Multi-Task Semantic Communication System for Multimodal Data**|Guangyi Zhang et.al.|[2209.07689v1](http://arxiv.org/abs/2209.07689v1)|null|
+|**2022-09-16**|**SQ-Swin: a Pretrained Siamese Quadratic Swin Transformer for Lettuce Browning Prediction**|Dayang Wang et.al.|[2209.07683v1](http://arxiv.org/abs/2209.07683v1)|null|
+|**2022-09-16**|**Reducing Variance in Temporal-Difference Value Estimation via Ensemble of Deep Networks**|Litian Liang et.al.|[2209.07670v1](http://arxiv.org/abs/2209.07670v1)|null|
+|**2022-09-16**|**Stability Constrained Reinforcement Learning for Real-Time Voltage Control in Distribution Systems**|Jie Feng et.al.|[2209.07669v1](http://arxiv.org/abs/2209.07669v1)|null|
+|**2022-09-16**|**Monolith: Real Time Recommendation System With Collisionless Embedding Table**|Zhuoran Liu et.al.|[2209.07663v1](http://arxiv.org/abs/2209.07663v1)|null|
+|**2022-09-16**|**Self-Attentive Pooling for Efficient Deep Learning**|Fang Chen et.al.|[2209.07659v1](http://arxiv.org/abs/2209.07659v1)|null|
+|**2022-09-15**|**Snowmass Topical Report: Underground Facilities for Neutrinos**|Tim Bolton et.al.|[2209.07622v1](http://arxiv.org/abs/2209.07622v1)|null|
+|**2022-09-15**|**Training Recipe for N:M Structured Sparsity with Decaying Pruning Mask**|Sheng-Chun Kao et.al.|[2209.07617v1](http://arxiv.org/abs/2209.07617v1)|null|
+|**2022-09-15**|**A Hierarchy of Multipartite Correlations Based on Concentratable Entanglement**|Louis Schatzki et.al.|[2209.07607v1](http://arxiv.org/abs/2209.07607v1)|null|
+|**2022-09-15**|**CES-KD: Curriculum-based Expert Selection for Guided Knowledge Distillation**|Ibtihel Amara et.al.|[2209.07606v1](http://arxiv.org/abs/2209.07606v1)|null|
+|**2022-09-15**|**Towards Improving Calibration in Object Detection Under Domain Shift**|Muhammad Akhtar Munir et.al.|[2209.07601v1](http://arxiv.org/abs/2209.07601v1)|null|
+|**2022-09-15**|**Explicit Tradeoffs between Adversarial and Natural Distributional Robustness**|Mazda Moayeri et.al.|[2209.07592v1](http://arxiv.org/abs/2209.07592v1)|null|
+|**2022-09-15**|**Prediction of Gender from Longitudinal MRI data via Deep Learning on Adolescent Data Reveals Unique Patterns Associated with Brain Structure and Change over a Two-year Period**|Yuda Bi et.al.|[2209.07590v1](http://arxiv.org/abs/2209.07590v1)|null|
+|**2022-09-15**|**Theroretical Insight into Batch Normalization: Data Dependant Auto-Tuning of Regularization Rate**|Lakshmi Annamalai et.al.|[2209.07587v1](http://arxiv.org/abs/2209.07587v1)|null|
+|**2022-09-15**|**The Development of Spatial Attention U-Net for The Recovery of Ionospheric Measurements and The Extraction of Ionospheric Parameters**|Guan-Han Huang et.al.|[2209.07581v1](http://arxiv.org/abs/2209.07581v1)|null|
 |**2022-09-15**|**Medical Image Segmentation using LeViT-UNet++: A Case Study on GI Tract Data**|Praneeth Nemani et.al.|[2209.07515v1](http://arxiv.org/abs/2209.07515v1)|null|
 |**2022-09-15**|**Bidirectional Learning for Offline Infinite-width Model-based Optimization**|Can et.al.|[2209.07507v1](http://arxiv.org/abs/2209.07507v1)|null|
 |**2022-09-15**|**Detecting Synthetic Speech Manipulation in Real Audio Recordings**|Md Hafizur Rahman et.al.|[2209.07498v1](http://arxiv.org/abs/2209.07498v1)|null|
@@ -8063,7 +8113,7 @@ layout: default
 |**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
 |**2022-07-02**|**Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**|Hassan Wagih et.al.|[2207.00909v1](http://arxiv.org/abs/2207.00909v1)|null|
 |**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
-|**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
+|**2022-09-16**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v2](http://arxiv.org/abs/2206.12946v2)|null|
 |**2022-06-07**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v2](http://arxiv.org/abs/2206.00997v2)|**[link](https://github.com/rpartsey/pointgoal-navigation)**|
 |**2022-05-26**|**Inertially Assisted Semi-Direct Visual Odometry for Fixed Wing Autonomous Unmanned Air Vehicles**|Eduardo Gallo et.al.|[2205.13242v1](http://arxiv.org/abs/2205.13242v1)|null|
 |**2022-05-17**|**DynPL-SVO: A New Method Using Point and Line Features for Stereo Visual Odometry in Dynamic Scenes**|Xiaoguang Ma et.al.|[2205.08207v1](http://arxiv.org/abs/2205.08207v1)|null|
@@ -8113,7 +8163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v1](http://arxiv.org/abs/2209.06794v1)|null|
+|**2022-09-16**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
 |**2022-09-12**|**Quantum noise spectroscopy as an incoherent imaging problem**|Mankei Tsang et.al.|[2209.06104v1](http://arxiv.org/abs/2209.06104v1)|null|
 |**2022-09-07**|**Opening the era of quasar host studies at high redshift with JWST**|Xuheng Ding et.al.|[2209.03359v1](http://arxiv.org/abs/2209.03359v1)|null|
 |**2022-09-07**|**MimCo: Masked Image Modeling Pre-training with Contrastive Teacher**|Qiang Zhou et.al.|[2209.03063v1](http://arxiv.org/abs/2209.03063v1)|null|
