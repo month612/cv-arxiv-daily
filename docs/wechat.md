@@ -1,4 +1,4 @@
-> Updated on 2022.09.19
+> Updated on 2022.09.20
 
 ## SLAM
 
@@ -5852,7 +5852,7 @@
 - 2022-08-01, **Learned Monocular Depth Priors in Visual-Inertial Initialization**, Yunwen Zhou et.al., Paper: [http://arxiv.org/abs/2204.09171v2](http://arxiv.org/abs/2204.09171v2)
 - 2022-04-10, **Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**, Hui Deng et.al., Paper: [http://arxiv.org/abs/2204.04730v1](http://arxiv.org/abs/2204.04730v1)
 - 2022-04-08, **Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**, Debao Huang et.al., Paper: [http://arxiv.org/abs/2204.04145v1](http://arxiv.org/abs/2204.04145v1)
-- 2022-04-07, **SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**, Yi Wei et.al., Paper: [http://arxiv.org/abs/2204.03636v1](http://arxiv.org/abs/2204.03636v1), Code: **[https://github.com/weiyithu/surrounddepth](https://github.com/weiyithu/surrounddepth)**
+- 2022-09-19, **SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**, Yi Wei et.al., Paper: [http://arxiv.org/abs/2204.03636v2](http://arxiv.org/abs/2204.03636v2), Code: **[https://github.com/weiyithu/surrounddepth](https://github.com/weiyithu/surrounddepth)**
 - 2022-04-06, **Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**, Lukas Bommes et.al., Paper: [http://arxiv.org/abs/2204.02733v1](http://arxiv.org/abs/2204.02733v1), Code: **[https://github.com/lukasbommes/pv-hawk](https://github.com/lukasbommes/pv-hawk)**
 - 2022-04-05, **Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**, Sheng Liu et.al., Paper: [http://arxiv.org/abs/2204.02509v1](http://arxiv.org/abs/2204.02509v1), Code: **[https://github.com/amazon-research/small-baseline-camera-tracking](https://github.com/amazon-research/small-baseline-camera-tracking)**
 - 2022-03-31, **Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2203.16505v2](http://arxiv.org/abs/2203.16505v2)
@@ -6085,7 +6085,7 @@
 
 ## Deep Learning深度学习
 
-- 2022-09-16, **A Systematic Evaluation of Node Embedding Robustness**, Alexandru Mara et.al., Paper: [http://arxiv.org/abs/2209.08064v1](http://arxiv.org/abs/2209.08064v1)
+- 2022-09-19, **A Systematic Evaluation of Node Embedding Robustness**, Alexandru Mara et.al., Paper: [http://arxiv.org/abs/2209.08064v2](http://arxiv.org/abs/2209.08064v2)
 - 2022-09-16, **Learning Policies for Continuous Control via Transition Models**, Justus Huebotter et.al., Paper: [http://arxiv.org/abs/2209.08033v1](http://arxiv.org/abs/2209.08033v1)
 - 2022-09-16, **Continual Learning for Class- and Domain-Incremental Semantic Segmentation**, Tobias Kalb et.al., Paper: [http://arxiv.org/abs/2209.08023v1](http://arxiv.org/abs/2209.08023v1)
 - 2022-09-16, **Plug-and-Play Regularization using Linear Solvers**, Pravin Nair et.al., Paper: [http://arxiv.org/abs/2209.08003v1](http://arxiv.org/abs/2209.08003v1)
@@ -6122,7 +6122,7 @@
 - 2022-09-16, **Reducing Variance in Temporal-Difference Value Estimation via Ensemble of Deep Networks**, Litian Liang et.al., Paper: [http://arxiv.org/abs/2209.07670v1](http://arxiv.org/abs/2209.07670v1), Code: **[https://github.com/indylab/meanq](https://github.com/indylab/meanq)**
 - 2022-09-16, **Stability Constrained Reinforcement Learning for Real-Time Voltage Control in Distribution Systems**, Jie Feng et.al., Paper: [http://arxiv.org/abs/2209.07669v1](http://arxiv.org/abs/2209.07669v1)
 - 2022-09-16, **Monolith: Real Time Recommendation System With Collisionless Embedding Table**, Zhuoran Liu et.al., Paper: [http://arxiv.org/abs/2209.07663v1](http://arxiv.org/abs/2209.07663v1)
-- 2022-09-16, **Self-Attentive Pooling for Efficient Deep Learning**, Fang Chen et.al., Paper: [http://arxiv.org/abs/2209.07659v1](http://arxiv.org/abs/2209.07659v1)
+- 2022-09-19, **Self-Attentive Pooling for Efficient Deep Learning**, Fang Chen et.al., Paper: [http://arxiv.org/abs/2209.07659v2](http://arxiv.org/abs/2209.07659v2)
 - 2022-09-15, **Snowmass Topical Report: Underground Facilities for Neutrinos**, Tim Bolton et.al., Paper: [http://arxiv.org/abs/2209.07622v1](http://arxiv.org/abs/2209.07622v1)
 - 2022-09-15, **Training Recipe for N:M Structured Sparsity with Decaying Pruning Mask**, Sheng-Chun Kao et.al., Paper: [http://arxiv.org/abs/2209.07617v1](http://arxiv.org/abs/2209.07617v1)
 - 2022-09-15, **A Hierarchy of Multipartite Correlations Based on Concentratable Entanglement**, Louis Schatzki et.al., Paper: [http://arxiv.org/abs/2209.07607v1](http://arxiv.org/abs/2209.07607v1)
