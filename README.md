@@ -5750,6 +5750,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
@@ -5858,6 +5861,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran et.al.|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
 |**2022-09-19**|**A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**|Gerry Chen et.al.|[2209.08690v1](http://arxiv.org/abs/2209.08690v1)|null|
 |**2022-09-14**|**End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**|Qiao Chen et.al.|[2209.06926v1](http://arxiv.org/abs/2209.06926v1)|null|
 |**2022-09-07**|**Deployment of Aerial Robots during the Flood Disaster in Erftstadt / Blessem in July 2021**|Hartmut Surmann et.al.|[2209.03084v1](http://arxiv.org/abs/2209.03084v1)|null|
@@ -5923,6 +5927,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-09-17**|**Data Efficient Visual Place Recognition Using Extremely JPEG-Compressed Images**|Mihnea-Alexandru Tomita et.al.|[2209.08343v1](http://arxiv.org/abs/2209.08343v1)|null|
@@ -6127,6 +6132,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Deep Generalized Schrödinger Bridge**|Guan-Horng Liu et.al.|[2209.09893v1](http://arxiv.org/abs/2209.09893v1)|null|
+|**2022-09-20**|**Soft Action Priors: Towards Robust Policy Transfer**|Matheus Centa et.al.|[2209.09882v1](http://arxiv.org/abs/2209.09882v1)|null|
+|**2022-09-20**|**Diabetic foot ulcers monitoring by employing super resolution and noise reduction deep learning techniques**|Agapi Davradou et.al.|[2209.09880v1](http://arxiv.org/abs/2209.09880v1)|null|
+|**2022-09-20**|**Collisionless Pattern Discovery in Robot Swarms Using Deep Reinforcement Learning**|Nelson Sharma et.al.|[2209.09865v1](http://arxiv.org/abs/2209.09865v1)|null|
+|**2022-09-20**|**Frequency Dropout: Feature-Level Regularization via Randomized Filtering**|Mobarakol Islam et.al.|[2209.09844v1](http://arxiv.org/abs/2209.09844v1)|null|
+|**2022-09-20**|**De-speckling of Optical Coherence Tomography Images Using Anscombe Transform and a Noisier2noise Model**|Arka Saha et.al.|[2209.09825v1](http://arxiv.org/abs/2209.09825v1)|null|
+|**2022-09-20**|**Can we detect deep axisymmetric toroidal magnetic fields in stars?**|Hachem Dhouib et.al.|[2209.09823v1](http://arxiv.org/abs/2209.09823v1)|null|
+|**2022-09-20**|**Integer Fine-tuning of Transformer-based Models**|Mohammadreza Tayaranian et.al.|[2209.09815v1](http://arxiv.org/abs/2209.09815v1)|null|
+|**2022-09-20**|**High-resolution synthesis of high-density breast mammograms: Application to improved fairness in deep learning based mass detection**|Lidia Garrucho et.al.|[2209.09809v1](http://arxiv.org/abs/2209.09809v1)|null|
+|**2022-09-20**|**Elastic anisotropy of lizardite at subduction zone conditions**|Xin Deng et.al.|[2209.09783v1](http://arxiv.org/abs/2209.09783v1)|null|
+|**2022-09-20**|**IRS Assisted NOMA Aided Mobile Edge Computing with Queue Stability: Heterogeneous Multi-Agent Reinforcement Learning**|Jiadong Yu et.al.|[2209.09776v1](http://arxiv.org/abs/2209.09776v1)|null|
+|**2022-09-20**|**A Deep Reinforcement Learning-Based Charging Scheduling Approach with Augmented Lagrangian for Electric Vehicle**|Guibin. Chen et.al.|[2209.09772v1](http://arxiv.org/abs/2209.09772v1)|null|
+|**2022-09-20**|**ESPnet-ONNX: Bridging a Gap Between Research and Production**|Masao Someki et.al.|[2209.09756v1](http://arxiv.org/abs/2209.09756v1)|null|
+|**2022-09-20**|**Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations**|Tushar et.al.|[2209.09750v1](http://arxiv.org/abs/2209.09750v1)|null|
+|**2022-09-20**|**A Tale of a Tail: A Tidally-Disrupting Ultra-Diffuse Galaxy in the M81 Group**|Rokas Žemaitis et.al.|[2209.09713v1](http://arxiv.org/abs/2209.09713v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-20**|**SCGG: A Deep Structure-Conditioned Graph Generative Model**|Faezeh Faez et.al.|[2209.09681v1](http://arxiv.org/abs/2209.09681v1)|null|
+|**2022-09-20**|**Explainable Clustering via Exemplars: Complexity and Efficient Approximation Algorithms**|Ian Davidson et.al.|[2209.09670v1](http://arxiv.org/abs/2209.09670v1)|null|
+|**2022-09-20**|**View-Disentangled Transformer for Brain Lesion Detection**|Haofeng Li et.al.|[2209.09657v1](http://arxiv.org/abs/2209.09657v1)|**[link](https://github.com/lhaof/isbi-vdformer)**|
+|**2022-09-20**|**Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference**|Giovanni Charles et.al.|[2209.09617v1](http://arxiv.org/abs/2209.09617v1)|null|
+|**2022-09-20**|**Deep Model Predictive Variable Impedance Control**|Akhil S Anand et.al.|[2209.09614v1](http://arxiv.org/abs/2209.09614v1)|null|
+|**2022-09-20**|**Generalisability of deep learning models in low-resource imaging settings: A fetal ultrasound study in 5 African countries**|Carla Sendra-Balcells et.al.|[2209.09610v1](http://arxiv.org/abs/2209.09610v1)|null|
+|**2022-09-20**|**Graph Value Iteration**|Dieqiao Feng et.al.|[2209.09608v1](http://arxiv.org/abs/2209.09608v1)|null|
+|**2022-09-20**|**Semi-automatic Data Annotation System for Multi-Target Multi-Camera Vehicle Tracking**|Haohong Liao et.al.|[2209.09606v1](http://arxiv.org/abs/2209.09606v1)|null|
+|**2022-09-20**|**Deep Dive into the IoT Backend Ecosystem**|Said Jawad Saidi et.al.|[2209.09603v1](http://arxiv.org/abs/2209.09603v1)|null|
+|**2022-09-20**|**A probabilistic deep learning model of inter-fraction anatomical variations in radiotherapy**|Oscar Pastor-Serrano et.al.|[2209.09583v1](http://arxiv.org/abs/2209.09583v1)|null|
+|**2022-09-20**|**Understanding Real-world Threats to Deep Learning Models in Android Apps**|Zizhuang Deng et.al.|[2209.09577v1](http://arxiv.org/abs/2209.09577v1)|null|
+|**2022-09-20**|**Constraining leptonic emission scenarios for the PeVatron candidate HESS J1702-420 with deep XMM-Newton observations**|L. Giunti et.al.|[2209.09566v1](http://arxiv.org/abs/2209.09566v1)|null|
+|**2022-09-20**|**Calibrating Ensembles for Scalable Uncertainty Quantification in Deep Learning-based Medical Segmentation**|Thomas Buddenkotte et.al.|[2209.09563v1](http://arxiv.org/abs/2209.09563v1)|null|
+|**2022-09-20**|**Using Word Embedding and Convolution Neural Network for Bug Triaging by Considering Design Flaws**|Reza Sepahvand et.al.|[2209.09553v1](http://arxiv.org/abs/2209.09553v1)|null|
+|**2022-09-20**|**An Attention Free Long Short-Term Memory for Time Series Forecasting**|Hugo Inzirillo et.al.|[2209.09548v1](http://arxiv.org/abs/2209.09548v1)|null|
+|**2022-09-20**|**Deep Neural Network-Based Detector for Single-Carrier Index Modulation NOMA**|Toan Gian et.al.|[2209.09526v1](http://arxiv.org/abs/2209.09526v1)|null|
+|**2022-09-20**|**Review of data types and model dimensionality for cardiac DTI SMS-related artefact removal**|Michael Tanzer et.al.|[2209.09522v1](http://arxiv.org/abs/2209.09522v1)|**[link](https://github.com/michael-tanzer/architectures-tanzer-stacom22)**|
+|**2022-09-20**|**Deep Learning-Based Signal Detection for Dual-Mode Index Modulation 3D-OFDM**|Dang-Y Hoang et.al.|[2209.09521v1](http://arxiv.org/abs/2209.09521v1)|null|
+|**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
+|**2022-09-20**|**Reduction from Complementary-Label Learning to Probability Estimates**|Wei-I Lin et.al.|[2209.09500v1](http://arxiv.org/abs/2209.09500v1)|null|
+|**2022-09-20**|**NBD-GAP: Non-Blind Image Deblurring Without Clean Target Images**|Nithin Gopalakrishnan Nair et.al.|[2209.09498v1](http://arxiv.org/abs/2209.09498v1)|null|
+|**2022-09-20**|**Deep Q-Network for AI Soccer**|Curie Kim et.al.|[2209.09491v1](http://arxiv.org/abs/2209.09491v1)|null|
+|**2022-09-20**|**Design and Implementation of Fragmented Clouds for Evaluation of Distributed Databases**|Yaser Mansouri et.al.|[2209.09487v1](http://arxiv.org/abs/2209.09487v1)|null|
+|**2022-09-20**|**Feature embedding in click-through rate prediction**|Samo Pahor et.al.|[2209.09481v1](http://arxiv.org/abs/2209.09481v1)|**[link](https://github.com/kahno/feature_embedding)**|
+|**2022-09-20**|**Unsupervised Early Exit in DNNs with Multiple Exits**|Hari Narayan N U et.al.|[2209.09480v1](http://arxiv.org/abs/2209.09480v1)|**[link](https://github.com/mlions/mutiexitdnns)**|
+|**2022-09-20**|**SleePyCo: Automatic Sleep Scoring with Feature Pyramid and Contrastive Learning**|Seongju Lee et.al.|[2209.09452v1](http://arxiv.org/abs/2209.09452v1)|null|
+|**2022-09-20**|**A Data-Centric AI Paradigm Based on Application-Driven Fine-grained Dataset Design**|Huan Hu et.al.|[2209.09449v1](http://arxiv.org/abs/2209.09449v1)|**[link](https://github.com/huh30/opendatasets)**|
+|**2022-09-20**|**Attributed Network Embedding Model for Exposing COVID-19 Spread Trajectory Archetypes**|Junwei Ma et.al.|[2209.09448v1](http://arxiv.org/abs/2209.09448v1)|null|
+|**2022-09-20**|**One-to-Many Semantic Communication Systems: Design, Implementation, Performance Evaluation**|Han Hu et.al.|[2209.09425v1](http://arxiv.org/abs/2209.09425v1)|null|
+|**2022-09-20**|**PolyMPCNet: Towards ReLU-free Neural Architecture Search in Two-party Computation Based Private Inference**|Hongwu Peng et.al.|[2209.09424v1](http://arxiv.org/abs/2209.09424v1)|null|
+|**2022-09-20**|**Deep learning at the edge enables real-time streaming ptychographic imaging**|Anakha V Babu et.al.|[2209.09408v1](http://arxiv.org/abs/2209.09408v1)|null|
+|**2022-09-20**|**Probabilistic Generative Transformer Language models for Generative Design of Molecules**|Lai Wei et.al.|[2209.09406v1](http://arxiv.org/abs/2209.09406v1)|null|
+|**2022-09-20**|**Mitigating Representation Bias in Action Recognition: Algorithms and Benchmarks**|Haodong Duan et.al.|[2209.09393v1](http://arxiv.org/abs/2209.09393v1)|null|
+|**2022-09-19**|**Development of a Modular and Submersible Soft Robotic Arm and Corresponding Learned Kinematics Models**|W. David Null et.al.|[2209.09358v1](http://arxiv.org/abs/2209.09358v1)|null|
 |**2022-09-19**|**Deep Variation Prior: Joint Image Denoising and Noise Variance Estimation without Clean Data**|Rihuan Ke et.al.|[2209.09214v1](http://arxiv.org/abs/2209.09214v1)|null|
 |**2022-09-19**|**Neural Collapse with Normalized Features: A Geometric Analysis over the Riemannian Manifold**|Can Yaras et.al.|[2209.09211v1](http://arxiv.org/abs/2209.09211v1)|null|
 |**2022-09-19**|**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**|Ricardo Müller et.al.|[2209.09157v1](http://arxiv.org/abs/2209.09157v1)|null|
@@ -8293,6 +8348,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots**|Garen Haddeler et.al.|[2209.09508v1](http://arxiv.org/abs/2209.09508v1)|null|
 |**2022-09-20**|**Automated data-driven creation of the Digital Twin of a brownfield plant**|Dominik Braun et.al.|[2209.08821v2](http://arxiv.org/abs/2209.08821v2)|null|
 |**2022-09-13**|**A probabilistic virtual process chain to quantify process-induced uncertainties in Sheet Molding Compounds**|Nils Meyer et.al.|[2209.05873v1](http://arxiv.org/abs/2209.05873v1)|null|
 |**2022-09-08**|**Endeavouring Intelligent Process Self-Control by Employing Digital Twin Methodology: Proof-of-Concept Study for Cooking Applications**|Maximilian Kannapinn et.al.|[2209.03960v1](http://arxiv.org/abs/2209.03960v1)|null|
