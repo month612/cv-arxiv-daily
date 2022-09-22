@@ -1,4 +1,4 @@
-## Updated on 2022.09.21
+## Updated on 2022.09.22
 
 ## SLAM
 
@@ -5758,7 +5758,7 @@
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins et.al.|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
-|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai et.al.|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|null|
+|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai et.al.|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|**[link](https://github.com/stanford-navlab/planeslam)**|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
 |**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
 |**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
@@ -6142,11 +6142,11 @@
 |**2022-09-20**|**Integer Fine-tuning of Transformer-based Models**|Mohammadreza Tayaranian et.al.|[2209.09815v1](http://arxiv.org/abs/2209.09815v1)|null|
 |**2022-09-20**|**High-resolution synthesis of high-density breast mammograms: Application to improved fairness in deep learning based mass detection**|Lidia Garrucho et.al.|[2209.09809v1](http://arxiv.org/abs/2209.09809v1)|null|
 |**2022-09-20**|**Elastic anisotropy of lizardite at subduction zone conditions**|Xin Deng et.al.|[2209.09783v1](http://arxiv.org/abs/2209.09783v1)|null|
-|**2022-09-20**|**IRS Assisted NOMA Aided Mobile Edge Computing with Queue Stability: Heterogeneous Multi-Agent Reinforcement Learning**|Jiadong Yu et.al.|[2209.09776v1](http://arxiv.org/abs/2209.09776v1)|null|
+|**2022-09-21**|**IRS Assisted NOMA Aided Mobile Edge Computing with Queue Stability: Heterogeneous Multi-Agent Reinforcement Learning**|Jiadong Yu et.al.|[2209.09776v2](http://arxiv.org/abs/2209.09776v2)|null|
 |**2022-09-20**|**A Deep Reinforcement Learning-Based Charging Scheduling Approach with Augmented Lagrangian for Electric Vehicle**|Guibin. Chen et.al.|[2209.09772v1](http://arxiv.org/abs/2209.09772v1)|null|
 |**2022-09-20**|**ESPnet-ONNX: Bridging a Gap Between Research and Production**|Masao Someki et.al.|[2209.09756v1](http://arxiv.org/abs/2209.09756v1)|null|
 |**2022-09-20**|**Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations**|Tushar et.al.|[2209.09750v1](http://arxiv.org/abs/2209.09750v1)|null|
-|**2022-09-20**|**A Tale of a Tail: A Tidally-Disrupting Ultra-Diffuse Galaxy in the M81 Group**|Rokas Žemaitis et.al.|[2209.09713v1](http://arxiv.org/abs/2209.09713v1)|null|
+|**2022-09-21**|**A Tale of a Tail: A Tidally-Disrupting Ultra-Diffuse Galaxy in the M81 Group**|Rokas Žemaitis et.al.|[2209.09713v2](http://arxiv.org/abs/2209.09713v2)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
 |**2022-09-20**|**SCGG: A Deep Structure-Conditioned Graph Generative Model**|Faezeh Faez et.al.|[2209.09681v1](http://arxiv.org/abs/2209.09681v1)|null|
 |**2022-09-20**|**Explainable Clustering via Exemplars: Complexity and Efficient Approximation Algorithms**|Ian Davidson et.al.|[2209.09670v1](http://arxiv.org/abs/2209.09670v1)|null|
@@ -6169,13 +6169,13 @@
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
 |**2022-09-20**|**Reduction from Complementary-Label Learning to Probability Estimates**|Wei-I Lin et.al.|[2209.09500v1](http://arxiv.org/abs/2209.09500v1)|null|
 |**2022-09-20**|**NBD-GAP: Non-Blind Image Deblurring Without Clean Target Images**|Nithin Gopalakrishnan Nair et.al.|[2209.09498v1](http://arxiv.org/abs/2209.09498v1)|null|
-|**2022-09-20**|**Deep Q-Network for AI Soccer**|Curie Kim et.al.|[2209.09491v1](http://arxiv.org/abs/2209.09491v1)|null|
+|**2022-09-21**|**Deep Q-Network for AI Soccer**|Curie Kim et.al.|[2209.09491v2](http://arxiv.org/abs/2209.09491v2)|null|
 |**2022-09-20**|**Design and Implementation of Fragmented Clouds for Evaluation of Distributed Databases**|Yaser Mansouri et.al.|[2209.09487v1](http://arxiv.org/abs/2209.09487v1)|null|
 |**2022-09-20**|**Feature embedding in click-through rate prediction**|Samo Pahor et.al.|[2209.09481v1](http://arxiv.org/abs/2209.09481v1)|**[link](https://github.com/kahno/feature_embedding)**|
 |**2022-09-20**|**Unsupervised Early Exit in DNNs with Multiple Exits**|Hari Narayan N U et.al.|[2209.09480v1](http://arxiv.org/abs/2209.09480v1)|**[link](https://github.com/mlions/mutiexitdnns)**|
 |**2022-09-20**|**SleePyCo: Automatic Sleep Scoring with Feature Pyramid and Contrastive Learning**|Seongju Lee et.al.|[2209.09452v1](http://arxiv.org/abs/2209.09452v1)|null|
 |**2022-09-20**|**A Data-Centric AI Paradigm Based on Application-Driven Fine-grained Dataset Design**|Huan Hu et.al.|[2209.09449v1](http://arxiv.org/abs/2209.09449v1)|**[link](https://github.com/huh30/opendatasets)**|
-|**2022-09-20**|**Attributed Network Embedding Model for Exposing COVID-19 Spread Trajectory Archetypes**|Junwei Ma et.al.|[2209.09448v1](http://arxiv.org/abs/2209.09448v1)|null|
+|**2022-09-21**|**Attributed Network Embedding Model for Exposing COVID-19 Spread Trajectory Archetypes**|Junwei Ma et.al.|[2209.09448v2](http://arxiv.org/abs/2209.09448v2)|null|
 |**2022-09-20**|**One-to-Many Semantic Communication Systems: Design, Implementation, Performance Evaluation**|Han Hu et.al.|[2209.09425v1](http://arxiv.org/abs/2209.09425v1)|null|
 |**2022-09-20**|**PolyMPCNet: Towards ReLU-free Neural Architecture Search in Two-party Computation Based Private Inference**|Hongwu Peng et.al.|[2209.09424v1](http://arxiv.org/abs/2209.09424v1)|null|
 |**2022-09-20**|**Deep learning at the edge enables real-time streaming ptychographic imaging**|Anakha V Babu et.al.|[2209.09408v1](http://arxiv.org/abs/2209.09408v1)|null|
