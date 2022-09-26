@@ -1,4 +1,4 @@
-## Updated on 2022.09.25
+## Updated on 2022.09.26
 
 ## SLAM
 
@@ -5750,6 +5750,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-23**|**involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**|Gilad Rotman et.al.|[2209.11591v1](http://arxiv.org/abs/2209.11591v1)|null|
+|**2022-09-23**|**Automatic Sign Reading and Localization for Semantic Mapping with an Office Robot**|David Balaban et.al.|[2209.11432v1](http://arxiv.org/abs/2209.11432v1)|null|
 |**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
 |**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
 |**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
@@ -5931,6 +5933,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-23**|**Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs**|Youya Xia et.al.|[2209.11673v1](http://arxiv.org/abs/2209.11673v1)|null|
+|**2022-09-22**|**UNav: An Infrastructure-Independent Vision-Based Navigation System for People with Blindness and Low vision**|Anbang Yang et.al.|[2209.11336v1](http://arxiv.org/abs/2209.11336v1)|null|
 |**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
@@ -6139,6 +6143,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-23**|**Universal behavior of highly-confined heat flow in semiconductor nanosystems: from nanomeshes to metalattices**|Brendan McBennett et.al.|[2209.11743v1](http://arxiv.org/abs/2209.11743v1)|null|
+|**2022-09-23**|**Semantic scene descriptions as an objective of human vision**|Adrien Doerig et.al.|[2209.11737v1](http://arxiv.org/abs/2209.11737v1)|null|
+|**2022-09-23**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v1](http://arxiv.org/abs/2209.11715v1)|null|
+|**2022-09-23**|**Stereo InSE-NET: Stereo Audio Quality Predictor Transfer Learned from Mono InSE-NET**|Arijit Biswas et.al.|[2209.11666v1](http://arxiv.org/abs/2209.11666v1)|null|
+|**2022-09-23**|**Signal to background discrimination for the production of double Higgs boson events via vector boson fusion mechanism in the decay channel with four charged leptons and two b-jets in the final state at the LHC experiment**|Brunella D'Anzi et.al.|[2209.11649v1](http://arxiv.org/abs/2209.11649v1)|null|
+|**2022-09-23**|**Artificial Intelligence and Advanced Materials**|Cefe López et.al.|[2209.11618v1](http://arxiv.org/abs/2209.11618v1)|null|
+|**2022-09-23**|**I-SPLIT: Deep Network Interpretability for Split Computing**|Federico Cunico et.al.|[2209.11607v1](http://arxiv.org/abs/2209.11607v1)|null|
+|**2022-09-23**|**Neural Clamping: Joint Input Perturbation and Temperature Scaling for Neural Network Calibration**|Yung-Chen Tang et.al.|[2209.11604v1](http://arxiv.org/abs/2209.11604v1)|null|
+|**2022-09-23**|**Deep Learning-based Anonymization of Chest Radiographs: A Utility-preserving Measure for Patient Privacy**|Kai Packhäuser et.al.|[2209.11531v1](http://arxiv.org/abs/2209.11531v1)|null|
+|**2022-09-23**|**An artificial neural network-based system for detecting machine failures using tiny sound data: A case study**|Thanh Tran et.al.|[2209.11527v1](http://arxiv.org/abs/2209.11527v1)|null|
+|**2022-09-23**|**Power Management in Smart Residential Building with Deep Learning Model for Occupancy Detection by Usage Pattern of Electric Appliances**|Sangkeum Lee et.al.|[2209.11520v1](http://arxiv.org/abs/2209.11520v1)|null|
+|**2022-09-23**|**Vector Quantized Semantic Communication System**|Qifan Fu et.al.|[2209.11519v1](http://arxiv.org/abs/2209.11519v1)|null|
+|**2022-09-23**|**Weakly Supervised Two-Stage Training Scheme for Deep Video Fight Detection Model**|Zhenting Qi et.al.|[2209.11477v1](http://arxiv.org/abs/2209.11477v1)|null|
+|**2022-09-23**|**TeST: Test-time Self-Training under Distribution Shift**|Samarth Sinha et.al.|[2209.11459v1](http://arxiv.org/abs/2209.11459v1)|null|
+|**2022-09-23**|**Segmentation-based Information Extraction and Amalgamation in Fundus Images for Glaucoma Detection**|Yanni Wang et.al.|[2209.11456v1](http://arxiv.org/abs/2209.11456v1)|null|
+|**2022-09-23**|**Motion Guided Deep Dynamic 3D Garments**|Meng Zhang et.al.|[2209.11449v1](http://arxiv.org/abs/2209.11449v1)|null|
+|**2022-09-23**|**Rethinking Performance Gains in Image Dehazing Networks**|Yuda Song et.al.|[2209.11448v1](http://arxiv.org/abs/2209.11448v1)|null|
+|**2022-09-23**|**Understanding Open-Set Recognition by Jacobian Norm of Representation**|Jaewoo Park et.al.|[2209.11436v1](http://arxiv.org/abs/2209.11436v1)|null|
+|**2022-09-23**|**Achieve the Minimum Width of Neural Networks for Universal Approximation**|Yongqiang Cai et.al.|[2209.11395v1](http://arxiv.org/abs/2209.11395v1)|null|
+|**2022-09-23**|**Do Current Multi-Task Optimization Methods in Deep Learning Even Help?**|Derrick Xin et.al.|[2209.11379v1](http://arxiv.org/abs/2209.11379v1)|null|
+|**2022-09-23**|**Radio Emission and Electric Gaps in Pulsar Magnetospheres**|Ashley Bransgrove et.al.|[2209.11362v1](http://arxiv.org/abs/2209.11362v1)|null|
+|**2022-09-23**|**CUTS: A Fully Unsupervised Framework for Medical Image Segmentation**|Matthew Amodio et.al.|[2209.11359v1](http://arxiv.org/abs/2209.11359v1)|null|
+|**2022-09-23**|**NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing**|Dongning Ma et.al.|[2209.11356v1](http://arxiv.org/abs/2209.11356v1)|null|
+|**2022-09-23**|**Learning Interpretable Dynamics from Images of a Freely Rotating 3D Rigid Body**|Justice Mason et.al.|[2209.11355v1](http://arxiv.org/abs/2209.11355v1)|null|
+|**2022-09-22**|**Oracle Analysis of Representations for Deep Open Set Detection**|Risheek Garrepalli et.al.|[2209.11350v1](http://arxiv.org/abs/2209.11350v1)|null|
+|**2022-09-22**|**Fast Disparity Estimation from a Single Compressed Light Field Measurement**|Emmanuel Martinez et.al.|[2209.11342v1](http://arxiv.org/abs/2209.11342v1)|null|
+|**2022-09-22**|**A domain adaptive deep learning solution for scanpath prediction of paintings**|Mohamed Amine Kerkouri et.al.|[2209.11338v1](http://arxiv.org/abs/2209.11338v1)|null|
+|**2022-09-22**|**Privacy-Preserving Person Detection Using Low-Resolution Infrared Cameras**|Thomas Dubail et.al.|[2209.11335v1](http://arxiv.org/abs/2209.11335v1)|null|
+|**2022-09-22**|**Learning Certifiably Robust Controllers Using Fragile Perception**|Dawei Sun et.al.|[2209.11328v1](http://arxiv.org/abs/2209.11328v1)|null|
+|**2022-09-22**|**FuTH-Net: Fusing Temporal Relations and Holistic Features for Aerial Video Classification**|Pu Jin et.al.|[2209.11316v1](http://arxiv.org/abs/2209.11316v1)|null|
+|**2022-09-22**|**Deep Learning for Multi-User Proactive Beam Handoff: A 6G Application**|Faris B. Mismar et.al.|[2209.11312v1](http://arxiv.org/abs/2209.11312v1)|null|
+|**2022-09-22**|**Deep Domain Adaptation for Detecting Bomb Craters in Aerial Images**|Marco Geiger et.al.|[2209.11299v1](http://arxiv.org/abs/2209.11299v1)|null|
+|**2022-09-22**|**Analysis and Modeling of High-Frequency Emission and Deep Seismic Sources of Sunquakes**|John T. Stefan et.al.|[2209.11286v1](http://arxiv.org/abs/2209.11286v1)|null|
+|**2022-09-22**|**Automated detection of Alzheimer disease using MRI images and deep neural networks- A review**|Narotam Singh et.al.|[2209.11282v1](http://arxiv.org/abs/2209.11282v1)|null|
+|**2022-09-22**|**FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion**|Fabian Duffhauss et.al.|[2209.11277v1](http://arxiv.org/abs/2209.11277v1)|null|
+|**2022-09-22**|**Minimizing Human Assistance: Augmenting a Single Demonstration for Deep Reinforcement Learning**|Abraham George et.al.|[2209.11275v1](http://arxiv.org/abs/2209.11275v1)|null|
+|**2022-09-22**|**The Microsoft System for VoxCeleb Speaker Recognition Challenge 2022**|Gang Liu et.al.|[2209.11266v1](http://arxiv.org/abs/2209.11266v1)|null|
+|**2022-09-22**|**Computational Discovery of Energy-Efficient Heat Treatment for Microstructure Design using Deep Reinforcement Learning**|Jaber R. Mianroodi et.al.|[2209.11259v1](http://arxiv.org/abs/2209.11259v1)|null|
+|**2022-09-22**|**The Stellar Mass Function in CANDELS and Frontier Fields: the build-up of low mass passive galaxies since z~3**|P. Santini et.al.|[2209.11250v1](http://arxiv.org/abs/2209.11250v1)|null|
 |**2022-09-22**|**Concept Activation Regions: A Generalized Framework For Concept-Based Explanations**|Jonathan Crabbé et.al.|[2209.11222v1](http://arxiv.org/abs/2209.11222v1)|**[link](https://github.com/jonathancrabbe/cars)**|
 |**2022-09-22**|**Layer Freezing & Data Sieving: Missing Pieces of a Generic Framework for Sparse Training**|Geng Yuan et.al.|[2209.11204v1](http://arxiv.org/abs/2209.11204v1)|**[link](https://github.com/snap-research/spfde)**|
 |**2022-09-22**|**Attention is All They Need: Exploring the Media Archaeology of the Computer Vision Research Paper**|Samuel Goree et.al.|[2209.11200v1](http://arxiv.org/abs/2209.11200v1)|null|
@@ -8359,6 +8402,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-23**|**Best Prompts for Text-to-Image Models and How to Find Them**|Nikita Pavlichenko et.al.|[2209.11711v1](http://arxiv.org/abs/2209.11711v1)|null|
 |**2022-09-22**|**Implementing and Experimenting with Diffusion Models for Text-to-Image Generation**|Robin Zbinden et.al.|[2209.10948v1](http://arxiv.org/abs/2209.10948v1)|**[link](https://github.com/epfml/text_to_image_generation)**|
 |**2022-09-16**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
 |**2022-09-20**|**Quantum noise spectroscopy as an incoherent imaging problem**|Mankei Tsang et.al.|[2209.06104v2](http://arxiv.org/abs/2209.06104v2)|null|
