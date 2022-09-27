@@ -1,4 +1,4 @@
-> Updated on 2022.09.26
+> Updated on 2022.09.27
 
 ## SLAM
 
@@ -5742,7 +5742,7 @@
 - 2022-09-19, **LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**, Letian Zhang et.al., Paper: [http://arxiv.org/abs/2209.08810v1](http://arxiv.org/abs/2209.08810v1)
 - 2022-09-18, **HGI-SLAM: Loop Closure With Human and Geometric Importance Features**, Shuhul Mujoo et.al., Paper: [http://arxiv.org/abs/2209.08608v1](http://arxiv.org/abs/2209.08608v1)
 - 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
-- 2022-09-17, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v1](http://arxiv.org/abs/2209.08430v1), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
+- 2022-09-24, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v2](http://arxiv.org/abs/2209.08430v2), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
 - 2022-09-17, **OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2209.08338v1](http://arxiv.org/abs/2209.08338v1)
 - 2022-09-17, **PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2209.08248v1](http://arxiv.org/abs/2209.08248v1), Code: **[https://github.com/stanford-navlab/planeslam](https://github.com/stanford-navlab/planeslam)**
 - 2022-09-16, **ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**, Aditya Arun et.al., Paper: [http://arxiv.org/abs/2209.08091v1](http://arxiv.org/abs/2209.08091v1)
@@ -6024,7 +6024,7 @@
 - 2022-03-29, **Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**, David Howard et.al., Paper: [http://arxiv.org/abs/2203.15172v1](http://arxiv.org/abs/2203.15172v1)
 - 2022-03-28, **REGTR: End-to-end Point Cloud Correspondences with Transformers**, Zi Jian Yew et.al., Paper: [http://arxiv.org/abs/2203.14517v1](http://arxiv.org/abs/2203.14517v1), Code: **[https://github.com/yewzijian/regtr](https://github.com/yewzijian/regtr)**
 - 2022-03-27, **UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2203.12745v2](http://arxiv.org/abs/2203.12745v2), Code: **[https://github.com/tencentarc/umt](https://github.com/tencentarc/umt)**
-- 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
+- 2022-09-23, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v3](http://arxiv.org/abs/2203.09645v3), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-16, **PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**, R. James Cotton et.al., Paper: [http://arxiv.org/abs/2203.08792v1](http://arxiv.org/abs/2203.08792v1), Code: **[https://github.com/peabody124/posepipeline](https://github.com/peabody124/posepipeline)**
 - 2022-03-11, **DRTAM: Dual Rank-1 Tensor Attention Module**, Hanxing Chi et.al., Paper: [http://arxiv.org/abs/2203.05893v1](http://arxiv.org/abs/2203.05893v1)
 - 2022-03-07, **Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation**, Meng Tian et.al., Paper: [http://arxiv.org/abs/2203.03498v1](http://arxiv.org/abs/2203.03498v1)
@@ -6084,7 +6084,7 @@
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1), Code: **[https://github.com/martyushev/eliminationtemplates](https://github.com/martyushev/eliminationtemplates)**
 - 2022-03-28, **S2-Net: Self-supervision Guided Feature Representation Learning for Cross-Modality Images**, Shasha Mei et.al., Paper: [http://arxiv.org/abs/2203.14581v1](http://arxiv.org/abs/2203.14581v1)
 - 2022-03-26, **Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2203.14148v1](http://arxiv.org/abs/2203.14148v1), Code: **[https://github.com/shiyujiao/ibl](https://github.com/shiyujiao/ibl)**
-- 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
+- 2022-09-23, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v3](http://arxiv.org/abs/2203.09645v3), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-14, **There's no difference: Convolutional Neural Networks for transient detection without template subtraction**, Tatiana Acero-Cuellar et.al., Paper: [http://arxiv.org/abs/2203.07390v1](http://arxiv.org/abs/2203.07390v1), Code: **[https://github.com/taceroc/dia_nodia](https://github.com/taceroc/dia_nodia)**
 - 2022-03-25, **Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2203.02668v2](http://arxiv.org/abs/2203.02668v2), Code: **[https://github.com/cvi-szu/clims](https://github.com/cvi-szu/clims)**
 - 2022-03-01, **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et.al., Paper: [http://arxiv.org/abs/2203.00386v1](http://arxiv.org/abs/2203.00386v1)
@@ -6115,7 +6115,7 @@
 
 - 2022-09-23, **Universal behavior of highly-confined heat flow in semiconductor nanosystems: from nanomeshes to metalattices**, Brendan McBennett et.al., Paper: [http://arxiv.org/abs/2209.11743v1](http://arxiv.org/abs/2209.11743v1)
 - 2022-09-23, **Semantic scene descriptions as an objective of human vision**, Adrien Doerig et.al., Paper: [http://arxiv.org/abs/2209.11737v1](http://arxiv.org/abs/2209.11737v1)
-- 2022-09-23, **The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**, Wanlun Ma et.al., Paper: [http://arxiv.org/abs/2209.11715v1](http://arxiv.org/abs/2209.11715v1)
+- 2022-09-26, **The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**, Wanlun Ma et.al., Paper: [http://arxiv.org/abs/2209.11715v2](http://arxiv.org/abs/2209.11715v2), Code: **[https://github.com/wanlunsec/beatrix](https://github.com/wanlunsec/beatrix)**
 - 2022-09-23, **Stereo InSE-NET: Stereo Audio Quality Predictor Transfer Learned from Mono InSE-NET**, Arijit Biswas et.al., Paper: [http://arxiv.org/abs/2209.11666v1](http://arxiv.org/abs/2209.11666v1)
 - 2022-09-23, **Signal to background discrimination for the production of double Higgs boson events via vector boson fusion mechanism in the decay channel with four charged leptons and two b-jets in the final state at the LHC experiment**, Brunella D'Anzi et.al., Paper: [http://arxiv.org/abs/2209.11649v1](http://arxiv.org/abs/2209.11649v1)
 - 2022-09-23, **Artificial Intelligence and Advanced Materials**, Cefe López et.al., Paper: [http://arxiv.org/abs/2209.11618v1](http://arxiv.org/abs/2209.11618v1)
@@ -8304,7 +8304,7 @@
 ## Visual Odometry视觉里程计
 
 - 2022-09-18, **SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**, Leonhard Sommer et.al., Paper: [http://arxiv.org/abs/2209.08532v1](http://arxiv.org/abs/2209.08532v1)
-- 2022-09-17, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v1](http://arxiv.org/abs/2209.08430v1), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
+- 2022-09-24, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v2](http://arxiv.org/abs/2209.08430v2), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
 - 2022-09-05, **Neuromorphic Visual Odometry with Resonator Networks**, Alpha Renner et.al., Paper: [http://arxiv.org/abs/2209.02000v1](http://arxiv.org/abs/2209.02000v1)
 - 2022-09-05, **Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**, Muhammad Ahmed Humais et.al., Paper: [http://arxiv.org/abs/2209.01933v1](http://arxiv.org/abs/2209.01933v1)
 - 2022-09-04, **Pseudo-LiDAR for Visual Odometry**, Huiying Deng et.al., Paper: [http://arxiv.org/abs/2209.01567v1](http://arxiv.org/abs/2209.01567v1)
