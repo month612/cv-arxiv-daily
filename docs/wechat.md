@@ -1,4 +1,4 @@
-> Updated on 2022.09.27
+> Updated on 2022.09.28
 
 ## SLAM
 
@@ -5885,7 +5885,7 @@
 - 2022-01-20, **GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**, Yunhan Zhao et.al., Paper: [http://arxiv.org/abs/2201.08131v1](http://arxiv.org/abs/2201.08131v1)
 - 2022-01-13, **Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**, Yunpeng Shi et.al., Paper: [http://arxiv.org/abs/2201.04797v1](http://arxiv.org/abs/2201.04797v1), Code: **[https://github.com/yunpeng-shi/fcc](https://github.com/yunpeng-shi/fcc)**
 - 2022-01-10, **High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**, Brian M. Hopkinson et.al., Paper: [http://arxiv.org/abs/2201.03364v1](http://arxiv.org/abs/2201.03364v1), Code: **[https://github.com/bmhopkinson/hyslam](https://github.com/bmhopkinson/hyslam)**
-- 2022-01-06, **De-rendering 3D Objects in the Wild**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2201.02279v1](http://arxiv.org/abs/2201.02279v1)
+- 2022-09-27, **De-rendering 3D Objects in the Wild**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2201.02279v2](http://arxiv.org/abs/2201.02279v2)
 - 2021-12-29, **On the Instability of Relative Pose Estimation and RANSAC's Role**, Hongyi Fan et.al., Paper: [http://arxiv.org/abs/2112.14651v1](http://arxiv.org/abs/2112.14651v1)
 - 2021-12-16, **Road-aware Monocular Structure from Motion and Homography Estimation**, Wei Sui et.al., Paper: [http://arxiv.org/abs/2112.08635v1](http://arxiv.org/abs/2112.08635v1)
 - 2021-12-10, **Critical configurations for three projective views**, Martin Bråtelund et.al., Paper: [http://arxiv.org/abs/2112.05478v1](http://arxiv.org/abs/2112.05478v1)
@@ -5911,7 +5911,7 @@
 
 ## Visual Localization视觉定位
 
-- 2022-09-26, **NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**, Ruihao Zhou et.al., Paper: [http://arxiv.org/abs/2209.12513v1](http://arxiv.org/abs/2209.12513v1)
+- 2022-09-26, **NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**, Ruihao Zhou et.al., Paper: [http://arxiv.org/abs/2209.12513v1](http://arxiv.org/abs/2209.12513v1), Code: **[https://github.com/zhouruihao1001/ndd](https://github.com/zhouruihao1001/ndd)**
 - 2022-09-24, **Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**, Jonathan J. Y. Kim et.al., Paper: [http://arxiv.org/abs/2209.11894v1](http://arxiv.org/abs/2209.11894v1)
 - 2022-09-23, **Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs**, Youya Xia et.al., Paper: [http://arxiv.org/abs/2209.11673v1](http://arxiv.org/abs/2209.11673v1)
 - 2022-09-22, **UNav: An Infrastructure-Independent Vision-Based Navigation System for People with Blindness and Low vision**, Anbang Yang et.al., Paper: [http://arxiv.org/abs/2209.11336v1](http://arxiv.org/abs/2209.11336v1)
@@ -5934,7 +5934,7 @@
 - 2022-07-19, **ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**, Ivan Cisneros et.al., Paper: [http://arxiv.org/abs/2207.12317v1](http://arxiv.org/abs/2207.12317v1), Code: **[https://github.com/metaslam/alto](https://github.com/metaslam/alto)**
 - 2022-07-22, **PLD-SLAM: A Real-Time Visual SLAM Using Points and Line Segments in Dynamic Scenes**, BaoSheng Zhang et.al., Paper: [http://arxiv.org/abs/2207.10916v1](http://arxiv.org/abs/2207.10916v1)
 - 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
-- 2022-07-14, **AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2207.06965v1](http://arxiv.org/abs/2207.06965v1)
+- 2022-09-27, **AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2207.06965v2](http://arxiv.org/abs/2207.06965v2)
 - 2022-07-14, **Semi-supervised Vector-Quantization in Visual SLAM using HGCN**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06738v1](http://arxiv.org/abs/2207.06738v1)
 - 2022-07-14, **Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06732v1](http://arxiv.org/abs/2207.06732v1)
 - 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
@@ -5942,7 +5942,7 @@
 - 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
 - 2022-06-28, **Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2206.13883v1](http://arxiv.org/abs/2206.13883v1)
 - 2022-07-08, **How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**, Tobias Fischer et.al., Paper: [http://arxiv.org/abs/2206.13673v2](http://arxiv.org/abs/2206.13673v2)
-- 2022-06-25, **FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**, Yongzhi Fan et.al., Paper: [http://arxiv.org/abs/2206.12628v1](http://arxiv.org/abs/2206.12628v1), Code: **[https://github.com/soytony/fresco](https://github.com/soytony/fresco)**
+- 2022-09-27, **FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**, Yongzhi Fan et.al., Paper: [http://arxiv.org/abs/2206.12628v2](http://arxiv.org/abs/2206.12628v2), Code: **[https://github.com/soytony/fresco](https://github.com/soytony/fresco)**
 - 2022-06-17, **Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**, Khairuldanial Ismail et.al., Paper: [http://arxiv.org/abs/2206.08733v1](http://arxiv.org/abs/2206.08733v1)
 - 2022-05-31, **Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**, Martin Humenberger et.al., Paper: [http://arxiv.org/abs/2205.15761v1](http://arxiv.org/abs/2205.15761v1), Code: **[https://github.com/naver/kapture-localization](https://github.com/naver/kapture-localization)**
 - 2022-05-27, **Improving Road Segmentation in Challenging Domains Using Similar Place Priors**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2205.14112v1](http://arxiv.org/abs/2205.14112v1)
@@ -6144,7 +6144,7 @@
 - 2022-09-26, **EOD: The IEEE GRSS Earth Observation Database**, Michael Schmitt et.al., Paper: [http://arxiv.org/abs/2209.12480v1](http://arxiv.org/abs/2209.12480v1)
 - 2022-09-26, **RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation**, Reza Rasti et.al., Paper: [http://arxiv.org/abs/2209.12468v1](http://arxiv.org/abs/2209.12468v1)
 - 2022-09-26, **YOLO v3: Visual and Real-Time Object Detection Model for Smart Surveillance Systems(3s)**, Kanyifeechukwu Jane Oguine et.al., Paper: [http://arxiv.org/abs/2209.12447v1](http://arxiv.org/abs/2209.12447v1)
-- 2022-09-26, **Hybrid nano-domain structures of organic-inorganic perovskites from molecule-cage coupling effects**, Ping Tuo et.al., Paper: [http://arxiv.org/abs/2209.12445v1](http://arxiv.org/abs/2209.12445v1)
+- 2022-09-27, **Hybrid nano-domain structures of organic-inorganic perovskites from molecule-cage coupling effects**, Ping Tuo et.al., Paper: [http://arxiv.org/abs/2209.12445v2](http://arxiv.org/abs/2209.12445v2)
 - 2022-09-26, **Self-supervised similarity models based on well-logging data**, Sergey Egorov et.al., Paper: [http://arxiv.org/abs/2209.12444v1](http://arxiv.org/abs/2209.12444v1)
 - 2022-09-26, **Image Quality Assessment for Foliar Disease Identification (AgroPath)**, Nisar Ahmed et.al., Paper: [http://arxiv.org/abs/2209.12443v1](http://arxiv.org/abs/2209.12443v1)
 - 2022-09-26, **Deep generative model super-resolves spatially correlated multiregional climate data**, Norihiro Oyama et.al., Paper: [http://arxiv.org/abs/2209.12433v1](http://arxiv.org/abs/2209.12433v1)
@@ -6155,7 +6155,7 @@
 - 2022-09-26, **DEFT: Diverse Ensembles for Fast Transfer in Reinforcement Learning**, Simeon Adebola et.al., Paper: [http://arxiv.org/abs/2209.12412v1](http://arxiv.org/abs/2209.12412v1)
 - 2022-09-26, **A heterogeneous group CNN for image super-resolution**, Chunwei Tian et.al., Paper: [http://arxiv.org/abs/2209.12406v1](http://arxiv.org/abs/2209.12406v1), Code: **[https://github.com/hellloxiaotian/hgsrcnn](https://github.com/hellloxiaotian/hgsrcnn)**
 - 2022-09-26, **Deep Fair Clustering via Maximizing and Minimizing Mutual Information**, Pengxin Zeng et.al., Paper: [http://arxiv.org/abs/2209.12396v1](http://arxiv.org/abs/2209.12396v1)
-- 2022-09-26, **Multi-stage image denoising with the wavelet transform**, Chunwei Tian et.al., Paper: [http://arxiv.org/abs/2209.12394v1](http://arxiv.org/abs/2209.12394v1), Code: **[https://github.com/hellloxiaotian/mwdcnn](https://github.com/hellloxiaotian/mwdcnn)**
+- 2022-09-27, **Multi-stage image denoising with the wavelet transform**, Chunwei Tian et.al., Paper: [http://arxiv.org/abs/2209.12394v2](http://arxiv.org/abs/2209.12394v2), Code: **[https://github.com/hellloxiaotian/mwdcnn](https://github.com/hellloxiaotian/mwdcnn)**
 - 2022-09-26, **FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs**, Shehzeen Hussain et.al., Paper: [http://arxiv.org/abs/2209.12391v1](http://arxiv.org/abs/2209.12391v1)
 - 2022-09-26, **Neural State-Space Modeling with Latent Causal-Effect Disentanglement**, Maryam Toloubidokhti et.al., Paper: [http://arxiv.org/abs/2209.12387v1](http://arxiv.org/abs/2209.12387v1), Code: **[https://github.com/qu-gg/causal-effect-neural-ssm](https://github.com/qu-gg/causal-effect-neural-ssm)**
 - 2022-09-26, **Deep CLSTM for Predictive Beamforming in Integrated Sensing and Communication-enabled Vehicular Networks**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2209.12368v1](http://arxiv.org/abs/2209.12368v1)
@@ -8359,7 +8359,7 @@
 
 ## Visual Odometry视觉里程计
 
-- 2022-09-18, **SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**, Leonhard Sommer et.al., Paper: [http://arxiv.org/abs/2209.08532v1](http://arxiv.org/abs/2209.08532v1)
+- 2022-09-26, **SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**, Leonhard Sommer et.al., Paper: [http://arxiv.org/abs/2209.08532v2](http://arxiv.org/abs/2209.08532v2)
 - 2022-09-24, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v2](http://arxiv.org/abs/2209.08430v2), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
 - 2022-09-05, **Neuromorphic Visual Odometry with Resonator Networks**, Alpha Renner et.al., Paper: [http://arxiv.org/abs/2209.02000v1](http://arxiv.org/abs/2209.02000v1)
 - 2022-09-05, **Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**, Muhammad Ahmed Humais et.al., Paper: [http://arxiv.org/abs/2209.01933v1](http://arxiv.org/abs/2209.01933v1)
