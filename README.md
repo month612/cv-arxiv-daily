@@ -1,4 +1,4 @@
-## Updated on 2022.09.28
+## Updated on 2022.09.29
 
 ## SLAM
 
@@ -5960,7 +5960,7 @@
 |**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|**[link](https://github.com/metaslam/alto)**|
 |**2022-07-22**|**PLD-SLAM: A Real-Time Visual SLAM Using Points and Line Segments in Dynamic Scenes**|BaoSheng Zhang et.al.|[2207.10916v1](http://arxiv.org/abs/2207.10916v1)|null|
 |**2022-07-25**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
-|**2022-09-27**|**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**|Peng Yin et.al.|[2207.06965v2](http://arxiv.org/abs/2207.06965v2)|null|
+|**2022-09-28**|**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**|Peng Yin et.al.|[2207.06965v3](http://arxiv.org/abs/2207.06965v3)|null|
 |**2022-07-14**|**Semi-supervised Vector-Quantization in Visual SLAM using HGCN**|Amir Zarringhalam et.al.|[2207.06738v1](http://arxiv.org/abs/2207.06738v1)|null|
 |**2022-07-14**|**Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**|Amir Zarringhalam et.al.|[2207.06732v1](http://arxiv.org/abs/2207.06732v1)|null|
 |**2022-07-19**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu et.al.|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
@@ -6015,6 +6015,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-28**|**USEEK: Unsupervised SE(3)-Equivariant 3D Keypoints for Generalizable Manipulation**|Zhengrong Xue et.al.|[2209.13864v1](http://arxiv.org/abs/2209.13864v1)|null|
+|**2022-09-27**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v1](http://arxiv.org/abs/2209.13657v1)|null|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-26**|**Performance Evaluation of 3D Keypoint Detectors and Descriptors on Coloured Point Clouds in Subsea Environments**|Kyungmin Jung et.al.|[2209.12881v1](http://arxiv.org/abs/2209.12881v1)|null|
 |**2022-09-21**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v1](http://arxiv.org/abs/2209.10385v1)|null|
@@ -6153,6 +6155,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-28**|**Deep Learning-Based Dose Prediction for Automated, Individualized Quality Assurance of Head and Neck Radiotherapy Plans**|Mary P. Gronberg et.al.|[2209.14277v1](http://arxiv.org/abs/2209.14277v1)|null|
+|**2022-09-28**|**On the Generalization of Deep Reinforcement Learning Methods in the Problem of Local Navigation**|Victor R. F. Miranda et.al.|[2209.14271v1](http://arxiv.org/abs/2209.14271v1)|null|
+|**2022-09-28**|**A Multi-scale Graph Signature for Persistence Diagrams based on Return Probabilities of Random Walks**|Chau Pham et.al.|[2209.14264v1](http://arxiv.org/abs/2209.14264v1)|null|
+|**2022-09-28**|**A Survey on Physical Adversarial Attack in Computer Vision**|Donghua Wang et.al.|[2209.14262v1](http://arxiv.org/abs/2209.14262v1)|null|
+|**2022-09-28**|**Physics-aware Differentiable Discrete Codesign for Diffractive Optical Neural Networks**|Yingjie Li et.al.|[2209.14252v1](http://arxiv.org/abs/2209.14252v1)|null|
+|**2022-09-28**|**A Closer Look at Evaluating the Bit-Flip Attack Against Deep Neural Networks**|Kevin Hector et.al.|[2209.14243v1](http://arxiv.org/abs/2209.14243v1)|null|
+|**2022-09-28**|**Process-guidance improves predictive performance of neural networks for carbon turnover in ecosystems**|Marieke Wesselkamp et.al.|[2209.14229v1](http://arxiv.org/abs/2209.14229v1)|null|
+|**2022-09-28**|**Road Rutting Detection using Deep Learning on Images**|Poonam Kumari Saha et.al.|[2209.14225v1](http://arxiv.org/abs/2209.14225v1)|null|
+|**2022-09-28**|**Longitudinal Variability Analysis on Low-dose Abdominal CT with Deep Learning-based Segmentation**|Xin Yu et.al.|[2209.14217v1](http://arxiv.org/abs/2209.14217v1)|null|
+|**2022-09-28**|**Automated Quality Controlled Analysis of 2D Phase Contrast Cardiovascular Magnetic Resonance Imaging**|Emily Chan et.al.|[2209.14212v1](http://arxiv.org/abs/2209.14212v1)|null|
+|**2022-09-28**|**Programmable and Customized Intelligence for Traffic Steering in 5G Networks Using Open RAN Architectures**|Andrea Lacava et.al.|[2209.14171v1](http://arxiv.org/abs/2209.14171v1)|null|
+|**2022-09-28**|**Learning Filter-Based Compressed Blind-Deconvolution**|Bahareh Tolooshams et.al.|[2209.14165v1](http://arxiv.org/abs/2209.14165v1)|null|
+|**2022-09-28**|**Near Lossless Time Series Data Compression Methods using Statistics and Deviation**|Vidhi Agrawal et.al.|[2209.14162v1](http://arxiv.org/abs/2209.14162v1)|null|
+|**2022-09-28**|**Speech Enhancement Using Self-Supervised Pre-Trained Model and Vector Quantization**|Xiao-Ying Zhao et.al.|[2209.14150v1](http://arxiv.org/abs/2209.14150v1)|null|
+|**2022-09-28**|**Deep learning for gradient flows using the Brezis-Ekeland principle**|Laura Carini et.al.|[2209.14115v1](http://arxiv.org/abs/2209.14115v1)|null|
+|**2022-09-28**|**Exploring the Relationship between Architecture and Adversarially Robust Generalization**|Shiyu Tang et.al.|[2209.14105v1](http://arxiv.org/abs/2209.14105v1)|null|
+|**2022-09-28**|**Weighted Contrastive Hashing**|Jiaguo Yu et.al.|[2209.14099v1](http://arxiv.org/abs/2209.14099v1)|null|
+|**2022-09-28**|**Deepfake audio detection by speaker verification**|Alessandro Pianese et.al.|[2209.14098v1](http://arxiv.org/abs/2209.14098v1)|null|
+|**2022-09-28**|**Data Augmentation using Feature Generation for Volumetric Medical Images**|Khushboo Mehra et.al.|[2209.14097v1](http://arxiv.org/abs/2209.14097v1)|null|
+|**2022-09-28**|**PTSD in the Wild: A Video Database for Studying Post-Traumatic Stress Disorder Recognition in Unconstrained Environments**|Moctar Abdoul Latif Sawadogo et.al.|[2209.14085v1](http://arxiv.org/abs/2209.14085v1)|null|
+|**2022-09-28**|**MeWEHV: Mel and Wave Embeddings for Human Voice Tasks**|Andrés Vasco-Carofilis et.al.|[2209.14078v1](http://arxiv.org/abs/2209.14078v1)|null|
+|**2022-09-28**|**Recipro-CAM: Gradient-free reciprocal class activation map**|Seok-Yong Byun et.al.|[2209.14074v1](http://arxiv.org/abs/2209.14074v1)|null|
+|**2022-09-28**|**Comparative study of H accumulation in differently oriented grains of Cu**|A. Lopez-Cazalilla et.al.|[2209.14068v1](http://arxiv.org/abs/2209.14068v1)|null|
+|**2022-09-28**|**On the Robustness of Ensemble-Based Machine Learning Against Data Poisoning**|Marco Anisetti et.al.|[2209.14013v1](http://arxiv.org/abs/2209.14013v1)|null|
+|**2022-09-28**|**A Review of Modern Approaches for Coronary Angiography Imaging Analysis**|Maxim Popov et.al.|[2209.13997v1](http://arxiv.org/abs/2209.13997v1)|null|
+|**2022-09-28**|**Anomaly detection optimization using big data and deep learning to reduce false-positive**|Khloud Al Jallad et.al.|[2209.13965v1](http://arxiv.org/abs/2209.13965v1)|null|
+|**2022-09-28**|**Big data analysis and distributed deep learning for next-generation intrusion detection system optimization**|Khloud Al Jallad et.al.|[2209.13961v1](http://arxiv.org/abs/2209.13961v1)|null|
+|**2022-09-28**|**Imaging the field inside nanophotonic devices**|Tal Fishman et.al.|[2209.13960v1](http://arxiv.org/abs/2209.13960v1)|null|
+|**2022-09-28**|**A deep study of A399-401: An application for wide-field facet calibration**|J. M. G. H. J. de Jong et.al.|[2209.13930v1](http://arxiv.org/abs/2209.13930v1)|null|
+|**2022-09-28**|**MLink: Linking Black-Box Models from Multiple Domains for Collaborative Inference**|Mu Yuan et.al.|[2209.13883v1](http://arxiv.org/abs/2209.13883v1)|null|
+|**2022-09-28**|**YATO: Yet Another deep learning based Text analysis Open toolkit**|Zeqiang Wang et.al.|[2209.13877v1](http://arxiv.org/abs/2209.13877v1)|null|
+|**2022-09-28**|**Rethinking Blur Synthesis for Deep Real-World Image Deblurring**|Hao Wei et.al.|[2209.13866v1](http://arxiv.org/abs/2209.13866v1)|null|
+|**2022-09-28**|**Zero-Shot 3D Drug Design by Sketching and Generating**|Siyu Long et.al.|[2209.13865v1](http://arxiv.org/abs/2209.13865v1)|null|
+|**2022-09-28**|**Natural Language Processing Methods to Identify Oncology Patients at High Risk for Acute Care with Clinical Notes**|Claudio Fanconi et.al.|[2209.13860v1](http://arxiv.org/abs/2209.13860v1)|null|
+|**2022-09-28**|**Variance Tolerance Factors For Interpreting Neural Networks**|Sichao Li et.al.|[2209.13858v1](http://arxiv.org/abs/2209.13858v1)|null|
+|**2022-09-28**|**Deep Learning based Automatic Quantification of Urethral Plate Quality using the Plate Objective Scoring Tool (POST)**|Tariq O. Abbas et.al.|[2209.13848v1](http://arxiv.org/abs/2209.13848v1)|null|
+|**2022-09-28**|**Learning Deep Representations via Contrastive Learning for Instance Retrieval**|Tao Wu et.al.|[2209.13832v1](http://arxiv.org/abs/2209.13832v1)|null|
+|**2022-09-28**|**Label Distribution Learning via Implicit Distribution Representation**|Zhuoran Zheng et.al.|[2209.13824v1](http://arxiv.org/abs/2209.13824v1)|null|
+|**2022-09-28**|**Denoising of 3D MR images using a voxel-wise hybrid residual MLP-CNN model to improve small lesion diagnostic confidence**|Haibo Yang et.al.|[2209.13818v1](http://arxiv.org/abs/2209.13818v1)|null|
+|**2022-09-28**|**Analysis and prediction of heart stroke from ejection fraction and serum creatinine using LSTM deep learning approach**|Md Ershadul Haque et.al.|[2209.13799v1](http://arxiv.org/abs/2209.13799v1)|null|
+|**2022-09-28**|**METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets**|Peilin Zhou et.al.|[2209.13773v1](http://arxiv.org/abs/2209.13773v1)|null|
+|**2022-09-28**|**Image Compressed Sensing with Multi-scale Dilated Convolutional Neural Network**|Zhifeng Wang et.al.|[2209.13761v1](http://arxiv.org/abs/2209.13761v1)|null|
+|**2022-09-28**|**MultiRoboLearn: An open-source Framework for Multi-robot Deep Reinforcement Learning**|Junfeng Chen et.al.|[2209.13760v1](http://arxiv.org/abs/2209.13760v1)|null|
+|**2022-09-28**|**MTU-Net: Multi-level TransUNet for Space-based Infrared Tiny Ship Detection**|Tianhao Wu et.al.|[2209.13756v1](http://arxiv.org/abs/2209.13756v1)|null|
+|**2022-09-27**|**Towards Regression-Free Neural Networks for Diverse Compute Platforms**|Rahul Duggal et.al.|[2209.13740v1](http://arxiv.org/abs/2209.13740v1)|null|
+|**2022-09-27**|**The Neoplasia as embryological phenomenon and its implication in the animal evolution and the origin of cancer. II. The neoplastic process as an evolutionary engine**|Jaime Cofre et.al.|[2209.13729v1](http://arxiv.org/abs/2209.13729v1)|null|
+|**2022-09-27**|**Deep Learning Based Detection of Enlarged Perivascular Spaces on Brain MRI**|Tanweer Rashid et.al.|[2209.13727v1](http://arxiv.org/abs/2209.13727v1)|null|
+|**2022-09-27**|**An Overview of the Data-Loader Landscape: Comparative Performance Analysis**|Iason Ofeidis et.al.|[2209.13705v1](http://arxiv.org/abs/2209.13705v1)|null|
+|**2022-09-27**|**CEC-CNN: A Consecutive Expansion-Contraction Convolutional Network for Very Small Resolution Medical Image Classification**|Ioannis Vezakis et.al.|[2209.13661v1](http://arxiv.org/abs/2209.13661v1)|null|
+|**2022-09-27**|**Quality Assurance of Weld Seams Using Laser Triangulation Imaging and Deep Neural Networks**|Andreas Spruck et.al.|[2209.13648v1](http://arxiv.org/abs/2209.13648v1)|null|
 |**2022-09-27**|**Hierarchical Sliced Wasserstein Distance**|Khai Nguyen et.al.|[2209.13570v1](http://arxiv.org/abs/2209.13570v1)|null|
 |**2022-09-27**|**Exploring Low Rank Training of Deep Neural Networks**|Siddhartha Rao Kamalakara et.al.|[2209.13569v1](http://arxiv.org/abs/2209.13569v1)|null|
 |**2022-09-27**|**Polymer informatics at-scale with multitask graph neural networks**|Rishi Gurnani et.al.|[2209.13557v1](http://arxiv.org/abs/2209.13557v1)|**[link](https://github.com/ramprasad-group/polygnn)**|
@@ -8513,6 +8565,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-28**|**Streaming Video Temporal Action Segmentation In Real Time**|Wujun Wen et.al.|[2209.13808v1](http://arxiv.org/abs/2209.13808v1)|**[link](https://github.com/Thinksky5124/SVTAS)**|
 |**2022-09-26**|**Making Trotterization adaptive for NISQ devices and beyond**|Hongzheng Zhao et.al.|[2209.12653v1](http://arxiv.org/abs/2209.12653v1)|null|
 |**2022-09-23**|**Best Prompts for Text-to-Image Models and How to Find Them**|Nikita Pavlichenko et.al.|[2209.11711v1](http://arxiv.org/abs/2209.11711v1)|null|
 |**2022-09-22**|**Implementing and Experimenting with Diffusion Models for Text-to-Image Generation**|Robin Zbinden et.al.|[2209.10948v1](http://arxiv.org/abs/2209.10948v1)|**[link](https://github.com/epfml/text_to_image_generation)**|
