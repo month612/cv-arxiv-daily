@@ -6187,7 +6187,7 @@ layout: default
 |**2022-09-29**|**Transformer Meets Boundary Value Inverse Problems**|Ruchi Guo et.al.|[2209.14977v1](http://arxiv.org/abs/2209.14977v1)|null|
 |**2022-09-29**|**EiHi Net: Out-of-Distribution Generalization Paradigm**|Qinglai Wei et.al.|[2209.14946v1](http://arxiv.org/abs/2209.14946v1)|null|
 |**2022-09-29**|**Reinforcement Learning Algorithms: An Overview and Classification**|Fadi AlMahamid et.al.|[2209.14940v1](http://arxiv.org/abs/2209.14940v1)|null|
-|**2022-09-29**|**NAG-GS: Semi-Implicit, Accelerated and Robust Stochastic Optimizers**|Valentin Leplat et.al.|[2209.14937v1](http://arxiv.org/abs/2209.14937v1)|null|
+|**2022-09-29**|**NAG-GS: Semi-Implicit, Accelerated and Robust Stochastic Optimizers**|Valentin Leplat et.al.|[2209.14937v1](http://arxiv.org/abs/2209.14937v1)|**[link](https://github.com/skolai/nag-gs)**|
 |**2022-09-29**|**IvySyn: Automated Vulnerability Discovery for Deep Learning Frameworks**|Neophytos Christou et.al.|[2209.14921v1](http://arxiv.org/abs/2209.14921v1)|null|
 |**2022-09-29**|**Patients' Severity States Classification based on Electronic Health Record (EHR) Data using Multiple Machine Learning and Deep Learning Approaches**|A. N. M. Sajedul Alam et.al.|[2209.14907v1](http://arxiv.org/abs/2209.14907v1)|**[link](https://github.com/anmsajedulalam/Patients-Severity-States-Classification-based-on-EHR-Data-using-Multiple-Machine-and-Deep-Learning)**|
 |**2022-09-29**|**Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion**|Siddhant Gangapurwala et.al.|[2209.14887v1](http://arxiv.org/abs/2209.14887v1)|null|
@@ -6198,7 +6198,7 @@ layout: default
 |**2022-09-29**|**Towards Lightweight Black-Box Attacks against Deep Neural Networks**|Chenghao Sun et.al.|[2209.14826v1](http://arxiv.org/abs/2209.14826v1)|null|
 |**2022-09-29**|**Batch Normalization Explained**|Randall Balestriero et.al.|[2209.14778v1](http://arxiv.org/abs/2209.14778v1)|null|
 |**2022-09-29**|**RECALL: Rehearsal-free Continual Learning for Object Classification**|Markus Knauer et.al.|[2209.14774v1](http://arxiv.org/abs/2209.14774v1)|null|
-|**2022-09-29**|**R2C-GAN: Restore-to-Classify GANs for Blind X-Ray Restoration and COVID-19 Classification**|Mete Ahishali et.al.|[2209.14770v1](http://arxiv.org/abs/2209.14770v1)|null|
+|**2022-09-29**|**R2C-GAN: Restore-to-Classify GANs for Blind X-Ray Restoration and COVID-19 Classification**|Mete Ahishali et.al.|[2209.14770v1](http://arxiv.org/abs/2209.14770v1)|**[link](https://github.com/meteahishali/r2c-gan)**|
 |**2022-09-29**|**Evolution of positive streamers in air over non-planar dielectrics: Experiments and simulations**|Hans Kristian Meyer et.al.|[2209.14763v1](http://arxiv.org/abs/2209.14763v1)|null|
 |**2022-09-29**|**Dataset Complexity Assessment Based on Cumulative Maximum Scaled Area Under Laplacian Spectrum**|Guang Li et.al.|[2209.14743v1](http://arxiv.org/abs/2209.14743v1)|null|
 |**2022-09-29**|**FastPacket: Towards Pre-trained Packets Embedding based on FastText for next-generation NIDS**|Khloud Al Jallad et.al.|[2209.14727v1](http://arxiv.org/abs/2209.14727v1)|null|
@@ -6215,7 +6215,7 @@ layout: default
 |**2022-09-29**|**Teaching Where to Look: Attention Similarity Knowledge Distillation for Low Resolution Face Recognition**|Sungho Shin et.al.|[2209.14498v1](http://arxiv.org/abs/2209.14498v1)|**[link](https://github.com/gist-ailab/teaching-where-to-look)**|
 |**2022-09-29**|**Reconstruction of event kinematics in semi-inclusive deep-inelastic scattering using the hadronic final state and Machine Learning**|Connor Pecar et.al.|[2209.14489v1](http://arxiv.org/abs/2209.14489v1)|null|
 |**2022-09-29**|**Hierarchical Training of Deep Ensemble Policies for Reinforcement Learning in Continuous Spaces**|Gang Chen et.al.|[2209.14488v1](http://arxiv.org/abs/2209.14488v1)|null|
-|**2022-09-28**|**medigan: A Python Library of Pretrained Generative Models for Enriched Data Access in Medical Imaging**|Richard Osuala et.al.|[2209.14472v1](http://arxiv.org/abs/2209.14472v1)|null|
+|**2022-09-28**|**medigan: A Python Library of Pretrained Generative Models for Enriched Data Access in Medical Imaging**|Richard Osuala et.al.|[2209.14472v1](http://arxiv.org/abs/2209.14472v1)|**[link](https://github.com/richardobi/medigan)**|
 |**2022-09-28**|**Reducing Positional Variance in Cross-sectional Abdominal CT Slices with Deep Conditional Generative Models**|Xin Yu et.al.|[2209.14467v1](http://arxiv.org/abs/2209.14467v1)|**[link](https://github.com/masilab/c-slicegen)**|
 |**2022-09-28**|**Visual Detection of Diver Attentiveness for Underwater Human-Robot Interaction**|Sadman Sakib Enan et.al.|[2209.14447v1](http://arxiv.org/abs/2209.14447v1)|null|
 |**2022-09-28**|**GeONet: a neural operator for learning the Wasserstein geodesic**|Andrew Gracyk et.al.|[2209.14440v1](http://arxiv.org/abs/2209.14440v1)|null|
