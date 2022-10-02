@@ -1,4 +1,4 @@
-> Updated on 2022.10.01
+> Updated on 2022.10.02
 
 ## SLAM
 
@@ -6153,7 +6153,7 @@
 - 2022-09-29, **Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing**, Guang Li et.al., Paper: [http://arxiv.org/abs/2209.14635v1](http://arxiv.org/abs/2209.14635v1), Code: **[https://github.com/Guang000/Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)**
 - 2022-09-29, **Spherical Image Inpainting with Frame Transformation and Data-driven Prior Deep Networks**, Jianfei Li et.al., Paper: [http://arxiv.org/abs/2209.14604v1](http://arxiv.org/abs/2209.14604v1)
 - 2022-09-29, **Spatial Moment Pooling Improves Neural Image Assessment**, Tongda Xu et.al., Paper: [http://arxiv.org/abs/2209.14583v1](http://arxiv.org/abs/2209.14583v1)
-- 2022-09-29, **Regularizing Neural Network Training via Identity-wise Discriminative Feature Suppression**, Avraham Chapman et.al., Paper: [http://arxiv.org/abs/2209.14553v1](http://arxiv.org/abs/2209.14553v1)
+- 2022-09-29, **Regularizing Neural Network Training via Identity-wise Discriminative Feature Suppression**, Avraham Chapman et.al., Paper: [http://arxiv.org/abs/2209.14553v1](http://arxiv.org/abs/2209.14553v1), Code: **[https://github.com/avichapman/identity-feature-suppression](https://github.com/avichapman/identity-feature-suppression)**
 - 2022-09-29, **Circularly Polarized Fabry-Perot Cavity Sensing Antenna Design using Generative Model**, Kainat Yasmeen et.al., Paper: [http://arxiv.org/abs/2209.14550v1](http://arxiv.org/abs/2209.14550v1)
 - 2022-09-29, **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction**, Ruyi Zha et.al., Paper: [http://arxiv.org/abs/2209.14540v1](http://arxiv.org/abs/2209.14540v1), Code: **[https://github.com/ruyi-zha/naf_cbct](https://github.com/ruyi-zha/naf_cbct)**
 - 2022-09-29, **GPU-based Data-parallel Rendering of Large, Unstructured, and Non-convexly Partitioned Data**, Alper Sahistan et.al., Paper: [http://arxiv.org/abs/2209.14537v1](http://arxiv.org/abs/2209.14537v1)
