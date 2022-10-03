@@ -1,4 +1,4 @@
-> Updated on 2022.10.02
+> Updated on 2022.10.03
 
 ## SLAM
 
@@ -5749,7 +5749,7 @@
 - 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
 - 2022-09-24, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v2](http://arxiv.org/abs/2209.08430v2), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
 - 2022-09-17, **OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2209.08338v1](http://arxiv.org/abs/2209.08338v1)
-- 2022-09-17, **PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2209.08248v1](http://arxiv.org/abs/2209.08248v1), Code: **[https://github.com/stanford-navlab/planeslam](https://github.com/stanford-navlab/planeslam)**
+- 2022-09-29, **PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2209.08248v2](http://arxiv.org/abs/2209.08248v2), Code: **[https://github.com/stanford-navlab/planeslam](https://github.com/stanford-navlab/planeslam)**
 - 2022-09-16, **ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**, Aditya Arun et.al., Paper: [http://arxiv.org/abs/2209.08091v1](http://arxiv.org/abs/2209.08091v1)
 - 2022-09-16, **iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**, Yuhang Ming et.al., Paper: [http://arxiv.org/abs/2209.07919v1](http://arxiv.org/abs/2209.07919v1)
 - 2022-09-16, **TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2209.07888v1](http://arxiv.org/abs/2209.07888v1)
@@ -6164,13 +6164,13 @@
 - 2022-09-28, **medigan: A Python Library of Pretrained Generative Models for Enriched Data Access in Medical Imaging**, Richard Osuala et.al., Paper: [http://arxiv.org/abs/2209.14472v1](http://arxiv.org/abs/2209.14472v1), Code: **[https://github.com/richardobi/medigan](https://github.com/richardobi/medigan)**
 - 2022-09-28, **Reducing Positional Variance in Cross-sectional Abdominal CT Slices with Deep Conditional Generative Models**, Xin Yu et.al., Paper: [http://arxiv.org/abs/2209.14467v1](http://arxiv.org/abs/2209.14467v1), Code: **[https://github.com/masilab/c-slicegen](https://github.com/masilab/c-slicegen)**
 - 2022-09-28, **Visual Detection of Diver Attentiveness for Underwater Human-Robot Interaction**, Sadman Sakib Enan et.al., Paper: [http://arxiv.org/abs/2209.14447v1](http://arxiv.org/abs/2209.14447v1)
-- 2022-09-28, **GeONet: a neural operator for learning the Wasserstein geodesic**, Andrew Gracyk et.al., Paper: [http://arxiv.org/abs/2209.14440v1](http://arxiv.org/abs/2209.14440v1)
+- 2022-09-30, **GeONet: a neural operator for learning the Wasserstein geodesic**, Andrew Gracyk et.al., Paper: [http://arxiv.org/abs/2209.14440v2](http://arxiv.org/abs/2209.14440v2)
 - 2022-09-28, **Out-of-Distribution Detection for LiDAR-based 3D Object Detection**, Chengjie Huang et.al., Paper: [http://arxiv.org/abs/2209.14435v1](http://arxiv.org/abs/2209.14435v1)
 - 2022-09-28, **Efficient Medical Image Assessment via Self-supervised Learning**, Chun-Yin Huang et.al., Paper: [http://arxiv.org/abs/2209.14434v1](http://arxiv.org/abs/2209.14434v1)
 - 2022-09-28, **Dynamic Beam-Based Random Access Scheme for M2M Communications in Massive MIMO Systems**, Kan Zheng et.al., Paper: [http://arxiv.org/abs/2209.14427v1](http://arxiv.org/abs/2209.14427v1)
 - 2022-09-28, **Efficient Computation of Super-Sample Covariance for Stage IV Galaxy Surveys**, Fabien Lacasa et.al., Paper: [http://arxiv.org/abs/2209.14421v1](http://arxiv.org/abs/2209.14421v1)
 - 2022-09-28, **FIRE: A Failure-Adaptive Reinforcement Learning Framework for Edge Computing Migrations**, Marie Siew et.al., Paper: [http://arxiv.org/abs/2209.14399v1](http://arxiv.org/abs/2209.14399v1)
-- 2022-09-28, **Neighborhood Gradient Clustering: An Efficient Decentralized Learning Method for Non-IID Data Distributions**, Sai Aparna Aketi et.al., Paper: [http://arxiv.org/abs/2209.14390v1](http://arxiv.org/abs/2209.14390v1)
+- 2022-09-30, **Neighborhood Gradient Clustering: An Efficient Decentralized Learning Method for Non-IID Data Distributions**, Sai Aparna Aketi et.al., Paper: [http://arxiv.org/abs/2209.14390v2](http://arxiv.org/abs/2209.14390v2)
 - 2022-09-28, **Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images**, Eugenia Moris et.al., Paper: [http://arxiv.org/abs/2209.14383v1](http://arxiv.org/abs/2209.14383v1), Code: **[https://github.com/eugeniamoris/sipaim-2022-coarse-to-fine](https://github.com/eugeniamoris/sipaim-2022-coarse-to-fine)**
 - 2022-09-28, **Semantic Segmentation of Vegetation in Remote Sensing Imagery Using Deep Learning**, Alexandru Munteanu et.al., Paper: [http://arxiv.org/abs/2209.14364v1](http://arxiv.org/abs/2209.14364v1)
 - 2022-09-28, **unTimely: a Full-sky, Time-Domain unWISE Catalog**, A. M. Meisner et.al., Paper: [http://arxiv.org/abs/2209.14327v1](http://arxiv.org/abs/2209.14327v1)
@@ -8531,7 +8531,7 @@
 - 2022-07-16, **JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**, Haimei Zhao et.al., Paper: [http://arxiv.org/abs/2207.07895v1](http://arxiv.org/abs/2207.07895v1), Code: **[https://github.com/sunnyhelen/jperceiver](https://github.com/sunnyhelen/jperceiver)**
 - 2022-07-11, **Physical Passive Patch Adversarial Attacks on Visual Odometry Systems**, Yaniv Nemcovsky et.al., Paper: [http://arxiv.org/abs/2207.05729v1](http://arxiv.org/abs/2207.05729v1), Code: **[https://github.com/patchadversarialattacks/patchadversarialattacks](https://github.com/patchadversarialattacks/patchadversarialattacks)**
 - 2022-07-06, **RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**, Mallesham Dasari et.al., Paper: [http://arxiv.org/abs/2207.02792v1](http://arxiv.org/abs/2207.02792v1)
-- 2022-07-04, **PVO: Panoptic Visual Odometry**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2207.01610v1](http://arxiv.org/abs/2207.01610v1)
+- 2022-07-04, **PVO: Panoptic Visual Odometry**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2207.01610v1](http://arxiv.org/abs/2207.01610v1), Code: **[https://github.com/zju3dv/PVO](https://github.com/zju3dv/PVO)**
 - 2022-07-02, **Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**, Hassan Wagih et.al., Paper: [http://arxiv.org/abs/2207.00909v1](http://arxiv.org/abs/2207.00909v1)
 - 2022-06-28, **Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**, Mauro Martini et.al., Paper: [http://arxiv.org/abs/2206.14155v1](http://arxiv.org/abs/2206.14155v1)
 - 2022-09-16, **AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2206.12946v2](http://arxiv.org/abs/2206.12946v2)
@@ -8691,7 +8691,7 @@
 - 2022-08-31, **Digital Twins in Graphene Technology**, Elena F. Sheka et.al., Paper: [http://arxiv.org/abs/2208.14926v1](http://arxiv.org/abs/2208.14926v1)
 - 2022-08-30, **System Resilience through Health Monitoring and Reconfiguration**, Ion Matei et.al., Paper: [http://arxiv.org/abs/2208.14525v1](http://arxiv.org/abs/2208.14525v1)
 - 2022-08-30, **Digital Twin Assisted Risk-Aware Sleep Mode Management Using Deep Q-Networks**, Meysam Masoudi et.al., Paper: [http://arxiv.org/abs/2208.14380v1](http://arxiv.org/abs/2208.14380v1)
-- 2022-08-26, **A Comprehensive Review of Digital Twin -- Part 1: Modeling and Twinning Enabling Technologies**, Adam Thelen et.al., Paper: [http://arxiv.org/abs/2208.14197v1](http://arxiv.org/abs/2208.14197v1)
+- 2022-09-30, **A Comprehensive Review of Digital Twin -- Part 1: Modeling and Twinning Enabling Technologies**, Adam Thelen et.al., Paper: [http://arxiv.org/abs/2208.14197v2](http://arxiv.org/abs/2208.14197v2)
 - 2022-08-29, **When Internet of Things meets Metaverse: Convergence of Physical and Cyber Worlds**, Kai Li et.al., Paper: [http://arxiv.org/abs/2208.13501v1](http://arxiv.org/abs/2208.13501v1)
 - 2022-08-27, **A Comprehensive Review of Digital Twin -- Part 2: Roles of Uncertainty Quantification and Optimization, a Battery Digital Twin, and Perspectives**, Adam Thelen et.al., Paper: [http://arxiv.org/abs/2208.12904v1](http://arxiv.org/abs/2208.12904v1)
 - 2022-08-23, **CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety Oriented Research and Digital Twins**, Ou Zheng et.al., Paper: [http://arxiv.org/abs/2208.11036v1](http://arxiv.org/abs/2208.11036v1), Code: **[https://github.com/ozheng1993/ucf-sst-citysim-dataset](https://github.com/ozheng1993/ucf-sst-citysim-dataset)**
