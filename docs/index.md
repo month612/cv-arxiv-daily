@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.03
+## Updated on 2022.10.04
 
 ## SLAM
 
@@ -5823,7 +5823,7 @@ layout: default
 |**2022-09-08**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777v3](http://arxiv.org/abs/2208.09777v3)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
-|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
+|**2022-10-03**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v2](http://arxiv.org/abs/2208.05963v2)|null|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
 |**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang et.al.|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|**[link](https://github.com/zsustc/calibration)**|
 |**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
@@ -8713,7 +8713,7 @@ layout: default
 |**2022-08-18**|**Open-Vocabulary Panoptic Segmentation with MaskCLIP**|Zheng Ding et.al.|[2208.08984v1](http://arxiv.org/abs/2208.08984v1)|null|
 |**2022-08-18**|**Discovering Bugs in Vision Models using Off-the-shelf Image Generation and Captioning**|Olivia Wiles et.al.|[2208.08831v1](http://arxiv.org/abs/2208.08831v1)|null|
 |**2022-08-16**|**Online Learning Based NLOS Ranging Error Mitigation in 5G Positioning**|Jiankun Zhang et.al.|[2208.07603v1](http://arxiv.org/abs/2208.07603v1)|null|
-|**2022-08-12**|**BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers**|Zhiliang Peng et.al.|[2208.06366v1](http://arxiv.org/abs/2208.06366v1)|null|
+|**2022-10-03**|**BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers**|Zhiliang Peng et.al.|[2208.06366v2](http://arxiv.org/abs/2208.06366v2)|null|
 |**2022-08-16**|**LWGNet: Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval**|Atreyee Saha et.al.|[2208.04283v2](http://arxiv.org/abs/2208.04283v2)|**[link](https://github.com/at3e/lwgnet)**|
 |**2022-08-08**|**Understanding Masked Image Modeling via Learning Occlusion Invariant Feature**|Xiangwen Kong et.al.|[2208.04164v1](http://arxiv.org/abs/2208.04164v1)|null|
 |**2022-08-07**|**2-D Rayleigh Autoregressive Moving Average Model for SAR Image Modeling**|B. G. Palm et.al.|[2208.03615v1](http://arxiv.org/abs/2208.03615v1)|null|
