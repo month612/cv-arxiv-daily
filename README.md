@@ -1,4 +1,4 @@
-## Updated on 2022.10.05
+## Updated on 2022.10.06
 
 ## SLAM
 
@@ -5880,7 +5880,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|**[link](https://github.com/xtu-pr-lab/sanerf)**|
-|**2022-10-01**|**FAST-LIO, Then Bayesian ICP, then GTSFM**|Jerred Chen et.al.|[2210.00146v1](http://arxiv.org/abs/2210.00146v1)|null|
+|**2022-10-05**|**FAST-LIO, Then Bayesian ICP, Then GTSFM**|Jerred Chen et.al.|[2210.00146v2](http://arxiv.org/abs/2210.00146v2)|null|
 |**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran et.al.|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
 |**2022-09-19**|**A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**|Gerry Chen et.al.|[2209.08690v1](http://arxiv.org/abs/2209.08690v1)|null|
 |**2022-09-14**|**End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**|Qiao Chen et.al.|[2209.06926v1](http://arxiv.org/abs/2209.06926v1)|null|
@@ -8793,7 +8793,7 @@
 |**2022-09-15**|**Studying Bias in GANs through the Lens of Race**|Vongani H. Maluleke et.al.|[2209.02836v2](http://arxiv.org/abs/2209.02836v2)|null|
 |**2022-08-30**|**Augraphy: A Data Augmentation Library for Document Images**|Samay Maini et.al.|[2208.14558v1](http://arxiv.org/abs/2208.14558v1)|null|
 |**2022-08-29**|**Attention-based Interpretable Regression of Gene Expression in Histology**|Mara Graziani et.al.|[2208.13776v1](http://arxiv.org/abs/2208.13776v1)|**[link](https://github.com/maragraziani/interpretablewsitornaseq)**|
-|**2022-08-29**|**Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment**|Mustafa Shukor et.al.|[2208.13628v1](http://arxiv.org/abs/2208.13628v1)|**[link](https://github.com/mshukor/vicha)**|
+|**2022-10-05**|**Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment**|Mustafa Shukor et.al.|[2208.13628v2](http://arxiv.org/abs/2208.13628v2)|**[link](https://github.com/mshukor/vicha)**|
 |**2022-08-29**|**LogicRank: Logic Induced Reranking for Generative Text-to-Image Systems**|Björn Deiseroth et.al.|[2208.13518v1](http://arxiv.org/abs/2208.13518v1)|null|
 |**2022-08-26**|**Neuromorphic Visual Scene Understanding with Resonator Networks**|Alpha Renner et.al.|[2208.12880v1](http://arxiv.org/abs/2208.12880v1)|null|
 |**2022-08-26**|**Evidence of Kardar-Parisi-Zhang scaling on a digital quantum simulator**|Nathan Keenan et.al.|[2208.12243v2](http://arxiv.org/abs/2208.12243v2)|null|
