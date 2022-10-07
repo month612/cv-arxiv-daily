@@ -5774,6 +5774,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
+|**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
 |**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
@@ -6195,6 +6197,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**Content-Based Search for Deep Generative Models**|Daohan Lu et.al.|[2210.03116v1](http://arxiv.org/abs/2210.03116v1)|**[link](https://github.com/generative-intelligence-lab/modelverse)**|
+|**2022-10-06**|**Explainable Verbal Deception Detection using Transformers**|Loukas Ilias et.al.|[2210.03080v1](http://arxiv.org/abs/2210.03080v1)|null|
+|**2022-10-06**|**A Better Way to Decay: Proximal Gradient Training Algorithms for Neural Nets**|Liu Yang et.al.|[2210.03069v1](http://arxiv.org/abs/2210.03069v1)|null|
+|**2022-10-06**|**MagNet: machine learning enhanced three-dimensional magnetic reconstruction**|Boyao Lyu et.al.|[2210.03066v1](http://arxiv.org/abs/2210.03066v1)|null|
+|**2022-10-06**|**ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs**|Yujia Zhai et.al.|[2210.03052v1](http://arxiv.org/abs/2210.03052v1)|null|
+|**2022-10-06**|**Unmasking the Lottery Ticket Hypothesis: What's Encoded in a Winning Ticket's Mask?**|Mansheej Paul et.al.|[2210.03044v1](http://arxiv.org/abs/2210.03044v1)|null|
+|**2022-10-06**|**Rolling Shutter Inversion: Bring Rolling Shutter Images to High Framerate Global Shutter Video**|Bin Fan et.al.|[2210.03040v1](http://arxiv.org/abs/2210.03040v1)|**[link](https://github.com/gitcvfb/rssr)**|
+|**2022-10-06**|**Information scrambling of the dilute Bose gas at low temperature**|Chao Yin et.al.|[2210.03025v1](http://arxiv.org/abs/2210.03025v1)|null|
+|**2022-10-06**|**Enhancing Code Classification by Mixup-Based Data Augmentation**|Zeming Dong et.al.|[2210.03003v1](http://arxiv.org/abs/2210.03003v1)|null|
+|**2022-10-06**|**A Novel Attention Mechanism Using Anatomical Prior Probability Maps for Thoracic Disease Classification from X-Ray Images**|Md. Iqbal Hossain et.al.|[2210.02998v1](http://arxiv.org/abs/2210.02998v1)|null|
+|**2022-10-06**|**SynBench: Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data**|Ching-Yun Ko et.al.|[2210.02989v1](http://arxiv.org/abs/2210.02989v1)|null|
+|**2022-10-06**|**Deep Learning of Near Field Beam Focusing in Terahertz Wideband Massive MIMO Systems**|Yu Zhang et.al.|[2210.02980v1](http://arxiv.org/abs/2210.02980v1)|null|
+|**2022-10-06**|**A Review of Uncertainty Calibration in Pretrained Object Detectors**|Denis Huseljic et.al.|[2210.02935v1](http://arxiv.org/abs/2210.02935v1)|**[link](https://github.com/ies-research/uncertainty-object-detection)**|
+|**2022-10-06**|**Federated Boosted Decision Trees with Differential Privacy**|Samuel Maddock et.al.|[2210.02910v1](http://arxiv.org/abs/2210.02910v1)|**[link](https://github.com/samuel-maddock/federated-boosted-dp-trees)**|
+|**2022-10-06**|**Scaling up Stochastic Gradient Descent for Non-convex Optimisation**|Saad Mohamad et.al.|[2210.02882v1](http://arxiv.org/abs/2210.02882v1)|null|
+|**2022-10-05**|**Plant evolution on rock outcrops and cliffs: contrasting patterns of diversification following edaphic specialization**|Isaac Lichter-Marck et.al.|[2210.02880v1](http://arxiv.org/abs/2210.02880v1)|null|
+|**2022-10-06**|**Deep Reinforcement Learning based Evasion Generative Adversarial Network for Botnet Detection**|Rizwan Hamid Randhawa et.al.|[2210.02840v1](http://arxiv.org/abs/2210.02840v1)|null|
+|**2022-10-06**|**Matching Text and Audio Embeddings: Exploring Transfer-learning Strategies for Language-based Audio Retrieval**|Benno Weck et.al.|[2210.02833v1](http://arxiv.org/abs/2210.02833v1)|null|
+|**2022-10-06**|**FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras**|Andreas Meuleman et.al.|[2210.02785v1](http://arxiv.org/abs/2210.02785v1)|null|
+|**2022-10-06**|**Topological modes in stellar oscillations**|Armand Leclerc et.al.|[2210.02783v1](http://arxiv.org/abs/2210.02783v1)|null|
+|**2022-10-06**|**Cyber-Resilient Privacy Preservation and Secure Billing Approach for Smart Energy Metering Devices**|Venkatesh Kumar M et.al.|[2210.02760v1](http://arxiv.org/abs/2210.02760v1)|null|
+|**2022-10-06**|**Parameter estimation tools for cardiovascular flow modeling of fetal circulation**|Gabriella Bretti et.al.|[2210.02726v1](http://arxiv.org/abs/2210.02726v1)|null|
+|**2022-10-06**|**Understanding Gradient Regularization in Deep Learning: Efficient Finite-Difference Computation and Implicit Bias**|Ryo Karakida et.al.|[2210.02720v1](http://arxiv.org/abs/2210.02720v1)|null|
+|**2022-10-06**|**Continuous Diagnosis and Prognosis by Controlling the Update Process of Deep Neural Networks**|Chenxi Sun et.al.|[2210.02719v1](http://arxiv.org/abs/2210.02719v1)|**[link](https://github.com/scxsunchenxi/ccts)**|
+|**2022-10-06**|**Look Ma, Only 400 Samples! Revisiting the Effectiveness of Automatic N-Gram Rule Generation for Spelling Normalization in Filipino**|Lorenzo Jaime Yu Flores et.al.|[2210.02675v1](http://arxiv.org/abs/2210.02675v1)|null|
+|**2022-10-06**|**Variational quantum one-class classifier**|Gunhee Park et.al.|[2210.02674v1](http://arxiv.org/abs/2210.02674v1)|null|
+|**2022-10-06**|**Transformers Implement First-Order Logic with Majority Quantifiers**|William Merrill et.al.|[2210.02671v1](http://arxiv.org/abs/2210.02671v1)|null|
+|**2022-10-06**|**Topological Continual Learning with Wasserstein Distance and Barycenter**|Tananun Songdechakraiwut et.al.|[2210.02661v1](http://arxiv.org/abs/2210.02661v1)|null|
+|**2022-10-06**|**Predictive Edge Caching through Deep Mining of Sequential Patterns in User Content Retrievals**|Chen Li et.al.|[2210.02657v1](http://arxiv.org/abs/2210.02657v1)|null|
+|**2022-10-06**|**Learning Algorithms for Intelligent Agents and Mechanisms**|Jad Rahme et.al.|[2210.02654v1](http://arxiv.org/abs/2210.02654v1)|null|
+|**2022-10-06**|**IR2Net: Information Restriction and Information Recovery for Accurate Binary Neural Networks**|Ping Xue et.al.|[2210.02637v1](http://arxiv.org/abs/2210.02637v1)|**[link](https://github.com/pingxue-hfut/ir2net)**|
+|**2022-10-06**|**MechRetro is a chemical-mechanism-driven graph learning framework for interpretable retrosynthesis prediction and pathway planning**|Yu Wang et.al.|[2210.02630v1](http://arxiv.org/abs/2210.02630v1)|**[link](https://github.com/wangyu-sd/MechRetro)**|
+|**2022-10-06**|**Training Diverse High-Dimensional Controllers by Scaling Covariance Matrix Adaptation MAP-Annealing**|Bryon Tjanaka et.al.|[2210.02622v1](http://arxiv.org/abs/2210.02622v1)|null|
+|**2022-10-06**|**Lyapunov Function Consistent Adaptive Network Signal Control with Back Pressure and Reinforcement Learning**|Chaolun Ma et.al.|[2210.02612v1](http://arxiv.org/abs/2210.02612v1)|null|
+|**2022-10-05**|**Role of Deep Learning in Wireless Communications**|Wei Yu et.al.|[2210.02596v1](http://arxiv.org/abs/2210.02596v1)|null|
+|**2022-10-05**|**SPICE: Self-Supervised Learning for MRI with Automatic Coil Sensitivity Estimation**|Yuyang Hu et.al.|[2210.02584v1](http://arxiv.org/abs/2210.02584v1)|null|
+|**2022-10-05**|**Towards Safe Mechanical Ventilation Treatment Using Deep Offline Reinforcement Learning**|Flemming Kondrup et.al.|[2210.02552v1](http://arxiv.org/abs/2210.02552v1)|**[link](https://github.com/FlemmingKondrup/DeepVent)**|
+|**2022-10-05**|**Deep learning for ECoG brain-computer interface: end-to-end vs. hand-crafted features**|Maciej Śliwowski et.al.|[2210.02544v1](http://arxiv.org/abs/2210.02544v1)|null|
+|**2022-10-05**|**Applications of object detection networks at high-power laser systems and experiments**|Jinpu Lin et.al.|[2210.02539v1](http://arxiv.org/abs/2210.02539v1)|null|
+|**2022-10-05**|**A roadmap for edge computing enabled automated multidimensional transmission electron microscopy**|Debangshu Mukherjee et.al.|[2210.02538v1](http://arxiv.org/abs/2210.02538v1)|null|
+|**2022-10-05**|**Factorization at subleading power in Deep Inelastic Scattering in the $x\rightarrow 1$ limit**|Michael Luke et.al.|[2210.02529v1](http://arxiv.org/abs/2210.02529v1)|null|
+|**2022-10-05**|**Dual-Domain Cross-Iteration Squeeze-Excitation Network for Sparse Reconstruction of Brain MRI**|Xiongchao Chen et.al.|[2210.02523v1](http://arxiv.org/abs/2210.02523v1)|null|
+|**2022-10-05**|**On Adversarial Robustness of Deep Image Deblurring**|Kanchana Vaishnavi Gandikota et.al.|[2210.02502v1](http://arxiv.org/abs/2210.02502v1)|null|
+|**2022-10-05**|**Analyzing historical diagnosis code data from NIH N3C and RECOVER Programs using deep learning to determine risk factors for Long Covid**|Saurav Sengupta et.al.|[2210.02490v1](http://arxiv.org/abs/2210.02490v1)|null|
 |**2022-10-05**|**IRJIT -- An Information Retrieval Technique for Just-in-time Defect Identification**|Hareem Sahar et.al.|[2210.02435v1](http://arxiv.org/abs/2210.02435v1)|null|
 |**2022-10-05**|**A deep learning model for brain vessel segmentation in 3DRA with arteriovenous malformations**|Camila García et.al.|[2210.02416v1](http://arxiv.org/abs/2210.02416v1)|null|
 |**2022-10-05**|**A Novel Entropy-Maximizing TD3-based Reinforcement Learning for Automatic PID Tuning**|Myisha A. Chowdhury et.al.|[2210.02381v1](http://arxiv.org/abs/2210.02381v1)|null|
@@ -8954,6 +9000,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**Fast and robust parameter estimation with uncertainty quantification for the cardiac function**|Matteo Salvador et.al.|[2210.03012v1](http://arxiv.org/abs/2210.03012v1)|null|
+|**2022-10-06**|**Digital Twin-Empowered Network Planning for Multi-Tier Computing**|Conghao Zhou et.al.|[2210.02616v1](http://arxiv.org/abs/2210.02616v1)|null|
 |**2022-10-04**|**A Probabilistic Model for Aircraft in Climb using Monotonic Functional Gaussian Process Emulators**|Nick Pepper et.al.|[2210.01445v1](http://arxiv.org/abs/2210.01445v1)|null|
 |**2022-10-04**|**Movement Analytics: Current Status, Application to Manufacturing, and Future Prospects from an AI Perspective**|Peter Baumgartner et.al.|[2210.01344v1](http://arxiv.org/abs/2210.01344v1)|null|
 |**2022-10-03**|**Future of industrial assembly: Intelligent Reconfigurable & Repurposable Adaptive Assembly (IRRAA)**|Ali Ahmad Malik et.al.|[2210.00717v1](http://arxiv.org/abs/2210.00717v1)|null|
