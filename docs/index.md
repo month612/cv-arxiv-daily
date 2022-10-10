@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.09
+## Updated on 2022.10.10
 
 ## SLAM
 
@@ -5774,6 +5774,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
 |**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
@@ -5906,6 +5907,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
 |**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|**[link](https://github.com/xtu-pr-lab/sanerf)**|
 |**2022-10-05**|**FAST-LIO, Then Bayesian ICP, Then GTSFM**|Jerred Chen et.al.|[2210.00146v2](http://arxiv.org/abs/2210.00146v2)|null|
 |**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran et.al.|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
@@ -6061,7 +6063,7 @@ layout: default
 |**2022-09-27**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v1](http://arxiv.org/abs/2209.13657v1)|**[link](https://github.com/ucsdarclab/thread-reconstruction)**|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-26**|**Performance Evaluation of 3D Keypoint Detectors and Descriptors on Coloured Point Clouds in Subsea Environments**|Kyungmin Jung et.al.|[2209.12881v1](http://arxiv.org/abs/2209.12881v1)|null|
-|**2022-09-21**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v1](http://arxiv.org/abs/2209.10385v1)|null|
+|**2022-10-07**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v2](http://arxiv.org/abs/2209.10385v2)|null|
 |**2022-09-20**|**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**|Sunghwan Hong et.al.|[2209.08742v2](http://arxiv.org/abs/2209.08742v2)|null|
 |**2022-09-15**|**Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**|Bastian Pätzold et.al.|[2209.07393v1](http://arxiv.org/abs/2209.07393v1)|**[link](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**|
 |**2022-09-07**|**Deep Learning-Based Automatic Diagnosis System for Developmental Dysplasia of the Hip**|Yang Li et.al.|[2209.03440v1](http://arxiv.org/abs/2209.03440v1)|null|
@@ -6128,6 +6130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**|Lang Zhou et.al.|[2210.03398v1](http://arxiv.org/abs/2210.03398v1)|null|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-25**|**ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement**|Dongli Tan et.al.|[2209.12213v1](http://arxiv.org/abs/2209.12213v1)|null|
 |**2022-09-22**|**DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**|Chao Li et.al.|[2209.10907v1](http://arxiv.org/abs/2209.10907v1)|null|
@@ -6197,6 +6200,55 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Demystifying Map Space Exploration for NPUs**|Sheng-Chun Kao et.al.|[2210.03731v1](http://arxiv.org/abs/2210.03731v1)|null|
+|**2022-10-07**|**Atomized Deep Learning Models**|Yi-Lin Tuan et.al.|[2210.03728v1](http://arxiv.org/abs/2210.03728v1)|null|
+|**2022-10-07**|**GENHOP: An Image Generation Method Based on Successive Subspace Learning**|Xuejing Lei et.al.|[2210.03689v1](http://arxiv.org/abs/2210.03689v1)|null|
+|**2022-10-07**|**Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts**|Rui Wang et.al.|[2210.03675v1](http://arxiv.org/abs/2210.03675v1)|null|
+|**2022-10-07**|**A Closer Look at Hardware-Friendly Weight Quantization**|Sungmin Bae et.al.|[2210.03671v1](http://arxiv.org/abs/2210.03671v1)|null|
+|**2022-10-07**|**How to Enable Uncertainty Estimation in Proximal Policy Optimization**|Eugene Bykovets et.al.|[2210.03649v1](http://arxiv.org/abs/2210.03649v1)|null|
+|**2022-10-07**|**BlanketSet -- A clinical real word action recognition and qualitative semi-synchronised MoCap dataset**|João Carmona et.al.|[2210.03600v1](http://arxiv.org/abs/2210.03600v1)|null|
+|**2022-10-07**|**Unsupervised Few-shot Learning via Deep Laplacian Eigenmaps**|Kuilin Chen et.al.|[2210.03595v1](http://arxiv.org/abs/2210.03595v1)|null|
+|**2022-10-07**|**Learning Social Navigation from Demonstrations with Conditional Neural Processes**|Yigit Yildirim et.al.|[2210.03582v1](http://arxiv.org/abs/2210.03582v1)|null|
+|**2022-10-07**|**Synthetic Voice Detection and Audio Splicing Detection using SE-Res2Net-Conformer Architecture**|Lei Wang et.al.|[2210.03581v1](http://arxiv.org/abs/2210.03581v1)|null|
+|**2022-10-07**|**Automated segmentation and morphological characterization of placental histology images based on a single labeled image**|Arash Rabbani et.al.|[2210.03566v1](http://arxiv.org/abs/2210.03566v1)|null|
+|**2022-10-07**|**A deep learning approach for detection and localization of leaf anomalies**|Davide Calabrò et.al.|[2210.03558v1](http://arxiv.org/abs/2210.03558v1)|null|
+|**2022-10-07**|**Algorithmic Trading Using Continuous Action Space Deep Reinforcement Learning**|Naseh Majidi et.al.|[2210.03469v1](http://arxiv.org/abs/2210.03469v1)|null|
+|**2022-10-07**|**Key Information Extraction in Purchase Documents using Deep Learning and Rule-based Corrections**|Roberto Arroyo et.al.|[2210.03453v1](http://arxiv.org/abs/2210.03453v1)|null|
+|**2022-10-07**|**Trans2k: Unlocking the Power of Deep Models for Transparent Object Tracking**|Alan Lukezic et.al.|[2210.03436v1](http://arxiv.org/abs/2210.03436v1)|null|
+|**2022-10-07**|**Monitoring MBE substrate deoxidation via RHEED image-sequence analysis by deep learning**|Abdourahman Khaireh-Walieh et.al.|[2210.03430v1](http://arxiv.org/abs/2210.03430v1)|null|
+|**2022-10-07**|**Adversarially Robust Prototypical Few-shot Segmentation with Neural-ODEs**|Prashant Pandey et.al.|[2210.03429v1](http://arxiv.org/abs/2210.03429v1)|null|
+|**2022-10-07**|**Defects in Halide Perovskites: Does It Help to Switch from 3D to 2D?**|Haibo Xue et.al.|[2210.03415v1](http://arxiv.org/abs/2210.03415v1)|null|
+|**2022-10-07**|**TAN without a burn: Scaling Laws of DP-SGD**|Tom Sander et.al.|[2210.03403v1](http://arxiv.org/abs/2210.03403v1)|null|
+|**2022-10-07**|**Latent Matrices for Tensor Network Decomposition and to Tensor Completion**|Peilin Yang et.al.|[2210.03392v1](http://arxiv.org/abs/2210.03392v1)|null|
+|**2022-10-07**|**Temporal Feature Alignment in Contrastive Self-Supervised Learning for Human Activity Recognition**|Bulat Khaertdinov et.al.|[2210.03382v1](http://arxiv.org/abs/2210.03382v1)|null|
+|**2022-10-07**|**Mid- and far-infrared localized surface plasmon resonances in chalcogen-hyperdoped silicon**|Mao Wang et.al.|[2210.03373v1](http://arxiv.org/abs/2210.03373v1)|null|
+|**2022-10-07**|**Pre-trained Adversarial Perturbations**|Yuanhao Ban et.al.|[2210.03372v1](http://arxiv.org/abs/2210.03372v1)|null|
+|**2022-10-07**|**Game-Theoretic Understanding of Misclassification**|Kosuke Sumiyasu et.al.|[2210.03349v1](http://arxiv.org/abs/2210.03349v1)|null|
+|**2022-10-07**|**Explainable AI based Glaucoma Detection using Transfer Learning and LIME**|Touhidul Islam Chayan et.al.|[2210.03332v1](http://arxiv.org/abs/2210.03332v1)|null|
+|**2022-10-07**|**Elastic Step DQN: A novel multi-step algorithm to alleviate overestimation in Deep QNetworks**|Adrian Ly et.al.|[2210.03325v1](http://arxiv.org/abs/2210.03325v1)|null|
+|**2022-10-07**|**Uniformly convex neural networks and non-stationary iterated network Tikhonov (iNETT) method**|Davide Bianchi et.al.|[2210.03314v1](http://arxiv.org/abs/2210.03314v1)|null|
+|**2022-10-07**|**Scaling Forward Gradient With Local Losses**|Mengye Ren et.al.|[2210.03310v1](http://arxiv.org/abs/2210.03310v1)|null|
+|**2022-10-07**|**GOLLIC: Learning Global Context beyond Patches for Lossless High-Resolution Image Compression**|Yuan Lan et.al.|[2210.03301v1](http://arxiv.org/abs/2210.03301v1)|null|
+|**2022-10-07**|**Understanding Edge-of-Stability Training Dynamics with a Minimalist Example**|Xingyu Zhu et.al.|[2210.03294v1](http://arxiv.org/abs/2210.03294v1)|null|
+|**2022-10-07**|**Rethinking Normalization Methods in Federated Learning**|Zhixu Du et.al.|[2210.03277v1](http://arxiv.org/abs/2210.03277v1)|null|
+|**2022-10-07**|**TCNL: Transparent and Controllable Network Learning Via Embedding Human-Guided Concepts**|Zhihao Wang et.al.|[2210.03274v1](http://arxiv.org/abs/2210.03274v1)|null|
+|**2022-10-07**|**Multi-agent Deep Covering Option Discovery**|Jiayu Chen et.al.|[2210.03269v1](http://arxiv.org/abs/2210.03269v1)|null|
+|**2022-10-06**|**Interpreting County Level COVID-19 Infection and Feature Sensitivity using Deep Learning Time Series Models**|Md Khairul Islam et.al.|[2210.03258v1](http://arxiv.org/abs/2210.03258v1)|null|
+|**2022-10-06**|**Joint Protection Scheme for Deep Neural Network Hardware Accelerators and Models**|Jingbo Zhou et.al.|[2210.03249v1](http://arxiv.org/abs/2210.03249v1)|null|
+|**2022-10-06**|**Deep underground laboratory measurement of $^{13}$C($α$,$n$)$^{16}$O in the Gamow windows of the $s$- and $i$-processes**|B. Gao et.al.|[2210.03222v1](http://arxiv.org/abs/2210.03222v1)|null|
+|**2022-10-06**|**Self-Adaptive Driving in Nonstationary Environments through Conjectural Online Lookahead Adaptation**|Tao Li et.al.|[2210.03209v1](http://arxiv.org/abs/2210.03209v1)|null|
+|**2022-10-06**|**Single Inclusive Hadron Production in DIS at Small $x$: Next to Leading Order Corrections**|Filip Bergabo et.al.|[2210.03208v1](http://arxiv.org/abs/2210.03208v1)|null|
+|**2022-10-06**|**Synthetic Dataset Generation for Privacy-Preserving Machine Learning**|Efstathia Soufleri et.al.|[2210.03205v1](http://arxiv.org/abs/2210.03205v1)|null|
+|**2022-10-06**|**Enabling Deep Learning on Edge Devices**|Zhongnan Qu et.al.|[2210.03204v1](http://arxiv.org/abs/2210.03204v1)|null|
+|**2022-10-06**|**A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images**|Tomás Castilla et.al.|[2210.03180v1](http://arxiv.org/abs/2210.03180v1)|null|
+|**2022-10-06**|**Probabilistic Model Incorporating Auxiliary Covariates to Control FDR**|Lin Qiu et.al.|[2210.03178v1](http://arxiv.org/abs/2210.03178v1)|null|
+|**2022-10-06**|**CoGrasp: 6-DoF Grasp Generation for Human-Robot Collaboration**|Abhinav K. Keshari et.al.|[2210.03173v1](http://arxiv.org/abs/2210.03173v1)|null|
+|**2022-10-06**|**Brief Introduction to Contrastive Learning Pretext Tasks for Visual Representation**|Zhenyuan Lu et.al.|[2210.03163v1](http://arxiv.org/abs/2210.03163v1)|null|
+|**2022-10-06**|**Neural Volumetric Mesh Generator**|Yan Zheng et.al.|[2210.03158v1](http://arxiv.org/abs/2210.03158v1)|null|
+|**2022-10-06**|**Towards Out-of-Distribution Adversarial Robustness**|Adam Ibrahim et.al.|[2210.03150v1](http://arxiv.org/abs/2210.03150v1)|null|
+|**2022-10-06**|**Stochastic normalizing flows for lattice field theory**|Michele Caselle et.al.|[2210.03139v1](http://arxiv.org/abs/2210.03139v1)|null|
+|**2022-10-06**|**Deep Inventory Management**|Dhruv Madeka et.al.|[2210.03137v1](http://arxiv.org/abs/2210.03137v1)|null|
+|**2022-10-06**|**Abundance and temperature of the outer hot circum-Galactic medium: The SRG/eROSITA view of the soft X-ray background in the eFEDS field**|G. Ponti et.al.|[2210.03133v1](http://arxiv.org/abs/2210.03133v1)|null|
 |**2022-10-06**|**Content-Based Search for Deep Generative Models**|Daohan Lu et.al.|[2210.03116v1](http://arxiv.org/abs/2210.03116v1)|**[link](https://github.com/generative-intelligence-lab/modelverse)**|
 |**2022-10-06**|**Explainable Verbal Deception Detection using Transformers**|Loukas Ilias et.al.|[2210.03080v1](http://arxiv.org/abs/2210.03080v1)|null|
 |**2022-10-06**|**A Better Way to Decay: Proximal Gradient Training Algorithms for Neural Nets**|Liu Yang et.al.|[2210.03069v1](http://arxiv.org/abs/2210.03069v1)|null|
@@ -8900,6 +8952,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music**|Anomadarshi Barua et.al.|[2210.03688v1](http://arxiv.org/abs/2210.03688v1)|null|
 |**2022-10-05**|**Image Masking for Robust Self-Supervised Monocular Depth Estimation**|Hemang Chawla et.al.|[2210.02357v1](http://arxiv.org/abs/2210.02357v1)|null|
 |**2022-10-05**|**clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP**|Justin N. M. Pinkney et.al.|[2210.02347v1](http://arxiv.org/abs/2210.02347v1)|**[link](https://github.com/justinpinkney/clip2latent)**|
 |**2022-10-05**|**Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders**|Youngwan Lee et.al.|[2210.02077v1](http://arxiv.org/abs/2210.02077v1)|null|
