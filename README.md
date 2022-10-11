@@ -1,4 +1,4 @@
-## Updated on 2022.10.10
+## Updated on 2022.10.11
 
 ## SLAM
 
@@ -5794,7 +5794,7 @@
 |**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|**[link](https://github.com/julioplaced/explorb-slam)**|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
 |**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
-|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
+|**2022-10-10**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v2](http://arxiv.org/abs/2209.02000v2)|null|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
 |**2022-09-05**|**ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**|Boyi Liu et.al.|[2209.01774v1](http://arxiv.org/abs/2209.01774v1)|null|
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
@@ -5921,7 +5921,7 @@
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-07-29**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v2](http://arxiv.org/abs/2203.00851v2)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
-|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
+|**2022-10-09**|**GeoFill: Reference-Based Image Inpainting with Better Geometric Understanding**|Yunhan Zhao et.al.|[2201.08131v2](http://arxiv.org/abs/2201.08131v2)|null|
 |**2022-01-13**|**Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**|Yunpeng Shi et.al.|[2201.04797v1](http://arxiv.org/abs/2201.04797v1)|**[link](https://github.com/yunpeng-shi/fcc)**|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2022-09-27**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v2](http://arxiv.org/abs/2201.02279v2)|**[link](https://github.com/brummi/derender3d)**|
@@ -6065,7 +6065,7 @@
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
 |**2022-05-17**|**MulT: An End-to-End Multitask Learning Transformer**|Deblina Bhattacharjee et.al.|[2205.08303v1](http://arxiv.org/abs/2205.08303v1)|null|
-|**2022-07-23**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions in the Wild**|Chirag Raman et.al.|[2205.05177v2](http://arxiv.org/abs/2205.05177v2)|**[link](https://github.com/tudelft-spc-lab/conflab)**|
+|**2022-10-07**|**ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild**|Chirag Raman et.al.|[2205.05177v3](http://arxiv.org/abs/2205.05177v3)|**[link](https://github.com/tudelft-spc-lab/conflab)**|
 |**2022-04-28**|**Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**|Emilio Gomez-Gonzalez et.al.|[2204.14050v1](http://arxiv.org/abs/2204.14050v1)|null|
 |**2022-05-02**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
 |**2022-05-24**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v2](http://arxiv.org/abs/2204.12484v2)|**[link](https://github.com/vitae-transformer/vitpose)**|
@@ -6179,7 +6179,7 @@
 |**2022-10-07**|**Demystifying Map Space Exploration for NPUs**|Sheng-Chun Kao et.al.|[2210.03731v1](http://arxiv.org/abs/2210.03731v1)|**[link](https://github.com/maestro-project/gamma-timeloop)**|
 |**2022-10-07**|**Atomized Deep Learning Models**|Yi-Lin Tuan et.al.|[2210.03728v1](http://arxiv.org/abs/2210.03728v1)|null|
 |**2022-10-07**|**GENHOP: An Image Generation Method Based on Successive Subspace Learning**|Xuejing Lei et.al.|[2210.03689v1](http://arxiv.org/abs/2210.03689v1)|null|
-|**2022-10-07**|**Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts**|Rui Wang et.al.|[2210.03675v1](http://arxiv.org/abs/2210.03675v1)|null|
+|**2022-10-10**|**Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts**|Rui Wang et.al.|[2210.03675v2](http://arxiv.org/abs/2210.03675v2)|null|
 |**2022-10-07**|**A Closer Look at Hardware-Friendly Weight Quantization**|Sungmin Bae et.al.|[2210.03671v1](http://arxiv.org/abs/2210.03671v1)|**[link](https://github.com/google/qkeras)**|
 |**2022-10-07**|**How to Enable Uncertainty Estimation in Proximal Policy Optimization**|Eugene Bykovets et.al.|[2210.03649v1](http://arxiv.org/abs/2210.03649v1)|null|
 |**2022-10-07**|**BlanketSet -- A clinical real word action recognition and qualitative semi-synchronised MoCap dataset**|João Carmona et.al.|[2210.03600v1](http://arxiv.org/abs/2210.03600v1)|null|
@@ -6214,14 +6214,14 @@
 |**2022-10-06**|**Deep underground laboratory measurement of $^{13}$C($α$,$n$)$^{16}$O in the Gamow windows of the $s$- and $i$-processes**|B. Gao et.al.|[2210.03222v1](http://arxiv.org/abs/2210.03222v1)|null|
 |**2022-10-06**|**Self-Adaptive Driving in Nonstationary Environments through Conjectural Online Lookahead Adaptation**|Tao Li et.al.|[2210.03209v1](http://arxiv.org/abs/2210.03209v1)|null|
 |**2022-10-06**|**Single Inclusive Hadron Production in DIS at Small $x$: Next to Leading Order Corrections**|Filip Bergabo et.al.|[2210.03208v1](http://arxiv.org/abs/2210.03208v1)|null|
-|**2022-10-06**|**Synthetic Dataset Generation for Privacy-Preserving Machine Learning**|Efstathia Soufleri et.al.|[2210.03205v1](http://arxiv.org/abs/2210.03205v1)|null|
+|**2022-10-10**|**Synthetic Dataset Generation for Privacy-Preserving Machine Learning**|Efstathia Soufleri et.al.|[2210.03205v2](http://arxiv.org/abs/2210.03205v2)|null|
 |**2022-10-06**|**Enabling Deep Learning on Edge Devices**|Zhongnan Qu et.al.|[2210.03204v1](http://arxiv.org/abs/2210.03204v1)|null|
 |**2022-10-06**|**A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images**|Tomás Castilla et.al.|[2210.03180v1](http://arxiv.org/abs/2210.03180v1)|**[link](https://github.com/tomascast/sipaim-2022-resnet)**|
 |**2022-10-06**|**Probabilistic Model Incorporating Auxiliary Covariates to Control FDR**|Lin Qiu et.al.|[2210.03178v1](http://arxiv.org/abs/2210.03178v1)|null|
 |**2022-10-06**|**CoGrasp: 6-DoF Grasp Generation for Human-Robot Collaboration**|Abhinav K. Keshari et.al.|[2210.03173v1](http://arxiv.org/abs/2210.03173v1)|null|
 |**2022-10-06**|**Brief Introduction to Contrastive Learning Pretext Tasks for Visual Representation**|Zhenyuan Lu et.al.|[2210.03163v1](http://arxiv.org/abs/2210.03163v1)|null|
 |**2022-10-06**|**Neural Volumetric Mesh Generator**|Yan Zheng et.al.|[2210.03158v1](http://arxiv.org/abs/2210.03158v1)|null|
-|**2022-10-06**|**Towards Out-of-Distribution Adversarial Robustness**|Adam Ibrahim et.al.|[2210.03150v1](http://arxiv.org/abs/2210.03150v1)|null|
+|**2022-10-10**|**Towards Out-of-Distribution Adversarial Robustness**|Adam Ibrahim et.al.|[2210.03150v2](http://arxiv.org/abs/2210.03150v2)|null|
 |**2022-10-06**|**Stochastic normalizing flows for lattice field theory**|Michele Caselle et.al.|[2210.03139v1](http://arxiv.org/abs/2210.03139v1)|null|
 |**2022-10-06**|**Deep Inventory Management**|Dhruv Madeka et.al.|[2210.03137v1](http://arxiv.org/abs/2210.03137v1)|null|
 |**2022-10-06**|**Abundance and temperature of the outer hot circum-Galactic medium: The SRG/eROSITA view of the soft X-ray background in the eFEDS field**|G. Ponti et.al.|[2210.03133v1](http://arxiv.org/abs/2210.03133v1)|null|
@@ -8863,11 +8863,11 @@
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
 |**2022-09-26**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer et.al.|[2209.08532v2](http://arxiv.org/abs/2209.08532v2)|**[link](https://github.com/lmb-freiburg/sf2se3)**|
 |**2022-09-24**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v2](http://arxiv.org/abs/2209.08430v2)|**[link](https://github.com/geniussh/dytanvo)**|
-|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
+|**2022-10-10**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v2](http://arxiv.org/abs/2209.02000v2)|null|
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 |**2022-08-18**|**Pixel-Wise Prediction based Visual Odometry via Uncertainty Estimation**|Hao-Wei Chen et.al.|[2208.08892v1](http://arxiv.org/abs/2208.08892v1)|null|
-|**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
+|**2022-10-07**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v2](http://arxiv.org/abs/2208.07362v2)|null|
 |**2022-08-08**|**Deep Patch Visual Odometry**|Zachary Teed et.al.|[2208.04726v1](http://arxiv.org/abs/2208.04726v1)|**[link](https://github.com/princeton-vl/dpvo)**|
 |**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|**[link](https://github.com/metaslam/alto)**|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
@@ -8948,7 +8948,7 @@
 |**2022-08-29**|**Attention-based Interpretable Regression of Gene Expression in Histology**|Mara Graziani et.al.|[2208.13776v1](http://arxiv.org/abs/2208.13776v1)|**[link](https://github.com/maragraziani/interpretablewsitornaseq)**|
 |**2022-10-05**|**Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment**|Mustafa Shukor et.al.|[2208.13628v2](http://arxiv.org/abs/2208.13628v2)|**[link](https://github.com/mshukor/vicha)**|
 |**2022-08-29**|**LogicRank: Logic Induced Reranking for Generative Text-to-Image Systems**|Björn Deiseroth et.al.|[2208.13518v1](http://arxiv.org/abs/2208.13518v1)|null|
-|**2022-08-26**|**Neuromorphic Visual Scene Understanding with Resonator Networks**|Alpha Renner et.al.|[2208.12880v1](http://arxiv.org/abs/2208.12880v1)|null|
+|**2022-10-10**|**Neuromorphic Visual Scene Understanding with Resonator Networks**|Alpha Renner et.al.|[2208.12880v2](http://arxiv.org/abs/2208.12880v2)|null|
 |**2022-08-26**|**Evidence of Kardar-Parisi-Zhang scaling on a digital quantum simulator**|Nathan Keenan et.al.|[2208.12243v2](http://arxiv.org/abs/2208.12243v2)|null|
 |**2022-08-25**|**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**|Nataniel Ruiz et.al.|[2208.12242v1](http://arxiv.org/abs/2208.12242v1)|null|
 |**2022-08-24**|**A Deep Learning Approach Using Masked Image Modeling for Reconstruction of Undersampled K-spaces**|Kyler Larsen et.al.|[2208.11472v1](http://arxiv.org/abs/2208.11472v1)|**[link](https://github.com/Aopsmath99/MIMMRI)**|
