@@ -5750,7 +5750,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|null|
+|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|**[link](https://github.com/MaverickPeter/MR_SLAM)**|
 |**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He et.al.|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
 |**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
@@ -6195,11 +6195,11 @@
 |**2022-10-12**|**A Unified Framework with Meta-dropout for Few-shot Learning**|Shaobo Lin et.al.|[2210.06409v1](http://arxiv.org/abs/2210.06409v1)|null|
 |**2022-10-12**|**Space-variant Shack-Hartmann wavefront sensing based on affine transformation estimation**|Fan Feng et.al.|[2210.06400v1](http://arxiv.org/abs/2210.06400v1)|null|
 |**2022-10-12**|**DQLAP: Deep Q-Learning Recommender Algorithm with Update Policy for a Real Steam Turbine System**|M. H. Modirrousta et.al.|[2210.06399v1](http://arxiv.org/abs/2210.06399v1)|null|
-|**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|null|
+|**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
 |**2022-10-12**|**Smooth Trajectory Collision Avoidance through Deep Reinforcement Learning**|Sirui Song et.al.|[2210.06377v1](http://arxiv.org/abs/2210.06377v1)|null|
 |**2022-10-12**|**A Comparative Study on 1.5T-3T MRI Conversion through Deep Neural Network Models**|Binhua Liao et.al.|[2210.06362v1](http://arxiv.org/abs/2210.06362v1)|null|
 |**2022-10-12**|**Charge Dimerization in Strongly Correlated Kagome Magnet FeGe**|H. Miao et.al.|[2210.06359v1](http://arxiv.org/abs/2210.06359v1)|null|
-|**2022-10-12**|**Self-Attention Message Passing for Contrastive Few-Shot Learning**|Ojas Kishorkumar Shirekar et.al.|[2210.06339v1](http://arxiv.org/abs/2210.06339v1)|null|
+|**2022-10-12**|**Self-Attention Message Passing for Contrastive Few-Shot Learning**|Ojas Kishorkumar Shirekar et.al.|[2210.06339v1](http://arxiv.org/abs/2210.06339v1)|**[link](https://github.com/ojss/samptransfer)**|
 |**2022-10-12**|**CoRRECT: A Deep Unfolding Framework for Motion-Corrected Quantitative R2* Mapping**|Xiaojian Xu et.al.|[2210.06330v1](http://arxiv.org/abs/2210.06330v1)|null|
 |**2022-10-12**|**Determining band structure parameters of two-dimensional materials by deep learning**|Paul Henderson et.al.|[2210.06310v1](http://arxiv.org/abs/2210.06310v1)|null|
 |**2022-10-12**|**DinoDroid: Testing Android Apps Using Deep Q-Networks**|Yu Zhao et.al.|[2210.06307v1](http://arxiv.org/abs/2210.06307v1)|null|
@@ -6207,25 +6207,25 @@
 |**2022-10-12**|**Deep Koopman Representation of Nonlinear Time Varying Systems**|Wenjian Hao et.al.|[2210.06272v1](http://arxiv.org/abs/2210.06272v1)|null|
 |**2022-10-12**|**Matrix Models, Integral Polyhedra and Toric Geometry**|Aleksey Andreev et.al.|[2210.06265v1](http://arxiv.org/abs/2210.06265v1)|null|
 |**2022-10-12**|**On the Generalizability of ECG-based Stress Detection Models**|Pooja Prajod et.al.|[2210.06225v1](http://arxiv.org/abs/2210.06225v1)|null|
-|**2022-10-12**|**Latency-aware Spatial-wise Dynamic Networks**|Yizeng Han et.al.|[2210.06223v1](http://arxiv.org/abs/2210.06223v1)|null|
-|**2022-10-12**|**On Divergence Measures for Bayesian Pseudocoresets**|Balhae Kim et.al.|[2210.06205v1](http://arxiv.org/abs/2210.06205v1)|null|
+|**2022-10-12**|**Latency-aware Spatial-wise Dynamic Networks**|Yizeng Han et.al.|[2210.06223v1](http://arxiv.org/abs/2210.06223v1)|**[link](https://github.com/leaplabthu/lasnet)**|
+|**2022-10-12**|**On Divergence Measures for Bayesian Pseudocoresets**|Balhae Kim et.al.|[2210.06205v1](http://arxiv.org/abs/2210.06205v1)|**[link](https://github.com/balhaekim/bpc-divergences)**|
 |**2022-10-12**|**Deep generative models for fast photon shower simulation in ATLAS**|ATLAS Collaboration et.al.|[2210.06204v1](http://arxiv.org/abs/2210.06204v1)|null|
 |**2022-10-12**|**Aergia: Leveraging Heterogeneity in Federated Learning Systems**|Bart Cox et.al.|[2210.06154v1](http://arxiv.org/abs/2210.06154v1)|null|
 |**2022-10-12**|**On the Importance of Gradient Norm in PAC-Bayesian Bounds**|Itai Gat et.al.|[2210.06143v1](http://arxiv.org/abs/2210.06143v1)|null|
-|**2022-10-12**|**Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting**|Hongyuan Yu et.al.|[2210.06126v1](http://arxiv.org/abs/2210.06126v1)|null|
-|**2022-10-12**|**Fast Bayesian Updates for Deep Learning with a Use Case in Active Learning**|Marek Herde et.al.|[2210.06112v1](http://arxiv.org/abs/2210.06112v1)|null|
-|**2022-10-12**|**SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection**|Piotr Kawa et.al.|[2210.06105v1](http://arxiv.org/abs/2210.06105v1)|null|
+|**2022-10-12**|**Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting**|Hongyuan Yu et.al.|[2210.06126v1](http://arxiv.org/abs/2210.06126v1)|**[link](https://github.com/alipay/rgsl)**|
+|**2022-10-12**|**Fast Bayesian Updates for Deep Learning with a Use Case in Active Learning**|Marek Herde et.al.|[2210.06112v1](http://arxiv.org/abs/2210.06112v1)|**[link](https://github.com/ies-research/bayesian-updates)**|
+|**2022-10-12**|**SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection**|Piotr Kawa et.al.|[2210.06105v1](http://arxiv.org/abs/2210.06105v1)|**[link](https://github.com/piotrkawa/specrnet)**|
 |**2022-10-12**|**Federated Continual Learning for Text Classification via Selective Inter-client Transfer**|Yatin Chaudhary et.al.|[2210.06101v1](http://arxiv.org/abs/2210.06101v1)|null|
 |**2022-10-12**|**The interplay between forming planets and photo-evaporating discs I: Forbidden line diagnostics**|Michael L. Weber et.al.|[2210.06097v1](http://arxiv.org/abs/2210.06097v1)|null|
 |**2022-10-12**|**E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking**|Yangtian Zhang et.al.|[2210.06069v1](http://arxiv.org/abs/2210.06069v1)|null|
 |**2022-10-12**|**Discovery of a probable very fast extragalactic nova in a symbiotic binary**|David Modiano et.al.|[2210.06057v1](http://arxiv.org/abs/2210.06057v1)|null|
 |**2022-10-12**|**Adding quark spin effects to PYTHIA string fragmentation**|Albi Kerbizi et.al.|[2210.06009v1](http://arxiv.org/abs/2210.06009v1)|null|
 |**2022-10-12**|**Estimating the Pose of a Euro Pallet with an RGB Camera based on Synthetic Training Data**|Markus Knitt et.al.|[2210.06001v1](http://arxiv.org/abs/2210.06001v1)|null|
-|**2022-10-12**|**Boosting the Transferability of Adversarial Attacks with Reverse Adversarial Perturbation**|Zeyu Qin et.al.|[2210.05968v1](http://arxiv.org/abs/2210.05968v1)|null|
+|**2022-10-12**|**Boosting the Transferability of Adversarial Attacks with Reverse Adversarial Perturbation**|Zeyu Qin et.al.|[2210.05968v1](http://arxiv.org/abs/2210.05968v1)|**[link](https://github.com/Alan-Qin/Transfer_attack_RAP)**|
 |**2022-10-12**|**Projective Transformation Rectification for Camera-captured Chest X-ray Photograph Interpretation with Synthetic Data**|Chak Fong Chong et.al.|[2210.05954v1](http://arxiv.org/abs/2210.05954v1)|null|
 |**2022-10-12**|**Explaining Online Reinforcement Learning Decisions of Self-Adaptive Systems**|Felix Feit et.al.|[2210.05931v1](http://arxiv.org/abs/2210.05931v1)|null|
 |**2022-10-12**|**Few-shot Backdoor Attacks via Neural Tangent Kernels**|Jonathan Hayase et.al.|[2210.05929v1](http://arxiv.org/abs/2210.05929v1)|null|
-|**2022-10-12**|**Efficient Adversarial Training without Attacking: Worst-Case-Aware Robust Reinforcement Learning**|Yongyuan Liang et.al.|[2210.05927v1](http://arxiv.org/abs/2210.05927v1)|null|
+|**2022-10-12**|**Efficient Adversarial Training without Attacking: Worst-Case-Aware Robust Reinforcement Learning**|Yongyuan Liang et.al.|[2210.05927v1](http://arxiv.org/abs/2210.05927v1)|**[link](https://github.com/umd-huang-lab/wocar-rl)**|
 |**2022-10-12**|**Enemy Spotted: in-game gun sound dataset for gunshot classification and localization**|Junwoo Park et.al.|[2210.05917v1](http://arxiv.org/abs/2210.05917v1)|null|
 |**2022-10-12**|**Point Cloud Scene Completion with Joint Color and Semantic Estimation from Single RGB-D Image**|Zhaoxuan Zhang et.al.|[2210.05891v1](http://arxiv.org/abs/2210.05891v1)|null|
 |**2022-10-12**|**Building Heterogeneous Cloud System for Machine Learning Inference**|Baolin Li et.al.|[2210.05889v1](http://arxiv.org/abs/2210.05889v1)|null|
@@ -6235,9 +6235,9 @@
 |**2022-10-12**|**Deep Learning for Iris Recognition: A Survey**|Kien Nguyen et.al.|[2210.05866v1](http://arxiv.org/abs/2210.05866v1)|null|
 |**2022-10-12**|**Cross-dataset COVID-19 Transfer Learning with Cough Detection, Cough Segmentation, and Data Augmentation**|Bagus Tris Atmaja et.al.|[2210.05843v1](http://arxiv.org/abs/2210.05843v1)|null|
 |**2022-10-11**|**Effectiveness of the Recent Advances in Capsule Networks**|Nidhin Harilal et.al.|[2210.05834v1](http://arxiv.org/abs/2210.05834v1)|null|
-|**2022-10-11**|**Deep Counterfactual Estimation with Categorical Background Variables**|Edward De Brouwer et.al.|[2210.05811v1](http://arxiv.org/abs/2210.05811v1)|null|
+|**2022-10-11**|**Deep Counterfactual Estimation with Categorical Background Variables**|Edward De Brouwer et.al.|[2210.05811v1](http://arxiv.org/abs/2210.05811v1)|**[link](https://github.com/edebrouwer/cfqp)**|
 |**2022-10-11**|**MRI-based Material Mass Density and Relative Stopping Power Estimation via Deep Learning for Proton Therapy**|Yuan Gao et.al.|[2210.05804v1](http://arxiv.org/abs/2210.05804v1)|null|
-|**2022-10-11**|**C-Mixup: Improving Generalization in Regression**|Huaxiu Yao et.al.|[2210.05775v1](http://arxiv.org/abs/2210.05775v1)|null|
+|**2022-10-11**|**C-Mixup: Improving Generalization in Regression**|Huaxiu Yao et.al.|[2210.05775v1](http://arxiv.org/abs/2210.05775v1)|**[link](https://github.com/huaxiuyao/c-mixup)**|
 |**2022-10-11**|**Oflib: Facilitating Operations with and on Optical Flow Fields in Python**|Claudio Ravasio et.al.|[2210.05635v1](http://arxiv.org/abs/2210.05635v1)|**[link](https://github.com/RViMLab/oflibnumpy)**|
 |**2022-10-11**|**EllipsoNet: Deep-learning-enabled optical ellipsometry for complex thin films**|Ziyang Wang et.al.|[2210.05630v1](http://arxiv.org/abs/2210.05630v1)|null|
 |**2022-10-11**|**An Experimental Study on Private Aggregation of Teacher Ensemble Learning for End-to-End Speech Recognition**|Chao-Han Huck Yang et.al.|[2210.05614v1](http://arxiv.org/abs/2210.05614v1)|null|
