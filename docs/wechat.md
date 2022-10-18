@@ -6165,18 +6165,18 @@
 ## Deep Learning深度学习
 
 - 2022-10-17, **TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain**, Fei Dai et.al., Paper: [http://arxiv.org/abs/2210.09283v1](http://arxiv.org/abs/2210.09283v1)
-- 2022-10-17, **On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning**, Philipp Becker et.al., Paper: [http://arxiv.org/abs/2210.09256v1](http://arxiv.org/abs/2210.09256v1)
+- 2022-10-17, **On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning**, Philipp Becker et.al., Paper: [http://arxiv.org/abs/2210.09256v1](http://arxiv.org/abs/2210.09256v1), Code: **[https://github.com/pbecker93/vrkn](https://github.com/pbecker93/vrkn)**
 - 2022-10-17, **Improving Contrastive Learning on Visually Homogeneous Mars Rover Images**, Isaac Ronald Ward et.al., Paper: [http://arxiv.org/abs/2210.09234v1](http://arxiv.org/abs/2210.09234v1)
 - 2022-10-17, **Venus boundary layer dynamics: eolian transport and convective vortex**, Maxence Lefèvre et.al., Paper: [http://arxiv.org/abs/2210.09219v1](http://arxiv.org/abs/2210.09219v1)
 - 2022-10-17, **Collision-induced flavor instability in dense neutrino gases with energy-dependent scattering**, Yu-Chia Lin et.al., Paper: [http://arxiv.org/abs/2210.09218v1](http://arxiv.org/abs/2210.09218v1)
-- 2022-10-17, **ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2210.09204v1](http://arxiv.org/abs/2210.09204v1)
+- 2022-10-17, **ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2210.09204v1](http://arxiv.org/abs/2210.09204v1), Code: **[https://github.com/asindel/artfacepoints](https://github.com/asindel/artfacepoints)**
 - 2022-10-17, **Packed-Ensembles for Efficient Uncertainty Estimation**, Olivier Laurent et.al., Paper: [http://arxiv.org/abs/2210.09184v1](http://arxiv.org/abs/2210.09184v1)
 - 2022-10-17, **Weak lensing in the blue: a counter-intuitive strategy for stratospheric observations**, Mohamed M. Shaaban et.al., Paper: [http://arxiv.org/abs/2210.09182v1](http://arxiv.org/abs/2210.09182v1)
 - 2022-10-17, **Modeling lens potentials with continuous neural fields in galaxy-scale strong lenses**, Luca Biggio et.al., Paper: [http://arxiv.org/abs/2210.09169v1](http://arxiv.org/abs/2210.09169v1)
 - 2022-10-17, **Expected geoneutrino signal at JUNO using local integrated 3-D refined crustal model**, Ran Han et.al., Paper: [http://arxiv.org/abs/2210.09165v1](http://arxiv.org/abs/2210.09165v1)
 - 2022-10-17, **Planet Four: A Neural Network's Search For Polar Spring-time Fans On Mars**, Mark D. McDonnell et.al., Paper: [http://arxiv.org/abs/2210.09152v1](http://arxiv.org/abs/2210.09152v1)
-- 2022-10-17, **PARTIME: Scalable and Parallel Processing Over Time with Deep Neural Networks**, Enrico Meloni et.al., Paper: [http://arxiv.org/abs/2210.09147v1](http://arxiv.org/abs/2210.09147v1)
-- 2022-10-17, **An Open-source Benchmark of Deep Learning Models for Audio-visual Apparent and Self-reported Personality Recognition**, Rongfan Liao et.al., Paper: [http://arxiv.org/abs/2210.09138v1](http://arxiv.org/abs/2210.09138v1)
+- 2022-10-17, **PARTIME: Scalable and Parallel Processing Over Time with Deep Neural Networks**, Enrico Meloni et.al., Paper: [http://arxiv.org/abs/2210.09147v1](http://arxiv.org/abs/2210.09147v1), Code: **[https://github.com/sailab-code/partime](https://github.com/sailab-code/partime)**
+- 2022-10-17, **An Open-source Benchmark of Deep Learning Models for Audio-visual Apparent and Self-reported Personality Recognition**, Rongfan Liao et.al., Paper: [http://arxiv.org/abs/2210.09138v1](http://arxiv.org/abs/2210.09138v1), Code: **[https://github.com/liaorongfan/deeppersonality](https://github.com/liaorongfan/deeppersonality)**
 - 2022-10-17, **Pseudo-OOD training for robust language models**, Dhanasekar Sundararaman et.al., Paper: [http://arxiv.org/abs/2210.09132v1](http://arxiv.org/abs/2210.09132v1)
 - 2022-10-17, **Asymptotic-Preserving Neural Networks for hyperbolic systems with diffusive scaling**, Giulia Bertaglia et.al., Paper: [http://arxiv.org/abs/2210.09081v1](http://arxiv.org/abs/2210.09081v1)
 - 2022-10-17, **AIM 2022 Challenge on Instagram Filter Removal: Methods and Results**, Furkan Kınlı et.al., Paper: [http://arxiv.org/abs/2210.08997v1](http://arxiv.org/abs/2210.08997v1)
@@ -6189,10 +6189,10 @@
 - 2022-10-17, **Differential Evolution based Dual Adversarial Camouflage: Fooling Human Eyes and Object Detectors**, Jialiang Sun et.al., Paper: [http://arxiv.org/abs/2210.08870v1](http://arxiv.org/abs/2210.08870v1)
 - 2022-10-17, **Deep Learning Aided Laplace Based Bayesian Inference for Epidemiological Systems**, Wai Meng Kwok et.al., Paper: [http://arxiv.org/abs/2210.08865v1](http://arxiv.org/abs/2210.08865v1)
 - 2022-10-17, **How to Leverage DNN-based speech enhancement for multi-channel speaker verification?**, Sandipana Dowerah et.al., Paper: [http://arxiv.org/abs/2210.08834v1](http://arxiv.org/abs/2210.08834v1)
-- 2022-10-17, **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning**, Dongze Lian et.al., Paper: [http://arxiv.org/abs/2210.08823v1](http://arxiv.org/abs/2210.08823v1)
+- 2022-10-17, **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning**, Dongze Lian et.al., Paper: [http://arxiv.org/abs/2210.08823v1](http://arxiv.org/abs/2210.08823v1), Code: **[https://github.com/dongzelian/ssf](https://github.com/dongzelian/ssf)**
 - 2022-10-17, **A GPU-specialized Inference Parameter Server for Large-Scale Deep Recommendation Models**, Yingcan Wei et.al., Paper: [http://arxiv.org/abs/2210.08804v1](http://arxiv.org/abs/2210.08804v1)
 - 2022-10-17, **Rethinking Trajectory Prediction via "Team Game"**, Zikai Wei et.al., Paper: [http://arxiv.org/abs/2210.08793v1](http://arxiv.org/abs/2210.08793v1)
-- 2022-10-17, **EISeg: An Efficient Interactive Segmentation Annotation Tool based on PaddlePaddle**, Yuying Hao et.al., Paper: [http://arxiv.org/abs/2210.08788v1](http://arxiv.org/abs/2210.08788v1)
+- 2022-10-17, **EISeg: An Efficient Interactive Segmentation Annotation Tool based on PaddlePaddle**, Yuying Hao et.al., Paper: [http://arxiv.org/abs/2210.08788v1](http://arxiv.org/abs/2210.08788v1), Code: **[https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)**
 - 2022-10-17, **Towards Summary Candidates Fusion**, Mathieu Ravaut et.al., Paper: [http://arxiv.org/abs/2210.08779v1](http://arxiv.org/abs/2210.08779v1)
 - 2022-10-17, **ADE bundles over surfaces**, Yunxia Chen et.al., Paper: [http://arxiv.org/abs/2210.08771v1](http://arxiv.org/abs/2210.08771v1)
 - 2022-10-17, **Massive MIMO Channel Prediction Via Meta-Learning and Deep Denoising: Is a Small Dataset Enough?**, Hwanjin Kim et.al., Paper: [http://arxiv.org/abs/2210.08770v1](http://arxiv.org/abs/2210.08770v1)
@@ -6210,8 +6210,8 @@
 - 2022-10-16, **Towards Dynamic Fault Tolerance for Hardware-Implemented Artificial Neural Networks: A Deep Learning Approach**, Daniel Gregorek et.al., Paper: [http://arxiv.org/abs/2210.08601v1](http://arxiv.org/abs/2210.08601v1)
 - 2022-10-16, **Nowhere to Hide: A Lightweight Unsupervised Detector against Adversarial Examples**, Hui Liu et.al., Paper: [http://arxiv.org/abs/2210.08579v1](http://arxiv.org/abs/2210.08579v1)
 - 2022-10-16, **Machine Learning based Discrimination for Excited State Promoted Readout**, Utkarsh Azad et.al., Paper: [http://arxiv.org/abs/2210.08574v1](http://arxiv.org/abs/2210.08574v1)
-- 2022-10-16, **Automatic Differentiation of Programs with Discrete Randomness**, Gaurav Arya et.al., Paper: [http://arxiv.org/abs/2210.08572v1](http://arxiv.org/abs/2210.08572v1)
-- 2022-10-16, **Investigating the Robustness of Natural Language Generation from Logical Forms via Counterfactual Samples**, Chengyuan Liu et.al., Paper: [http://arxiv.org/abs/2210.08548v1](http://arxiv.org/abs/2210.08548v1)
+- 2022-10-16, **Automatic Differentiation of Programs with Discrete Randomness**, Gaurav Arya et.al., Paper: [http://arxiv.org/abs/2210.08572v1](http://arxiv.org/abs/2210.08572v1), Code: **[https://github.com/gaurav-arya/stochasticad.jl](https://github.com/gaurav-arya/stochasticad.jl)**
+- 2022-10-16, **Investigating the Robustness of Natural Language Generation from Logical Forms via Counterfactual Samples**, Chengyuan Liu et.al., Paper: [http://arxiv.org/abs/2210.08548v1](http://arxiv.org/abs/2210.08548v1), Code: **[https://github.com/liuchengyuan123/l2tviacounterfactualsamples](https://github.com/liuchengyuan123/l2tviacounterfactualsamples)**
 - 2022-10-16, **Towards Effective Image Manipulation Detection with Proposal Contrastive Learning**, Yuyuan Zeng et.al., Paper: [http://arxiv.org/abs/2210.08529v1](http://arxiv.org/abs/2210.08529v1)
 - 2022-10-16, **Comparing Synthetic Tabular Data Generation Between a Probabilistic Model and a Deep Learning Model for Education Use Cases**, Herkulaas MvE Combrink et.al., Paper: [http://arxiv.org/abs/2210.08528v1](http://arxiv.org/abs/2210.08528v1)
 - 2022-10-14, **TOI-179: a young system with a transiting compact Neptune-mass planet and a low-mass companion in outer orbit**, S. Desidera et.al., Paper: [http://arxiv.org/abs/2210.07933v1](http://arxiv.org/abs/2210.07933v1)
