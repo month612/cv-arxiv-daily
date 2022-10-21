@@ -5992,6 +5992,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
 |**2022-10-19**|**GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**|Amar Ali-bey et.al.|[2210.10239v1](http://arxiv.org/abs/2210.10239v1)|**[link](https://github.com/amaralibey/gsv-cities)**|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
 |**2022-10-14**|**Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique**|Connor Malone et.al.|[2210.07509v1](http://arxiv.org/abs/2210.07509v1)|null|
@@ -6222,6 +6223,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-20**|**VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**|Beiwen Tian et.al.|[2210.11472v1](http://arxiv.org/abs/2210.11472v1)|**[link](https://github.com/air-discover/vibus)**|
+|**2022-10-20**|**Multi-View Guided Multi-View Stereo**|Matteo Poggi et.al.|[2210.11467v1](http://arxiv.org/abs/2210.11467v1)|**[link](https://github.com/andreaconti/multi-view-guided-multi-view-stereo)**|
+|**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|null|
+|**2022-10-20**|**Investigation and discussion of machine learning techniques for surrogate modeling of radio-frequency quadrupole particle accelerators**|Joshua Villarreal et.al.|[2210.11451v1](http://arxiv.org/abs/2210.11451v1)|null|
+|**2022-10-20**|**Self-Supervised Learning with Masked Image Modeling for Teeth Numbering, Detection of Dental Restorations, and Instance Segmentation in Dental Panoramic Radiographs**|Amani Almalki et.al.|[2210.11404v1](http://arxiv.org/abs/2210.11404v1)|**[link](https://github.com/amanihalmalki/dentalmim)**|
+|**2022-10-20**|**Deep reinforcement learning oriented for real world dynamic scenarios**|Diego Martinez et.al.|[2210.11392v1](http://arxiv.org/abs/2210.11392v1)|null|
+|**2022-10-20**|**TTTFlow: Unsupervised Test-Time Training with Normalizing Flow**|David Osowiechi et.al.|[2210.11389v1](http://arxiv.org/abs/2210.11389v1)|**[link](https://github.com/gustavovargashakim/tttflow)**|
+|**2022-10-20**|**Physics-informed deep diffusion MRI reconstruction: break the bottleneck of training data in artificial intelligence**|Chen Qian et.al.|[2210.11388v1](http://arxiv.org/abs/2210.11388v1)|null|
+|**2022-10-20**|**On Feature Learning in the Presence of Spurious Correlations**|Pavel Izmailov et.al.|[2210.11369v1](http://arxiv.org/abs/2210.11369v1)|**[link](https://github.com/izmailovpavel/spurious_feature_learning)**|
+|**2022-10-20**|**Deep conditional transformation models for survival analysis**|Gabriele Campanella et.al.|[2210.11366v1](http://arxiv.org/abs/2210.11366v1)|null|
+|**2022-10-20**|**An X-ray Dim Isolated Neutron Star in Binary?**|Jie Lin et.al.|[2210.11360v1](http://arxiv.org/abs/2210.11360v1)|null|
+|**2022-10-20**|**VIOLA: Imitation Learning for Vision-Based Manipulation with Object Proposal Priors**|Yifeng Zhu et.al.|[2210.11339v1](http://arxiv.org/abs/2210.11339v1)|null|
+|**2022-10-20**|**Meanders, hyperelliptic pillowcase covers, and the Johnson filtration**|Luke Jeffreys et.al.|[2210.11332v1](http://arxiv.org/abs/2210.11332v1)|null|
+|**2022-10-20**|**A Survey of Computer Vision Technologies In Urban and Controlled-environment Agriculture**|Jiayun Luo et.al.|[2210.11318v1](http://arxiv.org/abs/2210.11318v1)|null|
+|**2022-10-20**|**Accelerating equilibrium spin-glass simulations using quantum annealers via generative deep learning**|Giuseppe Scriva et.al.|[2210.11288v1](http://arxiv.org/abs/2210.11288v1)|null|
+|**2022-10-20**|**Hypothesis Testing using Causal and Causal Variational Generative Models**|Jeffrey Jiang et.al.|[2210.11275v1](http://arxiv.org/abs/2210.11275v1)|null|
+|**2022-10-20**|**Accurate Extrinsic Prediction of Physical Systems Using Transformers**|Arnaud Pannatier et.al.|[2210.11269v1](http://arxiv.org/abs/2210.11269v1)|null|
+|**2022-10-20**|**Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**|Wanjun Zhong et.al.|[2210.11265v1](http://arxiv.org/abs/2210.11265v1)|null|
+|**2022-10-20**|**RMBench: Benchmarking Deep Reinforcement Learning for Robotic Manipulator Control**|Yanfei Xiang et.al.|[2210.11262v1](http://arxiv.org/abs/2210.11262v1)|null|
+|**2022-10-20**|**Context-driven Visual Object Recognition based on Knowledge Graphs**|Sebastian Monka et.al.|[2210.11233v1](http://arxiv.org/abs/2210.11233v1)|null|
+|**2022-10-20**|**Density of a random submanifold: the zonoid section**|Léo Mathis et.al.|[2210.11214v1](http://arxiv.org/abs/2210.11214v1)|null|
+|**2022-10-20**|**Removing grid structure in angle-resolved photoemission spectra via deep learning method**|Junde Liu et.al.|[2210.11200v1](http://arxiv.org/abs/2210.11200v1)|null|
+|**2022-10-20**|**Integration of Neuromorphic AI in Event-Driven Distributed Digitized Systems: Concepts and Research Directions**|Mattias Nilsson et.al.|[2210.11190v1](http://arxiv.org/abs/2210.11190v1)|null|
+|**2022-10-20**|**Towards Better Guided Attention and Human Knowledge Insertion in Deep Convolutional Neural Networks**|Ankit Gupta et.al.|[2210.11177v1](http://arxiv.org/abs/2210.11177v1)|null|
+|**2022-10-20**|**Deep-level transient spectroscopy of the charged defects in p-i-n perovskite solar cells induced by light-soaking**|A. A. Vasilev et.al.|[2210.11176v1](http://arxiv.org/abs/2210.11176v1)|null|
+|**2022-10-20**|**Overlapping Community Detection using Dynamic Dilated Aggregation in Deep Residual GCN**|Md Nurul Muttakin et.al.|[2210.11174v1](http://arxiv.org/abs/2210.11174v1)|null|
+|**2022-10-20**|**Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem**|Albert Xu et.al.|[2210.11173v1](http://arxiv.org/abs/2210.11173v1)|null|
+|**2022-10-20**|**Reproducibility of the Methods in Medical Imaging with Deep Learning**|Attila Simko et.al.|[2210.11146v1](http://arxiv.org/abs/2210.11146v1)|null|
+|**2022-10-20**|**Investigating Quantum Many-Body Systems with Tensor Networks, Machine Learning and Quantum Computers**|Korbinian Kottmann et.al.|[2210.11130v1](http://arxiv.org/abs/2210.11130v1)|null|
+|**2022-10-20**|**Super-Resolution and Image Re-projection for Iris Recognition**|Eduardo Ribeiro et.al.|[2210.11129v1](http://arxiv.org/abs/2210.11129v1)|null|
+|**2022-10-20**|**Model-matching Principle Applied to the Design of an Array-based All-neural Binaural Rendering System for Audio Telepresence**|Yicheng Hsu et.al.|[2210.11123v1](http://arxiv.org/abs/2210.11123v1)|null|
+|**2022-10-20**|**The Pump Scheduling Problem: A Real-World Scenario for Reinforcement Learning**|Henrique Donâncio et.al.|[2210.11111v1](http://arxiv.org/abs/2210.11111v1)|**[link](https://gitlab.com/hdonancio/pumpscheduling)**|
+|**2022-10-20**|**Robust Multi-Read Reconstruction from Contaminated Clusters Using Deep Neural Network for DNA Storage**|Yun Qin et.al.|[2210.11106v1](http://arxiv.org/abs/2210.11106v1)|null|
+|**2022-10-20**|**Robustcaps: a transformation-robust capsule network for image classification**|Sai Raam Venkataraman et.al.|[2210.11092v1](http://arxiv.org/abs/2210.11092v1)|null|
+|**2022-10-20**|**Large-batch Optimization for Dense Visual Predictions**|Zeyue Xue et.al.|[2210.11078v1](http://arxiv.org/abs/2210.11078v1)|**[link](https://github.com/sense-x/agvm)**|
+|**2022-10-20**|**Analyzing the Robustness of Decentralized Horizontal and Vertical Federated Learning Architectures in a Non-IID Scenario**|Pedro Miguel Sánchez Sánchez et.al.|[2210.11061v1](http://arxiv.org/abs/2210.11061v1)|null|
+|**2022-10-20**|**Doc2Bot: Accessing Heterogeneous Documents via Conversational Bots**|Haomin Fu et.al.|[2210.11060v1](http://arxiv.org/abs/2210.11060v1)|null|
+|**2022-10-20**|**How Does a Deep Learning Model Architecture Impact Its Privacy?**|Guangsheng Zhang et.al.|[2210.11049v1](http://arxiv.org/abs/2210.11049v1)|null|
+|**2022-10-20**|**Robust Image Registration with Absent Correspondences in Pre-operative and Follow-up Brain MRI Scans of Diffuse Glioma Patients**|Tony C. W. Mok et.al.|[2210.11045v1](http://arxiv.org/abs/2210.11045v1)|null|
+|**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
+|**2022-10-20**|**Single Image Super-Resolution Using Lightweight Networks Based on Swin Transformer**|Bolong Zhang et.al.|[2210.11019v1](http://arxiv.org/abs/2210.11019v1)|null|
+|**2022-10-20**|**Semi-supervised object detection based on single-stage detector for thighbone fracture localization**|Jinman Wei et.al.|[2210.10998v1](http://arxiv.org/abs/2210.10998v1)|null|
+|**2022-10-20**|**RAIS: Robust and Accurate Interactive Segmentation via Continual Learning**|Yuying Hao et.al.|[2210.10984v1](http://arxiv.org/abs/2210.10984v1)|null|
+|**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
+|**2022-10-20**|**IDM-Follower: A Model-Informed Deep Learning Method for Long-Sequence Car-Following Trajectory Prediction**|Yilin Wang et.al.|[2210.10965v1](http://arxiv.org/abs/2210.10965v1)|null|
+|**2022-10-20**|**Uni6Dv3: 5D Anchor Mechanism for 6D Pose Estimation**|Jianqiu Chen et.al.|[2210.10959v1](http://arxiv.org/abs/2210.10959v1)|null|
+|**2022-10-20**|**3D Human Mesh Construction Leveraging Wi-Fi**|Yichao Wang et.al.|[2210.10957v1](http://arxiv.org/abs/2210.10957v1)|null|
+|**2022-10-20**|**ESPNN: Deep Neural Network on the IAEA stopping power database. Atomic targets**|F. Bivort Haiek et.al.|[2210.10950v1](http://arxiv.org/abs/2210.10950v1)|null|
+|**2022-10-20**|**Search for gravitational-wave transients associated with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third observing run**|The LIGO Scientific Collaboration et.al.|[2210.10931v1](http://arxiv.org/abs/2210.10931v1)|null|
+|**2022-10-19**|**Brownian noise effects on magnetic focusing of prolate and oblate spheroids in channel flow**|Mohammad Reza Shabanniya et.al.|[2210.10918v1](http://arxiv.org/abs/2210.10918v1)|null|
 |**2022-10-19**|**CLOINet: Ocean state reconstructions through remote-sensing, in-situ sparse observations and Deep Learning**|Eugenio Cutolo et.al.|[2210.10767v1](http://arxiv.org/abs/2210.10767v1)|null|
 |**2022-10-19**|**On Representing Mixed-Integer Linear Programs by Graph Neural Networks**|Ziang Chen et.al.|[2210.10759v1](http://arxiv.org/abs/2210.10759v1)|null|
 |**2022-10-19**|**TabLLM: Few-shot Classification of Tabular Data with Large Language Models**|Stefan Hegselmann et.al.|[2210.10723v1](http://arxiv.org/abs/2210.10723v1)|null|
@@ -9375,6 +9426,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-20**|**i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable?**|Kevin Zhang et.al.|[2210.11470v1](http://arxiv.org/abs/2210.11470v1)|**[link](https://github.com/vision-learning-acceleration-lab/i-mae)**|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|**[link](https://github.com/lightnessofbeing/mixmask)**|
+|**2022-10-20**|**Self-Supervised Learning with Masked Image Modeling for Teeth Numbering, Detection of Dental Restorations, and Instance Segmentation in Dental Panoramic Radiographs**|Amani Almalki et.al.|[2210.11404v1](http://arxiv.org/abs/2210.11404v1)|**[link](https://github.com/amanihalmalki/dentalmim)**|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**Autoregressive Generative Modeling with Noise Conditional Maximum Likelihood Estimation**|Henry Li et.al.|[2210.10715v1](http://arxiv.org/abs/2210.10715v1)|null|
 |**2022-10-19**|**A Unified View of Masked Image Modeling**|Zhiliang Peng et.al.|[2210.10615v1](http://arxiv.org/abs/2210.10615v1)|null|
