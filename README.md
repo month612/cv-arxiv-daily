@@ -6211,9 +6211,9 @@
 |**2022-10-24**|**A continuous trainable filter for convolution with unstructured data**|Dario Coscia et.al.|[2210.13416v1](http://arxiv.org/abs/2210.13416v1)|null|
 |**2022-10-24**|**Deep Learning Approach for Dynamic Sampling for Multichannel Mass Spectrometry Imaging**|David Helminiak et.al.|[2210.13415v1](http://arxiv.org/abs/2210.13415v1)|null|
 |**2022-10-24**|**Thermodynamics-informed neural networks for physically realistic mixed reality**|Quercus Hernández et.al.|[2210.13414v1](http://arxiv.org/abs/2210.13414v1)|null|
-|**2022-10-24**|**NASA: Neural Architecture Search and Acceleration for Hardware Inspired Hybrid Networks**|Huihong Shi et.al.|[2210.13361v1](http://arxiv.org/abs/2210.13361v1)|null|
+|**2022-10-24**|**NASA: Neural Architecture Search and Acceleration for Hardware Inspired Hybrid Networks**|Huihong Shi et.al.|[2210.13361v1](http://arxiv.org/abs/2210.13361v1)|**[link](https://github.com/rice-eic/nasa)**|
 |**2022-10-24**|**Novelty Detection in Time Series via Weak Innovations Representation: A Deep Learning Approach**|Xinyi Wang et.al.|[2210.13358v1](http://arxiv.org/abs/2210.13358v1)|null|
-|**2022-10-24**|**Robust Self-Supervised Learning with Lie Groups**|Mark Ibrahim et.al.|[2210.13356v1](http://arxiv.org/abs/2210.13356v1)|null|
+|**2022-10-24**|**Robust Self-Supervised Learning with Lie Groups**|Mark Ibrahim et.al.|[2210.13356v1](http://arxiv.org/abs/2210.13356v1)|**[link](https://github.com/panmari/stanford-shapenet-renderer)**|
 |**2022-10-24**|**KM3NeT Broadcast Optical Data Transport System**|The KM3NeT collaboration et.al.|[2210.13328v1](http://arxiv.org/abs/2210.13328v1)|null|
 |**2022-10-24**|**Deep Kronecker Network**|Long Feng et.al.|[2210.13327v1](http://arxiv.org/abs/2210.13327v1)|null|
 |**2022-10-24**|**Emergent Mott-insulators at non-integer fillings and devil's staircase induced by attractive interaction in many-body polarons**|Jian-Hua Zeng et.al.|[2210.13316v1](http://arxiv.org/abs/2210.13316v1)|null|
@@ -6221,37 +6221,37 @@
 |**2022-10-24**|**Semantic Image Segmentation with Deep Learning for Vine Leaf Phenotyping**|Petros N. Tamvakis et.al.|[2210.13296v1](http://arxiv.org/abs/2210.13296v1)|null|
 |**2022-10-24**|**A Meta-Learning Based Gradient Descent Algorithm for MU-MIMO Beamforming**|Jing-Yuan Xia et.al.|[2210.13279v1](http://arxiv.org/abs/2210.13279v1)|null|
 |**2022-10-24**|**Generating Hierarchical Explanations on Text Classification Without Connecting Rules**|Yiming Ju et.al.|[2210.13270v1](http://arxiv.org/abs/2210.13270v1)|null|
-|**2022-10-24**|**IQUAFLOW: A new framework to measure image quality**|P. Gallés et.al.|[2210.13269v1](http://arxiv.org/abs/2210.13269v1)|null|
+|**2022-10-24**|**IQUAFLOW: A new framework to measure image quality**|P. Gallés et.al.|[2210.13269v1](http://arxiv.org/abs/2210.13269v1)|**[link](https://github.com/satellogic/iquaflow)**|
 |**2022-10-24**|**Distributed DeeP-LCC for cooperatively smoothing large-scale mixed traffic flow via connected and automated vehicles**|Jiawei Wang et.al.|[2210.13171v1](http://arxiv.org/abs/2210.13171v1)|null|
 |**2022-10-24**|**Exploring Self-Attention for Crop-type Classification Explainability**|Ivica Obadic et.al.|[2210.13167v1](http://arxiv.org/abs/2210.13167v1)|null|
-|**2022-10-24**|**Empirical analysis of PGA-MAP-Elites for Neuroevolution in Uncertain Domains**|Manon Flageat et.al.|[2210.13156v1](http://arxiv.org/abs/2210.13156v1)|null|
-|**2022-10-24**|**Dipole portal and neutrinophilic scalars at DUNE revisited: the importance of the high-energy neutrino tail**|Maksym Ovchynnikov Thomas Schwetz et.al.|[2210.13141v1](http://arxiv.org/abs/2210.13141v1)|null|
+|**2022-10-24**|**Empirical analysis of PGA-MAP-Elites for Neuroevolution in Uncertain Domains**|Manon Flageat et.al.|[2210.13156v1](http://arxiv.org/abs/2210.13156v1)|**[link](https://github.com/adaptive-intelligent-robotics/pga-map-elites)**|
+|**2022-10-24**|**Dipole portal and neutrinophilic scalars at DUNE revisited: the importance of the high-energy neutrino tail**|Maksym Ovchynnikov et.al.|[2210.13141v1](http://arxiv.org/abs/2210.13141v1)|null|
 |**2022-10-24**|**Facial Soft Biometrics for Recognition in the Wild: Recent Works, Annotation, and COTS Evaluation**|Ester Gonzalez-Sosa et.al.|[2210.13129v1](http://arxiv.org/abs/2210.13129v1)|null|
-|**2022-10-24**|**Deep Grey-Box Modeling With Adaptive Data-Driven Models Toward Trustworthy Estimation of Theory-Driven Models**|Naoya Takeishi et.al.|[2210.13103v1](http://arxiv.org/abs/2210.13103v1)|null|
+|**2022-10-24**|**Deep Grey-Box Modeling With Adaptive Data-Driven Models Toward Trustworthy Estimation of Theory-Driven Models**|Naoya Takeishi et.al.|[2210.13103v1](http://arxiv.org/abs/2210.13103v1)|**[link](https://github.com/n-takeishi/deepgreybox)**|
 |**2022-10-24**|**Scalable Representation Learning in Linear Contextual Bandits with Constant Regret Guarantees**|Andrea Tirinzoni et.al.|[2210.13083v1](http://arxiv.org/abs/2210.13083v1)|null|
 |**2022-10-24**|**Are Deep Sequence Classifiers Good at Non-Trivial Generalization?**|Francesco Cazzaro et.al.|[2210.13082v1](http://arxiv.org/abs/2210.13082v1)|null|
 |**2022-10-24**|**An Opponent-Aware Reinforcement Learning Method for Team-to-Team Multi-Vehicle Pursuit via Maximizing Mutual Information Indicator**|Qinwen Wang et.al.|[2210.13015v1](http://arxiv.org/abs/2210.13015v1)|null|
 |**2022-10-24**|**What cleaves? Is proteasomal cleavage prediction reaching a ceiling?**|Ingo Ziegler et.al.|[2210.12991v1](http://arxiv.org/abs/2210.12991v1)|null|
-|**2022-10-24**|**Robust Object Detection in Remote Sensing Imagery with Noisy and Sparse Geo-Annotations (Full Version)**|Maximilian Bernhard et.al.|[2210.12989v1](http://arxiv.org/abs/2210.12989v1)|null|
+|**2022-10-24**|**Robust Object Detection in Remote Sensing Imagery with Noisy and Sparse Geo-Annotations (Full Version)**|Maximilian Bernhard et.al.|[2210.12989v1](http://arxiv.org/abs/2210.12989v1)|**[link](https://github.com/mxbh/robust_object_detection)**|
 |**2022-10-24**|**Investigating Neuron Disturbing in Fusing Heterogeneous Neural Networks**|Biao Zhang et.al.|[2210.12974v1](http://arxiv.org/abs/2210.12974v1)|null|
 |**2022-10-24**|**Quantum corrections to the magnetoconductivity of surface states in three-dimensional topological insulators**|Gang Shi et.al.|[2210.12973v1](http://arxiv.org/abs/2210.12973v1)|null|
 |**2022-10-24**|**Non-Contrastive Learning-based Behavioural Biometrics for Smart IoT Devices**|Oshan Jayawardana et.al.|[2210.12964v1](http://arxiv.org/abs/2210.12964v1)|null|
 |**2022-10-24**|**Human Cognition and Language Processing with Neural-Lexicon Hypothesis**|Zang-Hee Cho et.al.|[2210.12960v1](http://arxiv.org/abs/2210.12960v1)|null|
-|**2022-10-24**|**On the optimization and pruning for Bayesian deep learning**|Xiongwen Ke et.al.|[2210.12957v1](http://arxiv.org/abs/2210.12957v1)|null|
+|**2022-10-24**|**On the optimization and pruning for Bayesian deep learning**|Xiongwen Ke et.al.|[2210.12957v1](http://arxiv.org/abs/2210.12957v1)|**[link](https://github.com/z5041294/optimization-and-pruning-for-bnn)**|
 |**2022-10-24**|**Revisiting Sparse Convolutional Model for Visual Recognition**|Xili Dai et.al.|[2210.12945v1](http://arxiv.org/abs/2210.12945v1)|null|
 |**2022-10-24**|**Deep Edge Intelligence: Architecture, Key Features, Enabling Technologies and Challenges**|Prabath Abeysekara et.al.|[2210.12944v1](http://arxiv.org/abs/2210.12944v1)|null|
 |**2022-10-24**|**GradMix for nuclei segmentation and classification in imbalanced pathology image datasets**|Tan Nhu Nhat Doan et.al.|[2210.12938v1](http://arxiv.org/abs/2210.12938v1)|null|
-|**2022-10-24**|**Selecting and Composing Learning Rate Policies for Deep Neural Networks**|Yanzhao Wu et.al.|[2210.12936v1](http://arxiv.org/abs/2210.12936v1)|null|
+|**2022-10-24**|**Selecting and Composing Learning Rate Policies for Deep Neural Networks**|Yanzhao Wu et.al.|[2210.12936v1](http://arxiv.org/abs/2210.12936v1)|**[link](https://github.com/git-disl/LRBench)**|
 |**2022-10-24**|**GFlowOut: Dropout with Generative Flow Networks**|Dianbo Liu et.al.|[2210.12928v1](http://arxiv.org/abs/2210.12928v1)|null|
 |**2022-10-24**|**The Design and Realization of Multi-agent Obstacle Avoidance based on Reinforcement Learning**|Enyu Zhao et.al.|[2210.12927v1](http://arxiv.org/abs/2210.12927v1)|null|
 |**2022-10-24**|**OLLA: Decreasing the Memory Usage of Neural Networks by Optimizing the Lifetime and Location of Arrays**|Benoit Steiner et.al.|[2210.12924v1](http://arxiv.org/abs/2210.12924v1)|null|
 |**2022-10-24**|**BARS: A Benchmark for Airport Runway Segmentation**|Wenhui Chen et.al.|[2210.12922v1](http://arxiv.org/abs/2210.12922v1)|null|
 |**2022-10-24**|**Investigating the effect of domain selection on automatic speech recognition performance: a case study on Bangladeshi Bangla**|Ahnaf Mozib Samin et.al.|[2210.12921v1](http://arxiv.org/abs/2210.12921v1)|null|
 |**2022-10-24**|**Super-resolution simulation of the Fuzzy Dark Matter cosmological model**|Meris Sipp et.al.|[2210.12907v1](http://arxiv.org/abs/2210.12907v1)|null|
-|**2022-10-24**|**AACHER: Assorted Actor-Critic Deep Reinforcement Learning with Hindsight Experience Replay**|Adarsh Sehgal et.al.|[2210.12892v1](http://arxiv.org/abs/2210.12892v1)|null|
+|**2022-10-24**|**AACHER: Assorted Actor-Critic Deep Reinforcement Learning with Hindsight Experience Replay**|Adarsh Sehgal et.al.|[2210.12892v1](http://arxiv.org/abs/2210.12892v1)|**[link](https://github.com/aralab-unr/multi-actor-critic-ddpg-with-aubo)**|
 |**2022-10-23**|**X-ray Emission from the Interstellar and Circumgalactic Medium of Elliptical Galaxies based on MACER simulations**|Aditi Vijayan et.al.|[2210.12886v1](http://arxiv.org/abs/2210.12886v1)|null|
 |**2022-10-23**|**IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**|Shubham Dokania et.al.|[2210.12878v1](http://arxiv.org/abs/2210.12878v1)|null|
-|**2022-10-23**|**Deep Equilibrium Approaches to Diffusion Models**|Ashwini Pokle et.al.|[2210.12867v1](http://arxiv.org/abs/2210.12867v1)|null|
+|**2022-10-23**|**Deep Equilibrium Approaches to Diffusion Models**|Ashwini Pokle et.al.|[2210.12867v1](http://arxiv.org/abs/2210.12867v1)|**[link](https://github.com/locuslab/deq-ddim)**|
 |**2022-10-23**|**K-SAM: Sharpness-Aware Minimization at the Speed of SGD**|Renkun Ni et.al.|[2210.12864v1](http://arxiv.org/abs/2210.12864v1)|null|
 |**2022-10-23**|**An Interpretable Deep Semantic Segmentation Method for Earth Observation**|Ziyang Zhang et.al.|[2210.12820v1](http://arxiv.org/abs/2210.12820v1)|null|
 |**2022-10-23**|**Pushing the Efficiency Limit Using Structured Sparse Convolutions**|Vinay Kumar Verma et.al.|[2210.12818v1](http://arxiv.org/abs/2210.12818v1)|null|
