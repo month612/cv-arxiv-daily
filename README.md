@@ -1,4 +1,4 @@
-## Updated on 2022.10.28
+## Updated on 2022.10.29
 
 ## SLAM
 
@@ -6252,7 +6252,7 @@
 |**2022-10-27**|**Watermarking for Out-of-distribution Detection**|Qizhou Wang et.al.|[2210.15198v1](http://arxiv.org/abs/2210.15198v1)|**[link](https://github.com/qizhouwang/watermarking)**|
 |**2022-10-27**|**Masked Autoencoders Are Articulatory Learners**|Ahmed Adel Attia et.al.|[2210.15195v1](http://arxiv.org/abs/2210.15195v1)|null|
 |**2022-10-27**|**White Hole Cosmology and Hawking Radiation from Quantum Cosmological Perturbations**|Hassan Firouzjahi et.al.|[2210.15186v1](http://arxiv.org/abs/2210.15186v1)|null|
-|**2022-10-27**|**Articulation GAN: Unsupervised modeling of articulatory learning**|Gašper Beguš et.al.|[2210.15173v1](http://arxiv.org/abs/2210.15173v1)|null|
+|**2022-10-27**|**Articulation GAN: Unsupervised modeling of articulatory learning**|Gašper Beguš et.al.|[2210.15173v1](http://arxiv.org/abs/2210.15173v1)|**[link](https://github.com/gbegus/articulationgan)**|
 |**2022-10-27**|**FAS-UNet: A Novel FAS-driven Unet to Learn Variational Image Segmentation**|Hui Zhu et.al.|[2210.15164v1](http://arxiv.org/abs/2210.15164v1)|null|
 |**2022-10-27**|**Deep Learning for Segmentation-based Hepatic Steatosis Detection on Open Data: A Multicenter International Validation Study**|Zhongyi Zhang et.al.|[2210.15149v1](http://arxiv.org/abs/2210.15149v1)|null|
 |**2022-10-27**|**ScoreMix: A Scalable Augmentation Strategy for Training GANs with Limited Data**|Jie Cao et.al.|[2210.15137v1](http://arxiv.org/abs/2210.15137v1)|null|
