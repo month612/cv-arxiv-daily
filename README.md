@@ -6215,7 +6215,7 @@
 |**2022-10-28**|**SEMPAI: a Self-Enhancing Multi-Photon Artificial Intelligence for prior-informed assessment of muscle function and pathology**|Alexander Mühlberg et.al.|[2210.16273v1](http://arxiv.org/abs/2210.16273v1)|null|
 |**2022-10-28**|**Design of Convolutional Extreme Learning Machines for Vision-Based Navigation Around Small Bodies**|Mattia Pugliatti et.al.|[2210.16244v1](http://arxiv.org/abs/2210.16244v1)|null|
 |**2022-10-28**|**Towards solving model bias in cosmic shear forward modeling**|Benjamin Remy et.al.|[2210.16243v1](http://arxiv.org/abs/2210.16243v1)|null|
-|**2022-10-28**|**Improving Lipschitz-Constrained Neural Networks by Learning Activation Functions**|Stanislas Ducotterd et.al.|[2210.16222v1](http://arxiv.org/abs/2210.16222v1)|null|
+|**2022-10-28**|**Improving Lipschitz-Constrained Neural Networks by Learning Activation Functions**|Stanislas Ducotterd et.al.|[2210.16222v1](http://arxiv.org/abs/2210.16222v1)|**[link](https://github.com/stanislasducotterd/lipschitz_dsnn)**|
 |**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Finite-Rate-Chemistry Flows and Predicting Lean Premixed Gas Turbine Combustors**|Mathis Bode et.al.|[2210.16219v1](http://arxiv.org/abs/2210.16219v1)|null|
 |**2022-10-28**|**Dimensionality Reduced Antenna Array for Beamforming/steering**|Shiyi Xia et.al.|[2210.16197v1](http://arxiv.org/abs/2210.16197v1)|null|
 |**2022-10-28**|**Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations**|Fengjiang Fu et.al.|[2210.16196v1](http://arxiv.org/abs/2210.16196v1)|null|
@@ -6225,12 +6225,12 @@
 |**2022-10-28**|**Quantification of CO2 generation in sedimentary basins through Carbonate Clays Reactions with uncertain thermodynamic parameters**|Giulia Ceriotti et.al.|[2210.16119v1](http://arxiv.org/abs/2210.16119v1)|null|
 |**2022-10-28**|**Towards prediction of turbulent flows at high Reynolds numbers using high performance computing data and deep learning**|Mathis Bode et.al.|[2210.16110v1](http://arxiv.org/abs/2210.16110v1)|null|
 |**2022-10-28**|**Modeling the effects of clumpy winds in the high-energy light curves of γ-ray binaries**|E. Kefala et.al.|[2210.16102v1](http://arxiv.org/abs/2210.16102v1)|null|
-|**2022-10-28**|**Object Segmentation of Cluttered Airborne LiDAR Point Clouds**|Mariona Caros et.al.|[2210.16081v1](http://arxiv.org/abs/2210.16081v1)|null|
+|**2022-10-28**|**Object Segmentation of Cluttered Airborne LiDAR Point Clouds**|Mariona Caros et.al.|[2210.16081v1](http://arxiv.org/abs/2210.16081v1)|**[link](https://github.com/marionacaros/3d-object-segmentation)**|
 |**2022-10-28**|**Using Supervised Deep-Learning to Model Edge-FBG Shape Sensors**|Samaneh Manavi Roodsari et.al.|[2210.16068v1](http://arxiv.org/abs/2210.16068v1)|null|
 |**2022-10-28**|**Deep network series for large-scale high-dynamic range imaging**|Amir Aghabiglou et.al.|[2210.16060v1](http://arxiv.org/abs/2210.16060v1)|null|
 |**2022-10-28**|**Automated analysis of diabetic retinopathy using vessel segmentation maps as inductive bias**|Linus Kreitner et.al.|[2210.16053v1](http://arxiv.org/abs/2210.16053v1)|null|
 |**2022-10-28**|**Deep Learning-Based Anomaly Detection in Synthetic Aperture Radar Imaging**|Max Muzeau et.al.|[2210.16038v1](http://arxiv.org/abs/2210.16038v1)|null|
-|**2022-10-28**|**Data-driven discovery of Green's functions**|Nicolas Boullé et.al.|[2210.16016v1](http://arxiv.org/abs/2210.16016v1)|null|
+|**2022-10-28**|**Data-driven discovery of Green's functions**|Nicolas Boullé et.al.|[2210.16016v1](http://arxiv.org/abs/2210.16016v1)|**[link](https://github.com/NBoulle/greenlearning)**|
 |**2022-10-28**|**Evaluating the Impact of Loss Function Variation in Deep Learning for Classification**|Simon Dräger et.al.|[2210.16003v1](http://arxiv.org/abs/2210.16003v1)|null|
 |**2022-10-28**|**Thermal Infrared Image Inpainting via Edge-Aware Guidance**|Zeyu Wang et.al.|[2210.16000v1](http://arxiv.org/abs/2210.16000v1)|null|
 |**2022-10-28**|**Universal Adversarial Directions**|Ching Lam Choi et.al.|[2210.15997v1](http://arxiv.org/abs/2210.15997v1)|null|
@@ -6242,15 +6242,15 @@
 |**2022-10-28**|**DELFI: Deep Mixture Models for Long-term Air Quality Forecasting in the Delhi National Capital Region**|Naishadh Parmar et.al.|[2210.15923v1](http://arxiv.org/abs/2210.15923v1)|null|
 |**2022-10-28**|**Subsidiary Prototype Alignment for Universal Domain Adaptation**|Jogendra Nath Kundu et.al.|[2210.15909v1](http://arxiv.org/abs/2210.15909v1)|null|
 |**2022-10-28**|**Long-HOT: A Modular Hierarchical Approach for Long-Horizon Object Transport**|Sriram Narayanan et.al.|[2210.15908v1](http://arxiv.org/abs/2210.15908v1)|null|
-|**2022-10-28**|**Self-Supervised Learning with Multi-View Rendering for 3D Point Cloud Analysis**|Bach Tran et.al.|[2210.15904v1](http://arxiv.org/abs/2210.15904v1)|null|
+|**2022-10-28**|**Self-Supervised Learning with Multi-View Rendering for 3D Point Cloud Analysis**|Bach Tran et.al.|[2210.15904v1](http://arxiv.org/abs/2210.15904v1)|**[link](https://github.com/vinairesearch/selfsup_pcd)**|
 |**2022-10-28**|**Speaker recognition with two-step multi-modal deep cleansing**|Ruijie Tao et.al.|[2210.15903v1](http://arxiv.org/abs/2210.15903v1)|null|
 |**2022-10-28**|**Toward Equation of Motion for Deep Neural Networks: Continuous-time Gradient Descent and Discretization Error Analysis**|Taiki Miyagawa et.al.|[2210.15898v1](http://arxiv.org/abs/2210.15898v1)|null|
 |**2022-10-28**|**Artificial Intelligence Assisted Inversion (AIAI): Quantifying the Spectral Features of $^{56}$Ni of Type Ia Supernovae**|Xingzhuo Chen et.al.|[2210.15892v1](http://arxiv.org/abs/2210.15892v1)|null|
 |**2022-10-28**|**Deep Learning Detection and Classification of Gravitational Waves from Neutron Star-Black Hole Mergers**|Richard Qiu et.al.|[2210.15888v1](http://arxiv.org/abs/2210.15888v1)|null|
 |**2022-10-28**|**Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?**|Byung-Hak Kim et.al.|[2210.15882v1](http://arxiv.org/abs/2210.15882v1)|null|
-|**2022-10-28**|**VLT: Vision-Language Transformer and Query Generation for Referring Segmentation**|Henghui Ding et.al.|[2210.15871v1](http://arxiv.org/abs/2210.15871v1)|null|
+|**2022-10-28**|**VLT: Vision-Language Transformer and Query Generation for Referring Segmentation**|Henghui Ding et.al.|[2210.15871v1](http://arxiv.org/abs/2210.15871v1)|**[link](https://github.com/henghuiding/Vision-Language-Transformer)**|
 |**2022-10-28**|**Federated Learning based Energy Demand Prediction with Clustered Aggregation**|Ye Lin Tun et.al.|[2210.15850v1](http://arxiv.org/abs/2210.15850v1)|null|
-|**2022-10-28**|**Domain Generalization through the Lens of Angular Invariance**|Yujie Jin et.al.|[2210.15836v1](http://arxiv.org/abs/2210.15836v1)|null|
+|**2022-10-28**|**Domain Generalization through the Lens of Angular Invariance**|Yujie Jin et.al.|[2210.15836v1](http://arxiv.org/abs/2210.15836v1)|**[link](https://github.com/jinyujie99/aidgn)**|
 |**2022-10-28**|**Improving the Modality Representation with Multi-View Contrastive Learning for Multimodal Sentiment Analysis**|Peipei Liu et.al.|[2210.15824v1](http://arxiv.org/abs/2210.15824v1)|null|
 |**2022-10-27**|**Adaptive Physics-Informed Neural Operator for Coarse-Grained Non-Equilibrium Flows**|Ivan Zanardi et.al.|[2210.15799v1](http://arxiv.org/abs/2210.15799v1)|null|
 |**2022-10-27**|**BI AVAN: Brain inspired Adversarial Visual Attention Network**|Heng Huang et.al.|[2210.15790v1](http://arxiv.org/abs/2210.15790v1)|null|
