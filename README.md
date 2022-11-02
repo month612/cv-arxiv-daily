@@ -6214,7 +6214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-01**|**Composite Feature Selection using Deep Ensembles**|Fergus Imrie et.al.|[2211.00631v1](http://arxiv.org/abs/2211.00631v1)|null|
+|**2022-11-01**|**Composite Feature Selection using Deep Ensembles**|Fergus Imrie et.al.|[2211.00631v1](http://arxiv.org/abs/2211.00631v1)|**[link](https://github.com/a-norcliffe/composite-feature-selection)**|
 |**2022-11-01**|**A unified method of data assimilation and turbulence modeling for separated flows at high Reynolds numbers**|Z. Y. Wang et.al.|[2211.00601v1](http://arxiv.org/abs/2211.00601v1)|null|
 |**2022-11-01**|**SCA: Streaming Cross-attention Alignment for Echo Cancellation**|Yang Liu et.al.|[2211.00589v1](http://arxiv.org/abs/2211.00589v1)|null|
 |**2022-11-01**|**Event Tables for Efficient Experience Replay**|Varun Kompella et.al.|[2211.00576v1](http://arxiv.org/abs/2211.00576v1)|null|
@@ -6233,15 +6233,15 @@
 |**2022-11-01**|**CPG-RL: Learning Central Pattern Generators for Quadruped Locomotion**|Guillaume Bellegarda et.al.|[2211.00458v1](http://arxiv.org/abs/2211.00458v1)|null|
 |**2022-11-01**|**Zero Day Threat Detection Using Metric Learning Autoencoders**|Dhruv Nandakumar et.al.|[2211.00441v1](http://arxiv.org/abs/2211.00441v1)|null|
 |**2022-11-01**|**Oracle-guided Contrastive Clustering**|Mengdie Wang et.al.|[2211.00409v1](http://arxiv.org/abs/2211.00409v1)|null|
-|**2022-11-01**|**Galaxy classification: a deep learning approach for classifying Sloan Digital Sky Survey images**|Sarvesh Gharat et.al.|[2211.00397v1](http://arxiv.org/abs/2211.00397v1)|null|
+|**2022-11-01**|**Galaxy classification: a deep learning approach for classifying Sloan Digital Sky Survey images**|Sarvesh Gharat et.al.|[2211.00397v1](http://arxiv.org/abs/2211.00397v1)|**[link](https://github.com/SarveshVGharat/GalaxyClassification)**|
 |**2022-11-01**|**Wavelet Neural Networks versus Wavelet-based Neural Networks**|Lubomir T. Dechevsky et.al.|[2211.00396v1](http://arxiv.org/abs/2211.00396v1)|null|
 |**2022-11-01**|**Behavioral Intention Prediction in Driving Scenes: A Survey**|Jianwu Fang et.al.|[2211.00385v1](http://arxiv.org/abs/2211.00385v1)|null|
 |**2022-11-01**|**Seg&Struct: The Interplay Between Part Segmentation and Structure Inference for 3D Shape Parsing**|Jeonghyun Kim et.al.|[2211.00382v1](http://arxiv.org/abs/2211.00382v1)|null|
 |**2022-11-01**|**Generalized Quadratic-Embeddings for Nonlinear Dynamics using Deep Learning**|Pawan Goyal et.al.|[2211.00357v1](http://arxiv.org/abs/2211.00357v1)|null|
 |**2022-11-01**|**Siamese Transition Masked Autoencoders as Uniform Unsupervised Visual Anomaly Detector**|Haiming Yao et.al.|[2211.00349v1](http://arxiv.org/abs/2211.00349v1)|null|
-|**2022-11-01**|**Rating Triggers for Collateral-Inclusive XVA via Machine Learning and SDEs on Lie Groups**|Kevin Kamm et.al.|[2211.00326v1](http://arxiv.org/abs/2211.00326v1)|null|
+|**2022-11-01**|**Rating Triggers for Collateral-Inclusive XVA via Machine Learning and SDEs on Lie Groups**|Kevin Kamm et.al.|[2211.00326v1](http://arxiv.org/abs/2211.00326v1)|**[link](https://github.com/kevinkamm/stochasticcohort)**|
 |**2022-11-01**|**Entity Matching by Pool-based Active Learning**|Youfang Han et.al.|[2211.00311v1](http://arxiv.org/abs/2211.00311v1)|null|
-|**2022-11-01**|**SADT: Combining Sharpness-Aware Minimization with Self-Distillation for Improved Model Generalization**|Masud An-Nur Islam Fahim et.al.|[2211.00310v1](http://arxiv.org/abs/2211.00310v1)|null|
+|**2022-11-01**|**SADT: Combining Sharpness-Aware Minimization with Self-Distillation for Improved Model Generalization**|Masud An-Nur Islam Fahim et.al.|[2211.00310v1](http://arxiv.org/abs/2211.00310v1)|**[link](https://github.com/deepuvaasa/sadt)**|
 |**2022-11-01**|**Combined space-time reduced-order model with 3D deep convolution for extrapolating fluid dynamics**|Indu Kant Deo et.al.|[2211.00307v1](http://arxiv.org/abs/2211.00307v1)|null|
 |**2022-11-01**|**Exploring Structure-Wise Uncertainty for 3D Medical Image Segmentation**|Anton Vasiliuk et.al.|[2211.00303v1](http://arxiv.org/abs/2211.00303v1)|null|
 |**2022-11-01**|**Strategies for Optimizing End-to-End Artificial Intelligence Pipelines on Intel Xeon Processors**|Meena Arunachalam et.al.|[2211.00286v1](http://arxiv.org/abs/2211.00286v1)|null|
@@ -9946,7 +9946,7 @@
 |**2022-10-28**|**Digital twins of physical printing-imaging channel**|Yury Belousov et.al.|[2210.17420v1](http://arxiv.org/abs/2210.17420v1)|null|
 |**2022-10-25**|**The Executable Digital Twin: merging the digital and the physics worlds**|Dirk Hartmann et.al.|[2210.17402v1](http://arxiv.org/abs/2210.17402v1)|null|
 |**2022-10-31**|**Enabling Digital Twin in Vehicular Edge Computing: A Multi-Agent Multi-Objective Deep Reinforcement Learning Solution**|Xincao Xu et.al.|[2210.17386v1](http://arxiv.org/abs/2210.17386v1)|null|
-|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v1](http://arxiv.org/abs/2210.17299v1)|null|
+|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v1](http://arxiv.org/abs/2210.17299v1)|**[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)**|
 |**2022-10-29**|**On the Need of Neuromorphic Twins to Detect Denial-of-Service Attacks on Communication Networks**|Holger Boche et.al.|[2210.16690v1](http://arxiv.org/abs/2210.16690v1)|null|
 |**2022-10-28**|**Vetaverse: Technologies, Applications, and Visions toward the Intersection of Metaverse, Vehicles, and Transportation Systems**|Pengyuan Zhou et.al.|[2210.15109v2](http://arxiv.org/abs/2210.15109v2)|null|
 |**2022-10-26**|**Scaling Knowledge Graphs for Automating AI of Digital Twins**|Joern Ploennigs et.al.|[2210.14596v1](http://arxiv.org/abs/2210.14596v1)|**[link](https://github.com/ibm/digital-twin-benchmark-model)**|
