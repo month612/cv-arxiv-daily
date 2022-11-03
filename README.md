@@ -1,4 +1,4 @@
-## Updated on 2022.11.02
+## Updated on 2022.11.03
 
 ## SLAM
 
@@ -5977,7 +5977,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-25**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v1](http://arxiv.org/abs/2210.13856v1)|null|
+|**2022-11-02**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v2](http://arxiv.org/abs/2210.13856v2)|null|
 |**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
 |**2022-10-19**|**GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**|Amar Ali-bey et.al.|[2210.10239v1](http://arxiv.org/abs/2210.10239v1)|**[link](https://github.com/amaralibey/gsv-cities)**|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
@@ -6223,11 +6223,11 @@
 |**2022-11-01**|**Deep Learning for Global Wildfire Forecasting**|Ioannis Prapas et.al.|[2211.00534v1](http://arxiv.org/abs/2211.00534v1)|null|
 |**2022-11-01**|**Optimal Complexity in Non-Convex Decentralized Learning over Time-Varying Networks**|Xinmeng Huang et.al.|[2211.00533v1](http://arxiv.org/abs/2211.00533v1)|null|
 |**2022-11-01**|**Robustness of Deep Equilibrium Architectures to Changes in the Measurement Model**|Junhao Hu et.al.|[2211.00531v1](http://arxiv.org/abs/2211.00531v1)|null|
-|**2022-11-01**|**DOLPH: Diffusion Models for Phase Retrieval**|Shirin Shoushtari et.al.|[2211.00529v1](http://arxiv.org/abs/2211.00529v1)|null|
+|**2022-11-02**|**DOLPH: Diffusion Models for Phase Retrieval**|Shirin Shoushtari et.al.|[2211.00529v2](http://arxiv.org/abs/2211.00529v2)|null|
 |**2022-11-01**|**Self-Supervised Learning with Limited Labeled Data for Prostate Cancer Detection in High Frequency Ultrasound**|Paul F. R. Wilson et.al.|[2211.00527v1](http://arxiv.org/abs/2211.00527v1)|null|
 |**2022-11-01**|**The Enemy of My Enemy is My Friend: Exploring Inverse Adversaries for Improving Adversarial Training**|Junhao Dong et.al.|[2211.00525v1](http://arxiv.org/abs/2211.00525v1)|null|
 |**2022-11-01**|**Modelling black-box audio effects with time-varying feature modulation**|Marco Comunità et.al.|[2211.00497v1](http://arxiv.org/abs/2211.00497v1)|null|
-|**2022-11-01**|**Exploring Effects of Computational Parameter Changes to Image Recognition Systems**|Nikolaos Louloudakis et.al.|[2211.00471v1](http://arxiv.org/abs/2211.00471v1)|null|
+|**2022-11-02**|**Exploring Effects of Computational Parameter Changes to Image Recognition Systems**|Nikolaos Louloudakis et.al.|[2211.00471v2](http://arxiv.org/abs/2211.00471v2)|null|
 |**2022-11-01**|**Calculated electron paramagnetic resonance $g$-tensor and hyperfine parameters for zinc vacancy and N related defects in ZnO**|Klichchupong Dabsamut et.al.|[2211.00469v1](http://arxiv.org/abs/2211.00469v1)|null|
 |**2022-11-01**|**Augmentation Invariant Manifold Learning**|Shulei Wang et.al.|[2211.00460v1](http://arxiv.org/abs/2211.00460v1)|null|
 |**2022-11-01**|**CPG-RL: Learning Central Pattern Generators for Quadruped Locomotion**|Guillaume Bellegarda et.al.|[2211.00458v1](http://arxiv.org/abs/2211.00458v1)|null|
@@ -6235,7 +6235,7 @@
 |**2022-11-01**|**Oracle-guided Contrastive Clustering**|Mengdie Wang et.al.|[2211.00409v1](http://arxiv.org/abs/2211.00409v1)|null|
 |**2022-11-01**|**Galaxy classification: a deep learning approach for classifying Sloan Digital Sky Survey images**|Sarvesh Gharat et.al.|[2211.00397v1](http://arxiv.org/abs/2211.00397v1)|**[link](https://github.com/SarveshVGharat/GalaxyClassification)**|
 |**2022-11-01**|**Wavelet Neural Networks versus Wavelet-based Neural Networks**|Lubomir T. Dechevsky et.al.|[2211.00396v1](http://arxiv.org/abs/2211.00396v1)|null|
-|**2022-11-01**|**Behavioral Intention Prediction in Driving Scenes: A Survey**|Jianwu Fang et.al.|[2211.00385v1](http://arxiv.org/abs/2211.00385v1)|null|
+|**2022-11-02**|**Behavioral Intention Prediction in Driving Scenes: A Survey**|Jianwu Fang et.al.|[2211.00385v2](http://arxiv.org/abs/2211.00385v2)|null|
 |**2022-11-01**|**Seg&Struct: The Interplay Between Part Segmentation and Structure Inference for 3D Shape Parsing**|Jeonghyun Kim et.al.|[2211.00382v1](http://arxiv.org/abs/2211.00382v1)|null|
 |**2022-11-01**|**Generalized Quadratic-Embeddings for Nonlinear Dynamics using Deep Learning**|Pawan Goyal et.al.|[2211.00357v1](http://arxiv.org/abs/2211.00357v1)|null|
 |**2022-11-01**|**Siamese Transition Masked Autoencoders as Uniform Unsupervised Visual Anomaly Detector**|Haiming Yao et.al.|[2211.00349v1](http://arxiv.org/abs/2211.00349v1)|null|
@@ -6252,7 +6252,7 @@
 |**2022-11-01**|**Multi-Network Joint Source-Channel Coding Over Varying Noise Channels**|Weida Wang et.al.|[2211.00230v1](http://arxiv.org/abs/2211.00230v1)|null|
 |**2022-11-01**|**Fault diagnosis for three-phase PWM rectifier based on deep feedforward network with transient synthetic features**|Kou Lei et.al.|[2211.00228v1](http://arxiv.org/abs/2211.00228v1)|null|
 |**2022-11-01**|**Waveform Boundary Detection for Partially Spoofed Audio**|Zexin Cai et.al.|[2211.00226v1](http://arxiv.org/abs/2211.00226v1)|null|
-|**2022-11-01**|**SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation**|Chen Zhang et.al.|[2211.00222v1](http://arxiv.org/abs/2211.00222v1)|null|
+|**2022-11-02**|**SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation**|Chen Zhang et.al.|[2211.00222v2](http://arxiv.org/abs/2211.00222v2)|null|
 |**2022-11-01**|**TITAN: Bringing The Deep Image Prior to Implicit Representations**|Daniel LeJeune et.al.|[2211.00219v1](http://arxiv.org/abs/2211.00219v1)|null|
 |**2022-11-01**|**Distributed Graph Neural Network Training: A Survey**|Yingxia Shao et.al.|[2211.00216v1](http://arxiv.org/abs/2211.00216v1)|null|
 |**2022-11-01**|**Transfer Learning with Physics-Informed Neural Networks for Efficient Simulation of Branched Flows**|Raphaël Pellegrin et.al.|[2211.00214v1](http://arxiv.org/abs/2211.00214v1)|null|
@@ -9946,7 +9946,7 @@
 |**2022-10-28**|**Digital twins of physical printing-imaging channel**|Yury Belousov et.al.|[2210.17420v1](http://arxiv.org/abs/2210.17420v1)|null|
 |**2022-10-25**|**The Executable Digital Twin: merging the digital and the physics worlds**|Dirk Hartmann et.al.|[2210.17402v1](http://arxiv.org/abs/2210.17402v1)|null|
 |**2022-10-31**|**Enabling Digital Twin in Vehicular Edge Computing: A Multi-Agent Multi-Objective Deep Reinforcement Learning Solution**|Xincao Xu et.al.|[2210.17386v1](http://arxiv.org/abs/2210.17386v1)|null|
-|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v1](http://arxiv.org/abs/2210.17299v1)|**[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)**|
+|**2022-11-01**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v2](http://arxiv.org/abs/2210.17299v2)|**[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)**|
 |**2022-10-29**|**On the Need of Neuromorphic Twins to Detect Denial-of-Service Attacks on Communication Networks**|Holger Boche et.al.|[2210.16690v1](http://arxiv.org/abs/2210.16690v1)|null|
 |**2022-10-28**|**Vetaverse: Technologies, Applications, and Visions toward the Intersection of Metaverse, Vehicles, and Transportation Systems**|Pengyuan Zhou et.al.|[2210.15109v2](http://arxiv.org/abs/2210.15109v2)|null|
 |**2022-10-26**|**Scaling Knowledge Graphs for Automating AI of Digital Twins**|Joern Ploennigs et.al.|[2210.14596v1](http://arxiv.org/abs/2210.14596v1)|**[link](https://github.com/ibm/digital-twin-benchmark-model)**|
