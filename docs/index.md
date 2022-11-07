@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.06
+## Updated on 2022.11.07
 
 ## SLAM
 
@@ -5776,7 +5776,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
-|**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v1](http://arxiv.org/abs/2211.01538v1)|null|
+|**2022-11-04**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
 |**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
 |**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
@@ -6289,7 +6289,7 @@ layout: default
 |**2022-11-02**|**End-to-end deep multi-score model for No-reference stereoscopic image quality assessment**|Oussama Messai et.al.|[2211.01374v1](http://arxiv.org/abs/2211.01374v1)|**[link](https://github.com/o-messai/multi-score-SIQA)**|
 |**2022-11-02**|**The VANDELS survey: the ionizing properties of star-forming galaxies at $3 \leq z \leq 5$ using deep rest-frame ultraviolet spectroscopy**|A. Saldana-Lopez et.al.|[2211.01351v1](http://arxiv.org/abs/2211.01351v1)|null|
 |**2022-11-02**|**POLICE: Provably Optimal Linear Constraint Enforcement for Deep Neural Networks**|Randall Balestriero et.al.|[2211.01340v1](http://arxiv.org/abs/2211.01340v1)|null|
-|**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v1](http://arxiv.org/abs/2211.01323v1)|null|
+|**2022-11-04**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v2](http://arxiv.org/abs/2211.01323v2)|null|
 |**2022-11-02**|**Machine Learning for Metasurfaces Design and Their Applications**|Kumar Vijay Mishra et.al.|[2211.01296v1](http://arxiv.org/abs/2211.01296v1)|null|
 |**2022-11-02**|**CircleSnake: Instance Segmentation with Circle Representation**|Ethan H. Nguyen et.al.|[2211.01254v1](http://arxiv.org/abs/2211.01254v1)|**[link](https://github.com/hrlblab/circlesnake)**|
 |**2022-11-02**|**Fair Visual Recognition via Intervention with Proxy Features**|Yi Zhang et.al.|[2211.01253v1](http://arxiv.org/abs/2211.01253v1)|null|
@@ -10067,7 +10067,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-02**|**Driver Digital Twin for Online Prediction of Personalized Lane Change Behavior**|Xishun Liao et.al.|[2211.01294v1](http://arxiv.org/abs/2211.01294v1)|null|
-|**2022-11-03**|**Holographic-Type Communication for Digital Twin: A Learning-based Auction Approach**|XiuYu Zhang et.al.|[2211.01016v2](http://arxiv.org/abs/2211.01016v2)|null|
+|**2022-11-04**|**Holographic-Type Communication for Digital Twin: A Learning-based Auction Approach**|XiuYu Zhang et.al.|[2211.01016v3](http://arxiv.org/abs/2211.01016v3)|null|
 |**2022-11-01**|**Neuromorphic Twins for Networked Control and Decision-Making**|Holger Boche et.al.|[2211.00755v1](http://arxiv.org/abs/2211.00755v1)|null|
 |**2022-10-29**|**Mixed Reality Interface for Digital Twin of Plant Factory**|Byunghyun Ban et.al.|[2211.00597v1](http://arxiv.org/abs/2211.00597v1)|null|
 |**2022-11-01**|**Controlling quantum many-body systems using reduced-order modelling**|I. A. Luchnikov et.al.|[2211.00467v1](http://arxiv.org/abs/2211.00467v1)|**[link](https://github.com/LuchnikovI/Quantum-many-body-dynamics-reduced-order-modeling)**|
@@ -10090,7 +10090,7 @@ layout: default
 |**2022-10-14**|**DART: Articulated Hand Model with Diverse Accessories and Rich Textures**|Daiheng Gao et.al.|[2210.07650v1](http://arxiv.org/abs/2210.07650v1)|null|
 |**2022-10-14**|**Uncertainty Quantification and Sensitivity analysis for Digital Twin Enabling Technology: Application for BISON Fuel Performance Code**|Kazuma Kobayashi et.al.|[2210.07541v1](http://arxiv.org/abs/2210.07541v1)|null|
 |**2022-10-14**|**Practical Applications of Gaussian Process with Uncertainty Quantification and Sensitivity Analysis for Digital Twin for Accident Tolerant Fuel**|Kazuma Kobayashi et.al.|[2210.07495v1](http://arxiv.org/abs/2210.07495v1)|null|
-|**2022-10-13**|**Surrogate Modeling-Driven Physics-Informed Multi-fidelity Kriging: Path Forward to Digital Twin Enabling Simulation for Accident Tolerant Fuel**|Kazuma Kobayashi et.al.|[2210.07164v1](http://arxiv.org/abs/2210.07164v1)|null|
+|**2022-11-04**|**Surrogate Modeling-Driven Physics-Informed Multi-fidelity Kriging: Path Forward to Digital Twin Enabling Simulation for Accident Tolerant Fuel**|Kazuma Kobayashi et.al.|[2210.07164v2](http://arxiv.org/abs/2210.07164v2)|null|
 |**2022-10-13**|**Multi-Player Immersive Communications and Interactions in Metaverse: Challenges, Architecture, and Future Directions**|Yakun Huang et.al.|[2210.06802v1](http://arxiv.org/abs/2210.06802v1)|null|
 |**2022-10-05**|**Digital twins of nonlinear dynamical systems**|Ling-Wei Kong et.al.|[2210.06144v1](http://arxiv.org/abs/2210.06144v1)|null|
 |**2022-10-11**|**Digital Twin-Based Multiple Access Optimization and Monitoring via Model-Driven Bayesian Learning**|Clement Ruah et.al.|[2210.05582v1](http://arxiv.org/abs/2210.05582v1)|null|
