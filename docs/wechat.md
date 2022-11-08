@@ -1,4 +1,4 @@
-> Updated on 2022.11.07
+> Updated on 2022.11.08
 
 ## SLAM
 
@@ -5730,7 +5730,7 @@
 
 ## SLAM算法
 
-- 2022-11-04, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v1](http://arxiv.org/abs/2211.02445v1)
+- 2022-11-07, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v2](http://arxiv.org/abs/2211.02445v2), Code: **[https://github.com/dan11003/CFEAR_Radarodometry](https://github.com/dan11003/CFEAR_Radarodometry)**
 - 2022-11-03, **DyOb-SLAM : Dynamic Object Tracking SLAM System**, Rushmian Annoy Wadud et.al., Paper: [http://arxiv.org/abs/2211.01941v1](http://arxiv.org/abs/2211.01941v1)
 - 2022-11-03, **Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2211.01749v1](http://arxiv.org/abs/2211.01749v1)
 - 2022-11-04, **$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2211.01538v2](http://arxiv.org/abs/2211.01538v2)
@@ -5937,7 +5937,7 @@
 - 2021-12-29, **On the Instability of Relative Pose Estimation and RANSAC's Role**, Hongyi Fan et.al., Paper: [http://arxiv.org/abs/2112.14651v1](http://arxiv.org/abs/2112.14651v1)
 - 2021-12-16, **Road-aware Monocular Structure from Motion and Homography Estimation**, Wei Sui et.al., Paper: [http://arxiv.org/abs/2112.08635v1](http://arxiv.org/abs/2112.08635v1)
 - 2021-12-10, **Critical configurations for three projective views**, Martin Bråtelund et.al., Paper: [http://arxiv.org/abs/2112.05478v1](http://arxiv.org/abs/2112.05478v1)
-- 2021-12-09, **Critical configurations for two projective views, a new approach**, Martin Bråtelund et.al., Paper: [http://arxiv.org/abs/2112.05074v1](http://arxiv.org/abs/2112.05074v1)
+- 2022-11-07, **Critical configurations for two projective views, a new approach**, Martin Bråtelund et.al., Paper: [http://arxiv.org/abs/2112.05074v2](http://arxiv.org/abs/2112.05074v2)
 - 2022-04-07, **Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**, Barbara Roessle et.al., Paper: [http://arxiv.org/abs/2112.03288v2](http://arxiv.org/abs/2112.03288v2), Code: **[https://github.com/barbararoessle/dense_depth_priors_nerf](https://github.com/barbararoessle/dense_depth_priors_nerf)**
 - 2022-08-02, **MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v3](http://arxiv.org/abs/2112.01349v3), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
@@ -6193,7 +6193,7 @@
 ## Deep Learning深度学习
 
 - 2022-11-04, **Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**, Gaurav Verma et.al., Paper: [http://arxiv.org/abs/2211.02646v1](http://arxiv.org/abs/2211.02646v1)
-- 2022-11-04, **Evolution of the UV LF from z~15 to z~8 Using New JWST NIRCam Medium-Band Observations over the HUDF/XDF**, Rychard J. Bouwens et.al., Paper: [http://arxiv.org/abs/2211.02607v1](http://arxiv.org/abs/2211.02607v1)
+- 2022-11-07, **Evolution of the UV LF from z~15 to z~8 Using New JWST NIRCam Medium-Band Observations over the HUDF/XDF**, Rychard J. Bouwens et.al., Paper: [http://arxiv.org/abs/2211.02607v2](http://arxiv.org/abs/2211.02607v2)
 - 2022-11-04, **Material Named Entity Recognition (MNER) for Knowledge-driven Materials Using Deep Learning Approach**, M. Saef Ullah Miah et.al., Paper: [http://arxiv.org/abs/2211.02585v1](http://arxiv.org/abs/2211.02585v1)
 - 2022-11-04, **Deep reinforcement learning for flow control exploits different physics for increasing Reynolds-number regimes**, Pau Varela et.al., Paper: [http://arxiv.org/abs/2211.02572v1](http://arxiv.org/abs/2211.02572v1)
 - 2022-11-03, **Pangu-Weather: A 3D High-Resolution Model for Fast and Accurate Global Weather Forecast**, Kaifeng Bi et.al., Paper: [http://arxiv.org/abs/2211.02556v1](http://arxiv.org/abs/2211.02556v1)
