@@ -6003,7 +6003,7 @@
 |**2022-09-23**|**Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs**|Youya Xia et.al.|[2209.11673v1](http://arxiv.org/abs/2209.11673v1)|null|
 |**2022-09-22**|**UNav: An Infrastructure-Independent Vision-Based Navigation System for People with Blindness and Low vision**|Anbang Yang et.al.|[2209.11336v1](http://arxiv.org/abs/2209.11336v1)|null|
 |**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
-|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|**[link](https://github.com/robot-learning-freiburg/PADLoC)**|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-09-17**|**Data Efficient Visual Place Recognition Using Extremely JPEG-Compressed Images**|Mihnea-Alexandru Tomita et.al.|[2209.08343v1](http://arxiv.org/abs/2209.08343v1)|null|
@@ -6228,6 +6228,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Review of coreference resolution in English and Persian**|Hassan Haji Mohammadi et.al.|[2211.04428v1](http://arxiv.org/abs/2211.04428v1)|null|
+|**2022-11-08**|**Normalization Perturbation: A Simple Domain Generalization Method for Real-World Domain Shifts**|Qi Fan et.al.|[2211.04393v1](http://arxiv.org/abs/2211.04393v1)|null|
+|**2022-11-08**|**A Multimodal Approach for Dementia Detection from Spontaneous Speech with Tensor Fusion Layer**|Loukas Ilias et.al.|[2211.04368v1](http://arxiv.org/abs/2211.04368v1)|null|
+|**2022-11-08**|**Hyperparameter optimization in deep multi-target prediction**|Dimitrios Iliadis et.al.|[2211.04362v1](http://arxiv.org/abs/2211.04362v1)|null|
+|**2022-11-08**|**Infant hip screening using multi-class ultrasound scan segmentation**|Andrew Stamper et.al.|[2211.04350v1](http://arxiv.org/abs/2211.04350v1)|null|
+|**2022-11-08**|**A deep solver for BSDEs with jumps**|Alessandro Gnoatto et.al.|[2211.04349v1](http://arxiv.org/abs/2211.04349v1)|null|
+|**2022-11-08**|**When & How to Transfer with Transfer Learning**|Adrian Tormos et.al.|[2211.04347v1](http://arxiv.org/abs/2211.04347v1)|**[link](https://github.com/hpai-bsc/tl-tradeoff)**|
+|**2022-11-08**|**The giant low surface brightness galaxy Malin 1: new constraints for its molecular gas mass from GBT/ARGUS observations**|Gaspar Galaz et.al.|[2211.04342v1](http://arxiv.org/abs/2211.04342v1)|null|
+|**2022-11-08**|**Adaptive Semantic Communications: Overfitting the Source and Channel for Profit**|Jincheng Dai et.al.|[2211.04339v1](http://arxiv.org/abs/2211.04339v1)|null|
+|**2022-11-08**|**Development, manufacturing and testing of small launcher structures from Portugal**|André G. C. Guerra et.al.|[2211.04295v1](http://arxiv.org/abs/2211.04295v1)|null|
+|**2022-11-08**|**Spoofing Attack Detection in the Physical Layer with Commutative Neural Networks**|Daniel Romero et.al.|[2211.04269v1](http://arxiv.org/abs/2211.04269v1)|null|
+|**2022-11-08**|**MetaLoc: Learning to Learn Wireless Localization**|Jun Gao et.al.|[2211.04258v1](http://arxiv.org/abs/2211.04258v1)|null|
+|**2022-11-08**|**Two-stream Multi-dimensional Convolutional Network for Real-time Violence Detection**|Dipon Kumar Ghosh et.al.|[2211.04255v1](http://arxiv.org/abs/2211.04255v1)|null|
+|**2022-11-08**|**HDRfeat: A Feature-Rich Network for High Dynamic Range Image Reconstruction**|Lingkai Zhu et.al.|[2211.04238v1](http://arxiv.org/abs/2211.04238v1)|null|
+|**2022-11-08**|**Learning Spatio-Temporal Model of Disease Progression with NeuralODEs from Longitudinal Volumetric Data**|Dmitrii Lachinov et.al.|[2211.04234v1](http://arxiv.org/abs/2211.04234v1)|null|
+|**2022-11-08**|**Gradient-enhanced deep neural network approximations**|Xiaodong Feng et.al.|[2211.04226v1](http://arxiv.org/abs/2211.04226v1)|null|
+|**2022-11-08**|**Generative Adversarial Networks for anonymous Acneic face dataset generation**|Hazem Zein et.al.|[2211.04214v1](http://arxiv.org/abs/2211.04214v1)|null|
+|**2022-11-08**|**GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection**|Yixin Liu et.al.|[2211.04208v1](http://arxiv.org/abs/2211.04208v1)|**[link](https://github.com/yixinliu233/g-ood-d)**|
+|**2022-11-08**|**DepthFormer: Multimodal Positional Encodings and Cross-Input Attention for Transformer-Based Segmentation Networks**|Francesco Barbato et.al.|[2211.04188v1](http://arxiv.org/abs/2211.04188v1)|null|
+|**2022-11-08**|**Exploiting segmentation labels and representation learning to forecast therapy response of PDAC patients**|Alexander Ziller et.al.|[2211.04180v1](http://arxiv.org/abs/2211.04180v1)|null|
+|**2022-11-08**|**Learning advisor networks for noisy image classification**|Simone Ricci et.al.|[2211.04177v1](http://arxiv.org/abs/2211.04177v1)|**[link](https://github.com/z3n0e/MFRW)**|
+|**2022-11-08**|**Centaur: Federated Learning for Constrained Edge Devices**|Fan Mo et.al.|[2211.04175v1](http://arxiv.org/abs/2211.04175v1)|null|
+|**2022-11-08**|**Solution to a problem of Katona on counting cliques of weighted graphs**|Peter Borg et.al.|[2211.04153v1](http://arxiv.org/abs/2211.04153v1)|null|
+|**2022-11-08**|**Privacy Meets Explainability: A Comprehensive Impact Benchmark**|Saifullah Saifullah et.al.|[2211.04110v1](http://arxiv.org/abs/2211.04110v1)|null|
+|**2022-11-08**|**Selective compression learning of latent representations for variable-rate image compression**|Jooyoung Lee et.al.|[2211.04104v1](http://arxiv.org/abs/2211.04104v1)|**[link](https://github.com/jooyoungleeetri/scr)**|
+|**2022-11-08**|**Does an ensemble of GANs lead to better performance when training segmentation networks with synthetic images?**|Måns Larsson et.al.|[2211.04086v1](http://arxiv.org/abs/2211.04086v1)|null|
+|**2022-11-08**|**DNN Filter for Bias Reduction in Distribution-to-Distribution Scan Matching**|Matthew McDermott et.al.|[2211.04047v1](http://arxiv.org/abs/2211.04047v1)|null|
+|**2022-11-08**|**Central star formation in an early-type galaxy I~Zw~81 in the Bootes void**|Divya Pandey et.al.|[2211.04043v1](http://arxiv.org/abs/2211.04043v1)|null|
+|**2022-11-08**|**Fine-grained Population Mapping from Coarse Census Counts and Open Geodata**|Nando Metzger et.al.|[2211.04039v1](http://arxiv.org/abs/2211.04039v1)|null|
+|**2022-11-08**|**$BT^2$: Backward-compatible Training with Basis Transformation**|Yifei Zhou et.al.|[2211.03989v1](http://arxiv.org/abs/2211.03989v1)|null|
+|**2022-11-08**|**On the Algorithmic Stability and Generalization of Adaptive Optimization Methods**|Han Nguyen et.al.|[2211.03970v1](http://arxiv.org/abs/2211.03970v1)|null|
+|**2022-11-08**|**Parameter and Data Efficient Continual Pre-training for Robustness to Dialectal Variance in Arabic**|Soumajyoti Sarkar et.al.|[2211.03966v1](http://arxiv.org/abs/2211.03966v1)|null|
+|**2022-11-08**|**Pretraining in Deep Reinforcement Learning: A Survey**|Zhihui Xie et.al.|[2211.03959v1](http://arxiv.org/abs/2211.03959v1)|null|
+|**2022-11-07**|**Learned 1-D advection solver to accelerate air quality modeling**|Manho Park et.al.|[2211.03906v1](http://arxiv.org/abs/2211.03906v1)|null|
+|**2022-11-07**|**Facial Tic Detection in Untrimmed Videos of Tourette Syndrome Patients**|Yutao Tang et.al.|[2211.03895v1](http://arxiv.org/abs/2211.03895v1)|null|
+|**2022-11-07**|**Learned Smartphone ISP on Mobile GPUs with Deep Learning, Mobile AI & AIM 2022 Challenge: Report**|Andrey Ignatov et.al.|[2211.03885v1](http://arxiv.org/abs/2211.03885v1)|null|
+|**2022-11-07**|**Automatic Change-Point Detection in Time Series via Deep Learning**|Jie Li et.al.|[2211.03860v1](http://arxiv.org/abs/2211.03860v1)|**[link](https://github.com/jieli12/autocpd)**|
+|**2022-11-07**|**Exploration of Convolutional Neural Network Architectures for Large Region Map Automation**|R. M. Tsenov et.al.|[2211.03854v1](http://arxiv.org/abs/2211.03854v1)|null|
+|**2022-11-07**|**Differentiable Stochastic Halo Occupation Distribution**|Benjamin Horowitz et.al.|[2211.03852v1](http://arxiv.org/abs/2211.03852v1)|null|
+|**2022-11-07**|**Astronomia ex machina: a history, primer, and outlook on neural networks in astronomy**|Michael J. Smith et.al.|[2211.03796v1](http://arxiv.org/abs/2211.03796v1)|null|
 |**2022-11-07**|**Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**|Zijing Zhang et.al.|[2211.03767v1](http://arxiv.org/abs/2211.03767v1)|null|
 |**2022-11-07**|**AskewSGD : An Annealed interval-constrained Optimisation method to train Quantized Neural Networks**|Louis Leconte et.al.|[2211.03741v1](http://arxiv.org/abs/2211.03741v1)|null|
 |**2022-11-07**|**Deviations in Representations Induced by Adversarial Attacks**|Daniel Steinberg et.al.|[2211.03714v1](http://arxiv.org/abs/2211.03714v1)|**[link](https://github.com/dstein64/adv-deviations)**|
@@ -10146,6 +10186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Learning Spatio-Temporal Model of Disease Progression with NeuralODEs from Longitudinal Volumetric Data**|Dmitrii Lachinov et.al.|[2211.04234v1](http://arxiv.org/abs/2211.04234v1)|null|
 |**2022-11-07**|**Machine Learning for Metaverse-enabled Wireless Systems: Vision, Requirements, and Challenges**|Latif U. Khan et.al.|[2211.03703v1](http://arxiv.org/abs/2211.03703v1)|null|
 |**2022-11-06**|**Towards Green Metaverse Networking Technologies, Advancements and Future Directions**|Siyue Zhang et.al.|[2211.03057v1](http://arxiv.org/abs/2211.03057v1)|null|
 |**2022-11-03**|**A Fuzzy-set-based Joint Distribution Adaptation Method for Regression and its Application to Online Damage Quantification for Structural Digital Twin**|Xuan Zhou et.al.|[2211.02656v1](http://arxiv.org/abs/2211.02656v1)|null|
