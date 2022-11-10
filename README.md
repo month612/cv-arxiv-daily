@@ -1,4 +1,4 @@
-## Updated on 2022.11.09
+## Updated on 2022.11.10
 
 ## SLAM
 
@@ -5961,7 +5961,7 @@
 |**2022-09-27**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v2](http://arxiv.org/abs/2201.02279v2)|**[link](https://github.com/brummi/derender3d)**|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
-|**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
+|**2022-11-09**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v2](http://arxiv.org/abs/2112.05478v2)|null|
 |**2022-11-07**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund et.al.|[2112.05074v2](http://arxiv.org/abs/2112.05074v2)|null|
 |**2022-04-07**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v2](http://arxiv.org/abs/2112.03288v2)|**[link](https://github.com/barbararoessle/dense_depth_priors_nerf)**|
 |**2022-08-02**|**MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v3](http://arxiv.org/abs/2112.01349v3)|**[link](https://github.com/megviirobot/megba)**|
@@ -6229,16 +6229,16 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-08**|**Review of coreference resolution in English and Persian**|Hassan Haji Mohammadi et.al.|[2211.04428v1](http://arxiv.org/abs/2211.04428v1)|null|
-|**2022-11-08**|**Normalization Perturbation: A Simple Domain Generalization Method for Real-World Domain Shifts**|Qi Fan et.al.|[2211.04393v1](http://arxiv.org/abs/2211.04393v1)|null|
+|**2022-11-09**|**Normalization Perturbation: A Simple Domain Generalization Method for Real-World Domain Shifts**|Qi Fan et.al.|[2211.04393v2](http://arxiv.org/abs/2211.04393v2)|null|
 |**2022-11-08**|**A Multimodal Approach for Dementia Detection from Spontaneous Speech with Tensor Fusion Layer**|Loukas Ilias et.al.|[2211.04368v1](http://arxiv.org/abs/2211.04368v1)|null|
-|**2022-11-08**|**Hyperparameter optimization in deep multi-target prediction**|Dimitrios Iliadis et.al.|[2211.04362v1](http://arxiv.org/abs/2211.04362v1)|null|
+|**2022-11-08**|**Hyperparameter optimization in deep multi-target prediction**|Dimitrios Iliadis et.al.|[2211.04362v1](http://arxiv.org/abs/2211.04362v1)|**[link](https://github.com/diliadis/deepmtp)**|
 |**2022-11-08**|**Infant hip screening using multi-class ultrasound scan segmentation**|Andrew Stamper et.al.|[2211.04350v1](http://arxiv.org/abs/2211.04350v1)|null|
 |**2022-11-08**|**A deep solver for BSDEs with jumps**|Alessandro Gnoatto et.al.|[2211.04349v1](http://arxiv.org/abs/2211.04349v1)|null|
 |**2022-11-08**|**When & How to Transfer with Transfer Learning**|Adrian Tormos et.al.|[2211.04347v1](http://arxiv.org/abs/2211.04347v1)|**[link](https://github.com/hpai-bsc/tl-tradeoff)**|
 |**2022-11-08**|**The giant low surface brightness galaxy Malin 1: new constraints for its molecular gas mass from GBT/ARGUS observations**|Gaspar Galaz et.al.|[2211.04342v1](http://arxiv.org/abs/2211.04342v1)|null|
 |**2022-11-08**|**Adaptive Semantic Communications: Overfitting the Source and Channel for Profit**|Jincheng Dai et.al.|[2211.04339v1](http://arxiv.org/abs/2211.04339v1)|null|
 |**2022-11-08**|**Development, manufacturing and testing of small launcher structures from Portugal**|André G. C. Guerra et.al.|[2211.04295v1](http://arxiv.org/abs/2211.04295v1)|null|
-|**2022-11-08**|**Spoofing Attack Detection in the Physical Layer with Commutative Neural Networks**|Daniel Romero et.al.|[2211.04269v1](http://arxiv.org/abs/2211.04269v1)|null|
+|**2022-11-08**|**Spoofing Attack Detection in the Physical Layer with Commutative Neural Networks**|Daniel Romero et.al.|[2211.04269v1](http://arxiv.org/abs/2211.04269v1)|**[link](https://github.com/fachu000/spoofing)**|
 |**2022-11-08**|**MetaLoc: Learning to Learn Wireless Localization**|Jun Gao et.al.|[2211.04258v1](http://arxiv.org/abs/2211.04258v1)|null|
 |**2022-11-08**|**Two-stream Multi-dimensional Convolutional Network for Real-time Violence Detection**|Dipon Kumar Ghosh et.al.|[2211.04255v1](http://arxiv.org/abs/2211.04255v1)|null|
 |**2022-11-08**|**HDRfeat: A Feature-Rich Network for High Dynamic Range Image Reconstruction**|Lingkai Zhu et.al.|[2211.04238v1](http://arxiv.org/abs/2211.04238v1)|null|
