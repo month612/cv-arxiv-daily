@@ -6251,7 +6251,7 @@
 |**2022-11-09**|**Artificial intelligence for improved fitting of trajectories of elementary particles in inhomogeneous dense materials immersed in a magnetic field**|Saúl Alonso-Monsalve et.al.|[2211.04890v1](http://arxiv.org/abs/2211.04890v1)|null|
 |**2022-11-09**|**Extending Temporal Data Augmentation for Video Action Recognition**|Artjoms Gorpincenko et.al.|[2211.04888v1](http://arxiv.org/abs/2211.04888v1)|null|
 |**2022-11-09**|**Interactive Feature Embedding for Infrared and Visible Image Fusion**|Fan Zhao et.al.|[2211.04877v1](http://arxiv.org/abs/2211.04877v1)|null|
-|**2022-11-09**|**Estimation of Signal Parameters using Deep Convolutional Neural Networks**|Steffen Schieler et.al.|[2211.04846v1](http://arxiv.org/abs/2211.04846v1)|null|
+|**2022-11-09**|**Estimation of Signal Parameters using Deep Convolutional Neural Networks**|Steffen Schieler et.al.|[2211.04846v1](http://arxiv.org/abs/2211.04846v1)|**[link](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)**|
 |**2022-11-09**|**Deep W-Networks: Solving Multi-Objective Optimisation Problems With Deep Reinforcement Learning**|Jernej Hribar et.al.|[2211.04813v1](http://arxiv.org/abs/2211.04813v1)|**[link](https://github.com/deepwlearning/deepwnetworks)**|
 |**2022-11-09**|**Designing Network Design Strategies Through Gradient Path Analysis**|Chien-Yao Wang et.al.|[2211.04800v1](http://arxiv.org/abs/2211.04800v1)|null|
 |**2022-11-09**|**RadFormer: Transformers with Global-Local Attention for Interpretable and Accurate Gallbladder Cancer Detection**|Soumen Basu et.al.|[2211.04793v1](http://arxiv.org/abs/2211.04793v1)|null|
