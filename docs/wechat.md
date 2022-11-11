@@ -5730,6 +5730,7 @@
 
 ## SLAM算法
 
+- 2022-11-10, **Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**, Ignacio Torroba et.al., Paper: [http://arxiv.org/abs/2211.05601v1](http://arxiv.org/abs/2211.05601v1)
 - 2022-11-07, **When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**, Gerhard Kurz et.al., Paper: [http://arxiv.org/abs/2211.03484v1](http://arxiv.org/abs/2211.03484v1)
 - 2022-11-07, **Detecting Invalid Map Merges in Lifelong SLAM**, Matthias Holoch et.al., Paper: [http://arxiv.org/abs/2211.03423v1](http://arxiv.org/abs/2211.03423v1)
 - 2022-11-06, **Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**, Yibin Wu et.al., Paper: [http://arxiv.org/abs/2211.03174v1](http://arxiv.org/abs/2211.03174v1)
@@ -6198,6 +6199,56 @@
 
 ## Deep Learning深度学习
 
+- 2022-11-10, **Demystify Transformers & Convolutions in Modern Image Deep Networks**, Jifeng Dai et.al., Paper: [http://arxiv.org/abs/2211.05781v1](http://arxiv.org/abs/2211.05781v1), Code: **[https://github.com/opengvlab/stm-evaluation](https://github.com/opengvlab/stm-evaluation)**
+- 2022-11-10, **Hybrid quantum neural network for drug response prediction**, Asel Sagingalieva et.al., Paper: [http://arxiv.org/abs/2211.05777v1](http://arxiv.org/abs/2211.05777v1)
+- 2022-11-10, **Scaling Neural Face Synthesis to High FPS and Low Latency by Neural Caching**, Frank Yu et.al., Paper: [http://arxiv.org/abs/2211.05773v1](http://arxiv.org/abs/2211.05773v1)
+- 2022-11-10, **MIGHTEE: Deep 1.4 GHz Source Counts and the Sky Temperature Contribution of Star Forming Galaxies and Active Galactic Nuclei**, C. L. Hale et.al., Paper: [http://arxiv.org/abs/2211.05741v1](http://arxiv.org/abs/2211.05741v1)
+- 2022-11-10, **How Does Sharpness-Aware Minimization Minimize Sharpness?**, Kaiyue Wen et.al., Paper: [http://arxiv.org/abs/2211.05729v1](http://arxiv.org/abs/2211.05729v1)
+- 2022-11-10, **Multi-objective optimization via evolutionary algorithm (MOVEA) for high-definition transcranial electrical stimulation of the human brain**, Mo Wang et.al., Paper: [http://arxiv.org/abs/2211.05658v1](http://arxiv.org/abs/2211.05658v1)
+- 2022-11-10, **Multiparameter estimation of continuous-time Quantum Walk Hamiltonians through Machine Learning**, Ilaria Gianani et.al., Paper: [http://arxiv.org/abs/2211.05626v1](http://arxiv.org/abs/2211.05626v1)
+- 2022-11-10, **SETGen: Scalable and Efficient Template Generation Framework for Groupwise Medical Image Registration**, Ziyi He et.al., Paper: [http://arxiv.org/abs/2211.05622v1](http://arxiv.org/abs/2211.05622v1)
+- 2022-11-10, **Membrane-Mediated Interactions Between Nonspherical Elastic Particles**, Jiarul Midya et.al., Paper: [http://arxiv.org/abs/2211.05616v1](http://arxiv.org/abs/2211.05616v1)
+- 2022-11-10, **Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**, Ignacio Torroba et.al., Paper: [http://arxiv.org/abs/2211.05601v1](http://arxiv.org/abs/2211.05601v1)
+- 2022-11-10, **A Practical Introduction to Side-Channel Extraction of Deep Neural Network Parameters**, Raphael Joud et.al., Paper: [http://arxiv.org/abs/2211.05590v1](http://arxiv.org/abs/2211.05590v1)
+- 2022-11-10, **Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey**, Mehdi Rafiei et.al., Paper: [http://arxiv.org/abs/2211.05565v1](http://arxiv.org/abs/2211.05565v1)
+- 2022-11-10, **Dual Multi-scale Mean Teacher Network for Semi-supervised Infection Segmentation in Chest CT Volume for COVID-19**, Liansheng Wang et.al., Paper: [http://arxiv.org/abs/2211.05548v1](http://arxiv.org/abs/2211.05548v1), Code: **[https://github.com/jcwang123/DM2TNet](https://github.com/jcwang123/DM2TNet)**
+- 2022-11-10, **Vis2Mus: Exploring Multimodal Representation Mapping for Controllable Music Generation**, Runbang Zhang et.al., Paper: [http://arxiv.org/abs/2211.05543v1](http://arxiv.org/abs/2211.05543v1), Code: **[https://github.com/ldzhangyx/vis2mus](https://github.com/ldzhangyx/vis2mus)**
+- 2022-11-10, **SWTF: Sparse Weighted Temporal Fusion for Drone-Based Activity Recognition**, Santosh Kumar Yadav et.al., Paper: [http://arxiv.org/abs/2211.05531v1](http://arxiv.org/abs/2211.05531v1)
+- 2022-11-10, **MGiaD: Multigrid in all dimensions. Efficiency and robustness by coarsening in resolution and channel dimensions**, Antonia van Betteray et.al., Paper: [http://arxiv.org/abs/2211.05525v1](http://arxiv.org/abs/2211.05525v1)
+- 2022-11-10, **Impact of Adversarial Training on Robustness and Generalizability of Language Models**, Enes Altinisik et.al., Paper: [http://arxiv.org/abs/2211.05523v1](http://arxiv.org/abs/2211.05523v1)
+- 2022-11-10, **Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems**, Abishek Thangamuthu et.al., Paper: [http://arxiv.org/abs/2211.05520v1](http://arxiv.org/abs/2211.05520v1)
+- 2022-11-10, **Transformer variational wave functions for frustrated quantum spin systems**, Luciano Loris Viteritti et.al., Paper: [http://arxiv.org/abs/2211.05504v1](http://arxiv.org/abs/2211.05504v1)
+- 2022-11-10, **Reinforcement Learning in an Adaptable Chess Environment for Detecting Human-understandable Concepts**, Patrik Hammersborg et.al., Paper: [http://arxiv.org/abs/2211.05500v1](http://arxiv.org/abs/2211.05500v1), Code: **[https://github.com/patrik-ha/explainable-minichess](https://github.com/patrik-ha/explainable-minichess)**
+- 2022-11-10, **ClassPruning: Speed Up Image Restoration Networks by Dynamic N:M Pruning**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2211.05488v1](http://arxiv.org/abs/2211.05488v1)
+- 2022-11-10, **Unsupervised Deep Learning-based clustering for Human Activity Recognition**, Hamza Amrani et.al., Paper: [http://arxiv.org/abs/2211.05483v1](http://arxiv.org/abs/2211.05483v1)
+- 2022-11-10, **Review of Methods for Handling Class-Imbalanced in Classification Problems**, Satyendra Singh Rawat et.al., Paper: [http://arxiv.org/abs/2211.05456v1](http://arxiv.org/abs/2211.05456v1)
+- 2022-11-10, **A classification performance evaluation measure considering data separability**, Lingyan Xue et.al., Paper: [http://arxiv.org/abs/2211.05433v1](http://arxiv.org/abs/2211.05433v1)
+- 2022-11-10, **DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games**, Nikhil Bansal et.al., Paper: [http://arxiv.org/abs/2211.05429v1](http://arxiv.org/abs/2211.05429v1)
+- 2022-11-10, **Improving Uncertainty-based Out-of-Distribution Detection for Medical Image Segmentation**, Benjamin Lambert et.al., Paper: [http://arxiv.org/abs/2211.05421v1](http://arxiv.org/abs/2211.05421v1)
+- 2022-11-10, **H&E Stain Normalization using U-Net**, Chi-Chen Lee et.al., Paper: [http://arxiv.org/abs/2211.05420v1](http://arxiv.org/abs/2211.05420v1)
+- 2022-11-10, **Can Transformers Reason in Fragments of Natural Language?**, Viktor Schlegel et.al., Paper: [http://arxiv.org/abs/2211.05417v1](http://arxiv.org/abs/2211.05417v1), Code: **[https://github.com/schlevik/nlr](https://github.com/schlevik/nlr)**
+- 2022-11-10, **Stay Home Safe with Starving Federated Data**, Jaechul Roh et.al., Paper: [http://arxiv.org/abs/2211.05410v1](http://arxiv.org/abs/2211.05410v1), Code: **[https://github.com/jcroh0508/flats](https://github.com/jcroh0508/flats)**
+- 2022-11-10, **Radiomics-enhanced Deep Multi-task Learning for Outcome Prediction in Head and Neck Cancer**, Mingyuan Meng et.al., Paper: [http://arxiv.org/abs/2211.05409v1](http://arxiv.org/abs/2211.05409v1)
+- 2022-11-10, **Learning Visual Representation of Underwater Acoustic Imagery Using Transformer-Based Style Transfer Method**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2211.05396v1](http://arxiv.org/abs/2211.05396v1)
+- 2022-11-10, **A Comprehensive Survey on Distributed Training of Graph Neural Networks**, Haiyang Lin et.al., Paper: [http://arxiv.org/abs/2211.05368v1](http://arxiv.org/abs/2211.05368v1)
+- 2022-11-10, **Efficient Unsupervised Video Object Segmentation Network Based on Motion Guidance**, Chao Hu et.al., Paper: [http://arxiv.org/abs/2211.05364v1](http://arxiv.org/abs/2211.05364v1)
+- 2022-11-10, **RARE: Renewable Energy Aware Resource Management in Datacenters**, Vanamala Venkataswamy et.al., Paper: [http://arxiv.org/abs/2211.05346v1](http://arxiv.org/abs/2211.05346v1)
+- 2022-11-10, **Job Scheduling in Datacenters using Constraint Controlled RL**, Vanamala Venkataswamy et.al., Paper: [http://arxiv.org/abs/2211.05338v1](http://arxiv.org/abs/2211.05338v1)
+- 2022-11-10, **On Optimizing the Communication of Model Parallelism**, Yonghao Zhuang et.al., Paper: [http://arxiv.org/abs/2211.05322v1](http://arxiv.org/abs/2211.05322v1)
+- 2022-11-10, **Cancer-Net BCa: Breast Cancer Pathologic Complete Response Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging**, Chi-en Amy Tai et.al., Paper: [http://arxiv.org/abs/2211.05308v1](http://arxiv.org/abs/2211.05308v1)
+- 2022-11-10, **Coordinating CAV Swarms at Intersections with a Deep Learning Model**, Jiawei Zhang et.al., Paper: [http://arxiv.org/abs/2211.05297v1](http://arxiv.org/abs/2211.05297v1)
+- 2022-11-10, **Harmonizing Output Imbalance for semantic segmentation on extremely-imbalanced input data**, Jianye Yi et.al., Paper: [http://arxiv.org/abs/2211.05295v1](http://arxiv.org/abs/2211.05295v1)
+- 2022-11-10, **Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues**, Canyu Chen et.al., Paper: [http://arxiv.org/abs/2211.05289v1](http://arxiv.org/abs/2211.05289v1)
+- 2022-11-10, **Deep Learning Methods for Software Requirement Classification: A Performance Study on the PURE dataset**, Fatemeh Khayashi et.al., Paper: [http://arxiv.org/abs/2211.05286v1](http://arxiv.org/abs/2211.05286v1)
+- 2022-11-10, **BERT-Based Combination of Convolutional and Recurrent Neural Network for Indonesian Sentiment Analysis**, Hendri Murfi et.al., Paper: [http://arxiv.org/abs/2211.05273v1](http://arxiv.org/abs/2211.05273v1)
+- 2022-11-10, **Waves in planetary dynamos**, K. Hori et.al., Paper: [http://arxiv.org/abs/2211.05270v1](http://arxiv.org/abs/2211.05270v1)
+- 2022-11-09, **Detecting Elevated Air Pollution Levels by Monitoring Web Search Queries: Deep Learning-Based Time Series Forecasting**, Chen Lin et.al., Paper: [http://arxiv.org/abs/2211.05267v1](http://arxiv.org/abs/2211.05267v1)
+- 2022-11-09, **Deep Learning for Time Series Anomaly Detection: A Survey**, Zahra Zamanzadeh Darban et.al., Paper: [http://arxiv.org/abs/2211.05244v1](http://arxiv.org/abs/2211.05244v1)
+- 2022-11-09, **Vision-based navigation and obstacle avoidance via deep reinforcement learning**, Paul Blum et.al., Paper: [http://arxiv.org/abs/2211.05243v1](http://arxiv.org/abs/2211.05243v1)
+- 2022-11-09, **A Simulator-based Autoencoder for Focal Plane Wavefront Sensing**, M. Quesnel et.al., Paper: [http://arxiv.org/abs/2211.05242v1](http://arxiv.org/abs/2211.05242v1)
+- 2022-11-09, **RecD: Deduplication for End-to-End Deep Learning Recommendation Model Training Infrastructure**, Mark Zhao et.al., Paper: [http://arxiv.org/abs/2211.05239v1](http://arxiv.org/abs/2211.05239v1)
+- 2022-11-09, **Using Physics Informed Neural Networks for Supernova Radiative Transfer Simulation**, Xingzhuo Chen et.al., Paper: [http://arxiv.org/abs/2211.05219v1](http://arxiv.org/abs/2211.05219v1)
+- 2022-11-09, **Content-Diverse Comparisons improve IQA**, William Thong et.al., Paper: [http://arxiv.org/abs/2211.05215v1](http://arxiv.org/abs/2211.05215v1)
 - 2022-11-09, **Efficiently Scaling Transformer Inference**, Reiner Pope et.al., Paper: [http://arxiv.org/abs/2211.05102v1](http://arxiv.org/abs/2211.05102v1)
 - 2022-11-09, **Message passing methods on complex networks**, M. E. J. Newman et.al., Paper: [http://arxiv.org/abs/2211.05054v1](http://arxiv.org/abs/2211.05054v1)
 - 2022-11-09, **A Comparative Study of Data Augmentation Techniques for Deep Learning Based Emotion Recognition**, Ravi Shankar et.al., Paper: [http://arxiv.org/abs/2211.05047v1](http://arxiv.org/abs/2211.05047v1)
@@ -10201,6 +10252,7 @@
 
 ## Digital Twin数字孪生
 
+- 2022-11-09, **Entanglements via Slip-Springs with Soft, Coarse-Grained Models for Systems Having Explicit Liquid-Vapor Interfaces**, Ludwig Schneider et.al., Paper: [http://arxiv.org/abs/2211.05161v1](http://arxiv.org/abs/2211.05161v1)
 - 2022-11-09, **Digital Twins for the Designs of Systems: a Perspective**, Anton van Beek et.al., Paper: [http://arxiv.org/abs/2211.05040v1](http://arxiv.org/abs/2211.05040v1)
 - 2022-11-09, **ART/ATK: A research platform for assessing and mitigating the sim-to-real gap in robotics and autonomous vehicle engineering**, Asher Elmquist et.al., Paper: [http://arxiv.org/abs/2211.04886v1](http://arxiv.org/abs/2211.04886v1)
 - 2022-11-09, **6G Mobile-Edge Empowered Metaverse: Requirements, Technologies, Challenges and Research Directions**, Jiadong Yu et.al., Paper: [http://arxiv.org/abs/2211.04854v1](http://arxiv.org/abs/2211.04854v1)
