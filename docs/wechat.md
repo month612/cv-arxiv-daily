@@ -1,4 +1,4 @@
-> Updated on 2022.11.10
+> Updated on 2022.11.11
 
 ## SLAM
 
@@ -5745,7 +5745,7 @@
 - 2022-10-24, **NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**, Antoni Rosinol et.al., Paper: [http://arxiv.org/abs/2210.13641v1](http://arxiv.org/abs/2210.13641v1)
 - 2022-10-24, **Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**, Geng Wang et.al., Paper: [http://arxiv.org/abs/2210.13556v1](http://arxiv.org/abs/2210.13556v1)
 - 2022-10-28, **VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**, Andreas Georgis et.al., Paper: [http://arxiv.org/abs/2210.12756v2](http://arxiv.org/abs/2210.12756v2)
-- 2022-10-22, **SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**, Junliang Chen et.al., Paper: [http://arxiv.org/abs/2210.12417v1](http://arxiv.org/abs/2210.12417v1)
+- 2022-11-10, **SLAMs: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**, Junliang Chen et.al., Paper: [http://arxiv.org/abs/2210.12417v2](http://arxiv.org/abs/2210.12417v2)
 - 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1), Code: **[https://github.com/pengyu-team/dcl-slam](https://github.com/pengyu-team/dcl-slam)**
 - 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
 - 2022-10-22, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v2](http://arxiv.org/abs/2210.10491v2)
@@ -6203,7 +6203,7 @@
 - 2022-11-09, **A Comparative Study of Data Augmentation Techniques for Deep Learning Based Emotion Recognition**, Ravi Shankar et.al., Paper: [http://arxiv.org/abs/2211.05047v1](http://arxiv.org/abs/2211.05047v1)
 - 2022-11-09, **Creative Writing with an AI-Powered Writing Assistant: Perspectives from Professional Writers**, Daphne Ippolito et.al., Paper: [http://arxiv.org/abs/2211.05030v1](http://arxiv.org/abs/2211.05030v1)
 - 2022-11-09, **Calibration sources for the LEGEND-200 experiment**, L. Baudis et.al., Paper: [http://arxiv.org/abs/2211.05026v1](http://arxiv.org/abs/2211.05026v1)
-- 2022-11-09, **The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**, Matthew Aquilina et.al., Paper: [http://arxiv.org/abs/2211.05018v1](http://arxiv.org/abs/2211.05018v1), Code: **[https://github.com/um-dsrg/rumpy](https://github.com/um-dsrg/rumpy)**
+- 2022-11-09, **The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**, Matthew Aquilina et.al., Paper: [http://arxiv.org/abs/2211.05018v1](http://arxiv.org/abs/2211.05018v1)
 - 2022-11-09, **Emulating cosmological multifields with generative adversarial networks**, Sambatra Andrianomena et.al., Paper: [http://arxiv.org/abs/2211.05000v1](http://arxiv.org/abs/2211.05000v1)
 - 2022-11-09, **PAT-CNN: Automatic Segmentation and Quantification of Pericardial Adipose Tissue from T2-Weighted Cardiac Magnetic Resonance Images**, Zhuoyu Li et.al., Paper: [http://arxiv.org/abs/2211.04995v1](http://arxiv.org/abs/2211.04995v1)
 - 2022-11-09, **RL-DWA Omnidirectional Motion Planning for Person Following in Domestic Assistance and Monitoring**, Andrea Eirale et.al., Paper: [http://arxiv.org/abs/2211.04993v1](http://arxiv.org/abs/2211.04993v1)
@@ -6229,12 +6229,12 @@
 - 2022-11-09, **On the Robustness of Explanations of Deep Neural Network Models: A Survey**, Amlan Jyoti et.al., Paper: [http://arxiv.org/abs/2211.04780v1](http://arxiv.org/abs/2211.04780v1)
 - 2022-11-09, **Bayesian deep learning for error estimation in the analysis of anomalous diffusion**, Henrik Seckler et.al., Paper: [http://arxiv.org/abs/2211.04779v1](http://arxiv.org/abs/2211.04779v1)
 - 2022-11-09, **Nested Named Entity Recognition from Medical Texts: An Adaptive Shared Network Architecture with Attentive CRF**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2211.04759v1](http://arxiv.org/abs/2211.04759v1)
-- 2022-11-09, **Towards Global Crop Maps with Transfer Learning**, Hyun-Woo Jo et.al., Paper: [http://arxiv.org/abs/2211.04755v1](http://arxiv.org/abs/2211.04755v1)
+- 2022-11-10, **Towards Global Crop Maps with Transfer Learning**, Hyun-Woo Jo et.al., Paper: [http://arxiv.org/abs/2211.04755v2](http://arxiv.org/abs/2211.04755v2)
 - 2022-11-09, **Knowledge Distillation for Federated Learning: a Practical Guide**, Alessio Mora et.al., Paper: [http://arxiv.org/abs/2211.04742v1](http://arxiv.org/abs/2211.04742v1)
 - 2022-11-09, **Automated MRI Field of View Prescription from Region of Interest Prediction by Intra-stack Attention Neural Network**, Ke Lei et.al., Paper: [http://arxiv.org/abs/2211.04703v1](http://arxiv.org/abs/2211.04703v1)
 - 2022-11-09, **NoiSER: Noise is All You Need for Enhancing Low-Light Images Without Task-Related Data**, Zhao Zhang et.al., Paper: [http://arxiv.org/abs/2211.04700v1](http://arxiv.org/abs/2211.04700v1)
 - 2022-11-09, **Robust Point Cloud Registration Framework Based on Deep Graph Matching(TPAMI Version)**, Kexue Fu et.al., Paper: [http://arxiv.org/abs/2211.04696v1](http://arxiv.org/abs/2211.04696v1), Code: **[https://github.com/fukexue/RGM](https://github.com/fukexue/RGM)**
-- 2022-11-09, **Deep Explainable Learning with Graph Based Data Assessing and Rule Reasoning**, Yuanlong Li et.al., Paper: [http://arxiv.org/abs/2211.04693v1](http://arxiv.org/abs/2211.04693v1)
+- 2022-11-10, **Deep Explainable Learning with Graph Based Data Assessing and Rule Reasoning**, Yuanlong Li et.al., Paper: [http://arxiv.org/abs/2211.04693v2](http://arxiv.org/abs/2211.04693v2)
 - 2022-11-09, **Optical Spectroscopy of Blazars for the Cherenkov Telescope Array -- II**, E. Kasai et.al., Paper: [http://arxiv.org/abs/2211.04689v1](http://arxiv.org/abs/2211.04689v1)
 - 2022-11-09, **MFDNet: Towards Real-time Image Denoising On Mobile Devices**, Zhuoqun Liu et.al., Paper: [http://arxiv.org/abs/2211.04687v1](http://arxiv.org/abs/2211.04687v1)
 - 2022-11-09, **Directional Privacy for Deep Learning**, Pedro Faustini et.al., Paper: [http://arxiv.org/abs/2211.04686v1](http://arxiv.org/abs/2211.04686v1)
@@ -10073,7 +10073,7 @@
 
 ## non-photorealistic rendering非真实照片级渲染
 
-- 2022-11-08, **Detecting Euphemisms with Literal Descriptions and Visual Imagery**, İlker Kesen et.al., Paper: [http://arxiv.org/abs/2211.04576v1](http://arxiv.org/abs/2211.04576v1)
+- 2022-11-08, **Detecting Euphemisms with Literal Descriptions and Visual Imagery**, İlker Kesen et.al., Paper: [http://arxiv.org/abs/2211.04576v1](http://arxiv.org/abs/2211.04576v1), Code: **[https://github.com/ilkerkesen/euphemism](https://github.com/ilkerkesen/euphemism)**
 - 2022-11-03, **Could Giant Pretrained Image Models Extract Universal Representations?**, Yutong Lin et.al., Paper: [http://arxiv.org/abs/2211.02043v1](http://arxiv.org/abs/2211.02043v1)
 - 2022-11-08, **Rethinking Hierarchies in Pre-trained Plain Vision Transformer**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2211.01785v2](http://arxiv.org/abs/2211.01785v2)
 - 2022-11-01, **RGMIM: Region-Guided Masked Image Modeling for COVID-19 Detection**, Guang Li et.al., Paper: [http://arxiv.org/abs/2211.00313v1](http://arxiv.org/abs/2211.00313v1)
