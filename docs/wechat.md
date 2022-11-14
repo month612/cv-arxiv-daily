@@ -1,4 +1,4 @@
-> Updated on 2022.11.13
+> Updated on 2022.11.14
 
 ## SLAM
 
@@ -6230,7 +6230,7 @@
 - 2022-11-10, **Stay Home Safe with Starving Federated Data**, Jaechul Roh et.al., Paper: [http://arxiv.org/abs/2211.05410v1](http://arxiv.org/abs/2211.05410v1), Code: **[https://github.com/jcroh0508/flats](https://github.com/jcroh0508/flats)**
 - 2022-11-10, **Radiomics-enhanced Deep Multi-task Learning for Outcome Prediction in Head and Neck Cancer**, Mingyuan Meng et.al., Paper: [http://arxiv.org/abs/2211.05409v1](http://arxiv.org/abs/2211.05409v1)
 - 2022-11-10, **Learning Visual Representation of Underwater Acoustic Imagery Using Transformer-Based Style Transfer Method**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2211.05396v1](http://arxiv.org/abs/2211.05396v1)
-- 2022-11-10, **A Comprehensive Survey on Distributed Training of Graph Neural Networks**, Haiyang Lin et.al., Paper: [http://arxiv.org/abs/2211.05368v1](http://arxiv.org/abs/2211.05368v1)
+- 2022-11-11, **A Comprehensive Survey on Distributed Training of Graph Neural Networks**, Haiyang Lin et.al., Paper: [http://arxiv.org/abs/2211.05368v2](http://arxiv.org/abs/2211.05368v2)
 - 2022-11-10, **Efficient Unsupervised Video Object Segmentation Network Based on Motion Guidance**, Chao Hu et.al., Paper: [http://arxiv.org/abs/2211.05364v1](http://arxiv.org/abs/2211.05364v1)
 - 2022-11-10, **RARE: Renewable Energy Aware Resource Management in Datacenters**, Vanamala Venkataswamy et.al., Paper: [http://arxiv.org/abs/2211.05346v1](http://arxiv.org/abs/2211.05346v1)
 - 2022-11-10, **Job Scheduling in Datacenters using Constraint Controlled RL**, Vanamala Venkataswamy et.al., Paper: [http://arxiv.org/abs/2211.05338v1](http://arxiv.org/abs/2211.05338v1)
@@ -6245,7 +6245,7 @@
 - 2022-11-09, **Detecting Elevated Air Pollution Levels by Monitoring Web Search Queries: Deep Learning-Based Time Series Forecasting**, Chen Lin et.al., Paper: [http://arxiv.org/abs/2211.05267v1](http://arxiv.org/abs/2211.05267v1)
 - 2022-11-09, **Deep Learning for Time Series Anomaly Detection: A Survey**, Zahra Zamanzadeh Darban et.al., Paper: [http://arxiv.org/abs/2211.05244v1](http://arxiv.org/abs/2211.05244v1), Code: **[https://github.com/zamanzadeh/ts-anomaly-benchmark](https://github.com/zamanzadeh/ts-anomaly-benchmark)**
 - 2022-11-09, **Vision-based navigation and obstacle avoidance via deep reinforcement learning**, Paul Blum et.al., Paper: [http://arxiv.org/abs/2211.05243v1](http://arxiv.org/abs/2211.05243v1)
-- 2022-11-09, **A Simulator-based Autoencoder for Focal Plane Wavefront Sensing**, M. Quesnel et.al., Paper: [http://arxiv.org/abs/2211.05242v1](http://arxiv.org/abs/2211.05242v1)
+- 2022-11-11, **A simulator-based autoencoder for focal plane wavefront sensing**, Maxime Quesnel et.al., Paper: [http://arxiv.org/abs/2211.05242v2](http://arxiv.org/abs/2211.05242v2)
 - 2022-11-09, **RecD: Deduplication for End-to-End Deep Learning Recommendation Model Training Infrastructure**, Mark Zhao et.al., Paper: [http://arxiv.org/abs/2211.05239v1](http://arxiv.org/abs/2211.05239v1)
 - 2022-11-09, **Using Physics Informed Neural Networks for Supernova Radiative Transfer Simulation**, Xingzhuo Chen et.al., Paper: [http://arxiv.org/abs/2211.05219v1](http://arxiv.org/abs/2211.05219v1), Code: **[https://github.com/geronimochen/rtpi](https://github.com/geronimochen/rtpi)**
 - 2022-11-09, **Content-Diverse Comparisons improve IQA**, William Thong et.al., Paper: [http://arxiv.org/abs/2211.05215v1](http://arxiv.org/abs/2211.05215v1)
