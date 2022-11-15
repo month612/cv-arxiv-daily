@@ -1,4 +1,4 @@
-## Updated on 2022.11.14
+## Updated on 2022.11.15
 
 ## SLAM
 
@@ -6231,17 +6231,17 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-11**|**A Federated Approach to Predicting Emojis in Hindi Tweets**|Deep Gandhi et.al.|[2211.06401v1](http://arxiv.org/abs/2211.06401v1)|null|
-|**2022-11-11**|**STAR: A Session-Based Time-Aware Recommender System**|Reza Yeganegi et.al.|[2211.06394v1](http://arxiv.org/abs/2211.06394v1)|null|
+|**2022-11-11**|**STAR: A Session-Based Time-Aware Recommender System**|Reza Yeganegi et.al.|[2211.06394v1](http://arxiv.org/abs/2211.06394v1)|**[link](https://github.com/yeganegi-reza/star)**|
 |**2022-11-11**|**Global and Local Analysis of Interestingness for Competency-Aware Deep Reinforcement Learning**|Pedro Sequeira et.al.|[2211.06376v1](http://arxiv.org/abs/2211.06376v1)|null|
 |**2022-11-11**|**Physics-Constrained Deep Learning of Incompressible Cavity Flows**|Christopher J. McDevitt et.al.|[2211.06375v1](http://arxiv.org/abs/2211.06375v1)|null|
 |**2022-11-11**|**Adaptive Programmable Networks for In Materia Neuromorphic Computing**|Kilian D. Stenning et.al.|[2211.06373v1](http://arxiv.org/abs/2211.06373v1)|null|
 |**2022-11-11**|**The dynamical Franz-Keldysh effect in the deep ultraviolet probed by transient absorption and dispersion of diamond using a miniature beamline**|Jan Reislöhner et.al.|[2211.06364v1](http://arxiv.org/abs/2211.06364v1)|null|
-|**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|null|
+|**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|**[link](https://github.com/egordm/mgtcom)**|
 |**2022-11-11**|**Disentangled Uncertainty and Out of Distribution Detection in Medical Generative Models**|Kumud Lakara et.al.|[2211.06250v1](http://arxiv.org/abs/2211.06250v1)|null|
 |**2022-11-11**|**Joint Deep Learning for Improved Myocardial Scar Detection from Cardiac MRI**|Jiarui Xing et.al.|[2211.06247v1](http://arxiv.org/abs/2211.06247v1)|null|
 |**2022-11-11**|**A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation**|Lokesh Veeramacheneni et.al.|[2211.06241v1](http://arxiv.org/abs/2211.06241v1)|null|
 |**2022-11-11**|**Multitask Learning for Improved Late Mechanical Activation Detection of Heart from Cine DENSE MRI**|Jiarui Xing et.al.|[2211.06238v1](http://arxiv.org/abs/2211.06238v1)|null|
-|**2022-11-11**|**Efficient Deep Reinforcement Learning with Predictive Processing Proximal Policy Optimization**|Burcu Küçükoğlu et.al.|[2211.06236v1](http://arxiv.org/abs/2211.06236v1)|null|
+|**2022-11-11**|**Efficient Deep Reinforcement Learning with Predictive Processing Proximal Policy Optimization**|Burcu Küçükoğlu et.al.|[2211.06236v1](http://arxiv.org/abs/2211.06236v1)|**[link](https://github.com/burcukoglu/p4o-predictiveprocessingppo)**|
 |**2022-11-11**|**Comparison of Uncertainty Quantification with Deep Learning in Time Series Regression**|Levente Foldesi et.al.|[2211.06233v1](http://arxiv.org/abs/2211.06233v1)|null|
 |**2022-11-11**|**Clustering with Total Variation Graph Neural Networks**|Jonas Berg Hansen et.al.|[2211.06218v1](http://arxiv.org/abs/2211.06218v1)|null|
 |**2022-11-11**|**The role of solute diffusion in the dynamical evolution of directional solidification: From a viewpoint of dissipation**|Fengyi Yu et.al.|[2211.06207v1](http://arxiv.org/abs/2211.06207v1)|null|
@@ -6254,7 +6254,7 @@
 |**2022-11-11**|**The Impact of Inter-grain Phases on the Ionic Conductivity of LAGP Solid Electrolyte Prepared by Spark Plasma Sintering**|Sorina Cretu et.al.|[2211.06129v1](http://arxiv.org/abs/2211.06129v1)|null|
 |**2022-11-11**|**Treatment classification of posterior capsular opacification (PCO) using automated ground truths**|Raisha Shrestha et.al.|[2211.06114v1](http://arxiv.org/abs/2211.06114v1)|null|
 |**2022-11-11**|**Ultimate limits of exoplanet spectroscopy: a quantum approach**|Zixin Huang et.al.|[2211.06050v1](http://arxiv.org/abs/2211.06050v1)|null|
-|**2022-11-11**|**Integrated Convolutional and Recurrent Neural Networks for Health Risk Prediction using Patient Journey Data with Many Missing Values**|Yuxi Liu et.al.|[2211.06045v1](http://arxiv.org/abs/2211.06045v1)|null|
+|**2022-11-14**|**Integrated Convolutional and Recurrent Neural Networks for Health Risk Prediction using Patient Journey Data with Many Missing Values**|Yuxi Liu et.al.|[2211.06045v2](http://arxiv.org/abs/2211.06045v2)|null|
 |**2022-11-11**|**Does Deep Learning REALLY Outperform Non-deep Machine Learning for Clinical Prediction on Physiological Time Series?**|Ke Liao et.al.|[2211.06034v1](http://arxiv.org/abs/2211.06034v1)|null|
 |**2022-11-11**|**Morphologies and Central Stars of Planetary Nebulae in the Galactic bulge from VLT, $\textit{HST}$ and Pan-STARRS imaging**|Shuyu Tan et.al.|[2211.06029v1](http://arxiv.org/abs/2211.06029v1)|null|
 |**2022-11-11**|**Progressive Motion Context Refine Network for Efficient Video Frame Interpolation**|Lingtong Kong et.al.|[2211.06024v1](http://arxiv.org/abs/2211.06024v1)|null|
@@ -10346,7 +10346,7 @@
 |**2022-10-28**|**Digital twins of physical printing-imaging channel**|Yury Belousov et.al.|[2210.17420v1](http://arxiv.org/abs/2210.17420v1)|null|
 |**2022-10-25**|**The Executable Digital Twin: merging the digital and the physics worlds**|Dirk Hartmann et.al.|[2210.17402v1](http://arxiv.org/abs/2210.17402v1)|null|
 |**2022-10-31**|**Enabling Digital Twin in Vehicular Edge Computing: A Multi-Agent Multi-Objective Deep Reinforcement Learning Solution**|Xincao Xu et.al.|[2210.17386v1](http://arxiv.org/abs/2210.17386v1)|null|
-|**2022-11-01**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v2](http://arxiv.org/abs/2210.17299v2)|**[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)**|
+|**2022-11-13**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v3](http://arxiv.org/abs/2210.17299v3)|**[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)**|
 |**2022-10-29**|**On the Need of Neuromorphic Twins to Detect Denial-of-Service Attacks on Communication Networks**|Holger Boche et.al.|[2210.16690v1](http://arxiv.org/abs/2210.16690v1)|null|
 |**2022-10-28**|**Vetaverse: Technologies, Applications, and Visions toward the Intersection of Metaverse, Vehicles, and Transportation Systems**|Pengyuan Zhou et.al.|[2210.15109v2](http://arxiv.org/abs/2210.15109v2)|null|
 |**2022-10-26**|**Scaling Knowledge Graphs for Automating AI of Digital Twins**|Joern Ploennigs et.al.|[2210.14596v1](http://arxiv.org/abs/2210.14596v1)|**[link](https://github.com/ibm/digital-twin-benchmark-model)**|
