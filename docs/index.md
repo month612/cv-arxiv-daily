@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.15
+## Updated on 2022.11.16
 
 ## SLAM
 
@@ -6185,14 +6185,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-07**|**Fast Key Points Detection and Matching for Tree-Structured Images**|Hao Wang et.al.|[2211.03242v1](http://arxiv.org/abs/2211.03242v1)|null|
+|**2022-11-15**|**Fast Key Points Detection and Matching for Tree-Structured Images**|Hao Wang et.al.|[2211.03242v2](http://arxiv.org/abs/2211.03242v2)|null|
 |**2022-10-25**|**A Comparative Study on Deep-Learning Methods for Dense Image Matching of Multi-angle and Multi-date Remote Sensing Stereo Images**|Hessah Albanwan et.al.|[2210.14031v1](http://arxiv.org/abs/2210.14031v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 |**2022-10-07**|**Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**|Lang Zhou et.al.|[2210.03398v1](http://arxiv.org/abs/2210.03398v1)|**[link](https://github.com/Mars-Rover-Localization/A2G-Localization)**|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-25**|**ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement**|Dongli Tan et.al.|[2209.12213v1](http://arxiv.org/abs/2209.12213v1)|null|
 |**2022-09-22**|**DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**|Chao Li et.al.|[2209.10907v1](http://arxiv.org/abs/2209.10907v1)|null|
-|**2022-09-15**|**Efficient Subgraph Isomorphism using Graph Topology**|Arpan Kusari et.al.|[2209.09090v1](http://arxiv.org/abs/2209.09090v1)|null|
+|**2022-11-15**|**Uncertainty-aware Efficient Subgraph Isomorphism using Graph Topology**|Arpan Kusari et.al.|[2209.09090v2](http://arxiv.org/abs/2209.09090v2)|null|
 |**2022-08-30**|**ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**|Hongkai Chen et.al.|[2208.14201v1](http://arxiv.org/abs/2208.14201v1)|null|
 |**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
 |**2022-08-25**|**UAS Navigation in the Real World Using Visual Observation**|Yuci Han et.al.|[2208.12125v1](http://arxiv.org/abs/2208.12125v1)|null|
@@ -6269,7 +6269,7 @@ layout: default
 |**2022-11-14**|**Deep Autoregressive Regression**|Adam Khakhar et.al.|[2211.07447v1](http://arxiv.org/abs/2211.07447v1)|**[link](https://github.com/adamkhakhar/autoregreg)**|
 |**2022-11-14**|**AI4Food-NutritionDB: Food Image Database, Nutrition Taxonomy, and Recognition Benchmark**|Sergio Romero-Tapiador et.al.|[2211.07440v1](http://arxiv.org/abs/2211.07440v1)|null|
 |**2022-11-14**|**Parallel Automatic History Matching Algorithm Using Reinforcement Learning**|Omar S. Alolayan et.al.|[2211.07434v1](http://arxiv.org/abs/2211.07434v1)|null|
-|**2022-11-14**|**Seeded iterative clustering for histology region identification**|Eduard Chelebian et.al.|[2211.07425v1](http://arxiv.org/abs/2211.07425v1)|null|
+|**2022-11-14**|**Seeded iterative clustering for histology region identification**|Eduard Chelebian et.al.|[2211.07425v1](http://arxiv.org/abs/2211.07425v1)|**[link](https://github.com/eduardchelebian/histology-umap)**|
 |**2022-11-14**|**Multi-center anatomical segmentation with heterogeneous labels via landmark-based models**|Nicolás Gaggion et.al.|[2211.07395v1](http://arxiv.org/abs/2211.07395v1)|null|
 |**2022-11-14**|**Unsupervised Method for Intra-patient Registration of Brain Magnetic Resonance Images based on Objective Function Weighting by Inverse Consistency: Contribution to the BraTS-Reg Challenge**|Marek Wodzinski et.al.|[2211.07386v1](http://arxiv.org/abs/2211.07386v1)|null|
 |**2022-11-14**|**Physics-Guided, Physics-Informed, and Physics-Encoded Neural Networks in Scientific Computing**|Salah A Faroughi et.al.|[2211.07377v1](http://arxiv.org/abs/2211.07377v1)|null|
@@ -6297,7 +6297,7 @@ layout: default
 |**2022-11-14**|**Summarisation of Electronic Health Records with Clinical Concept Guidance**|Thomas Searle et.al.|[2211.07126v1](http://arxiv.org/abs/2211.07126v1)|null|
 |**2022-11-14**|**ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations**|Chanda Grover et.al.|[2211.07122v1](http://arxiv.org/abs/2211.07122v1)|null|
 |**2022-11-14**|**Few-shot Metric Learning: Online Adaptation of Embedding for Retrieval**|Deunsol Jung et.al.|[2211.07116v1](http://arxiv.org/abs/2211.07116v1)|null|
-|**2022-11-14**|**Recognition of Cardiac MRI Orientation via Deep Neural Networks and a Method to Improve Prediction Accuracy**|Houxin Zhou et.al.|[2211.07088v1](http://arxiv.org/abs/2211.07088v1)|null|
+|**2022-11-15**|**Recognition of Cardiac MRI Orientation via Deep Neural Networks and a Method to Improve Prediction Accuracy**|Houxin Zhou et.al.|[2211.07088v2](http://arxiv.org/abs/2211.07088v2)|null|
 |**2022-11-14**|**Learning Latent Part-Whole Hierarchies for Point Clouds**|Xiang Gao et.al.|[2211.07082v1](http://arxiv.org/abs/2211.07082v1)|null|
 |**2022-11-14**|**An Invitation to Distributed Quantum Neural Networks**|Lirandë Pira et.al.|[2211.07056v1](http://arxiv.org/abs/2211.07056v1)|null|
 |**2022-11-14**|**Treatment-RSPN: Recurrent Sum-Product Networks for Sequential Treatment Regimes**|Adam Dejl et.al.|[2211.07052v1](http://arxiv.org/abs/2211.07052v1)|**[link](https://github.com/ml-health/treatment-rspn)**|
