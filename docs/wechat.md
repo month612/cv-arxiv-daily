@@ -1,4 +1,4 @@
-> Updated on 2022.11.16
+> Updated on 2022.11.17
 
 ## SLAM
 
@@ -6240,13 +6240,13 @@
 - 2022-11-15, **FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers**, Jinyu Chen et.al., Paper: [http://arxiv.org/abs/2211.08025v1](http://arxiv.org/abs/2211.08025v1)
 - 2022-11-15, **NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction**, Yun Yi et.al., Paper: [http://arxiv.org/abs/2211.08024v1](http://arxiv.org/abs/2211.08024v1)
 - 2022-11-15, **Universal Time-Uniform Trajectory Approximation for Random Dynamical Systems with Recurrent Neural Networks**, Adrian N. Bishop et.al., Paper: [http://arxiv.org/abs/2211.08018v1](http://arxiv.org/abs/2211.08018v1)
-- 2022-11-15, **Auto-outlier Fusion Technique for Chest X-ray classification with Multi-head Attention Mechanism**, Yuru Jing et.al., Paper: [http://arxiv.org/abs/2211.08006v1](http://arxiv.org/abs/2211.08006v1)
+- 2022-11-15, **Auto-outlier Fusion Technique for Chest X-ray classification with Multi-head Attention Mechanism**, Yuru Jing et.al., Paper: [http://arxiv.org/abs/2211.08006v1](http://arxiv.org/abs/2211.08006v1), Code: **[https://github.com/yurujing/auto-outlier-fusion-technique-for-chestxray](https://github.com/yurujing/auto-outlier-fusion-technique-for-chestxray)**
 - 2022-11-15, **Deep-learning quasi-particle masses from QCD equation of state**, Fu-Peng Li et.al., Paper: [http://arxiv.org/abs/2211.07994v1](http://arxiv.org/abs/2211.07994v1)
 - 2022-11-15, **Blind Performance Prediction for Deep Learning Based Ultra-Massive MIMO Channel Estimation**, Wentao Yu et.al., Paper: [http://arxiv.org/abs/2211.07985v1](http://arxiv.org/abs/2211.07985v1)
 - 2022-11-15, **Differentiable matrix product states for simulating variational quantum computational chemistry**, Zhiqian Xu et.al., Paper: [http://arxiv.org/abs/2211.07983v1](http://arxiv.org/abs/2211.07983v1)
 - 2022-11-15, **Evaluating the Faithfulness of Saliency-based Explanations for Deep Learning Models for Temporal Colour Constancy**, Matteo Rizzo et.al., Paper: [http://arxiv.org/abs/2211.07982v1](http://arxiv.org/abs/2211.07982v1), Code: **[https://github.com/matteo-rizzo/saliency-faithfulness-eval](https://github.com/matteo-rizzo/saliency-faithfulness-eval)**
 - 2022-11-15, **Deep Instance Segmentation and Visual Servoing to Play Jenga with a Cost-Effective Robotic System**, Luca Marchionna et.al., Paper: [http://arxiv.org/abs/2211.07977v1](http://arxiv.org/abs/2211.07977v1)
-- 2022-11-15, **Coordination for Connected and Automated Vehicles at Non-signalized Intersections: A Value Decomposition-based Multiagent Deep Reinforcement Learning Approach**, Zihan Guo et.al., Paper: [http://arxiv.org/abs/2211.07967v1](http://arxiv.org/abs/2211.07967v1)
+- 2022-11-16, **Coordination for Connected and Automated Vehicles at Non-signalized Intersections: A Value Decomposition-based Multiagent Deep Reinforcement Learning Approach**, Zihan Guo et.al., Paper: [http://arxiv.org/abs/2211.07967v2](http://arxiv.org/abs/2211.07967v2)
 - 2022-11-15, **The Lean Data Scientist: Recent Advances towards Overcoming the Data Bottleneck**, Chen Shani et.al., Paper: [http://arxiv.org/abs/2211.07959v1](http://arxiv.org/abs/2211.07959v1)
 - 2022-11-15, **HGV4Risk: Hierarchical Global View-guided Sequence Representation Learning for Risk Prediction**, Youru Li et.al., Paper: [http://arxiv.org/abs/2211.07956v1](http://arxiv.org/abs/2211.07956v1)
 - 2022-11-15, **An Overview on Controllable Text Generation via Variational Auto-Encoders**, Haoqin Tu et.al., Paper: [http://arxiv.org/abs/2211.07954v1](http://arxiv.org/abs/2211.07954v1)
