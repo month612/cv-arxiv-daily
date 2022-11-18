@@ -1,4 +1,4 @@
-> Updated on 2022.11.17
+> Updated on 2022.11.18
 
 ## SLAM
 
@@ -10457,7 +10457,7 @@
 ## Digital Twin数字孪生
 
 - 2022-11-16, **Bi-directional Digital Twin and Edge Computing in the Metaverse**, Jiadong Yu et.al., Paper: [http://arxiv.org/abs/2211.08700v1](http://arxiv.org/abs/2211.08700v1)
-- 2022-10-27, **Trust-Awareness to Secure Swarm Intelligence from Data Injection Attack**, Bin Han et.al., Paper: [http://arxiv.org/abs/2211.08407v1](http://arxiv.org/abs/2211.08407v1)
+- 2022-11-16, **Trust-Awareness to Secure Swarm Intelligence from Data Injection Attack**, Bin Han et.al., Paper: [http://arxiv.org/abs/2211.08407v2](http://arxiv.org/abs/2211.08407v2)
 - 2022-11-11, **Design of Unmanned Air Vehicles Using Transformer Surrogate Models**, Adam D. Cobb et.al., Paper: [http://arxiv.org/abs/2211.08138v1](http://arxiv.org/abs/2211.08138v1)
 - 2022-11-13, **Digital Twin-Assisted Collaborative Transcoding for Better User Satisfaction in Live Streaming**, Xinyu Huang et.al., Paper: [http://arxiv.org/abs/2211.06906v1](http://arxiv.org/abs/2211.06906v1)
 - 2022-11-09, **Entanglements via Slip-Springs with Soft, Coarse-Grained Models for Systems Having Explicit Liquid-Vapor Interfaces**, Ludwig Schneider et.al., Paper: [http://arxiv.org/abs/2211.05161v1](http://arxiv.org/abs/2211.05161v1)
