@@ -1,4 +1,4 @@
-## Updated on 2022.11.18
+## Updated on 2022.11.19
 
 ## SLAM
 
@@ -6245,7 +6245,7 @@
 |**2022-11-17**|**Machine Learned Calabi--Yau Metrics and Curvature**|Per Berglund et.al.|[2211.09801v1](http://arxiv.org/abs/2211.09801v1)|null|
 |**2022-11-17**|**Mind the gap: The discrepancy between simulation and reality drives interpretations of the Galactic Center Excess**|Sascha Caron et.al.|[2211.09796v1](http://arxiv.org/abs/2211.09796v1)|null|
 |**2022-11-17**|**DeepSense 6G: A Large-Scale Real-World Multi-Modal Sensing and Communication Dataset**|Ahmed Alkhateeb et.al.|[2211.09769v1](http://arxiv.org/abs/2211.09769v1)|null|
-|**2022-11-17**|**VeLO: Training Versatile Learned Optimizers by Scaling Up**|Luke Metz et.al.|[2211.09760v1](http://arxiv.org/abs/2211.09760v1)|null|
+|**2022-11-17**|**VeLO: Training Versatile Learned Optimizers by Scaling Up**|Luke Metz et.al.|[2211.09760v1](http://arxiv.org/abs/2211.09760v1)|**[link](https://github.com/google/learned_optimization/tree/main/learned_optimization/research/general_lopt)**|
 |**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|null|
 |**2022-11-17**|**Learning 4DVAR inversion directly from observations**|Arthur Filoche et.al.|[2211.09741v1](http://arxiv.org/abs/2211.09741v1)|null|
 |**2022-11-17**|**UPTON: Unattributable Authorship Text via Data Poisoning**|Ziyao Wang et.al.|[2211.09717v1](http://arxiv.org/abs/2211.09717v1)|null|
@@ -10450,7 +10450,7 @@
 |**2022-09-29**|**State-dependent Trotter Limits and their approximations**|Daniel Burgarth et.al.|[2209.14787v1](http://arxiv.org/abs/2209.14787v1)|null|
 |**2022-09-28**|**Streaming Video Temporal Action Segmentation In Real Time**|Wujun Wen et.al.|[2209.13808v1](http://arxiv.org/abs/2209.13808v1)|**[link](https://github.com/Thinksky5124/SVTAS)**|
 |**2022-09-26**|**Making Trotterization adaptive for NISQ devices and beyond**|Hongzheng Zhao et.al.|[2209.12653v1](http://arxiv.org/abs/2209.12653v1)|null|
-|**2022-11-17**|**All are Worth Words: A ViT Backbone for Diffusion Models**|Fan Bao et.al.|[2209.12152v2](http://arxiv.org/abs/2209.12152v2)|null|
+|**2022-11-17**|**All are Worth Words: A ViT Backbone for Diffusion Models**|Fan Bao et.al.|[2209.12152v2](http://arxiv.org/abs/2209.12152v2)|**[link](https://github.com/baofff/U-ViT)**|
 |**2022-09-23**|**Best Prompts for Text-to-Image Models and How to Find Them**|Nikita Pavlichenko et.al.|[2209.11711v1](http://arxiv.org/abs/2209.11711v1)|null|
 |**2022-09-22**|**Implementing and Experimenting with Diffusion Models for Text-to-Image Generation**|Robin Zbinden et.al.|[2209.10948v1](http://arxiv.org/abs/2209.10948v1)|**[link](https://github.com/epfml/text_to_image_generation)**|
 |**2022-09-16**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
