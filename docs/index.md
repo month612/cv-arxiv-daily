@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.19
+## Updated on 2022.11.20
 
 ## SLAM
 
@@ -6310,7 +6310,7 @@ layout: default
 |**2022-11-16**|**A Two-Stage Deep Representation Learning-Based Speech Enhancement Method Using Variational Autoencoder and Adversarial Training**|Yang Xiang et.al.|[2211.09166v1](http://arxiv.org/abs/2211.09166v1)|null|
 |**2022-11-16**|**Continuous Gated First-Passage Processes**|Yuval Scher et.al.|[2211.09164v1](http://arxiv.org/abs/2211.09164v1)|null|
 |**2022-11-16**|**Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning**|Zhaoliang Chen et.al.|[2211.09155v1](http://arxiv.org/abs/2211.09155v1)|null|
-|**2022-11-16**|**DIGS: Deep Inference of Galaxy Spectra with Neural Posterior Estimation**|Gourav Khullar et.al.|[2211.09126v1](http://arxiv.org/abs/2211.09126v1)|null|
+|**2022-11-16**|**DIGS: Deep Inference of Galaxy Spectra with Neural Posterior Estimation**|Gourav Khullar et.al.|[2211.09126v1](http://arxiv.org/abs/2211.09126v1)|**[link](https://github.com/gkhullar/digs_sbi)**|
 |**2022-11-16**|**Reconstruction of full sky CMB E and B modes spectra removing E-to-B leakage from partial sky using deep learning**|Srikanta Pal et.al.|[2211.09112v1](http://arxiv.org/abs/2211.09112v1)|null|
 |**2022-11-16**|**Global Optimization with Parametric Function Approximation**|Chong Liu et.al.|[2211.09100v1](http://arxiv.org/abs/2211.09100v1)|null|
 |**2022-11-16**|**Early results from GLASS-JWST. XVIII: A spectroscopically confirmed protocluster 650 million years after the Big Bang**|Takahiro Morishita et.al.|[2211.09097v1](http://arxiv.org/abs/2211.09097v1)|null|
