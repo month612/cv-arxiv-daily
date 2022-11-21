@@ -1,4 +1,4 @@
-> Updated on 2022.11.20
+> Updated on 2022.11.21
 
 ## SLAM
 
@@ -6222,7 +6222,7 @@
 - 2022-11-17, **Sources of performance variability in deep learning-based polyp detection**, Thuy Nuong Tran et.al., Paper: [http://arxiv.org/abs/2211.09708v1](http://arxiv.org/abs/2211.09708v1)
 - 2022-11-17, **EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones**, Yulin Wang et.al., Paper: [http://arxiv.org/abs/2211.09703v1](http://arxiv.org/abs/2211.09703v1), Code: **[https://github.com/leaplabthu/efficienttrain](https://github.com/leaplabthu/efficienttrain)**
 - 2022-11-17, **A Metallurgical Inspection Method to Assess the Damage in Performance-Limiting Nb3Sn Accelerator Magnet Coils**, Alice Moros et.al., Paper: [http://arxiv.org/abs/2211.09684v1](http://arxiv.org/abs/2211.09684v1)
-- 2022-11-17, **Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**, Gregory F. Snyder et.al., Paper: [http://arxiv.org/abs/2211.09677v1](http://arxiv.org/abs/2211.09677v1)
+- 2022-11-17, **Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**, Gregory F. Snyder et.al., Paper: [http://arxiv.org/abs/2211.09677v1](http://arxiv.org/abs/2211.09677v1), Code: **[https://github.com/gsnyder206/mock-surveys](https://github.com/gsnyder206/mock-surveys)**
 - 2022-11-17, **Why Deep Learning Generalizes**, Benjamin L. Badger et.al., Paper: [http://arxiv.org/abs/2211.09639v1](http://arxiv.org/abs/2211.09639v1), Code: **[https://github.com/blbadger/learning-generality](https://github.com/blbadger/learning-generality)**
 - 2022-11-17, **Predicting Human Mobility via Self-supervised Disentanglement Learning**, Qiang Gao et.al., Paper: [http://arxiv.org/abs/2211.09625v1](http://arxiv.org/abs/2211.09625v1)
 - 2022-11-17, **Validation Diagnostics for SBI algorithms based on Normalizing Flows**, Julia Linhart et.al., Paper: [http://arxiv.org/abs/2211.09602v1](http://arxiv.org/abs/2211.09602v1)
@@ -6256,7 +6256,7 @@
 - 2022-11-16, **A Two-Stage Deep Representation Learning-Based Speech Enhancement Method Using Variational Autoencoder and Adversarial Training**, Yang Xiang et.al., Paper: [http://arxiv.org/abs/2211.09166v1](http://arxiv.org/abs/2211.09166v1)
 - 2022-11-16, **Continuous Gated First-Passage Processes**, Yuval Scher et.al., Paper: [http://arxiv.org/abs/2211.09164v1](http://arxiv.org/abs/2211.09164v1)
 - 2022-11-16, **Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning**, Zhaoliang Chen et.al., Paper: [http://arxiv.org/abs/2211.09155v1](http://arxiv.org/abs/2211.09155v1)
-- 2022-11-16, **DIGS: Deep Inference of Galaxy Spectra with Neural Posterior Estimation**, Gourav Khullar et.al., Paper: [http://arxiv.org/abs/2211.09126v1](http://arxiv.org/abs/2211.09126v1), Code: **[https://github.com/gkhullar/digs_sbi](https://github.com/gkhullar/digs_sbi)**
+- 2022-11-16, **DIGS: Deep Inference of Galaxy Spectra with Neural Posterior Estimation**, Gourav Khullar et.al., Paper: [http://arxiv.org/abs/2211.09126v1](http://arxiv.org/abs/2211.09126v1), Code: **[https://github.com/deepskies/digs_sbi](https://github.com/deepskies/digs_sbi)**
 - 2022-11-16, **Reconstruction of full sky CMB E and B modes spectra removing E-to-B leakage from partial sky using deep learning**, Srikanta Pal et.al., Paper: [http://arxiv.org/abs/2211.09112v1](http://arxiv.org/abs/2211.09112v1)
 - 2022-11-16, **Global Optimization with Parametric Function Approximation**, Chong Liu et.al., Paper: [http://arxiv.org/abs/2211.09100v1](http://arxiv.org/abs/2211.09100v1)
 - 2022-11-16, **Early results from GLASS-JWST. XVIII: A spectroscopically confirmed protocluster 650 million years after the Big Bang**, Takahiro Morishita et.al., Paper: [http://arxiv.org/abs/2211.09097v1](http://arxiv.org/abs/2211.09097v1)
