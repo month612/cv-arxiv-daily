@@ -1,4 +1,4 @@
-## Updated on 2022.11.21
+## Updated on 2022.11.22
 
 ## SLAM
 
@@ -5752,7 +5752,7 @@
 |---|---|---|---|---|
 |**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
-|**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
+|**2022-11-20**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v2](http://arxiv.org/abs/2211.07365v2)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
 |**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang et.al.|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
@@ -5799,7 +5799,7 @@
 |**2022-10-03**|**DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**|John McConnell et.al.|[2210.00867v1](http://arxiv.org/abs/2210.00867v1)|**[link](https://github.com/jake3991/draco-slam)**|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
-|**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|**[link](https://github.com/pypose/pypose)**|
+|**2022-11-18**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v2](http://arxiv.org/abs/2209.15428v2)|**[link](https://github.com/pypose/pypose)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann et.al.|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
@@ -6167,7 +6167,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-16**|**Person Text-Image Matching via Text-Featur Interpretability Embedding and External Attack Node Implantation**|Fan Li et.al.|[2211.08657v1](http://arxiv.org/abs/2211.08657v1)|**[link](https://github.com/lhf12278/saa)**|
+|**2022-11-19**|**Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation**|Fan Li et.al.|[2211.08657v2](http://arxiv.org/abs/2211.08657v2)|**[link](https://github.com/lhf12278/saa)**|
 |**2022-11-15**|**Fast Key Points Detection and Matching for Tree-Structured Images**|Hao Wang et.al.|[2211.03242v2](http://arxiv.org/abs/2211.03242v2)|null|
 |**2022-10-25**|**A Comparative Study on Deep-Learning Methods for Dense Image Matching of Multi-angle and Multi-date Remote Sensing Stereo Images**|Hessah Albanwan et.al.|[2210.14031v1](http://arxiv.org/abs/2210.14031v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
@@ -6273,7 +6273,7 @@
 |**2022-11-18**|**Contrastive Positive Sample Propagation along the Audio-Visual Event Line**|Jinxing Zhou et.al.|[2211.09980v1](http://arxiv.org/abs/2211.09980v1)|**[link](https://github.com/jasongief/cpsp)**|
 |**2022-11-18**|**Learning on Health Fairness and Environmental Justice via Interactive Visualization**|Abdullah-Al-Raihan Nayeem et.al.|[2211.09967v1](http://arxiv.org/abs/2211.09967v1)|null|
 |**2022-11-18**|**Potential Auto-driving Threat: Universal Rain-removal Attack**|Jinchegn Hu et.al.|[2211.09959v1](http://arxiv.org/abs/2211.09959v1)|null|
-|**2022-11-18**|**pmwd: A Differentiable Cosmological Particle-Mesh $N$-body Library**|Yin Li et.al.|[2211.09958v1](http://arxiv.org/abs/2211.09958v1)|null|
+|**2022-11-18**|**pmwd: A Differentiable Cosmological Particle-Mesh $N$-body Library**|Yin Li et.al.|[2211.09958v1](http://arxiv.org/abs/2211.09958v1)|**[link](https://github.com/eelregit/pmwd)**|
 |**2022-11-18**|**A Persian ASR-based SER: Modification of Sharif Emotional Speech Database and Investigation of Persian Text Corpora**|Ali Yazdani et.al.|[2211.09956v1](http://arxiv.org/abs/2211.09956v1)|**[link](https://github.com/aliyzd95/shemo-modification)**|
 |**2022-11-17**|**TempNet: Temporal Attention Towards the Detection of Animal Behaviour in Videos**|Declan McIntosh et.al.|[2211.09950v1](http://arxiv.org/abs/2211.09950v1)|null|
 |**2022-11-17**|**Explainability Via Causal Self-Talk**|Nicholas A. Roy et.al.|[2211.09937v1](http://arxiv.org/abs/2211.09937v1)|null|
@@ -6282,11 +6282,11 @@
 |**2022-11-17**|**Distributed Deep Joint Source-Channel Coding over a Multiple Access Channel**|Selim F. Yilmaz et.al.|[2211.09920v1](http://arxiv.org/abs/2211.09920v1)|null|
 |**2022-11-17**|**How dark the sky: the JWST backgrounds**|Jane R. Rigby et.al.|[2211.09890v1](http://arxiv.org/abs/2211.09890v1)|null|
 |**2022-11-17**|**Bayesian Optimization of 2D Echocardiography Segmentation**|Son-Tung Tran et.al.|[2211.09888v1](http://arxiv.org/abs/2211.09888v1)|null|
-|**2022-11-17**|**Fast Uncertainty Estimates in Deep Learning Interatomic Potentials**|Albert Zhu et.al.|[2211.09866v1](http://arxiv.org/abs/2211.09866v1)|null|
+|**2022-11-17**|**Fast Uncertainty Estimates in Deep Learning Interatomic Potentials**|Albert Zhu et.al.|[2211.09866v1](http://arxiv.org/abs/2211.09866v1)|**[link](https://github.com/mir-group/nequip)**|
 |**2022-11-17**|**Data-Centric Debugging: mitigating model failures via targeted data collection**|Sahil Singla et.al.|[2211.09859v1](http://arxiv.org/abs/2211.09859v1)|null|
 |**2022-11-17**|**Robust Vocal Quality Feature Embeddings for Dysphonic Voice Detection**|Jianwei Zhang et.al.|[2211.09858v1](http://arxiv.org/abs/2211.09858v1)|**[link](https://github.com/vigor-jzhang/dysphonic-emb)**|
 |**2022-11-17**|**CoLI-Machine Learning Approaches for Code-mixed Language Identification at the Word Level in Kannada-English Texts**|H. L. Shashirekha et.al.|[2211.09847v1](http://arxiv.org/abs/2211.09847v1)|null|
-|**2022-11-18**|**Differentiable Cosmological Simulation with Adjoint Method**|Yin Li et.al.|[2211.09815v1](http://arxiv.org/abs/2211.09815v1)|null|
+|**2022-11-18**|**Differentiable Cosmological Simulation with Adjoint Method**|Yin Li et.al.|[2211.09815v1](http://arxiv.org/abs/2211.09815v1)|**[link](https://github.com/eelregit/pmwd)**|
 |**2022-11-17**|**Mapping Tropical Forest Cover and Deforestation with Planet NICFI Satellite Images and Deep Learning in Mato Grosso State (Brazil) from 2015 to 2021**|Fabien H Wagner et.al.|[2211.09806v1](http://arxiv.org/abs/2211.09806v1)|null|
 |**2022-11-17**|**Machine Learned Calabi--Yau Metrics and Curvature**|Per Berglund et.al.|[2211.09801v1](http://arxiv.org/abs/2211.09801v1)|null|
 |**2022-11-17**|**Mind the gap: The discrepancy between simulation and reality drives interpretations of the Galactic Center Excess**|Sascha Caron et.al.|[2211.09796v1](http://arxiv.org/abs/2211.09796v1)|null|
